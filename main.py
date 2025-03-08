@@ -1,20 +1,14 @@
 from sklearn.preprocessing import LabelEncoder
 import torch
 import torch.nn as nn
-from transformers import BertTokenizer, BertForSequenceClassification, DataCollatorWithPadding
+from transformers import XLMRobertaTokenizerFast, XLMRobertaForTokenClassification
+from transformers import get_scheduler
 from torch.utils.data import DataLoader, Dataset
-from sklearn.metrics import accuracy_score, classification_report
 import pandas as pd
 from torch.optim import AdamW
-from sklearn.model_selection import train_test_split
 import numpy as np
 from torch.cuda.amp import GradScaler, autocast
-import pandas as pd
-from sklearn.model_selection import train_test_split
-import os, re
-from transformers import RobertaTokenizer, RobertaForSequenceClassification
-from torch.utils.data import Dataset, DataLoader
-
+import os
 
 ## Imports for plotting
 import matplotlib.pyplot as plt
@@ -58,7 +52,7 @@ label_to_id = {label: idx for idx, label in enumerate(allowed_classes)}
 class PosDataset(Dataset):
     def __init__(self, data_dir, split="train"):
         """
-        Initialize the dataset by loading all the files in the specified split (train/test).
+        Initialize the dataset by loading all the files in the specified split (train/validation/test).
         
         Args:
         - data_dir (str): The directory where the dataset is stored.
@@ -161,6 +155,64 @@ def collate_fn(batch, tokenizer, label_to_id, max_length=512, label_pad_token=-1
     
     return tokenized_inputs['input_ids'], padded_labels, tokenized_inputs['attention_mask']
 
+def train(model, optimizer, train_loader, epochs, loss_fn, scheduler=None):
+    for epoch in range(epochs):  # Adjust epochs as necessary
+        for tokens, labels, mask in train_loader:
+
+            optimizer.zero_grad()
+
+            # Move data to device
+            tokens = tokens.to(device)
+            labels = labels.to(device)
+            mask = mask.to(device)
+
+            # Forward pass
+            outputs = model(input_ids=tokens, attention_mask=mask)
+            
+            # Compute loss with weighted CrossEntropyLoss
+            loss = loss_fn(outputs.logits.view(-1, len(label_to_id)), labels.view(-1))
+            
+            # Backward pass
+            loss.backward()
+            optimizer.step()
+
+    print(f'Epoch {epoch + 1}, Loss: {loss.item()}')
+
+# Load the model
+model = XLMRobertaForTokenClassification.from_pretrained("xlm-roberta-base", num_labels=len(label_to_id))
+
+# Options
+BATCH_SIZE = 8
+MAX_LENGTH = 512
+NUM_EPOCHS = 3
+LEARNING_RATE = 5e-5
+
 # Load the dataset
 train_dataset = PosDataset(DATA_DIR, split="train")
+val_dataset = PosDataset(DATA_DIR, split="validation")
+test_dataset = PosDataset(DATA_DIR, split="test")
+
+# Load the tokenizer
+tokenizer = XLMRobertaTokenizerFast.from_pretrained("xlm-roberta-base")
+
+# Dataloaders
+train_loader = DataLoader(train_dataset, batch_size=BATCH_SIZE, collate_fn=lambda batch: collate_fn(batch, tokenizer, label_to_id))
+test_loader = DataLoader(test_dataset, batch_size=BATCH_SIZE, collate_fn=lambda batch: collate_fn(batch, tokenizer, label_to_id))
+
+# Optimizer
+optimizer = AdamW(model.parameters(), lr=LEARNING_RATE)
+
+# Scheduler
+num_training_steps = len(train_loader) * NUM_EPOCHS
+num_warmup_steps = int(0.1 * num_training_steps)  # 10% warmup
+
+scheduler = get_scheduler(
+    name="linear",
+    optimizer=optimizer,
+    num_warmup_steps=num_warmup_steps,
+    num_training_steps=num_training_steps
+)
+
+# Loss function
+loss_fn = nn.CrossEntropyLoss()
 
