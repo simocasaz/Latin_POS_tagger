@@ -14,7 +14,6 @@ from sklearn.model_selection import train_test_split
 import os, re
 from transformers import RobertaTokenizer, RobertaForSequenceClassification
 from torch.utils.data import Dataset, DataLoader
-from torch.optim import AdamW
 
 
 ## Imports for plotting
@@ -103,7 +102,65 @@ class PosDataset(Dataset):
         tokens, labels = self.data[idx]
         return tokens, labels
 
+def collate_fn(batch, tokenizer, label_to_id, max_length=512, label_pad_token=-100):
+    """
+    Collate function to process batches with tokens and labels stored in tuples.
+    
+    Args:
+    - batch: List of dicts containing 'tokens' and 'labels', where both are tuples.
+    - tokenizer: Pretrained tokenizer (RobertaTokenizer).
+    - label_to_id: Dictionary mapping string labels (e.g., 'LOC') to integers.
+    - max_length: Maximum sequence length (default 512 for RoBERTa).
+    - label_pad_token: Token to pad labels, default is -100.
+    
+    Returns:
+    - input_ids: Tensor of tokenized input sequences.
+    - labels: Tensor of padded labels.
+    - attention_mask: Tensor mask to ignore padding tokens.
+    """
+    
+    # Extract tokens and labels from tuples
+    tokens = [item[0] for item in batch]
+    labels = [item[1] for item in batch]
+
+    # Tokenize the tokens with truncation and padding
+    tokenized_inputs = tokenizer(tokens, 
+                                 is_split_into_words=True, 
+                                 padding=True, 
+                                 truncation=True, 
+                                 max_length=max_length,  # Ensure max length, also drops what is longer!
+                                 return_tensors="pt",
+                                 return_offsets_mapping=True)
+    
+    # Create aligned labels based on the word_ids.
+    all_labels = []
+    # We loop through each example in the batch.
+    for i, label_seq in enumerate(labels):
+        # Get mapping from tokens to original word indices.
+        word_ids = tokenized_inputs.word_ids(batch_index=i)
+        previous_word_idx = None
+        label_ids = []
+        for word_idx in word_ids:
+            if word_idx is None:
+                # Special token (like CLS, SEP, or padding)
+                label_ids.append(label_pad_token)
+            elif word_idx != previous_word_idx:
+                # First token of a given word: assign its label.
+                label_ids.append(label_to_id.get(label_seq[word_idx], label_pad_token))
+            else:
+                # Subsequent subword token: assign pad token so it's ignored in loss.
+                label_ids.append(label_pad_token)
+            previous_word_idx = word_idx
+        all_labels.append(label_ids)
+    
+    # Remove offset mapping if not needed.
+    tokenized_inputs.pop("offset_mapping", None)
+    
+    # Convert label lists into a tensor.
+    padded_labels = torch.tensor(all_labels, dtype=torch.long)
+    
+    return tokenized_inputs['input_ids'], padded_labels, tokenized_inputs['attention_mask']
+
 # Load the dataset
 train_dataset = PosDataset(DATA_DIR, split="train")
 
-print(train_dataset[0])
