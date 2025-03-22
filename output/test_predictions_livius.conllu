@@ -55,7 +55,7 @@
 8	haud	_	PART	_	_	_	_	_	_
 9	magno	_	ADJ	_	_	_	_	_	_
 10	certamine	_	NOUN	_	_	_	_	_	_
-11	deuicti	_	ADJ	_	_	_	_	_	_
+11	deuicti	_	VERB	_	_	_	_	_	_
 12	hostes	_	NOUN	_	_	_	_	_	_
 13	oppidum	_	NOUN	_	_	_	_	_	_
 14	captum	_	VERB	_	_	_	_	_	_
@@ -102,7 +102,7 @@
 27	certamine	_	NOUN	_	_	_	_	_	_
 28	tam	_	ADV	_	_	_	_	_	_
 29	ambiguo	_	ADJ	_	_	_	_	_	_
-30	fessi	_	ADJ	_	_	_	_	_	_
+30	fessi	_	VERB	_	_	_	_	_	_
 31	in	_	ADP	_	_	_	_	_	_
 32	posterum	_	ADJ	_	_	_	_	_	_
 33	diem	_	NOUN	_	_	_	_	_	_
@@ -131,7 +131,7 @@
 18	Antium	_	PROPN	_	_	_	_	_	_
 19	agmine	_	NOUN	_	_	_	_	_	_
 20	trepido	_	ADJ	_	_	_	_	_	_
-21	sauciis	_	ADJ	_	_	_	_	_	_
+21	sauciis	_	NOUN	_	_	_	_	_	_
 22	ac	_	CCONJ	_	_	_	_	_	_
 23	parte	_	NOUN	_	_	_	_	_	_
 24	impedimentorum	_	NOUN	_	_	_	_	_	_
@@ -176,7 +176,7 @@
 1	alteri	_	DET	_	_	_	_	_	_
 2	consuli	_	NOUN	_	_	_	_	_	_
 3	Aemilio	_	PROPN	_	_	_	_	_	_
-4	ingresso	_	VERB	_	_	_	_	_	_
+4	ingresso	_	NOUN	_	_	_	_	_	_
 5	Sabellum	_	PROPN	_	_	_	_	_	_
 6	agrum	_	NOUN	_	_	_	_	_	_
 7	non	_	PART	_	_	_	_	_	_
@@ -237,7 +237,7 @@
 34	suis	_	DET	_	_	_	_	_	_
 35	rebus	_	NOUN	_	_	_	_	_	_
 36	non	_	PART	_	_	_	_	_	_
-37	aduersis	_	ADJ	_	_	_	_	_	_
+37	aduersis	_	ADV	_	_	_	_	_	_
 38	ut	_	SCONJ	_	_	_	_	_	_
 39	Campani	_	PROPN	_	_	_	_	_	_
 40	uenissent	_	VERB	_	_	_	_	_	_
@@ -324,7 +324,7 @@
 42	de	_	ADP	_	_	_	_	_	_
 43	integro	_	ADJ	_	_	_	_	_	_
 44	reconcilietur	_	VERB	_	_	_	_	_	_
-45	quod	_	SCONJ	_	_	_	_	_	_
+45	quod	_	PRON	_	_	_	_	_	_
 46	ad	_	ADP	_	_	_	_	_	_
 47	Sidicinos	_	PROPN	_	_	_	_	_	_
 48	attineat	_	VERB	_	_	_	_	_	_
@@ -344,7 +344,7 @@
 # sent_id = TLiv08-T-LI-4780
 # text = foedere icto cum domum reuertissent extemplo inde exercitus Romanus deductus annuo stipendio et trium mensum frumento accepto quod pepigerat consul ut tempus indutiis daret quoad legati redissent
 1	foedere	_	NOUN	_	_	_	_	_	_
-2	icto	_	VERB	_	_	_	_	_	_
+2	icto	_	NOUN	_	_	_	_	_	_
 3	cum	_	SCONJ	_	_	_	_	_	_
 4	domum	_	NOUN	_	_	_	_	_	_
 5	reuertissent	_	VERB	_	_	_	_	_	_
@@ -424,7 +424,7 @@
 48	sponte	_	NOUN	_	_	_	_	_	_
 49	in	_	ADP	_	_	_	_	_	_
 50	arma	_	NOUN	_	_	_	_	_	_
-51	motos	_	VERB	_	_	_	_	_	_
+51	motos	_	NOUN	_	_	_	_	_	_
 52	facta	_	VERB	_	_	_	_	_	_
 53	est	_	AUX	_	_	_	_	_	_
 
@@ -471,7 +471,7 @@
 20	quamquam	_	SCONJ	_	_	_	_	_	_
 21	superiores	_	ADJ	_	_	_	_	_	_
 22	certaminibus	_	NOUN	_	_	_	_	_	_
-23	Latini	_	PROPN	_	_	_	_	_	_
+23	Latini	_	ADJ	_	_	_	_	_	_
 24	erant	_	AUX	_	_	_	_	_	_
 25	haud	_	PART	_	_	_	_	_	_
 26	inuiti	_	ADJ	_	_	_	_	_	_
@@ -519,7 +519,7 @@
 32	ex	_	ADP	_	_	_	_	_	_
 33	Campano	_	ADJ	_	_	_	_	_	_
 34-35	Sidicinoque	_	_	_	_	_	_	_	_
-34	Sidicino	_	ADJ	_	_	_	_	_	_
+34	Sidicino	_	PROPN	_	_	_	_	_	_
 35	que	_	CCONJ	_	_	_	_	_	_
 36	hoste	_	NOUN	_	_	_	_	_	_
 37	eripuissent	_	VERB	_	_	_	_	_	_
@@ -544,7 +544,7 @@
 55	pro	_	ADP	_	_	_	_	_	_
 56	imperio	_	NOUN	_	_	_	_	_	_
 57	arcerent	_	VERB	_	_	_	_	_	_
-58	Samniti	_	PROPN	_	_	_	_	_	_
+58	Samniti	_	ADJ	_	_	_	_	_	_
 59	agro	_	NOUN	_	_	_	_	_	_
 60	sin	_	SCONJ	_	_	_	_	_	_
 61	imperium	_	NOUN	_	_	_	_	_	_
@@ -557,7 +557,7 @@
 1	aduersus	_	ADP	_	_	_	_	_	_
 2	haec	_	DET	_	_	_	_	_	_
 3	responsum	_	NOUN	_	_	_	_	_	_
-4	anceps	_	ADJ	_	_	_	_	_	_
+4	anceps	_	ADV	_	_	_	_	_	_
 5	datum	_	VERB	_	_	_	_	_	_
 6	quia	_	SCONJ	_	_	_	_	_	_
 7	fateri	_	NOUN	_	_	_	_	_	_
@@ -594,7 +594,7 @@
 37	uelint	_	VERB	_	_	_	_	_	_
 38	seu	_	CCONJ	_	_	_	_	_	_
 39	nolint	_	VERB	_	_	_	_	_	_
-40	quieturos	_	ADJ	_	_	_	_	_	_
+40	quieturos	_	VERB	_	_	_	_	_	_
 41	in	_	ADP	_	_	_	_	_	_
 42	foedere	_	NOUN	_	_	_	_	_	_
 43	Latinos	_	PROPN	_	_	_	_	_	_
@@ -708,7 +708,7 @@
 36	magistratu	_	NOUN	_	_	_	_	_	_
 37	quo	_	SCONJ	_	_	_	_	_	_
 38	maturius	_	ADV	_	_	_	_	_	_
-39	noui	_	ADJ	_	_	_	_	_	_
+39	noui	_	VERB	_	_	_	_	_	_
 40	consules	_	NOUN	_	_	_	_	_	_
 41	aduersus	_	ADP	_	_	_	_	_	_
 42	tantam	_	DET	_	_	_	_	_	_
@@ -720,7 +720,7 @@
 48	ab	_	ADP	_	_	_	_	_	_
 49	eis	_	PRON	_	_	_	_	_	_
 50	quorum	_	PRON	_	_	_	_	_	_
-51	imminutum	_	VERB	_	_	_	_	_	_
+51	imminutum	_	ADJ	_	_	_	_	_	_
 52	imperium	_	NOUN	_	_	_	_	_	_
 53	esset	_	AUX	_	_	_	_	_	_
 54	comitia	_	NOUN	_	_	_	_	_	_
@@ -732,7 +732,7 @@
 # sent_id = TLiv08-T-LI-4789
 # text = duo interreges fuere M Ualerius ac M Fabius is creauit consules T Manlium Torquatum tertium P Decium Murem
 1	duo	_	NUM	_	_	_	_	_	_
-2	interreges	_	NOUN	_	_	_	_	_	_
+2	interreges	_	VERB	_	_	_	_	_	_
 3	fuere	_	AUX	_	_	_	_	_	_
 4	M	_	PROPN	_	_	_	_	_	_
 5	Ualerius	_	PROPN	_	_	_	_	_	_
@@ -899,11 +899,11 @@
 22	Romano	_	ADJ	_	_	_	_	_	_
 23	et	_	CCONJ	_	_	_	_	_	_
 24	quae	_	PRON	_	_	_	_	_	_
-25	actum	_	VERB	_	_	_	_	_	_
+25	actum	_	NOUN	_	_	_	_	_	_
 26	iri	_	AUX	_	_	_	_	_	_
 27-28	secum	_	_	_	_	_	_	_	_
 27	se	_	PRON	_	_	_	_	_	_
-28	cum	_	ADP	_	_	_	_	_	_
+28	cum	_	SCONJ	_	_	_	_	_	_
 29	credant	_	VERB	_	_	_	_	_	_
 30-31	quidnam	_	_	_	_	_	_	_	_
 30	quid	_	PRON	_	_	_	_	_	_
@@ -960,7 +960,7 @@
 4	sub	_	ADP	_	_	_	_	_	_
 5	umbra	_	NOUN	_	_	_	_	_	_
 6	foederis	_	NOUN	_	_	_	_	_	_
-7	aequi	_	ADJ	_	_	_	_	_	_
+7	aequi	_	VERB	_	_	_	_	_	_
 8	seruitutem	_	NOUN	_	_	_	_	_	_
 9	pati	_	VERB	_	_	_	_	_	_
 10	possumus	_	VERB	_	_	_	_	_	_
@@ -1123,7 +1123,7 @@
 7	exarsisse	_	VERB	_	_	_	_	_	_
 8	eos	_	PRON	_	_	_	_	_	_
 9	cum	_	SCONJ	_	_	_	_	_	_
-10	plus	_	ADV	_	_	_	_	_	_
+10	plus	_	ADJ	_	_	_	_	_	_
 11	ducentorum	_	NUM	_	_	_	_	_	_
 12	annorum	_	NOUN	_	_	_	_	_	_
 13	morem	_	NOUN	_	_	_	_	_	_
@@ -1173,7 +1173,7 @@
 13	parare	_	VERB	_	_	_	_	_	_
 14	aduersus	_	ADP	_	_	_	_	_	_
 15	Samnites	_	PROPN	_	_	_	_	_	_
-16	foederatos	_	ADJ	_	_	_	_	_	_
+16	foederatos	_	NOUN	_	_	_	_	_	_
 17	suos	_	DET	_	_	_	_	_	_
 18	audierunt	_	VERB	_	_	_	_	_	_
 19	nec	_	CCONJ	_	_	_	_	_	_
@@ -1304,7 +1304,7 @@
 19	re	_	NOUN	_	_	_	_	_	_
 20	publica	_	ADJ	_	_	_	_	_	_
 21	nominis	_	NOUN	_	_	_	_	_	_
-22	Latini	_	ADJ	_	_	_	_	_	_
+22	Latini	_	PROPN	_	_	_	_	_	_
 23-24	fideque	_	_	_	_	_	_	_	_
 23	fide	_	NOUN	_	_	_	_	_	_
 24	que	_	CCONJ	_	_	_	_	_	_
@@ -1366,12 +1366,12 @@
 50	uos	_	PRON	_	_	_	_	_	_
 51-52	nobiscum	_	_	_	_	_	_	_	_
 51	nobis	_	PRON	_	_	_	_	_	_
-52	cum	_	ADP	_	_	_	_	_	_
+52	cum	_	SCONJ	_	_	_	_	_	_
 53	nihil	_	PRON	_	_	_	_	_	_
 54	pro	_	ADP	_	_	_	_	_	_
 55	imperio	_	NOUN	_	_	_	_	_	_
 56	agere	_	VERB	_	_	_	_	_	_
-57	cum	_	ADP	_	_	_	_	_	_
+57	cum	_	SCONJ	_	_	_	_	_	_
 58	florentissimum	_	ADJ	_	_	_	_	_	_
 59	deum	_	NOUN	_	_	_	_	_	_
 60	benignitate	_	NOUN	_	_	_	_	_	_
@@ -1532,7 +1532,7 @@
 30	leges	_	NOUN	_	_	_	_	_	_
 31	acciperent	_	VERB	_	_	_	_	_	_
 32	gladio	_	NOUN	_	_	_	_	_	_
-33	cinctum	_	ADJ	_	_	_	_	_	_
+33	cinctum	_	VERB	_	_	_	_	_	_
 34	in	_	ADP	_	_	_	_	_	_
 35	senatum	_	NOUN	_	_	_	_	_	_
 36	uenturum	_	VERB	_	_	_	_	_	_
@@ -1567,7 +1567,7 @@
 13-14	Fasque	_	_	_	_	_	_	_	_
 13	Fas	_	PROPN	_	_	_	_	_	_
 14	que	_	CCONJ	_	_	_	_	_	_
-15	peregrinos	_	NOUN	_	_	_	_	_	_
+15	peregrinos	_	ADJ	_	_	_	_	_	_
 16	consules	_	NOUN	_	_	_	_	_	_
 17	et	_	CCONJ	_	_	_	_	_	_
 18	peregrinum	_	ADJ	_	_	_	_	_	_
@@ -1595,7 +1595,7 @@
 7	Albanis	_	PROPN	_	_	_	_	_	_
 8	patribus	_	NOUN	_	_	_	_	_	_
 9	uestris	_	DET	_	_	_	_	_	_
-10	Latini	_	PROPN	_	_	_	_	_	_
+10	Latini	_	ADJ	_	_	_	_	_	_
 11	haec	_	DET	_	_	_	_	_	_
 12	L	_	PROPN	_	_	_	_	_	_
 13	Tarquinius	_	PROPN	_	_	_	_	_	_
@@ -1618,7 +1618,7 @@
 9	adeo	_	ADV	_	_	_	_	_	_
 10	et	_	CCONJ	_	_	_	_	_	_
 11	cladium	_	NOUN	_	_	_	_	_	_
-12	ueterum	_	NOUN	_	_	_	_	_	_
+12	ueterum	_	DET	_	_	_	_	_	_
 13	uestrarum	_	DET	_	_	_	_	_	_
 14	et	_	CCONJ	_	_	_	_	_	_
 15	beneficiorum	_	NOUN	_	_	_	_	_	_
@@ -1675,12 +1675,12 @@
 14	gradus	_	NOUN	_	_	_	_	_	_
 15	capite	_	NOUN	_	_	_	_	_	_
 16	grauiter	_	ADV	_	_	_	_	_	_
-17	offenso	_	NOUN	_	_	_	_	_	_
+17	offenso	_	VERB	_	_	_	_	_	_
 18	impactus	_	VERB	_	_	_	_	_	_
-19	imo	_	NOUN	_	_	_	_	_	_
+19	imo	_	ADV	_	_	_	_	_	_
 20	ita	_	ADV	_	_	_	_	_	_
 21	est	_	AUX	_	_	_	_	_	_
-22	saxo	_	NOUN	_	_	_	_	_	_
+22	saxo	_	ADJ	_	_	_	_	_	_
 23	ut	_	SCONJ	_	_	_	_	_	_
 24	sopiretur	_	VERB	_	_	_	_	_	_
 
@@ -1789,7 +1789,7 @@
 14	legiones	_	NOUN	_	_	_	_	_	_
 15	Latinorum	_	PROPN	_	_	_	_	_	_
 16	dabo	_	VERB	_	_	_	_	_	_
-17	quemadmodum	_	ADV	_	_	_	_	_	_
+17	quemadmodum	_	SCONJ	_	_	_	_	_	_
 18	legatum	_	NOUN	_	_	_	_	_	_
 19	iacentem	_	VERB	_	_	_	_	_	_
 20	uidetis	_	VERB	_	_	_	_	_	_
@@ -1829,7 +1829,7 @@
 # sent_id = TLiv08-T-LI-4821
 # text = consensit et senatus bellum consulesque duobus scriptis exercitibus per Marsos Paelignosque profecti adiuncto Samnitium exercitu ad Capuam quo iam Latini sociique conuenerant castra locant
 1	consensit	_	VERB	_	_	_	_	_	_
-2	et	_	ADV	_	_	_	_	_	_
+2	et	_	CCONJ	_	_	_	_	_	_
 3	senatus	_	NOUN	_	_	_	_	_	_
 4	bellum	_	NOUN	_	_	_	_	_	_
 5-6	consulesque	_	_	_	_	_	_	_	_
@@ -1877,7 +1877,7 @@
 14	humano	_	ADJ	_	_	_	_	_	_
 15	habitu	_	NOUN	_	_	_	_	_	_
 16-17	augustiorisque	_	_	_	_	_	_	_	_
-16	augustioris	_	NOUN	_	_	_	_	_	_
+16	augustioris	_	ADJ	_	_	_	_	_	_
 17	que	_	CCONJ	_	_	_	_	_	_
 18	dicentis	_	VERB	_	_	_	_	_	_
 19	ex	_	ADP	_	_	_	_	_	_
@@ -1918,7 +1918,7 @@
 1	hos	_	DET	_	_	_	_	_	_
 2	ubi	_	SCONJ	_	_	_	_	_	_
 3	nocturnos	_	ADJ	_	_	_	_	_	_
-4	uisus	_	VERB	_	_	_	_	_	_
+4	uisus	_	NOUN	_	_	_	_	_	_
 5	inter	_	ADP	_	_	_	_	_	_
 6	se	_	PRON	_	_	_	_	_	_
 7	consules	_	NOUN	_	_	_	_	_	_
@@ -1953,7 +1953,7 @@
 4	insidenti	_	VERB	_	_	_	_	_	_
 5	iam	_	ADV	_	_	_	_	_	_
 6	animo	_	NOUN	_	_	_	_	_	_
-7	tacitae	_	ADJ	_	_	_	_	_	_
+7	tacitae	_	NOUN	_	_	_	_	_	_
 8	religioni	_	NOUN	_	_	_	_	_	_
 9	congruerunt	_	VERB	_	_	_	_	_	_
 10	tum	_	ADV	_	_	_	_	_	_
@@ -2008,7 +2008,7 @@
 7	si	_	SCONJ	_	_	_	_	_	_
 8	quando	_	ADV	_	_	_	_	_	_
 9	unquam	_	ADV	_	_	_	_	_	_
-10	seuero	_	ADJ	_	_	_	_	_	_
+10	seuero	_	ADV	_	_	_	_	_	_
 11	ullum	_	DET	_	_	_	_	_	_
 12	imperio	_	NOUN	_	_	_	_	_	_
 13	bellum	_	NOUN	_	_	_	_	_	_
@@ -2036,10 +2036,10 @@
 9	moribus	_	NOUN	_	_	_	_	_	_
 10	armorum	_	NOUN	_	_	_	_	_	_
 11	genere	_	NOUN	_	_	_	_	_	_
-12	institutis	_	NOUN	_	_	_	_	_	_
-13	ante	_	ADP	_	_	_	_	_	_
+12	institutis	_	VERB	_	_	_	_	_	_
+13	ante	_	ADV	_	_	_	_	_	_
 14	omnia	_	DET	_	_	_	_	_	_
-15	militaribus	_	ADJ	_	_	_	_	_	_
+15	militaribus	_	NOUN	_	_	_	_	_	_
 16	congruentes	_	VERB	_	_	_	_	_	_
 17	milites	_	NOUN	_	_	_	_	_	_
 18	militibus	_	NOUN	_	_	_	_	_	_
@@ -2047,7 +2047,7 @@
 20	centuriones	_	NOUN	_	_	_	_	_	_
 21	tribuni	_	NOUN	_	_	_	_	_	_
 22	tribunis	_	NOUN	_	_	_	_	_	_
-23	compares	_	ADJ	_	_	_	_	_	_
+23	compares	_	VERB	_	_	_	_	_	_
 24-25	collegaeque	_	_	_	_	_	_	_	_
 24	collegae	_	NOUN	_	_	_	_	_	_
 25	que	_	CCONJ	_	_	_	_	_	_
@@ -2083,7 +2083,7 @@
 # text = forte inter ceteros turmarum praefectos qui exploratum in omnes partes dimissi erant T Manlius consulis filius super castra hostium cum suis turmalibus euasit ita ut uix teli iactu ab statione proxima abesset
 1	forte	_	ADV	_	_	_	_	_	_
 2	inter	_	ADP	_	_	_	_	_	_
-3	ceteros	_	NOUN	_	_	_	_	_	_
+3	ceteros	_	ADJ	_	_	_	_	_	_
 4	turmarum	_	NOUN	_	_	_	_	_	_
 5	praefectos	_	NOUN	_	_	_	_	_	_
 6	qui	_	PRON	_	_	_	_	_	_
@@ -2117,14 +2117,14 @@
 # sent_id = TLiv08-T-LI-4829
 # text = ibi Tusculani erant equites praeerat Geminus Maecius uir cum genere inter suos tum factis clarus
 1	ibi	_	ADV	_	_	_	_	_	_
-2	Tusculani	_	ADJ	_	_	_	_	_	_
+2	Tusculani	_	PROPN	_	_	_	_	_	_
 3	erant	_	AUX	_	_	_	_	_	_
 4	equites	_	NOUN	_	_	_	_	_	_
 5	praeerat	_	VERB	_	_	_	_	_	_
 6	Geminus	_	PROPN	_	_	_	_	_	_
 7	Maecius	_	PROPN	_	_	_	_	_	_
 8	uir	_	NOUN	_	_	_	_	_	_
-9	cum	_	SCONJ	_	_	_	_	_	_
+9	cum	_	ADP	_	_	_	_	_	_
 10	genere	_	NOUN	_	_	_	_	_	_
 11	inter	_	ADP	_	_	_	_	_	_
 12	suos	_	DET	_	_	_	_	_	_
@@ -2161,9 +2161,9 @@
 23	ne	_	PART	_	_	_	_	_	_
 24	ait	_	VERB	_	_	_	_	_	_
 25	turma	_	NOUN	_	_	_	_	_	_
-26	Romani	_	PROPN	_	_	_	_	_	_
+26	Romani	_	ADJ	_	_	_	_	_	_
 27	cum	_	ADP	_	_	_	_	_	_
-28	Latinis	_	PROPN	_	_	_	_	_	_
+28	Latinis	_	ADJ	_	_	_	_	_	_
 29-30	sociisque	_	_	_	_	_	_	_	_
 29	sociis	_	NOUN	_	_	_	_	_	_
 30	que	_	CCONJ	_	_	_	_	_	_
@@ -2187,12 +2187,12 @@
 4	Manlius	_	PROPN	_	_	_	_	_	_
 5	inquit	_	VERB	_	_	_	_	_	_
 6	et	_	CCONJ	_	_	_	_	_	_
-7	cum	_	ADP	_	_	_	_	_	_
+7	cum	_	SCONJ	_	_	_	_	_	_
 8	illis	_	DET	_	_	_	_	_	_
 9	aderit	_	VERB	_	_	_	_	_	_
 10	Iuppiter	_	PROPN	_	_	_	_	_	_
 11	ipse	_	DET	_	_	_	_	_	_
-12	foederum	_	ADJ	_	_	_	_	_	_
+12	foederum	_	NOUN	_	_	_	_	_	_
 13	a	_	ADP	_	_	_	_	_	_
 14	uobis	_	PRON	_	_	_	_	_	_
 15	uiolatorum	_	VERB	_	_	_	_	_	_
@@ -2217,7 +2217,7 @@
 9	hic	_	ADV	_	_	_	_	_	_
 10	quoque	_	ADV	_	_	_	_	_	_
 11	efficiemus	_	VERB	_	_	_	_	_	_
-12	profecto	_	VERB	_	_	_	_	_	_
+12	profecto	_	ADV	_	_	_	_	_	_
 13	ne	_	SCONJ	_	_	_	_	_	_
 14	nimis	_	ADV	_	_	_	_	_	_
 15	acies	_	NOUN	_	_	_	_	_	_
@@ -2243,13 +2243,13 @@
 8	prouectus	_	VERB	_	_	_	_	_	_
 9-10	uisne	_	_	_	_	_	_	_	_
 9	uis	_	VERB	_	_	_	_	_	_
-10	ne	_	PART	_	_	_	_	_	_
+10	ne	_	SCONJ	_	_	_	_	_	_
 11	igitur	_	CCONJ	_	_	_	_	_	_
 12	dum	_	SCONJ	_	_	_	_	_	_
 13	dies	_	NOUN	_	_	_	_	_	_
 14	ista	_	DET	_	_	_	_	_	_
 15	uenit	_	VERB	_	_	_	_	_	_
-16	qua	_	PRON	_	_	_	_	_	_
+16	qua	_	SCONJ	_	_	_	_	_	_
 17	magno	_	ADJ	_	_	_	_	_	_
 18	conatu	_	NOUN	_	_	_	_	_	_
 19	exercitus	_	NOUN	_	_	_	_	_	_
@@ -2308,7 +2308,7 @@
 29	an	_	PART	_	_	_	_	_	_
 30	uinceretur	_	VERB	_	_	_	_	_	_
 31	haud	_	PART	_	_	_	_	_	_
-32	multum	_	NOUN	_	_	_	_	_	_
+32	multum	_	ADV	_	_	_	_	_	_
 33	interesset	_	VERB	_	_	_	_	_	_
 
 # sent_id = TLiv08-T-LI-4835
@@ -2330,7 +2330,7 @@
 15	et	_	CCONJ	_	_	_	_	_	_
 16	cum	_	SCONJ	_	_	_	_	_	_
 17	infestis	_	ADJ	_	_	_	_	_	_
-18	cuspidibus	_	ADJ	_	_	_	_	_	_
+18	cuspidibus	_	NOUN	_	_	_	_	_	_
 19	concurrissent	_	VERB	_	_	_	_	_	_
 20	Manli	_	PROPN	_	_	_	_	_	_
 21	cuspis	_	NOUN	_	_	_	_	_	_
@@ -2341,7 +2341,7 @@
 26	trans	_	ADP	_	_	_	_	_	_
 27	ceruicem	_	NOUN	_	_	_	_	_	_
 28	equi	_	NOUN	_	_	_	_	_	_
-29	elapsa	_	VERB	_	_	_	_	_	_
+29	elapsa	_	NOUN	_	_	_	_	_	_
 30	est	_	AUX	_	_	_	_	_	_
 
 # sent_id = TLiv08-T-LI-4836
@@ -2369,7 +2369,7 @@
 21	equus	_	NOUN	_	_	_	_	_	_
 22	prioribus	_	ADJ	_	_	_	_	_	_
 23	pedibus	_	NOUN	_	_	_	_	_	_
-24	erectis	_	ADJ	_	_	_	_	_	_
+24	erectis	_	VERB	_	_	_	_	_	_
 25	magna	_	ADJ	_	_	_	_	_	_
 26	ui	_	NOUN	_	_	_	_	_	_
 27	caput	_	NOUN	_	_	_	_	_	_
@@ -2424,7 +2424,7 @@
 41	ignarus	_	ADJ	_	_	_	_	_	_
 42	fati	_	NOUN	_	_	_	_	_	_
 43-44	futurique	_	_	_	_	_	_	_	_
-43	futuri	_	ADJ	_	_	_	_	_	_
+43	futuri	_	AUX	_	_	_	_	_	_
 44	que	_	CCONJ	_	_	_	_	_	_
 45	laus	_	NOUN	_	_	_	_	_	_
 46	an	_	PART	_	_	_	_	_	_
@@ -2452,7 +2452,7 @@
 16	ex	_	ADP	_	_	_	_	_	_
 17	hoste	_	NOUN	_	_	_	_	_	_
 18	caeso	_	VERB	_	_	_	_	_	_
-19	porto	_	VERB	_	_	_	_	_	_
+19	porto	_	NOUN	_	_	_	_	_	_
 
 # sent_id = TLiv08-T-LI-4839
 # text = quod ubi audiuit consul extemplo filium auersatus contionem classico aduocari iussit quae ubi frequens conuenit quandoque inquit tu T Manli neque imperium consulare neque maiestatem patriam ueritus aduersus edictum nostrum extra ordinem in hostem pugnasti et quantum in te fuit disciplinam militarem qua stetit ad hanc diem Romana res soluisti meque in eam necessitatem adduxisti ut aut rei publicae mihi aut mei meorum obliuiscendum sit nos potius nostro delicto plectemur quam res publica tanto suo damno nostra peccata luat triste exemplum sed in posterum salubre iuuentuti erimus
@@ -2460,7 +2460,7 @@
 2	ubi	_	SCONJ	_	_	_	_	_	_
 3	audiuit	_	VERB	_	_	_	_	_	_
 4	consul	_	NOUN	_	_	_	_	_	_
-5	extemplo	_	VERB	_	_	_	_	_	_
+5	extemplo	_	ADV	_	_	_	_	_	_
 6	filium	_	NOUN	_	_	_	_	_	_
 7	auersatus	_	VERB	_	_	_	_	_	_
 8	contionem	_	NOUN	_	_	_	_	_	_
@@ -2492,7 +2492,7 @@
 34	hostem	_	NOUN	_	_	_	_	_	_
 35	pugnasti	_	VERB	_	_	_	_	_	_
 36	et	_	CCONJ	_	_	_	_	_	_
-37	quantum	_	DET	_	_	_	_	_	_
+37	quantum	_	PRON	_	_	_	_	_	_
 38	in	_	ADP	_	_	_	_	_	_
 39	te	_	PRON	_	_	_	_	_	_
 40	fuit	_	AUX	_	_	_	_	_	_
@@ -2519,7 +2519,7 @@
 60	publicae	_	ADJ	_	_	_	_	_	_
 61	mihi	_	PRON	_	_	_	_	_	_
 62	aut	_	CCONJ	_	_	_	_	_	_
-63	mei	_	DET	_	_	_	_	_	_
+63	mei	_	NOUN	_	_	_	_	_	_
 64	meorum	_	DET	_	_	_	_	_	_
 65	obliuiscendum	_	VERB	_	_	_	_	_	_
 66	sit	_	AUX	_	_	_	_	_	_
@@ -2542,7 +2542,7 @@
 83	sed	_	CCONJ	_	_	_	_	_	_
 84	in	_	ADP	_	_	_	_	_	_
 85	posterum	_	ADJ	_	_	_	_	_	_
-86	salubre	_	ADV	_	_	_	_	_	_
+86	salubre	_	ADJ	_	_	_	_	_	_
 87	iuuentuti	_	NOUN	_	_	_	_	_	_
 88	erimus	_	AUX	_	_	_	_	_	_
 
@@ -2551,7 +2551,7 @@
 1	me	_	PRON	_	_	_	_	_	_
 2	quidem	_	PART	_	_	_	_	_	_
 3	cum	_	SCONJ	_	_	_	_	_	_
-4	ingenita	_	NOUN	_	_	_	_	_	_
+4	ingenita	_	ADJ	_	_	_	_	_	_
 5	caritas	_	NOUN	_	_	_	_	_	_
 6	liberum	_	ADJ	_	_	_	_	_	_
 7	tum	_	ADV	_	_	_	_	_	_
@@ -2577,7 +2577,7 @@
 27	aut	_	CCONJ	_	_	_	_	_	_
 28	impunitate	_	NOUN	_	_	_	_	_	_
 29	in	_	ADP	_	_	_	_	_	_
-30	perpetuum	_	ADJ	_	_	_	_	_	_
+30	perpetuum	_	NOUN	_	_	_	_	_	_
 31	abroganda	_	VERB	_	_	_	_	_	_
 32	nec	_	CCONJ	_	_	_	_	_	_
 33	te	_	PRON	_	_	_	_	_	_
@@ -2599,7 +2599,7 @@
 49	prolapsam	_	VERB	_	_	_	_	_	_
 50	poena	_	NOUN	_	_	_	_	_	_
 51	restituas	_	VERB	_	_	_	_	_	_
-52	i	_	VERB	_	_	_	_	_	_
+52	i	_	PRON	_	_	_	_	_	_
 53	lictor	_	NOUN	_	_	_	_	_	_
 54	deliga	_	VERB	_	_	_	_	_	_
 55	ad	_	ADP	_	_	_	_	_	_
@@ -2664,7 +2664,7 @@
 32	contectum	_	VERB	_	_	_	_	_	_
 33	iuuenis	_	NOUN	_	_	_	_	_	_
 34	corpus	_	NOUN	_	_	_	_	_	_
-35	quantum	_	SCONJ	_	_	_	_	_	_
+35	quantum	_	PRON	_	_	_	_	_	_
 36	militaribus	_	ADJ	_	_	_	_	_	_
 37	studiis	_	NOUN	_	_	_	_	_	_
 38	funus	_	NOUN	_	_	_	_	_	_
@@ -2674,7 +2674,7 @@
 42	structo	_	VERB	_	_	_	_	_	_
 43	extra	_	ADP	_	_	_	_	_	_
 44	uallum	_	NOUN	_	_	_	_	_	_
-45	rogo	_	VERB	_	_	_	_	_	_
+45	rogo	_	NOUN	_	_	_	_	_	_
 46	cremaretur	_	VERB	_	_	_	_	_	_
 47-48	Manlianaque	_	_	_	_	_	_	_	_
 47	Manliana	_	ADJ	_	_	_	_	_	_
@@ -2690,7 +2690,7 @@
 57	etiam	_	ADV	_	_	_	_	_	_
 58	tristis	_	ADJ	_	_	_	_	_	_
 59	in	_	ADP	_	_	_	_	_	_
-60	posterum	_	ADJ	_	_	_	_	_	_
+60	posterum	_	NOUN	_	_	_	_	_	_
 61	essent	_	AUX	_	_	_	_	_	_
 
 # sent_id = TLiv08-T-LI-4843
@@ -2703,7 +2703,7 @@
 6	duci	_	VERB	_	_	_	_	_	_
 7	militem	_	NOUN	_	_	_	_	_	_
 8	et	_	CCONJ	_	_	_	_	_	_
-9	praeterquam	_	VERB	_	_	_	_	_	_
+9	praeterquam	_	ADV	_	_	_	_	_	_
 10	quod	_	SCONJ	_	_	_	_	_	_
 11	custodiae	_	NOUN	_	_	_	_	_	_
 12-13	uigiliaeque	_	_	_	_	_	_	_	_
@@ -2906,7 +2906,7 @@
 18	erant	_	AUX	_	_	_	_	_	_
 19	primum	_	ADJ	_	_	_	_	_	_
 20	uexillum	_	NOUN	_	_	_	_	_	_
-21	triarios	_	ADJ	_	_	_	_	_	_
+21	triarios	_	NOUN	_	_	_	_	_	_
 22	ducebat	_	VERB	_	_	_	_	_	_
 23	ueteranum	_	ADJ	_	_	_	_	_	_
 24	militem	_	NOUN	_	_	_	_	_	_
@@ -2914,7 +2914,7 @@
 26	uirtutis	_	NOUN	_	_	_	_	_	_
 27	secundum	_	ADJ	_	_	_	_	_	_
 28	rorarios	_	NOUN	_	_	_	_	_	_
-29	minus	_	ADV	_	_	_	_	_	_
+29	minus	_	ADJ	_	_	_	_	_	_
 30	roboris	_	NOUN	_	_	_	_	_	_
 31	aetate	_	NOUN	_	_	_	_	_	_
 32-33	factisque	_	_	_	_	_	_	_	_
@@ -2926,7 +2926,7 @@
 37	fiduciae	_	NOUN	_	_	_	_	_	_
 38	manum	_	NOUN	_	_	_	_	_	_
 39	eo	_	ADV	_	_	_	_	_	_
-40	et	_	ADV	_	_	_	_	_	_
+40	et	_	CCONJ	_	_	_	_	_	_
 41	in	_	ADP	_	_	_	_	_	_
 42	postremam	_	ADJ	_	_	_	_	_	_
 43	aciem	_	NOUN	_	_	_	_	_	_
@@ -2951,7 +2951,7 @@
 15	hostem	_	NOUN	_	_	_	_	_	_
 16	non	_	PART	_	_	_	_	_	_
 17	possent	_	VERB	_	_	_	_	_	_
-18	pede	_	NOUN	_	_	_	_	_	_
+18	pede	_	ADV	_	_	_	_	_	_
 19	presso	_	ADV	_	_	_	_	_	_
 20	eos	_	PRON	_	_	_	_	_	_
 21	retro	_	ADV	_	_	_	_	_	_
@@ -2975,7 +2975,7 @@
 39	crure	_	NOUN	_	_	_	_	_	_
 40	porrecto	_	VERB	_	_	_	_	_	_
 41	scuta	_	NOUN	_	_	_	_	_	_
-42	innixa	_	VERB	_	_	_	_	_	_
+42	innixa	_	ADJ	_	_	_	_	_	_
 43	umeris	_	NOUN	_	_	_	_	_	_
 44	hastas	_	NOUN	_	_	_	_	_	_
 45	suberecta	_	VERB	_	_	_	_	_	_
@@ -3007,7 +3007,7 @@
 11	prima	_	ADJ	_	_	_	_	_	_
 12	acie	_	NOUN	_	_	_	_	_	_
 13	ad	_	ADP	_	_	_	_	_	_
-14	triarios	_	ADJ	_	_	_	_	_	_
+14	triarios	_	NOUN	_	_	_	_	_	_
 15	se	_	PRON	_	_	_	_	_	_
 16	sensim	_	ADV	_	_	_	_	_	_
 17	referebant	_	VERB	_	_	_	_	_	_
@@ -3043,7 +3043,7 @@
 18-19	unoque	_	_	_	_	_	_	_	_
 18	uno	_	NUM	_	_	_	_	_	_
 19	que	_	CCONJ	_	_	_	_	_	_
-20	continenti	_	ADJ	_	_	_	_	_	_
+20	continenti	_	VERB	_	_	_	_	_	_
 21	agmine	_	NOUN	_	_	_	_	_	_
 22	iam	_	ADV	_	_	_	_	_	_
 23	nulla	_	DET	_	_	_	_	_	_
@@ -3061,7 +3061,7 @@
 35	uelut	_	SCONJ	_	_	_	_	_	_
 36	uictos	_	VERB	_	_	_	_	_	_
 37	insecuti	_	VERB	_	_	_	_	_	_
-38	nouam	_	NUM	_	_	_	_	_	_
+38	nouam	_	ADJ	_	_	_	_	_	_
 39	repente	_	ADV	_	_	_	_	_	_
 40	aciem	_	NOUN	_	_	_	_	_	_
 41	exsurgentem	_	VERB	_	_	_	_	_	_
@@ -3076,7 +3076,7 @@
 3	quattuor	_	NUM	_	_	_	_	_	_
 4	fere	_	ADV	_	_	_	_	_	_
 5	legiones	_	NOUN	_	_	_	_	_	_
-6	quinis	_	ADJ	_	_	_	_	_	_
+6	quinis	_	NUM	_	_	_	_	_	_
 7	milibus	_	NUM	_	_	_	_	_	_
 8	peditum	_	NOUN	_	_	_	_	_	_
 9	equitibus	_	NOUN	_	_	_	_	_	_
@@ -3108,9 +3108,9 @@
 34	uexillis	_	NOUN	_	_	_	_	_	_
 35	tantum	_	ADV	_	_	_	_	_	_
 36	uniuersi	_	ADJ	_	_	_	_	_	_
-37	hastati	_	VERB	_	_	_	_	_	_
+37	hastati	_	NOUN	_	_	_	_	_	_
 38	cum	_	ADP	_	_	_	_	_	_
-39	hastatis	_	NOUN	_	_	_	_	_	_
+39	hastatis	_	VERB	_	_	_	_	_	_
 40	principes	_	NOUN	_	_	_	_	_	_
 41	cum	_	ADP	_	_	_	_	_	_
 42	principibus	_	NOUN	_	_	_	_	_	_
@@ -3215,7 +3215,7 @@
 5	radicibus	_	NOUN	_	_	_	_	_	_
 6	Uesuuii	_	PROPN	_	_	_	_	_	_
 7	montis	_	NOUN	_	_	_	_	_	_
-8	qua	_	SCONJ	_	_	_	_	_	_
+8	qua	_	PRON	_	_	_	_	_	_
 9	uia	_	NOUN	_	_	_	_	_	_
 10	ad	_	ADP	_	_	_	_	_	_
 11	Ueserim	_	PROPN	_	_	_	_	_	_
@@ -3279,7 +3279,7 @@
 
 # sent_id = TLiv08-T-LI-4859
 # text = primo utrimque aequis uiribus eodem ardore animorum gerebatur res deinde ab laeuo cornu hastati Romani non ferentes impressionem Latinorum se ad principes recepere
-1	primo	_	ADJ	_	_	_	_	_	_
+1	primo	_	ADV	_	_	_	_	_	_
 2	utrimque	_	ADV	_	_	_	_	_	_
 3	aequis	_	ADJ	_	_	_	_	_	_
 4	uiribus	_	NOUN	_	_	_	_	_	_
@@ -3347,7 +3347,7 @@
 8	uelato	_	VERB	_	_	_	_	_	_
 9	capite	_	NOUN	_	_	_	_	_	_
 10	manu	_	NOUN	_	_	_	_	_	_
-11	subter	_	ADP	_	_	_	_	_	_
+11	subter	_	ADV	_	_	_	_	_	_
 12	togam	_	NOUN	_	_	_	_	_	_
 13	ad	_	ADP	_	_	_	_	_	_
 14	mentum	_	NOUN	_	_	_	_	_	_
@@ -3496,7 +3496,7 @@
 48	pestem	_	NOUN	_	_	_	_	_	_
 49	ab	_	ADP	_	_	_	_	_	_
 50	suis	_	DET	_	_	_	_	_	_
-51	auersam	_	VERB	_	_	_	_	_	_
+51	auersam	_	ADJ	_	_	_	_	_	_
 52	in	_	ADP	_	_	_	_	_	_
 53	hostes	_	NOUN	_	_	_	_	_	_
 54	ferret	_	VERB	_	_	_	_	_	_
@@ -3509,9 +3509,9 @@
 4-5	pauorque	_	_	_	_	_	_	_	_
 4	pauor	_	NOUN	_	_	_	_	_	_
 5	que	_	CCONJ	_	_	_	_	_	_
-6	cum	_	ADP	_	_	_	_	_	_
+6	cum	_	SCONJ	_	_	_	_	_	_
 7	illo	_	DET	_	_	_	_	_	_
-8	latus	_	ADJ	_	_	_	_	_	_
+8	latus	_	NOUN	_	_	_	_	_	_
 9	signa	_	NOUN	_	_	_	_	_	_
 10	primo	_	ADV	_	_	_	_	_	_
 11	Latinorum	_	PROPN	_	_	_	_	_	_
@@ -3562,7 +3562,7 @@
 # sent_id = TLiv08-T-LI-4866
 # text = simul et Romani exsolutis religione animis uelut tum primum signo dato coorti pugnam integram ediderunt nam et rorarii procurrerant inter antepilanos addiderantque uires hastatis ac principibus et triarii genu dextro innixi nutum consulis ad consurgendum exspectabant
 1	simul	_	ADV	_	_	_	_	_	_
-2	et	_	CCONJ	_	_	_	_	_	_
+2	et	_	ADV	_	_	_	_	_	_
 3	Romani	_	PROPN	_	_	_	_	_	_
 4	exsolutis	_	VERB	_	_	_	_	_	_
 5	religione	_	NOUN	_	_	_	_	_	_
@@ -3577,7 +3577,7 @@
 14	integram	_	ADJ	_	_	_	_	_	_
 15	ediderunt	_	VERB	_	_	_	_	_	_
 16	nam	_	PART	_	_	_	_	_	_
-17	et	_	CCONJ	_	_	_	_	_	_
+17	et	_	ADV	_	_	_	_	_	_
 18	rorarii	_	NOUN	_	_	_	_	_	_
 19	procurrerant	_	VERB	_	_	_	_	_	_
 20	inter	_	ADP	_	_	_	_	_	_
@@ -3586,7 +3586,7 @@
 22	addiderant	_	VERB	_	_	_	_	_	_
 23	que	_	CCONJ	_	_	_	_	_	_
 24	uires	_	NOUN	_	_	_	_	_	_
-25	hastatis	_	NOUN	_	_	_	_	_	_
+25	hastatis	_	VERB	_	_	_	_	_	_
 26	ac	_	CCONJ	_	_	_	_	_	_
 27	principibus	_	NOUN	_	_	_	_	_	_
 28	et	_	CCONJ	_	_	_	_	_	_
@@ -3605,7 +3605,7 @@
 1	procedente	_	VERB	_	_	_	_	_	_
 2	deinde	_	ADV	_	_	_	_	_	_
 3	certamine	_	NOUN	_	_	_	_	_	_
-4	cum	_	ADP	_	_	_	_	_	_
+4	cum	_	SCONJ	_	_	_	_	_	_
 5	aliis	_	DET	_	_	_	_	_	_
 6	partibus	_	NOUN	_	_	_	_	_	_
 7	multitudo	_	NOUN	_	_	_	_	_	_
@@ -3628,7 +3628,7 @@
 23	minus	_	ADV	_	_	_	_	_	_
 24	quam	_	SCONJ	_	_	_	_	_	_
 25	laudibus	_	NOUN	_	_	_	_	_	_
-26	debitis	_	VERB	_	_	_	_	_	_
+26	debitis	_	NOUN	_	_	_	_	_	_
 27	prosecutus	_	VERB	_	_	_	_	_	_
 28	tam	_	ADV	_	_	_	_	_	_
 29	memorabilem	_	ADJ	_	_	_	_	_	_
@@ -3665,7 +3665,7 @@
 1	qui	_	PRON	_	_	_	_	_	_
 2	ubi	_	SCONJ	_	_	_	_	_	_
 3	subiere	_	VERB	_	_	_	_	_	_
-4	extemplo	_	NOUN	_	_	_	_	_	_
+4	extemplo	_	ADV	_	_	_	_	_	_
 5	Latini	_	PROPN	_	_	_	_	_	_
 6	tamquam	_	SCONJ	_	_	_	_	_	_
 7	idem	_	DET	_	_	_	_	_	_
@@ -3680,7 +3680,7 @@
 16	atroci	_	ADJ	_	_	_	_	_	_
 17	cum	_	SCONJ	_	_	_	_	_	_
 18	et	_	CCONJ	_	_	_	_	_	_
-19	semet	_	SCONJ	_	_	_	_	_	_
+19	semet	_	ADV	_	_	_	_	_	_
 20	ipsi	_	DET	_	_	_	_	_	_
 21	fatigassent	_	VERB	_	_	_	_	_	_
 22	et	_	CCONJ	_	_	_	_	_	_
@@ -3710,7 +3710,7 @@
 45	inquit	_	VERB	_	_	_	_	_	_
 46	integri	_	ADJ	_	_	_	_	_	_
 47	aduersus	_	ADP	_	_	_	_	_	_
-48	fessos	_	ADJ	_	_	_	_	_	_
+48	fessos	_	NOUN	_	_	_	_	_	_
 49	memores	_	ADJ	_	_	_	_	_	_
 50	patriae	_	NOUN	_	_	_	_	_	_
 51-52	parentumque	_	_	_	_	_	_	_	_
@@ -3874,11 +3874,11 @@
 9	proelium	_	NOUN	_	_	_	_	_	_
 10	capta	_	VERB	_	_	_	_	_	_
 11-12	multique	_	_	_	_	_	_	_	_
-11	multi	_	ADJ	_	_	_	_	_	_
+11	multi	_	NOUN	_	_	_	_	_	_
 12	que	_	CCONJ	_	_	_	_	_	_
 13	mortales	_	NOUN	_	_	_	_	_	_
 14	ibi	_	ADV	_	_	_	_	_	_
-15	uiui	_	ADV	_	_	_	_	_	_
+15	uiui	_	NOUN	_	_	_	_	_	_
 16	oppressi	_	VERB	_	_	_	_	_	_
 17	maxime	_	ADV	_	_	_	_	_	_
 18	Campani	_	PROPN	_	_	_	_	_	_
@@ -3973,7 +3973,7 @@
 54	signum	_	NOUN	_	_	_	_	_	_
 55	defossum	_	VERB	_	_	_	_	_	_
 56	erit	_	AUX	_	_	_	_	_	_
-57	eo	_	PRON	_	_	_	_	_	_
+57	eo	_	ADV	_	_	_	_	_	_
 58	magistratum	_	NOUN	_	_	_	_	_	_
 59	Romanum	_	ADJ	_	_	_	_	_	_
 60	escendere	_	VERB	_	_	_	_	_	_
@@ -3991,12 +3991,12 @@
 6	sicuti	_	SCONJ	_	_	_	_	_	_
 7	Decius	_	PROPN	_	_	_	_	_	_
 8	deuouit	_	VERB	_	_	_	_	_	_
-9	ni	_	PART	_	_	_	_	_	_
+9	ni	_	SCONJ	_	_	_	_	_	_
 10	moritur	_	VERB	_	_	_	_	_	_
 11	neque	_	CCONJ	_	_	_	_	_	_
-12	suum	_	DET	_	_	_	_	_	_
+12	suum	_	NOUN	_	_	_	_	_	_
 13	neque	_	CCONJ	_	_	_	_	_	_
-14	publicum	_	ADJ	_	_	_	_	_	_
+14	publicum	_	NOUN	_	_	_	_	_	_
 15	diuinum	_	ADJ	_	_	_	_	_	_
 16	pure	_	ADV	_	_	_	_	_	_
 17	faciet	_	VERB	_	_	_	_	_	_
@@ -4128,7 +4128,7 @@
 27	de	_	ADP	_	_	_	_	_	_
 28	clade	_	NOUN	_	_	_	_	_	_
 29	Latinorum	_	PROPN	_	_	_	_	_	_
-30	cum	_	ADP	_	_	_	_	_	_
+30	cum	_	SCONJ	_	_	_	_	_	_
 31	conuersis	_	VERB	_	_	_	_	_	_
 32	signis	_	NOUN	_	_	_	_	_	_
 33	retro	_	ADV	_	_	_	_	_	_
@@ -4162,7 +4162,7 @@
 8	cum	_	SCONJ	_	_	_	_	_	_
 9	se	_	PRON	_	_	_	_	_	_
 10	in	_	ADP	_	_	_	_	_	_
-11	unum	_	NUM	_	_	_	_	_	_
+11	unum	_	NOUN	_	_	_	_	_	_
 12	conglobassent	_	VERB	_	_	_	_	_	_
 13	Uescia	_	PROPN	_	_	_	_	_	_
 14	urbs	_	NOUN	_	_	_	_	_	_
@@ -4192,7 +4192,7 @@
 17	uictoriae	_	NOUN	_	_	_	_	_	_
 18	que	_	CCONJ	_	_	_	_	_	_
 19	nomen	_	NOUN	_	_	_	_	_	_
-20	tantum	_	DET	_	_	_	_	_	_
+20	tantum	_	ADV	_	_	_	_	_	_
 21	penes	_	ADP	_	_	_	_	_	_
 22	Romanos	_	PROPN	_	_	_	_	_	_
 23	esse	_	AUX	_	_	_	_	_	_
@@ -4239,7 +4239,7 @@
 # text = Latinorum etsi pariter accisae copiae sint tamen supplemento uel Latium propius esse uel Uolscos quam Romam itaque si uideatur eis se ex Latinis et ex Uolscis populis iuuentute propere excita rediturum infesto exercitu Capuam esse Romanosque nihil tum minus quam proelium exspectantes necopinato aduentu perculsurum
 1	Latinorum	_	PROPN	_	_	_	_	_	_
 2-3	etsi	_	_	_	_	_	_	_	_
-2	et	_	ADV	_	_	_	_	_	_
+2	et	_	CCONJ	_	_	_	_	_	_
 3	si	_	SCONJ	_	_	_	_	_	_
 4	pariter	_	ADV	_	_	_	_	_	_
 5	accisae	_	VERB	_	_	_	_	_	_
@@ -4249,7 +4249,7 @@
 9	supplemento	_	NOUN	_	_	_	_	_	_
 10	uel	_	CCONJ	_	_	_	_	_	_
 11	Latium	_	PROPN	_	_	_	_	_	_
-12	propius	_	ADJ	_	_	_	_	_	_
+12	propius	_	ADV	_	_	_	_	_	_
 13	esse	_	AUX	_	_	_	_	_	_
 14	uel	_	CCONJ	_	_	_	_	_	_
 15	Uolscos	_	PROPN	_	_	_	_	_	_
@@ -4261,7 +4261,7 @@
 21	eis	_	PRON	_	_	_	_	_	_
 22	se	_	PRON	_	_	_	_	_	_
 23	ex	_	ADP	_	_	_	_	_	_
-24	Latinis	_	PROPN	_	_	_	_	_	_
+24	Latinis	_	ADJ	_	_	_	_	_	_
 25	et	_	CCONJ	_	_	_	_	_	_
 26	ex	_	ADP	_	_	_	_	_	_
 27	Uolscis	_	PROPN	_	_	_	_	_	_
@@ -4308,7 +4308,7 @@
 16	temere	_	ADV	_	_	_	_	_	_
 17	faciliores	_	ADJ	_	_	_	_	_	_
 18	erant	_	AUX	_	_	_	_	_	_
-19	tumultuarius	_	ADV	_	_	_	_	_	_
+19	tumultuarius	_	ADJ	_	_	_	_	_	_
 20	undique	_	ADV	_	_	_	_	_	_
 21	exercitus	_	NOUN	_	_	_	_	_	_
 22	raptim	_	ADV	_	_	_	_	_	_
@@ -4469,7 +4469,7 @@
 14	Castoris	_	PROPN	_	_	_	_	_	_
 15	Romae	_	PROPN	_	_	_	_	_	_
 16	fixerunt	_	VERB	_	_	_	_	_	_
-17	uectigal	_	ADJ	_	_	_	_	_	_
+17	uectigal	_	NOUN	_	_	_	_	_	_
 18	quoque	_	ADV	_	_	_	_	_	_
 19	eis	_	PRON	_	_	_	_	_	_
 20	Campanus	_	ADJ	_	_	_	_	_	_
@@ -4487,7 +4487,7 @@
 32	denarios	_	ADJ	_	_	_	_	_	_
 33	nummos	_	NOUN	_	_	_	_	_	_
 34	quadringenos	_	ADJ	_	_	_	_	_	_
-35	quinquagenos	_	ADJ	_	_	_	_	_	_
+35	quinquagenos	_	NUM	_	_	_	_	_	_
 
 # sent_id = TLiv08-T-LI-4888
 # text = ita bello gesto praemiis poenaque pro cuiusque merito persolutis T Manlius Romam rediit cui uenienti seniores tantum obuiam exisse constat iuuentutem et tunc et omni uita deinde auersatam eum exsecratamque
@@ -4508,7 +4508,7 @@
 14	rediit	_	VERB	_	_	_	_	_	_
 15	cui	_	PRON	_	_	_	_	_	_
 16	uenienti	_	VERB	_	_	_	_	_	_
-17	seniores	_	ADJ	_	_	_	_	_	_
+17	seniores	_	NOUN	_	_	_	_	_	_
 18	tantum	_	ADV	_	_	_	_	_	_
 19	obuiam	_	ADV	_	_	_	_	_	_
 20	exisse	_	VERB	_	_	_	_	_	_
@@ -4532,7 +4532,7 @@
 2	in	_	ADP	_	_	_	_	_	_
 3	agrum	_	NOUN	_	_	_	_	_	_
 4	Ostiensem	_	ADJ	_	_	_	_	_	_
-5	Ardeatem	_	ADJ	_	_	_	_	_	_
+5	Ardeatem	_	PROPN	_	_	_	_	_	_
 6	Solonium	_	PROPN	_	_	_	_	_	_
 7	incursiones	_	NOUN	_	_	_	_	_	_
 8	fecerunt	_	VERB	_	_	_	_	_	_
@@ -4603,7 +4603,7 @@
 15	morte	_	NOUN	_	_	_	_	_	_
 16	alterius	_	DET	_	_	_	_	_	_
 17	sicut	_	SCONJ	_	_	_	_	_	_
-18	truci	_	ADJ	_	_	_	_	_	_
+18	truci	_	VERB	_	_	_	_	_	_
 19	ita	_	ADV	_	_	_	_	_	_
 20	claro	_	ADJ	_	_	_	_	_	_
 21	ad	_	ADP	_	_	_	_	_	_
@@ -4644,7 +4644,7 @@
 56	rebellantes	_	VERB	_	_	_	_	_	_
 57	in	_	ADP	_	_	_	_	_	_
 58	campis	_	NOUN	_	_	_	_	_	_
-59	Fenectanis	_	ADJ	_	_	_	_	_	_
+59	Fenectanis	_	PROPN	_	_	_	_	_	_
 60	fuderunt	_	VERB	_	_	_	_	_	_
 61-62	castrisque	_	_	_	_	_	_	_	_
 61	castris	_	NOUN	_	_	_	_	_	_
@@ -4822,7 +4822,7 @@
 48	cuius	_	PRON	_	_	_	_	_	_
 49	fasces	_	NOUN	_	_	_	_	_	_
 50	erant	_	AUX	_	_	_	_	_	_
-51	collegam	_	ADJ	_	_	_	_	_	_
+51	collegam	_	NOUN	_	_	_	_	_	_
 52	dictatorem	_	NOUN	_	_	_	_	_	_
 53	dixit	_	VERB	_	_	_	_	_	_
 54	ab	_	ADP	_	_	_	_	_	_
@@ -4849,7 +4849,7 @@
 12	leges	_	NOUN	_	_	_	_	_	_
 13	secundissimas	_	ADJ	_	_	_	_	_	_
 14	plebei	_	NOUN	_	_	_	_	_	_
-15	aduersas	_	ADJ	_	_	_	_	_	_
+15	aduersas	_	VERB	_	_	_	_	_	_
 16	nobilitati	_	NOUN	_	_	_	_	_	_
 17	tulit	_	VERB	_	_	_	_	_	_
 18	unam	_	NUM	_	_	_	_	_	_
@@ -4891,7 +4891,7 @@
 
 # sent_id = TLiv08-T-LI-4898
 # text = plus eo anno domi acceptum cladis ab consulibus ac dictatore quam ex uictoria eorum bellicisque rebus foris auctum imperium patres credebant
-1	plus	_	ADV	_	_	_	_	_	_
+1	plus	_	ADJ	_	_	_	_	_	_
 2	eo	_	PRON	_	_	_	_	_	_
 3	anno	_	NOUN	_	_	_	_	_	_
 4	domi	_	NOUN	_	_	_	_	_	_
@@ -4918,7 +4918,7 @@
 # sent_id = TLiv08-T-LI-4899
 # text = anno insequenti L Furio Camillo C Maenio consulibus quo insignitius omissa res Aemilio superioris anni consuli exprobraretur Pedum armis uirisque et omni ui expugnandum ac delendum senatus fremit coactique noui consules omnibus eam rem praeuerti proficiscuntur
 1	anno	_	NOUN	_	_	_	_	_	_
-2	insequenti	_	ADJ	_	_	_	_	_	_
+2	insequenti	_	VERB	_	_	_	_	_	_
 3	L	_	PROPN	_	_	_	_	_	_
 4	Furio	_	PROPN	_	_	_	_	_	_
 5	Camillo	_	PROPN	_	_	_	_	_	_
@@ -5051,7 +5051,7 @@
 30	Asturae	_	PROPN	_	_	_	_	_	_
 31	flumen	_	NOUN	_	_	_	_	_	_
 32	Maenius	_	PROPN	_	_	_	_	_	_
-33	improuiso	_	NOUN	_	_	_	_	_	_
+33	improuiso	_	ADV	_	_	_	_	_	_
 34	adortus	_	VERB	_	_	_	_	_	_
 35	fudit	_	VERB	_	_	_	_	_	_
 
@@ -5257,7 +5257,7 @@
 9-10	quonam	_	_	_	_	_	_	_	_
 9	quo	_	PRON	_	_	_	_	_	_
 10	nam	_	ADV	_	_	_	_	_	_
-11	modo	_	NOUN	_	_	_	_	_	_
+11	modo	_	ADV	_	_	_	_	_	_
 12	perpetua	_	ADJ	_	_	_	_	_	_
 13	pace	_	NOUN	_	_	_	_	_	_
 14	quietos	_	ADJ	_	_	_	_	_	_
@@ -5293,7 +5293,7 @@
 26	attinet	_	VERB	_	_	_	_	_	_
 27	parare	_	VERB	_	_	_	_	_	_
 28	in	_	ADP	_	_	_	_	_	_
-29	perpetuum	_	ADJ	_	_	_	_	_	_
+29	perpetuum	_	NOUN	_	_	_	_	_	_
 30	uel	_	CCONJ	_	_	_	_	_	_
 31	saeuiendo	_	VERB	_	_	_	_	_	_
 32	uel	_	CCONJ	_	_	_	_	_	_
@@ -5306,7 +5306,7 @@
 2	crudeliter	_	ADV	_	_	_	_	_	_
 3	consulere	_	VERB	_	_	_	_	_	_
 4	in	_	ADP	_	_	_	_	_	_
-5	deditos	_	ADJ	_	_	_	_	_	_
+5	deditos	_	VERB	_	_	_	_	_	_
 6-7	uictosque	_	_	_	_	_	_	_	_
 6	uictos	_	VERB	_	_	_	_	_	_
 7	que	_	CCONJ	_	_	_	_	_	_
@@ -5376,7 +5376,7 @@
 12-13	metumque	_	_	_	_	_	_	_	_
 12	metum	_	NOUN	_	_	_	_	_	_
 13	que	_	CCONJ	_	_	_	_	_	_
-14	suspensos	_	VERB	_	_	_	_	_	_
+14	suspensos	_	ADJ	_	_	_	_	_	_
 15	animi	_	NOUN	_	_	_	_	_	_
 16	habetis	_	VERB	_	_	_	_	_	_
 17	et	_	CCONJ	_	_	_	_	_	_
@@ -5402,7 +5402,7 @@
 
 # sent_id = TLiv08-T-LI-4914
 # text = nostrum fuit efficere ut omnium rerum uobis ad consulendum potestas esset uestrum est decernere quod optimum uobis rei publicaeque sit
-1	nostrum	_	DET	_	_	_	_	_	_
+1	nostrum	_	PRON	_	_	_	_	_	_
 2	fuit	_	AUX	_	_	_	_	_	_
 3	efficere	_	VERB	_	_	_	_	_	_
 4	ut	_	SCONJ	_	_	_	_	_	_
@@ -5413,7 +5413,7 @@
 9	consulendum	_	VERB	_	_	_	_	_	_
 10	potestas	_	NOUN	_	_	_	_	_	_
 11	esset	_	AUX	_	_	_	_	_	_
-12	uestrum	_	DET	_	_	_	_	_	_
+12	uestrum	_	PRON	_	_	_	_	_	_
 13	est	_	AUX	_	_	_	_	_	_
 14	decernere	_	VERB	_	_	_	_	_	_
 15	quod	_	PRON	_	_	_	_	_	_
@@ -5564,7 +5564,7 @@
 31	ad	_	ADP	_	_	_	_	_	_
 32	mille	_	NUM	_	_	_	_	_	_
 33	pondo	_	NOUN	_	_	_	_	_	_
-34	assium	_	ADJ	_	_	_	_	_	_
+34	assium	_	NOUN	_	_	_	_	_	_
 35	clarigatio	_	NOUN	_	_	_	_	_	_
 36	esset	_	AUX	_	_	_	_	_	_
 37	nec	_	CCONJ	_	_	_	_	_	_
@@ -5638,7 +5638,7 @@
 6	neque	_	CCONJ	_	_	_	_	_	_
 7	ob	_	ADP	_	_	_	_	_	_
 8	recens	_	ADJ	_	_	_	_	_	_
-9	tantum	_	DET	_	_	_	_	_	_
+9	tantum	_	ADV	_	_	_	_	_	_
 10	rebellionis	_	NOUN	_	_	_	_	_	_
 11	commune	_	ADJ	_	_	_	_	_	_
 12	cum	_	ADP	_	_	_	_	_	_
@@ -5677,7 +5677,7 @@
 14	honoris	_	NOUN	_	_	_	_	_	_
 15	causa	_	NOUN	_	_	_	_	_	_
 16	quia	_	SCONJ	_	_	_	_	_	_
-17	cum	_	ADP	_	_	_	_	_	_
+17	cum	_	SCONJ	_	_	_	_	_	_
 18	Latinis	_	PROPN	_	_	_	_	_	_
 19	rebellare	_	VERB	_	_	_	_	_	_
 20	noluissent	_	VERB	_	_	_	_	_	_
@@ -5685,12 +5685,12 @@
 21	Fundanis	_	PROPN	_	_	_	_	_	_
 22	que	_	CCONJ	_	_	_	_	_	_
 23	et	_	CCONJ	_	_	_	_	_	_
-24	Formianis	_	PROPN	_	_	_	_	_	_
+24	Formianis	_	ADJ	_	_	_	_	_	_
 25	quod	_	SCONJ	_	_	_	_	_	_
 26	per	_	ADP	_	_	_	_	_	_
 27	fines	_	NOUN	_	_	_	_	_	_
 28	eorum	_	PRON	_	_	_	_	_	_
-29	tuta	_	VERB	_	_	_	_	_	_
+29	tuta	_	ADJ	_	_	_	_	_	_
 30-31	pacataque	_	_	_	_	_	_	_	_
 30	pacata	_	VERB	_	_	_	_	_	_
 31	que	_	CCONJ	_	_	_	_	_	_
@@ -5844,7 +5844,7 @@
 # text = ob ea infensus consulibus senatus quorum cunctatione proditi socii essent dictatorem dici iussit dictus C Claudius Inregillensis magistrum equitum C Claudium Hortatorem dixit
 1	ob	_	ADP	_	_	_	_	_	_
 2	ea	_	PRON	_	_	_	_	_	_
-3	infensus	_	VERB	_	_	_	_	_	_
+3	infensus	_	ADJ	_	_	_	_	_	_
 4	consulibus	_	NOUN	_	_	_	_	_	_
 5	senatus	_	NOUN	_	_	_	_	_	_
 6	quorum	_	PRON	_	_	_	_	_	_
@@ -5895,7 +5895,7 @@
 2	anno	_	NOUN	_	_	_	_	_	_
 3	Minucia	_	PROPN	_	_	_	_	_	_
 4	Uestalis	_	PROPN	_	_	_	_	_	_
-5	suspecta	_	ADJ	_	_	_	_	_	_
+5	suspecta	_	VERB	_	_	_	_	_	_
 6	primo	_	ADV	_	_	_	_	_	_
 7	propter	_	ADP	_	_	_	_	_	_
 8	mundiorem	_	ADJ	_	_	_	_	_	_
@@ -5906,7 +5906,7 @@
 13	apud	_	ADP	_	_	_	_	_	_
 14	pontifices	_	NOUN	_	_	_	_	_	_
 15	ab	_	ADP	_	_	_	_	_	_
-16	indice	_	NOUN	_	_	_	_	_	_
+16	indice	_	ADJ	_	_	_	_	_	_
 17	seruo	_	NOUN	_	_	_	_	_	_
 18	cum	_	SCONJ	_	_	_	_	_	_
 19	decreto	_	NOUN	_	_	_	_	_	_
@@ -5928,7 +5928,7 @@
 34	terram	_	NOUN	_	_	_	_	_	_
 35	ad	_	ADP	_	_	_	_	_	_
 36	portam	_	NOUN	_	_	_	_	_	_
-37	Collinam	_	ADJ	_	_	_	_	_	_
+37	Collinam	_	PROPN	_	_	_	_	_	_
 38	dextra	_	ADJ	_	_	_	_	_	_
 39	uiam	_	NOUN	_	_	_	_	_	_
 40	stratam	_	VERB	_	_	_	_	_	_
@@ -6118,11 +6118,11 @@
 18	etiam	_	ADV	_	_	_	_	_	_
 19	certaminis	_	NOUN	_	_	_	_	_	_
 20	memoria	_	NOUN	_	_	_	_	_	_
-21	pauidos	_	ADJ	_	_	_	_	_	_
+21	pauidos	_	VERB	_	_	_	_	_	_
 22	clamore	_	NOUN	_	_	_	_	_	_
 23	atque	_	CCONJ	_	_	_	_	_	_
 24	impetu	_	NOUN	_	_	_	_	_	_
-25	primo	_	ADJ	_	_	_	_	_	_
+25	primo	_	ADV	_	_	_	_	_	_
 26	fudisset	_	VERB	_	_	_	_	_	_
 27	moenia	_	NOUN	_	_	_	_	_	_
 28	ipsa	_	DET	_	_	_	_	_	_
@@ -6163,7 +6163,7 @@
 28	quam	_	SCONJ	_	_	_	_	_	_
 29	periculo	_	NOUN	_	_	_	_	_	_
 30	peragere	_	VERB	_	_	_	_	_	_
-31	inceptum	_	NOUN	_	_	_	_	_	_
+31	inceptum	_	VERB	_	_	_	_	_	_
 32	uoluit	_	VERB	_	_	_	_	_	_
 33	itaque	_	CCONJ	_	_	_	_	_	_
 34	aggerem	_	NOUN	_	_	_	_	_	_
@@ -6188,7 +6188,7 @@
 2	M	_	PROPN	_	_	_	_	_	_
 3	Fabius	_	PROPN	_	_	_	_	_	_
 4	captiuus	_	ADJ	_	_	_	_	_	_
-5	Romanus	_	PROPN	_	_	_	_	_	_
+5	Romanus	_	ADJ	_	_	_	_	_	_
 6	cum	_	SCONJ	_	_	_	_	_	_
 7	per	_	ADP	_	_	_	_	_	_
 8	neglegentiam	_	NOUN	_	_	_	_	_	_
@@ -6206,7 +6206,7 @@
 20	ad	_	ADP	_	_	_	_	_	_
 21	pinnam	_	NOUN	_	_	_	_	_	_
 22	muri	_	NOUN	_	_	_	_	_	_
-23	reste	_	VERB	_	_	_	_	_	_
+23	reste	_	ADV	_	_	_	_	_	_
 24	suspensus	_	VERB	_	_	_	_	_	_
 25	manibus	_	NOUN	_	_	_	_	_	_
 26	se	_	PRON	_	_	_	_	_	_
@@ -6355,7 +6355,7 @@
 2	deinde	_	ADV	_	_	_	_	_	_
 3	consules	_	NOUN	_	_	_	_	_	_
 4	a	_	ADP	_	_	_	_	_	_
-5	ueteribus	_	NOUN	_	_	_	_	_	_
+5	ueteribus	_	ADJ	_	_	_	_	_	_
 6	exercitu	_	NOUN	_	_	_	_	_	_
 7	accepto	_	VERB	_	_	_	_	_	_
 8	ingressi	_	VERB	_	_	_	_	_	_
@@ -6444,7 +6444,7 @@
 4	per	_	ADP	_	_	_	_	_	_
 5	quintum	_	ADJ	_	_	_	_	_	_
 6	demum	_	ADV	_	_	_	_	_	_
-7	interregem	_	VERB	_	_	_	_	_	_
+7	interregem	_	NOUN	_	_	_	_	_	_
 8	M	_	PROPN	_	_	_	_	_	_
 9	Ualerium	_	PROPN	_	_	_	_	_	_
 10	Coruum	_	PROPN	_	_	_	_	_	_
@@ -6647,7 +6647,7 @@
 6	annalibus	_	NOUN	_	_	_	_	_	_
 7	cognomen	_	NOUN	_	_	_	_	_	_
 8	consulis	_	NOUN	_	_	_	_	_	_
-9	inuenio	_	VERB	_	_	_	_	_	_
+9	inuenio	_	NOUN	_	_	_	_	_	_
 10	ceterum	_	ADV	_	_	_	_	_	_
 11	in	_	ADP	_	_	_	_	_	_
 12	eo	_	PRON	_	_	_	_	_	_
@@ -6657,13 +6657,13 @@
 16	ueri	_	ADJ	_	_	_	_	_	_
 17	sit	_	AUX	_	_	_	_	_	_
 18	illud	_	DET	_	_	_	_	_	_
-19	peruelim	_	VERB	_	_	_	_	_	_
+19	peruelim	_	ADJ	_	_	_	_	_	_
 20	nec	_	CCONJ	_	_	_	_	_	_
 21	omnes	_	DET	_	_	_	_	_	_
 22	auctores	_	NOUN	_	_	_	_	_	_
 23	sunt	_	AUX	_	_	_	_	_	_
 24	proditum	_	VERB	_	_	_	_	_	_
-25	falso	_	NOUN	_	_	_	_	_	_
+25	falso	_	ADV	_	_	_	_	_	_
 26	esse	_	AUX	_	_	_	_	_	_
 27	uenenis	_	NOUN	_	_	_	_	_	_
 28	absumptos	_	VERB	_	_	_	_	_	_
@@ -6699,7 +6699,7 @@
 9	omnes	_	DET	_	_	_	_	_	_
 10	euentu	_	NOUN	_	_	_	_	_	_
 11	morerentur	_	VERB	_	_	_	_	_	_
-12	ancilla	_	ADJ	_	_	_	_	_	_
+12	ancilla	_	NOUN	_	_	_	_	_	_
 13	quaedam	_	DET	_	_	_	_	_	_
 14	ad	_	ADP	_	_	_	_	_	_
 15	Q	_	PROPN	_	_	_	_	_	_
@@ -6762,9 +6762,9 @@
 12	et	_	CCONJ	_	_	_	_	_	_
 13	si	_	SCONJ	_	_	_	_	_	_
 14	sequi	_	VERB	_	_	_	_	_	_
-15	extemplo	_	VERB	_	_	_	_	_	_
+15	extemplo	_	ADV	_	_	_	_	_	_
 16	uelint	_	VERB	_	_	_	_	_	_
-17	manifesto	_	NOUN	_	_	_	_	_	_
+17	manifesto	_	ADV	_	_	_	_	_	_
 18	deprehendi	_	VERB	_	_	_	_	_	_
 19	posse	_	VERB	_	_	_	_	_	_
 
@@ -6801,7 +6801,7 @@
 29	Cornelia	_	PROPN	_	_	_	_	_	_
 30	ac	_	CCONJ	_	_	_	_	_	_
 31	Sergia	_	PROPN	_	_	_	_	_	_
-32	patriciae	_	ADJ	_	_	_	_	_	_
+32	patriciae	_	NOUN	_	_	_	_	_	_
 33	utraque	_	DET	_	_	_	_	_	_
 34	gentis	_	NOUN	_	_	_	_	_	_
 35	cum	_	SCONJ	_	_	_	_	_	_
@@ -6824,7 +6824,7 @@
 52	ad	_	ADP	_	_	_	_	_	_
 53	conloquendum	_	VERB	_	_	_	_	_	_
 54	sumpto	_	VERB	_	_	_	_	_	_
-55	cum	_	ADP	_	_	_	_	_	_
+55	cum	_	SCONJ	_	_	_	_	_	_
 56	submoto	_	VERB	_	_	_	_	_	_
 57	populo	_	NOUN	_	_	_	_	_	_
 58	in	_	ADP	_	_	_	_	_	_
@@ -6832,19 +6832,19 @@
 60	omnium	_	DET	_	_	_	_	_	_
 61	rem	_	NOUN	_	_	_	_	_	_
 62	ad	_	ADP	_	_	_	_	_	_
-63	ceteras	_	ADJ	_	_	_	_	_	_
+63	ceteras	_	NOUN	_	_	_	_	_	_
 64	rettulissent	_	VERB	_	_	_	_	_	_
 65	haud	_	PART	_	_	_	_	_	_
 66	abnuentibus	_	VERB	_	_	_	_	_	_
 67	et	_	CCONJ	_	_	_	_	_	_
 68	illis	_	DET	_	_	_	_	_	_
 69	bibere	_	VERB	_	_	_	_	_	_
-70	epoto	_	VERB	_	_	_	_	_	_
+70	epoto	_	NOUN	_	_	_	_	_	_
 71	in	_	ADP	_	_	_	_	_	_
 72	conspectu	_	NOUN	_	_	_	_	_	_
 73	omnium	_	DET	_	_	_	_	_	_
 74	medicamento	_	NOUN	_	_	_	_	_	_
-75	suamet	_	VERB	_	_	_	_	_	_
+75	suamet	_	DET	_	_	_	_	_	_
 76	ipsae	_	DET	_	_	_	_	_	_
 77	fraude	_	NOUN	_	_	_	_	_	_
 78	omnes	_	DET	_	_	_	_	_	_
@@ -6853,7 +6853,7 @@
 # sent_id = TLiv08-T-LI-4959
 # text = comprehensae extemplo earum comites magnum numerum matronarum indicauerunt ex quibus ad centum septuaginta damnatae neque de ueneficiis ante eam diem Romae quaesitum est prodigii ea res loco habita captisque magis mentibus quam consceleratis similis uisa itaque memoria ex annalibus repetita in secessionibus quondam plebis clauum ab dictatore fixum alienatasque discordia mentes hominum eo piaculo compotes sui fecisse dictatorem claui figendi causa creari placuit
 1	comprehensae	_	VERB	_	_	_	_	_	_
-2	extemplo	_	NOUN	_	_	_	_	_	_
+2	extemplo	_	ADV	_	_	_	_	_	_
 3	earum	_	PRON	_	_	_	_	_	_
 4	comites	_	NOUN	_	_	_	_	_	_
 5	magnum	_	ADJ	_	_	_	_	_	_
@@ -6911,7 +6911,7 @@
 55	eo	_	PRON	_	_	_	_	_	_
 56	piaculo	_	NOUN	_	_	_	_	_	_
 57	compotes	_	NOUN	_	_	_	_	_	_
-58	sui	_	DET	_	_	_	_	_	_
+58	sui	_	PRON	_	_	_	_	_	_
 59	fecisse	_	VERB	_	_	_	_	_	_
 60	dictatorem	_	NOUN	_	_	_	_	_	_
 61	claui	_	NOUN	_	_	_	_	_	_
@@ -7042,7 +7042,7 @@
 25	in	_	ADP	_	_	_	_	_	_
 26	Palatio	_	PROPN	_	_	_	_	_	_
 27	eius	_	PRON	_	_	_	_	_	_
-28	qua	_	SCONJ	_	_	_	_	_	_
+28	qua	_	PRON	_	_	_	_	_	_
 29	Uacci	_	PROPN	_	_	_	_	_	_
 30	prata	_	NOUN	_	_	_	_	_	_
 31	diruto	_	VERB	_	_	_	_	_	_
@@ -7058,7 +7058,7 @@
 1	aduersus	_	ADP	_	_	_	_	_	_
 2	hunc	_	DET	_	_	_	_	_	_
 3	uastantem	_	VERB	_	_	_	_	_	_
-4	effuse	_	VERB	_	_	_	_	_	_
+4	effuse	_	ADV	_	_	_	_	_	_
 5	Setinum	_	PROPN	_	_	_	_	_	_
 6-7	Norbanumque	_	_	_	_	_	_	_	_
 6	Norbanum	_	PROPN	_	_	_	_	_	_
@@ -7186,7 +7186,7 @@
 61	Plautius	_	PROPN	_	_	_	_	_	_
 62	alter	_	DET	_	_	_	_	_	_
 63	consul	_	NOUN	_	_	_	_	_	_
-64	peruastatis	_	VERB	_	_	_	_	_	_
+64	peruastatis	_	NOUN	_	_	_	_	_	_
 65	passim	_	ADV	_	_	_	_	_	_
 66	agris	_	NOUN	_	_	_	_	_	_
 67-68	praedaque	_	_	_	_	_	_	_	_
@@ -7195,7 +7195,7 @@
 69	abacta	_	VERB	_	_	_	_	_	_
 70	in	_	ADP	_	_	_	_	_	_
 71	agrum	_	NOUN	_	_	_	_	_	_
-72	Fundanum	_	PROPN	_	_	_	_	_	_
+72	Fundanum	_	ADJ	_	_	_	_	_	_
 73	exercitum	_	NOUN	_	_	_	_	_	_
 74	inducit	_	VERB	_	_	_	_	_	_
 
@@ -7401,7 +7401,7 @@
 
 # sent_id = TLiv08-T-LI-4972
 # text = extemplo igitur consules noui L Aemilius Mamercinus et C Plautius eo ipso die kalendis Quinctilibus quo magistratum inierunt comparare inter se prouincias iussi Mamercinus cui Gallicum bellum euenerat scribere exercitum sine ulla uacationis uenia quin opificum quoque uolgus et sellularii minime militiae idoneum genus exciti dicuntur Ueiosque ingens exercitus contractus ut inde obuiam Gallis iretur longius discedi ne alio itinere hostis falleret ad urbem incedens non placuit paucos deinde post dies satis explorata temporis eius quiete a Gallis Priuernum omnis conuersa uis
-1	extemplo	_	VERB	_	_	_	_	_	_
+1	extemplo	_	ADV	_	_	_	_	_	_
 2	igitur	_	CCONJ	_	_	_	_	_	_
 3	consules	_	NOUN	_	_	_	_	_	_
 4	noui	_	ADJ	_	_	_	_	_	_
@@ -7436,7 +7436,7 @@
 33	uacationis	_	NOUN	_	_	_	_	_	_
 34	uenia	_	NOUN	_	_	_	_	_	_
 35	quin	_	ADV	_	_	_	_	_	_
-36	opificum	_	ADJ	_	_	_	_	_	_
+36	opificum	_	NOUN	_	_	_	_	_	_
 37	quoque	_	ADV	_	_	_	_	_	_
 38	uolgus	_	NOUN	_	_	_	_	_	_
 39	et	_	CCONJ	_	_	_	_	_	_
@@ -7470,7 +7470,7 @@
 66	incedens	_	VERB	_	_	_	_	_	_
 67	non	_	PART	_	_	_	_	_	_
 68	placuit	_	VERB	_	_	_	_	_	_
-69	paucos	_	ADJ	_	_	_	_	_	_
+69	paucos	_	NOUN	_	_	_	_	_	_
 70	deinde	_	ADV	_	_	_	_	_	_
 71	post	_	ADP	_	_	_	_	_	_
 72	dies	_	NOUN	_	_	_	_	_	_
@@ -7484,7 +7484,7 @@
 80	Priuernum	_	PROPN	_	_	_	_	_	_
 81	omnis	_	DET	_	_	_	_	_	_
 82	conuersa	_	VERB	_	_	_	_	_	_
-83	uis	_	VERB	_	_	_	_	_	_
+83	uis	_	NOUN	_	_	_	_	_	_
 
 # sent_id = TLiv08-T-LI-4973
 # text = duplex inde fama est alii ui captam urbem Uitruuiumque uiuum in potestatem uenisse alii priusquam ultima adhiberetur uis ipsos se in deditionem consuli caduceum praeferentes permisisse auctores sunt Uitruuiumque ab suis traditum
@@ -7542,7 +7542,7 @@
 12-13	praesidioque	_	_	_	_	_	_	_	_
 12	praesidio	_	NOUN	_	_	_	_	_	_
 13	que	_	CCONJ	_	_	_	_	_	_
-14	ualido	_	ADJ	_	_	_	_	_	_
+14	ualido	_	NOUN	_	_	_	_	_	_
 15	imposito	_	VERB	_	_	_	_	_	_
 16	ad	_	ADP	_	_	_	_	_	_
 17	triumphum	_	NOUN	_	_	_	_	_	_
@@ -7571,7 +7571,7 @@
 40	censuerunt	_	VERB	_	_	_	_	_	_
 41	consecranda	_	VERB	_	_	_	_	_	_
 42-43	quodque	_	_	_	_	_	_	_	_
-42	quod	_	PRON	_	_	_	_	_	_
+42	quod	_	SCONJ	_	_	_	_	_	_
 43	que	_	CCONJ	_	_	_	_	_	_
 44	aeris	_	NOUN	_	_	_	_	_	_
 45	ex	_	ADP	_	_	_	_	_	_
@@ -7637,12 +7637,12 @@
 17	sociis	_	NOUN	_	_	_	_	_	_
 18	que	_	CCONJ	_	_	_	_	_	_
 19	eius	_	PRON	_	_	_	_	_	_
-20	noxae	_	NOUN	_	_	_	_	_	_
+20	noxae	_	ADJ	_	_	_	_	_	_
 21	apud	_	ADP	_	_	_	_	_	_
 22	satiatos	_	VERB	_	_	_	_	_	_
 23	iam	_	ADV	_	_	_	_	_	_
 24	suppliciis	_	NOUN	_	_	_	_	_	_
-25	nocentium	_	NOUN	_	_	_	_	_	_
+25	nocentium	_	VERB	_	_	_	_	_	_
 26	tutam	_	ADJ	_	_	_	_	_	_
 27	mentionem	_	NOUN	_	_	_	_	_	_
 28	de	_	ADP	_	_	_	_	_	_
@@ -7744,7 +7744,7 @@
 30	quam	_	SCONJ	_	_	_	_	_	_
 31	praesentis	_	ADJ	_	_	_	_	_	_
 32	necessitatis	_	NOUN	_	_	_	_	_	_
-33	memor	_	ADJ	_	_	_	_	_	_
+33	memor	_	NOUN	_	_	_	_	_	_
 34	qui	_	PRON	_	_	_	_	_	_
 35	interrogatus	_	VERB	_	_	_	_	_	_
 36	a	_	ADP	_	_	_	_	_	_
@@ -7754,7 +7754,7 @@
 40	auctore	_	NOUN	_	_	_	_	_	_
 41	quam	_	PRON	_	_	_	_	_	_
 42	poenam	_	NOUN	_	_	_	_	_	_
-43	meritos	_	ADJ	_	_	_	_	_	_
+43	meritos	_	NOUN	_	_	_	_	_	_
 44	Priuernates	_	PROPN	_	_	_	_	_	_
 45	censeret	_	VERB	_	_	_	_	_	_
 46	eam	_	PRON	_	_	_	_	_	_
@@ -7779,7 +7779,7 @@
 8	consul	_	NOUN	_	_	_	_	_	_
 9	eos	_	PRON	_	_	_	_	_	_
 10	qui	_	PRON	_	_	_	_	_	_
-11	ante	_	ADP	_	_	_	_	_	_
+11	ante	_	ADV	_	_	_	_	_	_
 12	Priuernatium	_	PROPN	_	_	_	_	_	_
 13	causam	_	NOUN	_	_	_	_	_	_
 14	impugnabant	_	VERB	_	_	_	_	_	_
@@ -7820,7 +7820,7 @@
 # sent_id = TLiv08-T-LI-4980
 # text = tum uero minari nec id ambigue Priuernatem quidam et illis uocibus ad rebellandum incitari pacatos populos pars melior senatus ad molliora responsa trahere et dicere uiri et liberi uocem auditam an credi posse ullum populum aut hominem denique in ea condicione cuius eum paeniteat diutius quam necesse sit mansurum
 1	tum	_	ADV	_	_	_	_	_	_
-2	uero	_	ADV	_	_	_	_	_	_
+2	uero	_	CCONJ	_	_	_	_	_	_
 3	minari	_	VERB	_	_	_	_	_	_
 4	nec	_	CCONJ	_	_	_	_	_	_
 5	id	_	PRON	_	_	_	_	_	_
@@ -7833,7 +7833,7 @@
 12	ad	_	ADP	_	_	_	_	_	_
 13	rebellandum	_	VERB	_	_	_	_	_	_
 14	incitari	_	VERB	_	_	_	_	_	_
-15	pacatos	_	ADJ	_	_	_	_	_	_
+15	pacatos	_	VERB	_	_	_	_	_	_
 16	populos	_	NOUN	_	_	_	_	_	_
 17	pars	_	NOUN	_	_	_	_	_	_
 18	melior	_	ADJ	_	_	_	_	_	_
@@ -7876,8 +7876,8 @@
 3	esse	_	AUX	_	_	_	_	_	_
 4	fidam	_	ADJ	_	_	_	_	_	_
 5	ubi	_	SCONJ	_	_	_	_	_	_
-6	uoluntarii	_	ADJ	_	_	_	_	_	_
-7	pacati	_	NOUN	_	_	_	_	_	_
+6	uoluntarii	_	NOUN	_	_	_	_	_	_
+7	pacati	_	VERB	_	_	_	_	_	_
 8	sint	_	AUX	_	_	_	_	_	_
 9	neque	_	CCONJ	_	_	_	_	_	_
 10	eo	_	PRON	_	_	_	_	_	_
@@ -7887,7 +7887,7 @@
 14	esse	_	AUX	_	_	_	_	_	_
 15	uelint	_	VERB	_	_	_	_	_	_
 16	fidem	_	NOUN	_	_	_	_	_	_
-17	sperandam	_	ADJ	_	_	_	_	_	_
+17	sperandam	_	VERB	_	_	_	_	_	_
 18	esse	_	AUX	_	_	_	_	_	_
 
 # sent_id = TLiv08-T-LI-4982
@@ -7904,7 +7904,7 @@
 10	ad	_	ADP	_	_	_	_	_	_
 11	principes	_	NOUN	_	_	_	_	_	_
 12	sententiarum	_	NOUN	_	_	_	_	_	_
-13	consulares	_	ADJ	_	_	_	_	_	_
+13	consulares	_	NOUN	_	_	_	_	_	_
 14	uti	_	SCONJ	_	_	_	_	_	_
 15	exaudiri	_	VERB	_	_	_	_	_	_
 16	posset	_	VERB	_	_	_	_	_	_
@@ -7980,7 +7980,7 @@
 14	Cornelio	_	PROPN	_	_	_	_	_	_
 15	Scapula	_	PROPN	_	_	_	_	_	_
 16	consulibus	_	NOUN	_	_	_	_	_	_
-17	praeterquam	_	VERB	_	_	_	_	_	_
+17	praeterquam	_	ADV	_	_	_	_	_	_
 18	quod	_	SCONJ	_	_	_	_	_	_
 19	Fregellas	_	PROPN	_	_	_	_	_	_
 20	Segninorum	_	PROPN	_	_	_	_	_	_
@@ -8013,7 +8013,7 @@
 7	meritam	_	ADJ	_	_	_	_	_	_
 8	mercedem	_	NOUN	_	_	_	_	_	_
 9	populo	_	NOUN	_	_	_	_	_	_
-10	solutam	_	ADJ	_	_	_	_	_	_
+10	solutam	_	VERB	_	_	_	_	_	_
 11	interpretarentur	_	VERB	_	_	_	_	_	_
 12	quod	_	SCONJ	_	_	_	_	_	_
 13	eum	_	PRON	_	_	_	_	_	_
@@ -8060,7 +8060,7 @@
 6	ubi	_	SCONJ	_	_	_	_	_	_
 7	nunc	_	ADV	_	_	_	_	_	_
 8	Neapolis	_	PROPN	_	_	_	_	_	_
-9	sita	_	ADJ	_	_	_	_	_	_
+9	sita	_	VERB	_	_	_	_	_	_
 10	est	_	AUX	_	_	_	_	_	_
 11	duabus	_	NUM	_	_	_	_	_	_
 12	urbibus	_	NOUN	_	_	_	_	_	_
@@ -8110,7 +8110,7 @@
 # text = haec ciuitas cum suis uiribus tum Samnitium infidae aduersus Romanos societati freta siue pestilentiae quae Romanam urbem adorta nuntiabatur fidens multa hostilia aduersus Romanos agrum Campanum Falernumque incolentes fecit
 1	haec	_	DET	_	_	_	_	_	_
 2	ciuitas	_	NOUN	_	_	_	_	_	_
-3	cum	_	SCONJ	_	_	_	_	_	_
+3	cum	_	ADP	_	_	_	_	_	_
 4	suis	_	DET	_	_	_	_	_	_
 5	uiribus	_	NOUN	_	_	_	_	_	_
 6	tum	_	ADV	_	_	_	_	_	_
@@ -8133,7 +8133,7 @@
 23	aduersus	_	ADP	_	_	_	_	_	_
 24	Romanos	_	PROPN	_	_	_	_	_	_
 25	agrum	_	NOUN	_	_	_	_	_	_
-26	Campanum	_	ADJ	_	_	_	_	_	_
+26	Campanum	_	PROPN	_	_	_	_	_	_
 27-28	Falernumque	_	_	_	_	_	_	_	_
 27	Falernum	_	PROPN	_	_	_	_	_	_
 28	que	_	CCONJ	_	_	_	_	_	_
@@ -8174,7 +8174,7 @@
 30	auctoritate	_	NOUN	_	_	_	_	_	_
 31	patrum	_	NOUN	_	_	_	_	_	_
 32	populus	_	NOUN	_	_	_	_	_	_
-33	Palaepolitanis	_	ADJ	_	_	_	_	_	_
+33	Palaepolitanis	_	PROPN	_	_	_	_	_	_
 34	bellum	_	NOUN	_	_	_	_	_	_
 35	fieri	_	VERB	_	_	_	_	_	_
 36	iussit	_	VERB	_	_	_	_	_	_
@@ -8256,7 +8256,7 @@
 37	uniuersum	_	ADJ	_	_	_	_	_	_
 38	que	_	CCONJ	_	_	_	_	_	_
 39	Samnium	_	PROPN	_	_	_	_	_	_
-40	erectum	_	ADJ	_	_	_	_	_	_
+40	erectum	_	VERB	_	_	_	_	_	_
 41	ac	_	CCONJ	_	_	_	_	_	_
 42	uicinos	_	ADJ	_	_	_	_	_	_
 43	populos	_	NOUN	_	_	_	_	_	_
@@ -8288,7 +8288,7 @@
 14	redditur	_	VERB	_	_	_	_	_	_
 15	ab	_	ADP	_	_	_	_	_	_
 16	Samnitibus	_	PROPN	_	_	_	_	_	_
-17	ferox	_	ADJ	_	_	_	_	_	_
+17	ferox	_	NOUN	_	_	_	_	_	_
 
 # sent_id = TLiv08-T-LI-4995
 # text = ultro incusabant iniurias Romanorum neque eo neglegentius ea quae ipsis obicerentur purgabant haud ullo publico consilio auxilioue iuuari Graecos nec Fundanum Formianumue a se sollicitatos quippe minime paenitere se uirium suarum si bellum placeat
@@ -8405,7 +8405,7 @@
 16	inquit	_	VERB	_	_	_	_	_	_
 17	nostra	_	DET	_	_	_	_	_	_
 18	certamina	_	NOUN	_	_	_	_	_	_
-19	Romani	_	PROPN	_	_	_	_	_	_
+19	Romani	_	ADJ	_	_	_	_	_	_
 20	non	_	PART	_	_	_	_	_	_
 21	uerba	_	NOUN	_	_	_	_	_	_
 22	legatorum	_	NOUN	_	_	_	_	_	_
@@ -8442,7 +8442,7 @@
 9	et	_	CCONJ	_	_	_	_	_	_
 10	Samnis	_	PROPN	_	_	_	_	_	_
 11-12	Romanusne	_	_	_	_	_	_	_	_
-11	Romanus	_	PROPN	_	_	_	_	_	_
+11	Romanus	_	ADJ	_	_	_	_	_	_
 12	ne	_	SCONJ	_	_	_	_	_	_
 13	imperio	_	NOUN	_	_	_	_	_	_
 14	Italiam	_	PROPN	_	_	_	_	_	_
@@ -8452,7 +8452,7 @@
 # sent_id = TLiv08-T-LI-4999
 # text = legati Romanorum cum se non quo hostis uocasset sed quo imperatores sui duxissent ituros esse respondissent iam Publilius inter Palaepolim Neapolimque loco opportune capto diremerat hostibus societatem auxilii mutui qua ut quisque locus premeretur inter se usi fuerant
 1	legati	_	NOUN	_	_	_	_	_	_
-2	Romanorum	_	ADJ	_	_	_	_	_	_
+2	Romanorum	_	PROPN	_	_	_	_	_	_
 3	cum	_	SCONJ	_	_	_	_	_	_
 4	se	_	PRON	_	_	_	_	_	_
 5	non	_	PART	_	_	_	_	_	_
@@ -8482,7 +8482,7 @@
 28	societatem	_	NOUN	_	_	_	_	_	_
 29	auxilii	_	NOUN	_	_	_	_	_	_
 30	mutui	_	ADJ	_	_	_	_	_	_
-31	qua	_	SCONJ	_	_	_	_	_	_
+31	qua	_	PRON	_	_	_	_	_	_
 32	ut	_	SCONJ	_	_	_	_	_	_
 33	quisque	_	DET	_	_	_	_	_	_
 34	locus	_	NOUN	_	_	_	_	_	_
@@ -8595,7 +8595,7 @@
 24	in	_	ADP	_	_	_	_	_	_
 25	disquisitionem	_	NOUN	_	_	_	_	_	_
 26	uenit	_	VERB	_	_	_	_	_	_
-27	consulti	_	NOUN	_	_	_	_	_	_
+27	consulti	_	VERB	_	_	_	_	_	_
 28	augures	_	NOUN	_	_	_	_	_	_
 29	uitiosum	_	ADJ	_	_	_	_	_	_
 30	uideri	_	VERB	_	_	_	_	_	_
@@ -8670,8 +8670,8 @@
 62	cui	_	PRON	_	_	_	_	_	_
 63	non	_	PART	_	_	_	_	_	_
 64	apparere	_	VERB	_	_	_	_	_	_
-65	quod	_	SCONJ	_	_	_	_	_	_
-66	plebeius	_	ADJ	_	_	_	_	_	_
+65	quod	_	PRON	_	_	_	_	_	_
+66	plebeius	_	ADV	_	_	_	_	_	_
 67	dictator	_	NOUN	_	_	_	_	_	_
 68	sit	_	AUX	_	_	_	_	_	_
 69	id	_	PRON	_	_	_	_	_	_
@@ -8772,7 +8772,7 @@
 # sent_id = TLiv08-T-LI-5007
 # text = eoque ocius transmisit in Italiam ut quam maxime procul abesset urbe Pandosia in Epiro et Acheronte amni quem ex Molosside fluentem in Stagna Inferna accipit Thesprotius sinus
 1-2	eoque	_	_	_	_	_	_	_	_
-1	eo	_	PRON	_	_	_	_	_	_
+1	eo	_	ADV	_	_	_	_	_	_
 2	que	_	CCONJ	_	_	_	_	_	_
 3	ocius	_	NOUN	_	_	_	_	_	_
 4	transmisit	_	VERB	_	_	_	_	_	_
@@ -8784,7 +8784,7 @@
 10	procul	_	ADV	_	_	_	_	_	_
 11	abesset	_	VERB	_	_	_	_	_	_
 12	urbe	_	NOUN	_	_	_	_	_	_
-13	Pandosia	_	ADJ	_	_	_	_	_	_
+13	Pandosia	_	PROPN	_	_	_	_	_	_
 14	in	_	ADP	_	_	_	_	_	_
 15	Epiro	_	PROPN	_	_	_	_	_	_
 16	et	_	CCONJ	_	_	_	_	_	_
@@ -8813,7 +8813,7 @@
 8	ruitur	_	VERB	_	_	_	_	_	_
 9	cum	_	SCONJ	_	_	_	_	_	_
 10	saepe	_	ADV	_	_	_	_	_	_
-11	Bruttias	_	PROPN	_	_	_	_	_	_
+11	Bruttias	_	ADJ	_	_	_	_	_	_
 12-13	Lucanasque	_	_	_	_	_	_	_	_
 12	Lucanas	_	ADJ	_	_	_	_	_	_
 13	que	_	CCONJ	_	_	_	_	_	_
@@ -8831,7 +8831,7 @@
 24	Consentiam	_	PROPN	_	_	_	_	_	_
 25	ac	_	CCONJ	_	_	_	_	_	_
 26	Terinam	_	PROPN	_	_	_	_	_	_
-27	alias	_	DET	_	_	_	_	_	_
+27	alias	_	ADV	_	_	_	_	_	_
 28	inde	_	ADV	_	_	_	_	_	_
 29	Messapiorum	_	PROPN	_	_	_	_	_	_
 30	ac	_	CCONJ	_	_	_	_	_	_
@@ -8854,13 +8854,13 @@
 47	Pandosia	_	PROPN	_	_	_	_	_	_
 48	urbe	_	NOUN	_	_	_	_	_	_
 49	imminente	_	VERB	_	_	_	_	_	_
-50	Lucanis	_	PROPN	_	_	_	_	_	_
+50	Lucanis	_	ADJ	_	_	_	_	_	_
 51	ac	_	CCONJ	_	_	_	_	_	_
-52	Bruttiis	_	PROPN	_	_	_	_	_	_
+52	Bruttiis	_	ADJ	_	_	_	_	_	_
 53	finibus	_	NOUN	_	_	_	_	_	_
 54	tres	_	NUM	_	_	_	_	_	_
 55	tumulos	_	NOUN	_	_	_	_	_	_
-56	aliquantum	_	PRON	_	_	_	_	_	_
+56	aliquantum	_	ADV	_	_	_	_	_	_
 57	inter	_	ADP	_	_	_	_	_	_
 58	se	_	PRON	_	_	_	_	_	_
 59	distantes	_	VERB	_	_	_	_	_	_
@@ -8882,7 +8882,7 @@
 75	circa	_	ADP	_	_	_	_	_	_
 76	se	_	PRON	_	_	_	_	_	_
 77	pro	_	ADP	_	_	_	_	_	_
-78	fidis	_	ADJ	_	_	_	_	_	_
+78	fidis	_	NOUN	_	_	_	_	_	_
 79	habebat	_	VERB	_	_	_	_	_	_
 80	ut	_	SCONJ	_	_	_	_	_	_
 81	pleraque	_	ADJ	_	_	_	_	_	_
@@ -8944,16 +8944,16 @@
 8	missi	_	VERB	_	_	_	_	_	_
 9	sunt	_	AUX	_	_	_	_	_	_
 10-11	pactoque	_	_	_	_	_	_	_	_
-10	pacto	_	VERB	_	_	_	_	_	_
+10	pacto	_	NOUN	_	_	_	_	_	_
 11	que	_	CCONJ	_	_	_	_	_	_
 12	reditu	_	NOUN	_	_	_	_	_	_
 13	promissum	_	VERB	_	_	_	_	_	_
 14	est	_	AUX	_	_	_	_	_	_
 15	regem	_	NOUN	_	_	_	_	_	_
 16	aut	_	CCONJ	_	_	_	_	_	_
-17	uiuum	_	ADJ	_	_	_	_	_	_
+17	uiuum	_	NOUN	_	_	_	_	_	_
 18	aut	_	CCONJ	_	_	_	_	_	_
-19	mortuum	_	ADJ	_	_	_	_	_	_
+19	mortuum	_	NOUN	_	_	_	_	_	_
 20	in	_	ADP	_	_	_	_	_	_
 21	potestatem	_	NOUN	_	_	_	_	_	_
 22	daturos	_	VERB	_	_	_	_	_	_
@@ -8961,21 +8961,21 @@
 # sent_id = TLiv08-T-LI-5011
 # text = ceterum cum delectis ipse egregium facinus ausus per medios erumpit hostes et ducem Lucanorum comminus congressum obtruncat contrahensque suos ex fuga palatos peruenit ad amnem ruinis recentibus pontis quem uis aquae abstulerat indicantem iter
 1	ceterum	_	ADV	_	_	_	_	_	_
-2	cum	_	ADP	_	_	_	_	_	_
+2	cum	_	SCONJ	_	_	_	_	_	_
 3	delectis	_	VERB	_	_	_	_	_	_
 4	ipse	_	DET	_	_	_	_	_	_
 5	egregium	_	ADJ	_	_	_	_	_	_
 6	facinus	_	NOUN	_	_	_	_	_	_
 7	ausus	_	VERB	_	_	_	_	_	_
 8	per	_	ADP	_	_	_	_	_	_
-9	medios	_	ADJ	_	_	_	_	_	_
+9	medios	_	NOUN	_	_	_	_	_	_
 10	erumpit	_	VERB	_	_	_	_	_	_
 11	hostes	_	NOUN	_	_	_	_	_	_
 12	et	_	CCONJ	_	_	_	_	_	_
 13	ducem	_	NOUN	_	_	_	_	_	_
 14	Lucanorum	_	PROPN	_	_	_	_	_	_
 15	comminus	_	ADV	_	_	_	_	_	_
-16	congressum	_	VERB	_	_	_	_	_	_
+16	congressum	_	NOUN	_	_	_	_	_	_
 17	obtruncat	_	VERB	_	_	_	_	_	_
 18-19	contrahensque	_	_	_	_	_	_	_	_
 18	contrahens	_	VERB	_	_	_	_	_	_
@@ -9018,14 +9018,14 @@
 17	Acheros	_	PROPN	_	_	_	_	_	_
 18	uocaris	_	VERB	_	_	_	_	_	_
 19	inquit	_	VERB	_	_	_	_	_	_
-20	quod	_	PRON	_	_	_	_	_	_
+20	quod	_	SCONJ	_	_	_	_	_	_
 21	ubi	_	SCONJ	_	_	_	_	_	_
 22	ad	_	ADP	_	_	_	_	_	_
 23	aures	_	NOUN	_	_	_	_	_	_
 24	accidit	_	VERB	_	_	_	_	_	_
 25	regis	_	NOUN	_	_	_	_	_	_
 26	adiecit	_	VERB	_	_	_	_	_	_
-27	extemplo	_	VERB	_	_	_	_	_	_
+27	extemplo	_	ADV	_	_	_	_	_	_
 28	animum	_	NOUN	_	_	_	_	_	_
 29	fatis	_	NOUN	_	_	_	_	_	_
 30	suis	_	DET	_	_	_	_	_	_
@@ -9083,7 +9083,7 @@
 21	egressum	_	VERB	_	_	_	_	_	_
 22	eminus	_	ADV	_	_	_	_	_	_
 23	ueruto	_	NOUN	_	_	_	_	_	_
-24	Lucanus	_	PROPN	_	_	_	_	_	_
+24	Lucanus	_	ADJ	_	_	_	_	_	_
 25	exsul	_	NOUN	_	_	_	_	_	_
 26	transfigit	_	VERB	_	_	_	_	_	_
 
@@ -9111,7 +9111,7 @@
 20	medio	_	NOUN	_	_	_	_	_	_
 21	partem	_	NOUN	_	_	_	_	_	_
 22	Consentiam	_	PROPN	_	_	_	_	_	_
-23	misere	_	VERB	_	_	_	_	_	_
+23	misere	_	ADV	_	_	_	_	_	_
 24	pars	_	NOUN	_	_	_	_	_	_
 25	ipsis	_	DET	_	_	_	_	_	_
 26	retenta	_	VERB	_	_	_	_	_	_
@@ -9152,7 +9152,7 @@
 59	sperare	_	VERB	_	_	_	_	_	_
 60	corpore	_	NOUN	_	_	_	_	_	_
 61	regio	_	ADJ	_	_	_	_	_	_
-62	utcumque	_	SCONJ	_	_	_	_	_	_
+62	utcumque	_	DET	_	_	_	_	_	_
 63	mulcato	_	VERB	_	_	_	_	_	_
 64	se	_	PRON	_	_	_	_	_	_
 65	suos	_	DET	_	_	_	_	_	_
@@ -9165,7 +9165,7 @@
 3	lacerationi	_	NOUN	_	_	_	_	_	_
 4	fuit	_	AUX	_	_	_	_	_	_
 5-6	sepultumque	_	_	_	_	_	_	_	_
-5	sepultum	_	VERB	_	_	_	_	_	_
+5	sepultum	_	NOUN	_	_	_	_	_	_
 6	que	_	CCONJ	_	_	_	_	_	_
 7	Consentiae	_	PROPN	_	_	_	_	_	_
 8	quod	_	SCONJ	_	_	_	_	_	_
@@ -9301,7 +9301,7 @@
 20	ad	_	ADP	_	_	_	_	_	_
 21	bellum	_	NOUN	_	_	_	_	_	_
 22	pollicentes	_	VERB	_	_	_	_	_	_
-23	foedere	_	NOUN	_	_	_	_	_	_
+23	foedere	_	VERB	_	_	_	_	_	_
 24	ergo	_	CCONJ	_	_	_	_	_	_
 25	in	_	ADP	_	_	_	_	_	_
 26	amicitiam	_	NOUN	_	_	_	_	_	_
@@ -9411,7 +9411,7 @@
 12	auxilia	_	NOUN	_	_	_	_	_	_
 13	uentura	_	VERB	_	_	_	_	_	_
 14	Samnitium	_	PROPN	_	_	_	_	_	_
-15	plus	_	ADV	_	_	_	_	_	_
+15	plus	_	ADJ	_	_	_	_	_	_
 16	quam	_	SCONJ	_	_	_	_	_	_
 17	uellent	_	VERB	_	_	_	_	_	_
 18	intra	_	ADP	_	_	_	_	_	_
@@ -9421,7 +9421,7 @@
 22	Tarentinorum	_	PROPN	_	_	_	_	_	_
 23	iuuentutem	_	NOUN	_	_	_	_	_	_
 24	Graeci	_	PROPN	_	_	_	_	_	_
-25	Graecos	_	ADJ	_	_	_	_	_	_
+25	Graecos	_	PROPN	_	_	_	_	_	_
 26	haud	_	PART	_	_	_	_	_	_
 27	minus	_	ADV	_	_	_	_	_	_
 28	per	_	ADP	_	_	_	_	_	_
@@ -9500,7 +9500,7 @@
 # sent_id = TLiv08-T-LI-5025
 # text = eo facto utrum ab se prodita an seruata patria uideatur in fide Romana positum esse sibi priuatim nec pacisci quicquam nec petere publice petere quam pacisci magis ut si successisset inceptum cogitaret populus Romanus potius cum quanto studio periculoque reditum in amicitiam suam esset quam qua stultitia et temeritate de officio decessum
 1	eo	_	PRON	_	_	_	_	_	_
-2	facto	_	NOUN	_	_	_	_	_	_
+2	facto	_	VERB	_	_	_	_	_	_
 3	utrum	_	ADV	_	_	_	_	_	_
 4	ab	_	ADP	_	_	_	_	_	_
 5	se	_	PRON	_	_	_	_	_	_
@@ -9626,7 +9626,7 @@
 43	proficiscendum	_	VERB	_	_	_	_	_	_
 44	esse	_	AUX	_	_	_	_	_	_
 45-46	extemploque	_	_	_	_	_	_	_	_
-45	extemplo	_	NOUN	_	_	_	_	_	_
+45	extemplo	_	ADV	_	_	_	_	_	_
 46	que	_	CCONJ	_	_	_	_	_	_
 47	naues	_	NOUN	_	_	_	_	_	_
 48	deducendas	_	VERB	_	_	_	_	_	_
@@ -9654,10 +9654,10 @@
 5	tenebris	_	NOUN	_	_	_	_	_	_
 6	et	_	CCONJ	_	_	_	_	_	_
 7	multitudine	_	NOUN	_	_	_	_	_	_
-8	semet	_	AUX	_	_	_	_	_	_
+8	semet	_	VERB	_	_	_	_	_	_
 9	ipsa	_	DET	_	_	_	_	_	_
 10	impediente	_	VERB	_	_	_	_	_	_
-11	sedulo	_	ADV	_	_	_	_	_	_
+11	sedulo	_	CCONJ	_	_	_	_	_	_
 12	aliis	_	DET	_	_	_	_	_	_
 13	alia	_	DET	_	_	_	_	_	_
 14	imperia	_	NOUN	_	_	_	_	_	_
@@ -9666,13 +9666,13 @@
 17	tempus	_	NOUN	_	_	_	_	_	_
 18	Charilaus	_	PROPN	_	_	_	_	_	_
 19	ex	_	ADP	_	_	_	_	_	_
-20	composito	_	VERB	_	_	_	_	_	_
+20	composito	_	NOUN	_	_	_	_	_	_
 21	ab	_	ADP	_	_	_	_	_	_
 22	sociis	_	NOUN	_	_	_	_	_	_
 23	in	_	ADP	_	_	_	_	_	_
 24	urbem	_	NOUN	_	_	_	_	_	_
 25	receptus	_	VERB	_	_	_	_	_	_
-26	cum	_	ADP	_	_	_	_	_	_
+26	cum	_	SCONJ	_	_	_	_	_	_
 27	summa	_	NOUN	_	_	_	_	_	_
 28	urbis	_	NOUN	_	_	_	_	_	_
 29	Romano	_	ADJ	_	_	_	_	_	_
@@ -9683,7 +9683,7 @@
 34	iussit	_	VERB	_	_	_	_	_	_
 35	ad	_	ADP	_	_	_	_	_	_
 36	quem	_	PRON	_	_	_	_	_	_
-37	Graeci	_	ADJ	_	_	_	_	_	_
+37	Graeci	_	PROPN	_	_	_	_	_	_
 38	signo	_	NOUN	_	_	_	_	_	_
 39	accepto	_	VERB	_	_	_	_	_	_
 40	a	_	ADP	_	_	_	_	_	_
@@ -9732,7 +9732,7 @@
 83	popularibus	_	ADJ	_	_	_	_	_	_
 84	spoliati	_	VERB	_	_	_	_	_	_
 85	atque	_	CCONJ	_	_	_	_	_	_
-86	egentes	_	ADJ	_	_	_	_	_	_
+86	egentes	_	VERB	_	_	_	_	_	_
 87	domos	_	NOUN	_	_	_	_	_	_
 88	rediere	_	VERB	_	_	_	_	_	_
 
@@ -9768,7 +9768,7 @@
 28	Graecorum	_	PROPN	_	_	_	_	_	_
 29	uenit	_	VERB	_	_	_	_	_	_
 30	similius	_	ADJ	_	_	_	_	_	_
-31	uero	_	ADV	_	_	_	_	_	_
+31	uero	_	CCONJ	_	_	_	_	_	_
 32	facit	_	VERB	_	_	_	_	_	_
 33	ipsos	_	DET	_	_	_	_	_	_
 34	in	_	ADP	_	_	_	_	_	_
@@ -9781,10 +9781,10 @@
 2	triumphus	_	NOUN	_	_	_	_	_	_
 3	decretus	_	VERB	_	_	_	_	_	_
 4	quod	_	SCONJ	_	_	_	_	_	_
-5	satis	_	ADJ	_	_	_	_	_	_
+5	satis	_	ADV	_	_	_	_	_	_
 6	credebatur	_	VERB	_	_	_	_	_	_
 7	obsidione	_	NOUN	_	_	_	_	_	_
-8	domitos	_	ADJ	_	_	_	_	_	_
+8	domitos	_	VERB	_	_	_	_	_	_
 9	hostes	_	NOUN	_	_	_	_	_	_
 10	in	_	ADP	_	_	_	_	_	_
 11	fidem	_	NOUN	_	_	_	_	_	_
@@ -9816,7 +9816,7 @@
 4	cum	_	ADP	_	_	_	_	_	_
 5	alterius	_	DET	_	_	_	_	_	_
 6	orae	_	NOUN	_	_	_	_	_	_
-7	Graecis	_	ADJ	_	_	_	_	_	_
+7	Graecis	_	PROPN	_	_	_	_	_	_
 8	exortum	_	VERB	_	_	_	_	_	_
 
 # sent_id = TLiv08-T-LI-5032
@@ -9896,7 +9896,7 @@
 # sent_id = TLiv08-T-LI-5033
 # text = discrimen profecto rerum suarum in bello Samnitium euentuque eius uerti eam solam gentem restare nec eam ipsam satis ualidam quando Lucanus defecerit quem reuocari adhuc impellique ad abolendam societatem Romanam posse si qua ars serendis discordiis adhibeatur
 1	discrimen	_	NOUN	_	_	_	_	_	_
-2	profecto	_	VERB	_	_	_	_	_	_
+2	profecto	_	ADV	_	_	_	_	_	_
 3	rerum	_	NOUN	_	_	_	_	_	_
 4	suarum	_	DET	_	_	_	_	_	_
 5	in	_	ADP	_	_	_	_	_	_
@@ -9956,7 +9956,7 @@
 15	clari	_	ADJ	_	_	_	_	_	_
 16	magis	_	ADV	_	_	_	_	_	_
 17	inter	_	ADP	_	_	_	_	_	_
-18	populares	_	ADJ	_	_	_	_	_	_
+18	populares	_	NOUN	_	_	_	_	_	_
 19	quam	_	SCONJ	_	_	_	_	_	_
 20	honesti	_	ADJ	_	_	_	_	_	_
 21	inter	_	ADP	_	_	_	_	_	_
@@ -9989,14 +9989,14 @@
 13	caesos	_	VERB	_	_	_	_	_	_
 14	ac	_	CCONJ	_	_	_	_	_	_
 15	prope	_	ADV	_	_	_	_	_	_
-16	securi	_	ADJ	_	_	_	_	_	_
+16	securi	_	ADV	_	_	_	_	_	_
 17	percussos	_	VERB	_	_	_	_	_	_
 18	esse	_	AUX	_	_	_	_	_	_
 
 # sent_id = TLiv08-T-LI-5036
 # text = deformis suapte natura res cum speciem iniuriae magis quam doli prae se ferret concitati homines cogunt clamore suo magistratus senatum uocare et alii circumstantes concilium bellum in Romanos poscunt alii ad concitandam in arma multitudinem agrestium discurrunt tumultuque etiam sanos consternante animos decernitur ut societas cum Samnitibus renouaretur legatique ad eam rem mittuntur
 1	deformis	_	ADJ	_	_	_	_	_	_
-2	suapte	_	VERB	_	_	_	_	_	_
+2	suapte	_	NOUN	_	_	_	_	_	_
 3	natura	_	NOUN	_	_	_	_	_	_
 4	res	_	NOUN	_	_	_	_	_	_
 5	cum	_	SCONJ	_	_	_	_	_	_
@@ -10076,7 +10076,7 @@
 19	praesidia	_	NOUN	_	_	_	_	_	_
 20	in	_	ADP	_	_	_	_	_	_
 21	loca	_	NOUN	_	_	_	_	_	_
-22	munita	_	VERB	_	_	_	_	_	_
+22	munita	_	ADJ	_	_	_	_	_	_
 23	accipere	_	VERB	_	_	_	_	_	_
 24	caeci	_	ADJ	_	_	_	_	_	_
 25	fraude	_	NOUN	_	_	_	_	_	_
@@ -10185,7 +10185,7 @@
 10	perlicere	_	VERB	_	_	_	_	_	_
 11	adulescentem	_	NOUN	_	_	_	_	_	_
 12	sermone	_	NOUN	_	_	_	_	_	_
-13	incesto	_	NOUN	_	_	_	_	_	_
+13	incesto	_	ADJ	_	_	_	_	_	_
 14	est	_	AUX	_	_	_	_	_	_
 15	conatus	_	VERB	_	_	_	_	_	_
 16	dein	_	ADV	_	_	_	_	_	_
@@ -10245,7 +10245,7 @@
 25	suae	_	DET	_	_	_	_	_	_
 26	condicionis	_	NOUN	_	_	_	_	_	_
 27-28	liberumque	_	_	_	_	_	_	_	_
-27	liberum	_	NOUN	_	_	_	_	_	_
+27	liberum	_	ADJ	_	_	_	_	_	_
 28	que	_	CCONJ	_	_	_	_	_	_
 29	suorum	_	DET	_	_	_	_	_	_
 30	respectu	_	NOUN	_	_	_	_	_	_
@@ -10322,7 +10322,7 @@
 38	obnoxium	_	ADJ	_	_	_	_	_	_
 39	esset	_	AUX	_	_	_	_	_	_
 40	ita	_	ADV	_	_	_	_	_	_
-41	nexi	_	NOUN	_	_	_	_	_	_
+41	nexi	_	VERB	_	_	_	_	_	_
 42	soluti	_	VERB	_	_	_	_	_	_
 43-44	cautumque	_	_	_	_	_	_	_	_
 43	cautum	_	VERB	_	_	_	_	_	_
@@ -10337,7 +10337,7 @@
 1	eodem	_	DET	_	_	_	_	_	_
 2	anno	_	NOUN	_	_	_	_	_	_
 3	cum	_	SCONJ	_	_	_	_	_	_
-4	satis	_	ADJ	_	_	_	_	_	_
+4	satis	_	ADV	_	_	_	_	_	_
 5	per	_	ADP	_	_	_	_	_	_
 6	se	_	PRON	_	_	_	_	_	_
 7	ipsum	_	DET	_	_	_	_	_	_
@@ -10378,7 +10378,7 @@
 10	iactata	_	VERB	_	_	_	_	_	_
 11	quam	_	SCONJ	_	_	_	_	_	_
 12	in	_	ADP	_	_	_	_	_	_
-13	publico	_	ADJ	_	_	_	_	_	_
+13	publico	_	NOUN	_	_	_	_	_	_
 14	ullo	_	DET	_	_	_	_	_	_
 15	concilio	_	NOUN	_	_	_	_	_	_
 16	est	_	AUX	_	_	_	_	_	_
@@ -10452,7 +10452,7 @@
 40	omne	_	DET	_	_	_	_	_	_
 41	abunde	_	ADV	_	_	_	_	_	_
 42	bello	_	NOUN	_	_	_	_	_	_
-43	Samnitibus	_	ADJ	_	_	_	_	_	_
+43	Samnitibus	_	PROPN	_	_	_	_	_	_
 44	par	_	ADJ	_	_	_	_	_	_
 45	Marsi	_	PROPN	_	_	_	_	_	_
 46-47	Paelignique	_	_	_	_	_	_	_	_
@@ -10514,7 +10514,7 @@
 3	ducti	_	VERB	_	_	_	_	_	_
 4	et	_	CCONJ	_	_	_	_	_	_
 5	cura	_	NOUN	_	_	_	_	_	_
-6	tuendorum	_	ADJ	_	_	_	_	_	_
+6	tuendorum	_	VERB	_	_	_	_	_	_
 7	finium	_	NOUN	_	_	_	_	_	_
 8	hostes	_	NOUN	_	_	_	_	_	_
 9	prohibiti	_	VERB	_	_	_	_	_	_
@@ -10582,7 +10582,7 @@
 36	qua	_	PRON	_	_	_	_	_	_
 37	prope	_	ADV	_	_	_	_	_	_
 38	ad	_	ADP	_	_	_	_	_	_
-39	ultimum	_	NOUN	_	_	_	_	_	_
+39	ultimum	_	ADJ	_	_	_	_	_	_
 40	dimicationis	_	NOUN	_	_	_	_	_	_
 41	uentum	_	VERB	_	_	_	_	_	_
 42	est	_	AUX	_	_	_	_	_	_
@@ -10627,7 +10627,7 @@
 34	accidit	_	VERB	_	_	_	_	_	_
 35	Uestinorum	_	PROPN	_	_	_	_	_	_
 36	res	_	NOUN	_	_	_	_	_	_
-37	haudquaquam	_	ADV	_	_	_	_	_	_
+37	haudquaquam	_	PART	_	_	_	_	_	_
 38	tamen	_	ADV	_	_	_	_	_	_
 39	incruento	_	ADJ	_	_	_	_	_	_
 40	milite	_	NOUN	_	_	_	_	_	_
@@ -10646,7 +10646,7 @@
 53	quidem	_	PART	_	_	_	_	_	_
 54	ac	_	CCONJ	_	_	_	_	_	_
 55	fossis	_	NOUN	_	_	_	_	_	_
-56	freti	_	ADJ	_	_	_	_	_	_
+56	freti	_	VERB	_	_	_	_	_	_
 57	dilaberentur	_	VERB	_	_	_	_	_	_
 58	in	_	ADP	_	_	_	_	_	_
 59	oppida	_	NOUN	_	_	_	_	_	_
@@ -10672,7 +10672,7 @@
 10	ardore	_	NOUN	_	_	_	_	_	_
 11	militum	_	NOUN	_	_	_	_	_	_
 12	a	_	ADP	_	_	_	_	_	_
-13	uolnerum	_	ADJ	_	_	_	_	_	_
+13	uolnerum	_	NOUN	_	_	_	_	_	_
 14	ira	_	NOUN	_	_	_	_	_	_
 15	quod	_	SCONJ	_	_	_	_	_	_
 16	haud	_	PART	_	_	_	_	_	_
@@ -10772,7 +10772,7 @@
 9	comperisset	_	VERB	_	_	_	_	_	_
 10	perinde	_	ADV	_	_	_	_	_	_
 11	omnia	_	DET	_	_	_	_	_	_
-12	soluta	_	VERB	_	_	_	_	_	_
+12	soluta	_	ADJ	_	_	_	_	_	_
 13	apud	_	ADP	_	_	_	_	_	_
 14	hostes	_	NOUN	_	_	_	_	_	_
 15	ac	_	CCONJ	_	_	_	_	_	_
@@ -10803,7 +10803,7 @@
 40	exercitu	_	NOUN	_	_	_	_	_	_
 41	instructo	_	VERB	_	_	_	_	_	_
 42-43	paratoque	_	_	_	_	_	_	_	_
-42	parato	_	ADJ	_	_	_	_	_	_
+42	parato	_	VERB	_	_	_	_	_	_
 43	que	_	CCONJ	_	_	_	_	_	_
 44	profectus	_	VERB	_	_	_	_	_	_
 45	ad	_	ADP	_	_	_	_	_	_
@@ -10839,7 +10839,7 @@
 19	militi	_	NOUN	_	_	_	_	_	_
 20	non	_	PART	_	_	_	_	_	_
 21	miles	_	NOUN	_	_	_	_	_	_
-22	duci	_	VERB	_	_	_	_	_	_
+22	duci	_	NOUN	_	_	_	_	_	_
 23	defuit	_	VERB	_	_	_	_	_	_
 
 # sent_id = TLiv08-T-LI-5059
@@ -10852,7 +10852,7 @@
 6	tribuno	_	NOUN	_	_	_	_	_	_
 7	militum	_	NOUN	_	_	_	_	_	_
 8	qui	_	PRON	_	_	_	_	_	_
-9	aliquotiens	_	DET	_	_	_	_	_	_
+9	aliquotiens	_	ADV	_	_	_	_	_	_
 10	impetu	_	NOUN	_	_	_	_	_	_
 11	capto	_	VERB	_	_	_	_	_	_
 12	perrumpere	_	VERB	_	_	_	_	_	_
@@ -10912,7 +10912,7 @@
 66	apud	_	ADP	_	_	_	_	_	_
 67	antiquissimos	_	ADJ	_	_	_	_	_	_
 68	scriptores	_	NOUN	_	_	_	_	_	_
-69	una	_	NUM	_	_	_	_	_	_
+69	una	_	ADV	_	_	_	_	_	_
 70	haec	_	DET	_	_	_	_	_	_
 71	pugna	_	NOUN	_	_	_	_	_	_
 72	inuenitur	_	VERB	_	_	_	_	_	_
@@ -10941,7 +10941,7 @@
 13	aceruum	_	NOUN	_	_	_	_	_	_
 14	hostilia	_	ADJ	_	_	_	_	_	_
 15	arma	_	NOUN	_	_	_	_	_	_
-16	subdito	_	VERB	_	_	_	_	_	_
+16	subdito	_	ADJ	_	_	_	_	_	_
 17	igne	_	NOUN	_	_	_	_	_	_
 18	concremauit	_	VERB	_	_	_	_	_	_
 19	seu	_	CCONJ	_	_	_	_	_	_
@@ -10956,7 +10956,7 @@
 28	Fabio	_	PROPN	_	_	_	_	_	_
 29	auctori	_	NOUN	_	_	_	_	_	_
 30	eo	_	ADV	_	_	_	_	_	_
-31	factum	_	NOUN	_	_	_	_	_	_
+31	factum	_	VERB	_	_	_	_	_	_
 32	ne	_	SCONJ	_	_	_	_	_	_
 33	suae	_	DET	_	_	_	_	_	_
 34	gloriae	_	NOUN	_	_	_	_	_	_
@@ -11025,7 +11025,7 @@
 7	curia	_	NOUN	_	_	_	_	_	_
 8	proripuit	_	VERB	_	_	_	_	_	_
 9	tum	_	ADV	_	_	_	_	_	_
-10	uero	_	ADV	_	_	_	_	_	_
+10	uero	_	CCONJ	_	_	_	_	_	_
 11	non	_	PART	_	_	_	_	_	_
 12	Samnitium	_	PROPN	_	_	_	_	_	_
 13	magis	_	ADV	_	_	_	_	_	_
@@ -11041,7 +11041,7 @@
 23	equitum	_	NOUN	_	_	_	_	_	_
 24	uictam	_	VERB	_	_	_	_	_	_
 25	et	_	CCONJ	_	_	_	_	_	_
-26	euersam	_	VERB	_	_	_	_	_	_
+26	euersam	_	NOUN	_	_	_	_	_	_
 27	dictitans	_	VERB	_	_	_	_	_	_
 28	si	_	SCONJ	_	_	_	_	_	_
 29	illi	_	DET	_	_	_	_	_	_
@@ -11082,7 +11082,7 @@
 27	auidum	_	ADJ	_	_	_	_	_	_
 28	poenae	_	NOUN	_	_	_	_	_	_
 29	uenire	_	VERB	_	_	_	_	_	_
-30	alternis	_	ADV	_	_	_	_	_	_
+30	alternis	_	ADJ	_	_	_	_	_	_
 31	paene	_	ADV	_	_	_	_	_	_
 32	uerbis	_	NOUN	_	_	_	_	_	_
 33	T	_	PROPN	_	_	_	_	_	_
@@ -11095,7 +11095,7 @@
 1	Fabius	_	PROPN	_	_	_	_	_	_
 2	contione	_	NOUN	_	_	_	_	_	_
 3	extemplo	_	ADV	_	_	_	_	_	_
-4	aduocata	_	NOUN	_	_	_	_	_	_
+4	aduocata	_	VERB	_	_	_	_	_	_
 5	obtestatus	_	VERB	_	_	_	_	_	_
 6	milites	_	NOUN	_	_	_	_	_	_
 7	est	_	AUX	_	_	_	_	_	_
@@ -11159,7 +11159,7 @@
 63	mente	_	NOUN	_	_	_	_	_	_
 64	pugnari	_	VERB	_	_	_	_	_	_
 65	uetuerit	_	VERB	_	_	_	_	_	_
-66	qua	_	SCONJ	_	_	_	_	_	_
+66	qua	_	PRON	_	_	_	_	_	_
 67	pugnatum	_	VERB	_	_	_	_	_	_
 68	doleat	_	VERB	_	_	_	_	_	_
 69	et	_	CCONJ	_	_	_	_	_	_
@@ -11217,7 +11217,7 @@
 3	facturum	_	VERB	_	_	_	_	_	_
 4	fuisse	_	AUX	_	_	_	_	_	_
 5	si	_	SCONJ	_	_	_	_	_	_
-6	quod	_	SCONJ	_	_	_	_	_	_
+6	quod	_	PRON	_	_	_	_	_	_
 7	belli	_	NOUN	_	_	_	_	_	_
 8	casus	_	NOUN	_	_	_	_	_	_
 9	ferunt	_	VERB	_	_	_	_	_	_
@@ -11401,7 +11401,7 @@
 1	tum	_	ADV	_	_	_	_	_	_
 2	silentio	_	NOUN	_	_	_	_	_	_
 3	facto	_	VERB	_	_	_	_	_	_
-4	praeco	_	VERB	_	_	_	_	_	_
+4	praeco	_	NOUN	_	_	_	_	_	_
 5	Q	_	PROPN	_	_	_	_	_	_
 6	Fabium	_	PROPN	_	_	_	_	_	_
 7	magistrum	_	NOUN	_	_	_	_	_	_
@@ -11507,7 +11507,7 @@
 105	cum	_	SCONJ	_	_	_	_	_	_
 106	si	_	SCONJ	_	_	_	_	_	_
 107	ego	_	PRON	_	_	_	_	_	_
-108	tacitus	_	VERB	_	_	_	_	_	_
+108	tacitus	_	ADJ	_	_	_	_	_	_
 109	abissem	_	VERB	_	_	_	_	_	_
 110	tamen	_	ADV	_	_	_	_	_	_
 111	tibi	_	PRON	_	_	_	_	_	_
@@ -11526,7 +11526,7 @@
 2	tu	_	PRON	_	_	_	_	_	_
 3	respondes	_	VERB	_	_	_	_	_	_
 4-5	uetuerimne	_	_	_	_	_	_	_	_
-4	uetuerim	_	VERB	_	_	_	_	_	_
+4	uetuerim	_	ADJ	_	_	_	_	_	_
 5	ne	_	SCONJ	_	_	_	_	_	_
 6	te	_	PRON	_	_	_	_	_	_
 7	quicquam	_	PRON	_	_	_	_	_	_
@@ -11535,7 +11535,7 @@
 10	absente	_	VERB	_	_	_	_	_	_
 11	agere	_	VERB	_	_	_	_	_	_
 12-13	uetuerimne	_	_	_	_	_	_	_	_
-12	uetuerim	_	VERB	_	_	_	_	_	_
+12	uetuerim	_	ADJ	_	_	_	_	_	_
 13	ne	_	SCONJ	_	_	_	_	_	_
 14	signa	_	NOUN	_	_	_	_	_	_
 15	cum	_	ADP	_	_	_	_	_	_
@@ -11555,7 +11555,7 @@
 9	religionibus	_	NOUN	_	_	_	_	_	_
 10	aduersus	_	ADP	_	_	_	_	_	_
 11	morem	_	NOUN	_	_	_	_	_	_
-12	militarem	_	VERB	_	_	_	_	_	_
+12	militarem	_	ADJ	_	_	_	_	_	_
 13-14	disciplinamque	_	_	_	_	_	_	_	_
 13	disciplinam	_	NOUN	_	_	_	_	_	_
 14	que	_	CCONJ	_	_	_	_	_	_
@@ -11580,7 +11580,7 @@
 7	at	_	CCONJ	_	_	_	_	_	_
 8	extra	_	ADP	_	_	_	_	_	_
 9	ea	_	PRON	_	_	_	_	_	_
-10	caue	_	VERB	_	_	_	_	_	_
+10	caue	_	NOUN	_	_	_	_	_	_
 11	uocem	_	NOUN	_	_	_	_	_	_
 12	mittas	_	VERB	_	_	_	_	_	_
 13	accede	_	VERB	_	_	_	_	_	_
@@ -11693,7 +11693,7 @@
 31	eo	_	PRON	_	_	_	_	_	_
 32	exercitum	_	NOUN	_	_	_	_	_	_
 33	damnaret	_	VERB	_	_	_	_	_	_
-34	extrema	_	NOUN	_	_	_	_	_	_
+34	extrema	_	ADJ	_	_	_	_	_	_
 35	contio	_	NOUN	_	_	_	_	_	_
 36	et	_	CCONJ	_	_	_	_	_	_
 37	circa	_	ADP	_	_	_	_	_	_
@@ -11739,7 +11739,7 @@
 28	Fabi	_	PROPN	_	_	_	_	_	_
 29	esse	_	AUX	_	_	_	_	_	_
 30	satis	_	ADV	_	_	_	_	_	_
-31	deformatam	_	ADJ	_	_	_	_	_	_
+31	deformatam	_	VERB	_	_	_	_	_	_
 32	uictoriam	_	NOUN	_	_	_	_	_	_
 33	ne	_	SCONJ	_	_	_	_	_	_
 34	ad	_	ADP	_	_	_	_	_	_
@@ -11765,9 +11765,9 @@
 # sent_id = TLiv08-T-LI-5078
 # text = cum parum precibus parum causa proficerent intueri saeuientem contionem iubebant ita inritatis militum animis subdere ignem ac materiam seditioni non esse aetatis non prudentiae eius neminem id Q Fabio poenam deprecanti suam uitio uersurum sed dictatori si occaecatus ira infestam multitudinem in se prauo certamine mouisset
 1	cum	_	SCONJ	_	_	_	_	_	_
-2	parum	_	NOUN	_	_	_	_	_	_
+2	parum	_	ADV	_	_	_	_	_	_
 3	precibus	_	NOUN	_	_	_	_	_	_
-4	parum	_	NOUN	_	_	_	_	_	_
+4	parum	_	ADV	_	_	_	_	_	_
 5	causa	_	NOUN	_	_	_	_	_	_
 6	proficerent	_	VERB	_	_	_	_	_	_
 7	intueri	_	VERB	_	_	_	_	_	_
@@ -11775,10 +11775,10 @@
 9	contionem	_	NOUN	_	_	_	_	_	_
 10	iubebant	_	VERB	_	_	_	_	_	_
 11	ita	_	ADV	_	_	_	_	_	_
-12	inritatis	_	ADJ	_	_	_	_	_	_
+12	inritatis	_	NOUN	_	_	_	_	_	_
 13	militum	_	NOUN	_	_	_	_	_	_
 14	animis	_	NOUN	_	_	_	_	_	_
-15	subdere	_	VERB	_	_	_	_	_	_
+15	subdere	_	ADJ	_	_	_	_	_	_
 16	ignem	_	NOUN	_	_	_	_	_	_
 17	ac	_	CCONJ	_	_	_	_	_	_
 18	materiam	_	NOUN	_	_	_	_	_	_
@@ -11878,7 +11878,7 @@
 34	eius	_	PRON	_	_	_	_	_	_
 35	uox	_	NOUN	_	_	_	_	_	_
 36	audiretur	_	VERB	_	_	_	_	_	_
-37	nox	_	NOUN	_	_	_	_	_	_
+37	nox	_	ADV	_	_	_	_	_	_
 38	uelut	_	SCONJ	_	_	_	_	_	_
 39	in	_	ADP	_	_	_	_	_	_
 40	proelio	_	NOUN	_	_	_	_	_	_
@@ -11917,7 +11917,7 @@
 26	M	_	PROPN	_	_	_	_	_	_
 27	Fabio	_	PROPN	_	_	_	_	_	_
 28	qui	_	PRON	_	_	_	_	_	_
-29	ter	_	ADJ	_	_	_	_	_	_
+29	ter	_	ADV	_	_	_	_	_	_
 30	iam	_	ADV	_	_	_	_	_	_
 31	consul	_	NOUN	_	_	_	_	_	_
 32-33	dictatorque	_	_	_	_	_	_	_	_
@@ -11925,7 +11925,7 @@
 33	que	_	CCONJ	_	_	_	_	_	_
 34	fuerat	_	AUX	_	_	_	_	_	_
 35	uocato	_	VERB	_	_	_	_	_	_
-36	extemplo	_	ADJ	_	_	_	_	_	_
+36	extemplo	_	ADV	_	_	_	_	_	_
 37	senatu	_	NOUN	_	_	_	_	_	_
 38	cum	_	SCONJ	_	_	_	_	_	_
 39	maxime	_	ADV	_	_	_	_	_	_
@@ -11996,7 +11996,7 @@
 27	mea	_	DET	_	_	_	_	_	_
 28	cui	_	PRON	_	_	_	_	_	_
 29	orbitatem	_	NOUN	_	_	_	_	_	_
-30	paras	_	NOUN	_	_	_	_	_	_
+30	paras	_	VERB	_	_	_	_	_	_
 31	nec	_	CCONJ	_	_	_	_	_	_
 32	uirtus	_	NOUN	_	_	_	_	_	_
 33-34	nobilitasque	_	_	_	_	_	_	_	_
@@ -12041,7 +12041,7 @@
 70	qui	_	PRON	_	_	_	_	_	_
 71	certe	_	ADV	_	_	_	_	_	_
 72	unus	_	NUM	_	_	_	_	_	_
-73	plus	_	ADV	_	_	_	_	_	_
+73	plus	_	ADJ	_	_	_	_	_	_
 74	quam	_	SCONJ	_	_	_	_	_	_
 75	tua	_	DET	_	_	_	_	_	_
 76	dictatura	_	NOUN	_	_	_	_	_	_
@@ -12098,7 +12098,7 @@
 3	bene	_	ADV	_	_	_	_	_	_
 4	agis	_	VERB	_	_	_	_	_	_
 5	inquit	_	VERB	_	_	_	_	_	_
-6	cum	_	ADP	_	_	_	_	_	_
+6	cum	_	SCONJ	_	_	_	_	_	_
 7	eo	_	PRON	_	_	_	_	_	_
 8	nos	_	PRON	_	_	_	_	_	_
 9	deduci	_	VERB	_	_	_	_	_	_
@@ -12211,7 +12211,7 @@
 5	L	_	PROPN	_	_	_	_	_	_
 6	Furio	_	PROPN	_	_	_	_	_	_
 7	qui	_	PRON	_	_	_	_	_	_
-8	contempta	_	NOUN	_	_	_	_	_	_
+8	contempta	_	VERB	_	_	_	_	_	_
 9	sua	_	DET	_	_	_	_	_	_
 10	senectute	_	NOUN	_	_	_	_	_	_
 11	et	_	CCONJ	_	_	_	_	_	_
@@ -12314,7 +12314,7 @@
 9	bello	_	NOUN	_	_	_	_	_	_
 10	fas	_	NOUN	_	_	_	_	_	_
 11	fuerit	_	AUX	_	_	_	_	_	_
-12	uirgas	_	NOUN	_	_	_	_	_	_
+12	uirgas	_	ADJ	_	_	_	_	_	_
 13	et	_	CCONJ	_	_	_	_	_	_
 14	secures	_	ADJ	_	_	_	_	_	_
 15	uictoribus	_	NOUN	_	_	_	_	_	_
@@ -12357,7 +12357,7 @@
 28-29	necaretque	_	_	_	_	_	_	_	_
 28	necaret	_	VERB	_	_	_	_	_	_
 29	que	_	CCONJ	_	_	_	_	_	_
-30	quam	_	SCONJ	_	_	_	_	_	_
+30	quam	_	ADV	_	_	_	_	_	_
 31	conueniens	_	VERB	_	_	_	_	_	_
 32	esse	_	AUX	_	_	_	_	_	_
 33	propter	_	ADP	_	_	_	_	_	_
@@ -12537,7 +12537,7 @@
 9	aduersus	_	ADP	_	_	_	_	_	_
 10	edictum	_	NOUN	_	_	_	_	_	_
 11	suum	_	DET	_	_	_	_	_	_
-12	turbatis	_	ADJ	_	_	_	_	_	_
+12	turbatis	_	VERB	_	_	_	_	_	_
 13	religionibus	_	NOUN	_	_	_	_	_	_
 14	ac	_	CCONJ	_	_	_	_	_	_
 15	dubiis	_	ADJ	_	_	_	_	_	_
@@ -12592,7 +12592,7 @@
 
 # sent_id = TLiv08-T-LI-5095
 # text = quod si fecisset non L Papirium sed tribunos sed prauum populi iudicium nequiquam posteros accusaturos cum polluta semel militari disciplina non miles centurionis non centurio tribuni non tribunus legati non legatus consulis non magister equitum dictatoris pareat imperio nemo hominum nemo deorum uerecundiam habeat non edicta imperatorum non auspicia obseruentur sine commeatu uagi milites in pacato in hostico errent immemores sacramenti licentia sua se ubi uelint exauctorent infrequentia deserantur signa neque conueniatur ad edictum nec discernatur interdiu nocte aequo iniquo loco iussu iniussu imperatoris pugnent et non signa non ordines seruent latrocinii modo caeca et fortuita pro sollemni et sacrata militia sit
-1	quod	_	PRON	_	_	_	_	_	_
+1	quod	_	SCONJ	_	_	_	_	_	_
 2	si	_	SCONJ	_	_	_	_	_	_
 3	fecisset	_	VERB	_	_	_	_	_	_
 4	non	_	PART	_	_	_	_	_	_
@@ -12605,7 +12605,7 @@
 11	populi	_	NOUN	_	_	_	_	_	_
 12	iudicium	_	NOUN	_	_	_	_	_	_
 13	nequiquam	_	ADV	_	_	_	_	_	_
-14	posteros	_	ADJ	_	_	_	_	_	_
+14	posteros	_	NOUN	_	_	_	_	_	_
 15	accusaturos	_	VERB	_	_	_	_	_	_
 16	cum	_	SCONJ	_	_	_	_	_	_
 17	polluta	_	VERB	_	_	_	_	_	_
@@ -12684,7 +12684,7 @@
 90	ordines	_	NOUN	_	_	_	_	_	_
 91	seruent	_	VERB	_	_	_	_	_	_
 92	latrocinii	_	NOUN	_	_	_	_	_	_
-93	modo	_	NOUN	_	_	_	_	_	_
+93	modo	_	ADV	_	_	_	_	_	_
 94	caeca	_	ADJ	_	_	_	_	_	_
 95	et	_	CCONJ	_	_	_	_	_	_
 96	fortuita	_	ADJ	_	_	_	_	_	_
@@ -12718,7 +12718,7 @@
 
 # sent_id = TLiv08-T-LI-5097
 # text = stupentes tribunos et suam iam uicem magis anxios quam eius cui auxilium ab se petebatur liberauit onere consensus populi Romani ad preces et obtestationem uersus ut sibi poenam magistri equitum dictator remitteret
-1	stupentes	_	ADJ	_	_	_	_	_	_
+1	stupentes	_	VERB	_	_	_	_	_	_
 2	tribunos	_	NOUN	_	_	_	_	_	_
 3	et	_	CCONJ	_	_	_	_	_	_
 4	suam	_	DET	_	_	_	_	_	_
@@ -12772,7 +12772,7 @@
 17	Q	_	PROPN	_	_	_	_	_	_
 18	Fabi	_	PROPN	_	_	_	_	_	_
 19	daret	_	VERB	_	_	_	_	_	_
-20	satis	_	ADJ	_	_	_	_	_	_
+20	satis	_	NOUN	_	_	_	_	_	_
 21	eum	_	PRON	_	_	_	_	_	_
 22	poenarum	_	NOUN	_	_	_	_	_	_
 23	dedisse	_	VERB	_	_	_	_	_	_
@@ -12852,7 +12852,7 @@
 
 # sent_id = TLiv08-T-LI-5102
 # text = uiue Q Fabi felicior hoc consensu ciuitatis ad tuendum te quam qua paulo ante insultabas uictoria uiue id facinus ausus cuius tibi ne parens quidem si eodem loco fuisset quo fuit L Papirius ueniam dedisset
-1	uiue	_	ADV	_	_	_	_	_	_
+1	uiue	_	CCONJ	_	_	_	_	_	_
 2	Q	_	PROPN	_	_	_	_	_	_
 3	Fabi	_	PROPN	_	_	_	_	_	_
 4	felicior	_	ADJ	_	_	_	_	_	_
@@ -12868,7 +12868,7 @@
 14	ante	_	ADV	_	_	_	_	_	_
 15	insultabas	_	VERB	_	_	_	_	_	_
 16	uictoria	_	NOUN	_	_	_	_	_	_
-17	uiue	_	ADV	_	_	_	_	_	_
+17	uiue	_	CCONJ	_	_	_	_	_	_
 18	id	_	PRON	_	_	_	_	_	_
 19	facinus	_	NOUN	_	_	_	_	_	_
 20	ausus	_	VERB	_	_	_	_	_	_
@@ -12892,7 +12892,7 @@
 # text = mecum ut uoles reuerteris in gratiam populo Romano cui uitam debes nihil maius praestiteris quam si hic tibi dies satis documenti dederit ut bello ac pace pati legitima imperia possis
 1-2	mecum	_	_	_	_	_	_	_	_
 1	me	_	PRON	_	_	_	_	_	_
-2	cum	_	ADP	_	_	_	_	_	_
+2	cum	_	SCONJ	_	_	_	_	_	_
 3	ut	_	SCONJ	_	_	_	_	_	_
 4	uoles	_	VERB	_	_	_	_	_	_
 5	reuerteris	_	VERB	_	_	_	_	_	_
@@ -12911,7 +12911,7 @@
 18	hic	_	DET	_	_	_	_	_	_
 19	tibi	_	PRON	_	_	_	_	_	_
 20	dies	_	NOUN	_	_	_	_	_	_
-21	satis	_	NOUN	_	_	_	_	_	_
+21	satis	_	ADJ	_	_	_	_	_	_
 22	documenti	_	NOUN	_	_	_	_	_	_
 23	dederit	_	VERB	_	_	_	_	_	_
 24	ut	_	SCONJ	_	_	_	_	_	_
@@ -12953,7 +12953,7 @@
 25	firmatum	_	VERB	_	_	_	_	_	_
 26	que	_	CCONJ	_	_	_	_	_	_
 27	imperium	_	NOUN	_	_	_	_	_	_
-28	militare	_	VERB	_	_	_	_	_	_
+28	militare	_	ADJ	_	_	_	_	_	_
 29	haud	_	PART	_	_	_	_	_	_
 30	minus	_	ADV	_	_	_	_	_	_
 31	periculo	_	NOUN	_	_	_	_	_	_
@@ -13020,7 +13020,7 @@
 9	iniquo	_	ADJ	_	_	_	_	_	_
 10	essent	_	AUX	_	_	_	_	_	_
 11	creditum	_	VERB	_	_	_	_	_	_
-12	uolgo	_	ADJ	_	_	_	_	_	_
+12	uolgo	_	ADV	_	_	_	_	_	_
 13	est	_	AUX	_	_	_	_	_	_
 14	subueniri	_	VERB	_	_	_	_	_	_
 15	eis	_	PRON	_	_	_	_	_	_
@@ -13075,7 +13075,7 @@
 10	equitum	_	NOUN	_	_	_	_	_	_
 11	Q	_	PROPN	_	_	_	_	_	_
 12	Fabio	_	PROPN	_	_	_	_	_	_
-13	uetito	_	VERB	_	_	_	_	_	_
+13	uetito	_	ADJ	_	_	_	_	_	_
 14	quicquam	_	PRON	_	_	_	_	_	_
 15	pro	_	ADP	_	_	_	_	_	_
 16	magistratu	_	NOUN	_	_	_	_	_	_
@@ -13106,7 +13106,7 @@
 41	adesset	_	VERB	_	_	_	_	_	_
 42	an	_	PART	_	_	_	_	_	_
 43	abesset	_	VERB	_	_	_	_	_	_
-44	parui	_	ADJ	_	_	_	_	_	_
+44	parui	_	VERB	_	_	_	_	_	_
 45	facientes	_	VERB	_	_	_	_	_	_
 46	instructa	_	VERB	_	_	_	_	_	_
 47	acie	_	NOUN	_	_	_	_	_	_
@@ -13136,7 +13136,7 @@
 18	debellari	_	VERB	_	_	_	_	_	_
 19	eo	_	PRON	_	_	_	_	_	_
 20	die	_	NOUN	_	_	_	_	_	_
-21	cum	_	ADP	_	_	_	_	_	_
+21	cum	_	SCONJ	_	_	_	_	_	_
 22	Samnitibus	_	PROPN	_	_	_	_	_	_
 23	potuisse	_	VERB	_	_	_	_	_	_
 24	pro	_	ADP	_	_	_	_	_	_
@@ -13232,7 +13232,7 @@
 3	se	_	PRON	_	_	_	_	_	_
 4	popularem	_	ADJ	_	_	_	_	_	_
 5	ita	_	ADV	_	_	_	_	_	_
-6	dextere	_	ADV	_	_	_	_	_	_
+6	dextere	_	VERB	_	_	_	_	_	_
 7	egit	_	VERB	_	_	_	_	_	_
 8	ut	_	SCONJ	_	_	_	_	_	_
 9	medendis	_	VERB	_	_	_	_	_	_
@@ -13268,7 +13268,7 @@
 6	haud	_	PART	_	_	_	_	_	_
 7	dubia	_	ADJ	_	_	_	_	_	_
 8	spe	_	NOUN	_	_	_	_	_	_
-9	sua	_	NOUN	_	_	_	_	_	_
+9	sua	_	DET	_	_	_	_	_	_
 10-11	militumque	_	_	_	_	_	_	_	_
 10	militum	_	NOUN	_	_	_	_	_	_
 11	que	_	CCONJ	_	_	_	_	_	_
@@ -13293,7 +13293,7 @@
 # text = incessit deinde qua duxit praedae spes uictor exercitus perlustrauitque hostium agros nulla arma nullam uim nec apertam nec insidiis expertus
 1	incessit	_	VERB	_	_	_	_	_	_
 2	deinde	_	ADV	_	_	_	_	_	_
-3	qua	_	SCONJ	_	_	_	_	_	_
+3	qua	_	PRON	_	_	_	_	_	_
 4	duxit	_	VERB	_	_	_	_	_	_
 5	praedae	_	NOUN	_	_	_	_	_	_
 6	spes	_	NOUN	_	_	_	_	_	_
@@ -13353,7 +13353,7 @@
 14	uestimenta	_	NOUN	_	_	_	_	_	_
 15	militibus	_	NOUN	_	_	_	_	_	_
 16	et	_	CCONJ	_	_	_	_	_	_
-17	annuum	_	ADJ	_	_	_	_	_	_
+17	annuum	_	NOUN	_	_	_	_	_	_
 18	stipendium	_	NOUN	_	_	_	_	_	_
 19	darent	_	VERB	_	_	_	_	_	_
 20	cum	_	SCONJ	_	_	_	_	_	_
@@ -13418,7 +13418,7 @@
 6	condicionibus	_	NOUN	_	_	_	_	_	_
 7	agebatur	_	VERB	_	_	_	_	_	_
 8	indutias	_	NOUN	_	_	_	_	_	_
-9	annuas	_	ADJ	_	_	_	_	_	_
+9	annuas	_	DET	_	_	_	_	_	_
 10	ab	_	ADP	_	_	_	_	_	_
 11	urbe	_	NOUN	_	_	_	_	_	_
 12	rettulerunt	_	VERB	_	_	_	_	_	_
@@ -13631,7 +13631,7 @@
 8	uenit	_	VERB	_	_	_	_	_	_
 9	ea	_	PRON	_	_	_	_	_	_
 10	multitudo	_	NOUN	_	_	_	_	_	_
-11	ueste	_	NOUN	_	_	_	_	_	_
+11	ueste	_	ADV	_	_	_	_	_	_
 12	mutata	_	VERB	_	_	_	_	_	_
 13	et	_	CCONJ	_	_	_	_	_	_
 14	specie	_	NOUN	_	_	_	_	_	_
@@ -13709,7 +13709,7 @@
 
 # sent_id = TLiv08-T-LI-5126
 # text = insequenti anno Q Fabio L Fuluio consulibus A Cornelius Aruina dictator et M Fabius Ambustus magister equitum metu grauioris in Samnio belli conducta enim pretio a finitimis iuuentus dicebatur intentiore dilectu habito egregium exercitum aduersus Samnites duxerunt
-1	insequenti	_	ADJ	_	_	_	_	_	_
+1	insequenti	_	VERB	_	_	_	_	_	_
 2	anno	_	NOUN	_	_	_	_	_	_
 3	Q	_	PROPN	_	_	_	_	_	_
 4	Fabio	_	PROPN	_	_	_	_	_	_
@@ -13859,7 +13859,7 @@
 10-11	premendoque	_	_	_	_	_	_	_	_
 10	premendo	_	VERB	_	_	_	_	_	_
 11	que	_	CCONJ	_	_	_	_	_	_
-12	iniquis	_	ADJ	_	_	_	_	_	_
+12	iniquis	_	NOUN	_	_	_	_	_	_
 13	ad	_	ADP	_	_	_	_	_	_
 14	transitum	_	NOUN	_	_	_	_	_	_
 15	locis	_	NOUN	_	_	_	_	_	_
@@ -13975,7 +13975,7 @@
 10	exercitus	_	NOUN	_	_	_	_	_	_
 11	pati	_	VERB	_	_	_	_	_	_
 12	et	_	CCONJ	_	_	_	_	_	_
-13	hercule	_	INTJ	_	_	_	_	_	_
+13	hercule	_	DET	_	_	_	_	_	_
 14	illo	_	DET	_	_	_	_	_	_
 15	die	_	NOUN	_	_	_	_	_	_
 16	ab	_	ADP	_	_	_	_	_	_
@@ -14029,7 +14029,7 @@
 10	ac	_	CCONJ	_	_	_	_	_	_
 11	respectu	_	NOUN	_	_	_	_	_	_
 12	pugnabant	_	VERB	_	_	_	_	_	_
-13	fremitus	_	NOUN	_	_	_	_	_	_
+13	fremitus	_	ADV	_	_	_	_	_	_
 14	aequalis	_	ADJ	_	_	_	_	_	_
 15-16	tenorque	_	_	_	_	_	_	_	_
 15	tenor	_	NOUN	_	_	_	_	_	_
@@ -14060,9 +14060,9 @@
 13	subito	_	ADV	_	_	_	_	_	_
 14	Samnitium	_	PROPN	_	_	_	_	_	_
 15	equites	_	NOUN	_	_	_	_	_	_
-16	cum	_	ADP	_	_	_	_	_	_
+16	cum	_	SCONJ	_	_	_	_	_	_
 17	turma	_	NOUN	_	_	_	_	_	_
-18	una	_	NUM	_	_	_	_	_	_
+18	una	_	ADV	_	_	_	_	_	_
 19	longius	_	ADV	_	_	_	_	_	_
 20	prouecta	_	VERB	_	_	_	_	_	_
 21	accepissent	_	VERB	_	_	_	_	_	_
@@ -14083,7 +14083,7 @@
 
 # sent_id = TLiv08-T-LI-5138
 # text = quod ubi dictatori trepidus nuntius attulit sine modo inquit sese praeda praepediant alii deinde super alios diripi passim ferrique fortunas militum uociferabantur
-1	quod	_	PRON	_	_	_	_	_	_
+1	quod	_	SCONJ	_	_	_	_	_	_
 2	ubi	_	SCONJ	_	_	_	_	_	_
 3	dictatori	_	NOUN	_	_	_	_	_	_
 4	trepidus	_	ADJ	_	_	_	_	_	_
@@ -14100,7 +14100,7 @@
 15	super	_	ADP	_	_	_	_	_	_
 16	alios	_	DET	_	_	_	_	_	_
 17	diripi	_	VERB	_	_	_	_	_	_
-18	passim	_	VERB	_	_	_	_	_	_
+18	passim	_	ADV	_	_	_	_	_	_
 19-20	ferrique	_	_	_	_	_	_	_	_
 19	ferri	_	VERB	_	_	_	_	_	_
 20	que	_	CCONJ	_	_	_	_	_	_
@@ -14148,7 +14148,7 @@
 15	in	_	ADP	_	_	_	_	_	_
 16	manu	_	NOUN	_	_	_	_	_	_
 17	sit	_	AUX	_	_	_	_	_	_
-18	inuenies	_	VERB	_	_	_	_	_	_
+18	inuenies	_	ADJ	_	_	_	_	_	_
 19-20	equosque	_	_	_	_	_	_	_	_
 19	equos	_	NOUN	_	_	_	_	_	_
 20	que	_	CCONJ	_	_	_	_	_	_
@@ -14189,11 +14189,11 @@
 5	esse	_	AUX	_	_	_	_	_	_
 6	instructissima	_	ADJ	_	_	_	_	_	_
 7	potest	_	VERB	_	_	_	_	_	_
-8	inuecta	_	VERB	_	_	_	_	_	_
+8	inuecta	_	ADJ	_	_	_	_	_	_
 9	in	_	ADP	_	_	_	_	_	_
 10	dissipatos	_	VERB	_	_	_	_	_	_
 11-12	impeditosque	_	_	_	_	_	_	_	_
-11	impeditos	_	ADJ	_	_	_	_	_	_
+11	impeditos	_	VERB	_	_	_	_	_	_
 12	que	_	CCONJ	_	_	_	_	_	_
 13	hostes	_	NOUN	_	_	_	_	_	_
 14	caede	_	NOUN	_	_	_	_	_	_
@@ -14232,7 +14232,7 @@
 7	Fabius	_	PROPN	_	_	_	_	_	_
 8	circumductis	_	VERB	_	_	_	_	_	_
 9	paululum	_	ADV	_	_	_	_	_	_
-10	alis	_	NOUN	_	_	_	_	_	_
+10	alis	_	DET	_	_	_	_	_	_
 11	ab	_	ADP	_	_	_	_	_	_
 12	tergo	_	NOUN	_	_	_	_	_	_
 13	pedestrem	_	ADJ	_	_	_	_	_	_
@@ -14295,7 +14295,7 @@
 9-10	magisque	_	_	_	_	_	_	_	_
 9	magis	_	ADV	_	_	_	_	_	_
 10	que	_	CCONJ	_	_	_	_	_	_
-11	turbatos	_	ADJ	_	_	_	_	_	_
+11	turbatos	_	VERB	_	_	_	_	_	_
 12	hostes	_	NOUN	_	_	_	_	_	_
 13	cernebant	_	VERB	_	_	_	_	_	_
 14	eques	_	NOUN	_	_	_	_	_	_
@@ -14337,7 +14337,7 @@
 6	que	_	CCONJ	_	_	_	_	_	_
 7	est	_	AUX	_	_	_	_	_	_
 8	adeo	_	ADV	_	_	_	_	_	_
-9	repente	_	NOUN	_	_	_	_	_	_
+9	repente	_	ADV	_	_	_	_	_	_
 10	laboris	_	NOUN	_	_	_	_	_	_
 11	per	_	ADP	_	_	_	_	_	_
 12	diem	_	NOUN	_	_	_	_	_	_
@@ -14428,11 +14428,11 @@
 18	impio	_	ADJ	_	_	_	_	_	_
 19	bello	_	NOUN	_	_	_	_	_	_
 20	et	_	CCONJ	_	_	_	_	_	_
-21	contra	_	ADP	_	_	_	_	_	_
-22	foedus	_	ADJ	_	_	_	_	_	_
+21	contra	_	ADV	_	_	_	_	_	_
+22	foedus	_	NOUN	_	_	_	_	_	_
 23	suscepto	_	VERB	_	_	_	_	_	_
 24	infestioribus	_	ADJ	_	_	_	_	_	_
-25	merito	_	NOUN	_	_	_	_	_	_
+25	merito	_	ADV	_	_	_	_	_	_
 26	deis	_	NOUN	_	_	_	_	_	_
 27	quam	_	SCONJ	_	_	_	_	_	_
 28	hominibus	_	NOUN	_	_	_	_	_	_
@@ -14457,7 +14457,7 @@
 46	paucorum	_	NOUN	_	_	_	_	_	_
 47	an	_	PART	_	_	_	_	_	_
 48	omnium	_	DET	_	_	_	_	_	_
-49	innoxio	_	ADJ	_	_	_	_	_	_
+49	innoxio	_	NOUN	_	_	_	_	_	_
 50	praebeant	_	VERB	_	_	_	_	_	_
 51	sanguine	_	NOUN	_	_	_	_	_	_
 52-53	audebantque	_	_	_	_	_	_	_	_
@@ -14525,7 +14525,7 @@
 49	foedere	_	NOUN	_	_	_	_	_	_
 50	repetitae	_	VERB	_	_	_	_	_	_
 51	essent	_	AUX	_	_	_	_	_	_
-52	secundum	_	ADJ	_	_	_	_	_	_
+52	secundum	_	ADP	_	_	_	_	_	_
 53	ius	_	NOUN	_	_	_	_	_	_
 54-55	fasque	_	_	_	_	_	_	_	_
 54	fas	_	NOUN	_	_	_	_	_	_
@@ -14555,7 +14555,7 @@
 # sent_id = TLiv08-T-LI-5152
 # text = placuit cum corpore bona quoque eius dedi nihil tamen earum rerum praeter captiuos ac si qua cognita ex praeda sunt acceptum est ceterarum rerum inrita fuit deditio dictator ex senatus consulto triumphauit
 1	placuit	_	VERB	_	_	_	_	_	_
-2	cum	_	ADP	_	_	_	_	_	_
+2	cum	_	SCONJ	_	_	_	_	_	_
 3	corpore	_	NOUN	_	_	_	_	_	_
 4	bona	_	NOUN	_	_	_	_	_	_
 5	quoque	_	ADV	_	_	_	_	_	_
@@ -14682,7 +14682,7 @@
 2	memoriam	_	NOUN	_	_	_	_	_	_
 3	funebribus	_	ADJ	_	_	_	_	_	_
 4	laudibus	_	NOUN	_	_	_	_	_	_
-5	reor	_	VERB	_	_	_	_	_	_
+5	reor	_	NOUN	_	_	_	_	_	_
 6-7	falsisque	_	_	_	_	_	_	_	_
 6	falsis	_	ADJ	_	_	_	_	_	_
 7	que	_	CCONJ	_	_	_	_	_	_
@@ -14706,7 +14706,7 @@
 24	certe	_	ADV	_	_	_	_	_	_
 25	et	_	CCONJ	_	_	_	_	_	_
 26	singulorum	_	ADJ	_	_	_	_	_	_
-27	gesta	_	NOUN	_	_	_	_	_	_
+27	gesta	_	VERB	_	_	_	_	_	_
 28	et	_	CCONJ	_	_	_	_	_	_
 29	publica	_	ADJ	_	_	_	_	_	_
 30	monumenta	_	NOUN	_	_	_	_	_	_

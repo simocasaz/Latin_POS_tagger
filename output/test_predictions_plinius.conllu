@@ -2,7 +2,7 @@
 # text = ut nihil instituto operi desit gemmae supersunt et in artum coacta rerum naturae maiestas multis nulla parte mirabilior
 1	ut	_	SCONJ	_	_	_	_	_	_
 2	nihil	_	PRON	_	_	_	_	_	_
-3	instituto	_	VERB	_	_	_	_	_	_
+3	instituto	_	NOUN	_	_	_	_	_	_
 4	operi	_	NOUN	_	_	_	_	_	_
 5	desit	_	VERB	_	_	_	_	_	_
 6	gemmae	_	NOUN	_	_	_	_	_	_
@@ -14,7 +14,7 @@
 12	rerum	_	NOUN	_	_	_	_	_	_
 13	naturae	_	NOUN	_	_	_	_	_	_
 14	maiestas	_	NOUN	_	_	_	_	_	_
-15	multis	_	ADJ	_	_	_	_	_	_
+15	multis	_	NOUN	_	_	_	_	_	_
 16	nulla	_	DET	_	_	_	_	_	_
 17	parte	_	NOUN	_	_	_	_	_	_
 18	mirabilior	_	ADJ	_	_	_	_	_	_
@@ -72,7 +72,7 @@
 6	quibus	_	PRON	_	_	_	_	_	_
 7	initiis	_	NOUN	_	_	_	_	_	_
 8	in	_	ADP	_	_	_	_	_	_
-9	tantum	_	PRON	_	_	_	_	_	_
+9	tantum	_	ADV	_	_	_	_	_	_
 10	admiratio	_	NOUN	_	_	_	_	_	_
 11	haec	_	DET	_	_	_	_	_	_
 12	exarserit	_	VERB	_	_	_	_	_	_
@@ -143,7 +143,7 @@
 23	qui	_	PRON	_	_	_	_	_	_
 24	felix	_	ADJ	_	_	_	_	_	_
 25	erat	_	AUX	_	_	_	_	_	_
-26	satis	_	NOUN	_	_	_	_	_	_
+26	satis	_	ADJ	_	_	_	_	_	_
 27	piamenti	_	NOUN	_	_	_	_	_	_
 28	in	_	ADP	_	_	_	_	_	_
 29	unius	_	NUM	_	_	_	_	_	_
@@ -198,7 +198,7 @@
 10	raptum	_	VERB	_	_	_	_	_	_
 11	ut	_	SCONJ	_	_	_	_	_	_
 12	faceret	_	VERB	_	_	_	_	_	_
-13	ostentum	_	NOUN	_	_	_	_	_	_
+13	ostentum	_	VERB	_	_	_	_	_	_
 14	in	_	ADP	_	_	_	_	_	_
 15	culina	_	NOUN	_	_	_	_	_	_
 16	domino	_	NOUN	_	_	_	_	_	_
@@ -210,7 +210,7 @@
 
 # sent_id = PliNH37-R-ef-9
 # text = sardonychem eam gemmam fuisse constat ostendunt que Romae si credimus in Concordiae delubro cornu aureo Augustae dono inclusam et nouissimum prope locum praelatis multis optinentem
-1	sardonychem	_	ADJ	_	_	_	_	_	_
+1	sardonychem	_	NOUN	_	_	_	_	_	_
 2	eam	_	PRON	_	_	_	_	_	_
 3	gemmam	_	NOUN	_	_	_	_	_	_
 4	fuisse	_	AUX	_	_	_	_	_	_
@@ -230,7 +230,7 @@
 18	inclusam	_	VERB	_	_	_	_	_	_
 19	et	_	CCONJ	_	_	_	_	_	_
 20	nouissimum	_	ADJ	_	_	_	_	_	_
-21	prope	_	ADP	_	_	_	_	_	_
+21	prope	_	ADV	_	_	_	_	_	_
 22	locum	_	NOUN	_	_	_	_	_	_
 23	praelatis	_	VERB	_	_	_	_	_	_
 24	multis	_	NOUN	_	_	_	_	_	_
@@ -263,7 +263,7 @@
 4	achaten	_	NOUN	_	_	_	_	_	_
 5	in	_	ADP	_	_	_	_	_	_
 6	qua	_	PRON	_	_	_	_	_	_
-7	nouem	_	NUM	_	_	_	_	_	_
+7	nouem	_	ADJ	_	_	_	_	_	_
 8	Musae	_	PROPN	_	_	_	_	_	_
 9	et	_	CCONJ	_	_	_	_	_	_
 10	Apollo	_	PROPN	_	_	_	_	_	_
@@ -274,7 +274,7 @@
 15	arte	_	NOUN	_	_	_	_	_	_
 16	sed	_	CCONJ	_	_	_	_	_	_
 17	naturae	_	NOUN	_	_	_	_	_	_
-18	sponte	_	NOUN	_	_	_	_	_	_
+18	sponte	_	ADV	_	_	_	_	_	_
 19	ita	_	ADV	_	_	_	_	_	_
 20	discurrentibus	_	VERB	_	_	_	_	_	_
 21	maculis	_	NOUN	_	_	_	_	_	_
@@ -299,11 +299,11 @@
 9	exstat	_	VERB	_	_	_	_	_	_
 10	apud	_	ADP	_	_	_	_	_	_
 11	auctores	_	NOUN	_	_	_	_	_	_
-12	praeterquam	_	VERB	_	_	_	_	_	_
+12	praeterquam	_	ADV	_	_	_	_	_	_
 13	Ismenian	_	PROPN	_	_	_	_	_	_
 14	choraulen	_	NOUN	_	_	_	_	_	_
 15	multis	_	ADJ	_	_	_	_	_	_
-16	fulgentibus	_	ADJ	_	_	_	_	_	_
+16	fulgentibus	_	NOUN	_	_	_	_	_	_
 17	que	_	CCONJ	_	_	_	_	_	_
 18	uti	_	VERB	_	_	_	_	_	_
 19	solitum	_	ADJ	_	_	_	_	_	_
@@ -318,7 +318,7 @@
 2	in	_	ADP	_	_	_	_	_	_
 3	Cypro	_	PROPN	_	_	_	_	_	_
 4	sex	_	NUM	_	_	_	_	_	_
-5	aureis	_	ADJ	_	_	_	_	_	_
+5	aureis	_	NOUN	_	_	_	_	_	_
 6	smaragdo	_	NOUN	_	_	_	_	_	_
 7	ubi	_	SCONJ	_	_	_	_	_	_
 8	erat	_	AUX	_	_	_	_	_	_
@@ -354,7 +354,7 @@
 9	quoque	_	ADV	_	_	_	_	_	_
 10	ostentatione	_	NOUN	_	_	_	_	_	_
 11	censerentur	_	VERB	_	_	_	_	_	_
-12	ueluti	_	VERB	_	_	_	_	_	_
+12	ueluti	_	ADJ	_	_	_	_	_	_
 13	Dionysodorus	_	PROPN	_	_	_	_	_	_
 14	aequalis	_	NOUN	_	_	_	_	_	_
 15	eius	_	PRON	_	_	_	_	_	_
@@ -419,7 +419,7 @@
 2	gemma	_	NOUN	_	_	_	_	_	_
 3	quae	_	PRON	_	_	_	_	_	_
 4	demonstratur	_	VERB	_	_	_	_	_	_
-5	intacta	_	ADJ	_	_	_	_	_	_
+5	intacta	_	VERB	_	_	_	_	_	_
 6	inlibata	_	VERB	_	_	_	_	_	_
 7	que	_	CCONJ	_	_	_	_	_	_
 8	est	_	AUX	_	_	_	_	_	_
@@ -429,12 +429,12 @@
 1	Ismeniae	_	PROPN	_	_	_	_	_	_
 2	aetate	_	NOUN	_	_	_	_	_	_
 3	multos	_	ADJ	_	_	_	_	_	_
-4	post	_	ADP	_	_	_	_	_	_
+4	post	_	ADV	_	_	_	_	_	_
 5	annos	_	NOUN	_	_	_	_	_	_
 6	apparet	_	VERB	_	_	_	_	_	_
-7	scalpi	_	NOUN	_	_	_	_	_	_
+7	scalpi	_	VERB	_	_	_	_	_	_
 8	etiam	_	ADV	_	_	_	_	_	_
-9	smaragdos	_	ADJ	_	_	_	_	_	_
+9	smaragdos	_	NOUN	_	_	_	_	_	_
 10	solitos	_	ADJ	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-19
@@ -502,7 +502,7 @@
 2	apud	_	ADP	_	_	_	_	_	_
 3	auctores	_	NOUN	_	_	_	_	_	_
 4	et	_	ADV	_	_	_	_	_	_
-5	Intercatiensem	_	ADJ	_	_	_	_	_	_
+5	Intercatiensem	_	PROPN	_	_	_	_	_	_
 6	illum	_	DET	_	_	_	_	_	_
 7	cuius	_	PRON	_	_	_	_	_	_
 8	patrem	_	NOUN	_	_	_	_	_	_
@@ -545,7 +545,7 @@
 # text = duas in matris anulis eas indiscretae similitudinis inuenerat
 1	duas	_	NUM	_	_	_	_	_	_
 2	in	_	ADP	_	_	_	_	_	_
-3	matris	_	ADJ	_	_	_	_	_	_
+3	matris	_	NOUN	_	_	_	_	_	_
 4	anulis	_	NOUN	_	_	_	_	_	_
 5	eas	_	PRON	_	_	_	_	_	_
 6	indiscretae	_	ADJ	_	_	_	_	_	_
@@ -573,7 +573,7 @@
 17	reddi	_	VERB	_	_	_	_	_	_
 18	postulabat	_	VERB	_	_	_	_	_	_
 19	non	_	PART	_	_	_	_	_	_
-20	inficeto	_	VERB	_	_	_	_	_	_
+20	inficeto	_	ADJ	_	_	_	_	_	_
 21	lepore	_	NOUN	_	_	_	_	_	_
 22	accipientium	_	VERB	_	_	_	_	_	_
 23	aenigmata	_	NOUN	_	_	_	_	_	_
@@ -696,14 +696,14 @@
 16	Cn	_	PROPN	_	_	_	_	_	_
 17	Manli	_	PROPN	_	_	_	_	_	_
 18	ad	_	ADP	_	_	_	_	_	_
-19	caelatum	_	ADJ	_	_	_	_	_	_
+19	caelatum	_	NOUN	_	_	_	_	_	_
 20	argentum	_	NOUN	_	_	_	_	_	_
 21	et	_	CCONJ	_	_	_	_	_	_
 22	uestes	_	NOUN	_	_	_	_	_	_
 23	Attalicas	_	ADJ	_	_	_	_	_	_
 24	et	_	CCONJ	_	_	_	_	_	_
-25	triclinia	_	ADJ	_	_	_	_	_	_
-26	aerata	_	NOUN	_	_	_	_	_	_
+25	triclinia	_	NOUN	_	_	_	_	_	_
+26	aerata	_	VERB	_	_	_	_	_	_
 27	sicut	_	SCONJ	_	_	_	_	_	_
 28	L	_	PROPN	_	_	_	_	_	_
 29	Mummi	_	PROPN	_	_	_	_	_	_
@@ -751,10 +751,10 @@
 20	Pisone	_	PROPN	_	_	_	_	_	_
 21	M	_	PROPN	_	_	_	_	_	_
 22	Messala	_	PROPN	_	_	_	_	_	_
-23	cos	_	NOUN	_	_	_	_	_	_
-24	pr	_	ADP	_	_	_	_	_	_
-25	k	_	NOUN	_	_	_	_	_	_
-26	Octobres	_	ADJ	_	_	_	_	_	_
+23	cos	_	PRON	_	_	_	_	_	_
+24	pr	_	ADV	_	_	_	_	_	_
+25	k	_	ADV	_	_	_	_	_	_
+26	Octobres	_	PROPN	_	_	_	_	_	_
 27	natali	_	NOUN	_	_	_	_	_	_
 28	suo	_	DET	_	_	_	_	_	_
 29	egit	_	VERB	_	_	_	_	_	_
@@ -774,7 +774,7 @@
 43	quattuor	_	NUM	_	_	_	_	_	_
 44	ne	_	SCONJ	_	_	_	_	_	_
 45	quis	_	PRON	_	_	_	_	_	_
-46	effetas	_	ADJ	_	_	_	_	_	_
+46	effetas	_	VERB	_	_	_	_	_	_
 47	res	_	NOUN	_	_	_	_	_	_
 48	dubitet	_	VERB	_	_	_	_	_	_
 49	nulla	_	DET	_	_	_	_	_	_
@@ -796,7 +796,7 @@
 65	lectos	_	NOUN	_	_	_	_	_	_
 66	tricliniares	_	ADJ	_	_	_	_	_	_
 67	tres	_	NUM	_	_	_	_	_	_
-68	uasa	_	VERB	_	_	_	_	_	_
+68	uasa	_	NOUN	_	_	_	_	_	_
 69	ex	_	ADP	_	_	_	_	_	_
 70	auro	_	NOUN	_	_	_	_	_	_
 71	et	_	CCONJ	_	_	_	_	_	_
@@ -826,7 +826,7 @@
 95	generis	_	NOUN	_	_	_	_	_	_
 96	circumdata	_	VERB	_	_	_	_	_	_
 97	uite	_	NOUN	_	_	_	_	_	_
-98	aurea	_	NOUN	_	_	_	_	_	_
+98	aurea	_	ADJ	_	_	_	_	_	_
 99	Musaeum	_	PROPN	_	_	_	_	_	_
 100	ex	_	ADP	_	_	_	_	_	_
 101	margaritis	_	NOUN	_	_	_	_	_	_
@@ -849,7 +849,7 @@
 10	honore	_	NOUN	_	_	_	_	_	_
 11	grata	_	ADJ	_	_	_	_	_	_
 12	illius	_	DET	_	_	_	_	_	_
-13	probi	_	NOUN	_	_	_	_	_	_
+13	probi	_	ADV	_	_	_	_	_	_
 14	oris	_	NOUN	_	_	_	_	_	_
 15	uenerandi	_	VERB	_	_	_	_	_	_
 16	que	_	CCONJ	_	_	_	_	_	_
@@ -887,7 +887,7 @@
 # text = e margaritis Magne tam prodiga re et feminis reperta quas gerere te fas non sit fieri tuos uoltus
 1	e	_	ADP	_	_	_	_	_	_
 2	margaritis	_	NOUN	_	_	_	_	_	_
-3	Magne	_	ADJ	_	_	_	_	_	_
+3	Magne	_	PROPN	_	_	_	_	_	_
 4	tam	_	ADV	_	_	_	_	_	_
 5	prodiga	_	ADJ	_	_	_	_	_	_
 6	re	_	NOUN	_	_	_	_	_	_
@@ -921,23 +921,23 @@
 6	est	_	AUX	_	_	_	_	_	_
 7	imago	_	NOUN	_	_	_	_	_	_
 8	quam	_	SCONJ	_	_	_	_	_	_
-9	Pyrenaei	_	ADJ	_	_	_	_	_	_
+9	Pyrenaei	_	PROPN	_	_	_	_	_	_
 10	iugis	_	NOUN	_	_	_	_	_	_
 11	inposuisti	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-38
 # text = graue profecto foedum probrum erat ni uerius saeuum irae deorum ostentum id credi oporteret clare que intellegi posset iam tum illud caput orientis opibus sine reliquo corpore ostentatum
 1	graue	_	ADJ	_	_	_	_	_	_
-2	profecto	_	VERB	_	_	_	_	_	_
+2	profecto	_	ADV	_	_	_	_	_	_
 3	foedum	_	ADJ	_	_	_	_	_	_
-4	probrum	_	ADJ	_	_	_	_	_	_
+4	probrum	_	NOUN	_	_	_	_	_	_
 5	erat	_	AUX	_	_	_	_	_	_
 6	ni	_	SCONJ	_	_	_	_	_	_
-7	uerius	_	ADJ	_	_	_	_	_	_
+7	uerius	_	ADV	_	_	_	_	_	_
 8	saeuum	_	ADJ	_	_	_	_	_	_
 9	irae	_	NOUN	_	_	_	_	_	_
 10	deorum	_	NOUN	_	_	_	_	_	_
-11	ostentum	_	NOUN	_	_	_	_	_	_
+11	ostentum	_	VERB	_	_	_	_	_	_
 12	id	_	PRON	_	_	_	_	_	_
 13	credi	_	VERB	_	_	_	_	_	_
 14	oporteret	_	VERB	_	_	_	_	_	_
@@ -983,7 +983,7 @@
 15	militibus	_	NOUN	_	_	_	_	_	_
 16	singulis	_	ADJ	_	_	_	_	_	_
 17	hs	_	NOUN	_	_	_	_	_	_
-18	sena	_	NOUN	_	_	_	_	_	_
+18	sena	_	ADJ	_	_	_	_	_	_
 19	milia	_	NUM	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-41
@@ -1073,9 +1073,9 @@
 4	hominum	_	NOUN	_	_	_	_	_	_
 5	usum	_	NOUN	_	_	_	_	_	_
 6	transiere	_	VERB	_	_	_	_	_	_
-7	abacis	_	ADJ	_	_	_	_	_	_
+7	abacis	_	NOUN	_	_	_	_	_	_
 8	etiam	_	ADV	_	_	_	_	_	_
-9	escariis	_	ADJ	_	_	_	_	_	_
+9	escariis	_	NOUN	_	_	_	_	_	_
 10	que	_	CCONJ	_	_	_	_	_	_
 11	uasis	_	NOUN	_	_	_	_	_	_
 12	expetitis	_	VERB	_	_	_	_	_	_
@@ -1109,7 +1109,7 @@
 2	consularis	_	NOUN	_	_	_	_	_	_
 3	ob	_	ADP	_	_	_	_	_	_
 4	amorem	_	NOUN	_	_	_	_	_	_
-5	adroso	_	ADJ	_	_	_	_	_	_
+5	adroso	_	VERB	_	_	_	_	_	_
 6	margine	_	NOUN	_	_	_	_	_	_
 7	eius	_	PRON	_	_	_	_	_	_
 8	ut	_	SCONJ	_	_	_	_	_	_
@@ -1153,7 +1153,7 @@
 20	exposita	_	VERB	_	_	_	_	_	_
 21	occuparent	_	VERB	_	_	_	_	_	_
 22	theatrum	_	NOUN	_	_	_	_	_	_
-23	peculiare	_	ADV	_	_	_	_	_	_
+23	peculiare	_	ADJ	_	_	_	_	_	_
 24	trans	_	ADP	_	_	_	_	_	_
 25	Tiberim	_	PROPN	_	_	_	_	_	_
 26	in	_	ADP	_	_	_	_	_	_
@@ -1165,7 +1165,7 @@
 32	canente	_	VERB	_	_	_	_	_	_
 33	se	_	PRON	_	_	_	_	_	_
 34	dum	_	SCONJ	_	_	_	_	_	_
-35	Pompeiano	_	ADJ	_	_	_	_	_	_
+35	Pompeiano	_	PROPN	_	_	_	_	_	_
 36	proludit	_	VERB	_	_	_	_	_	_
 37	etiam	_	ADV	_	_	_	_	_	_
 38	Neroni	_	PROPN	_	_	_	_	_	_
@@ -1237,7 +1237,7 @@
 
 # sent_id = PliNH37-R-ef-54
 # text = memoranda res tanti imperatorem patrem que patriae bibisse
-1	memoranda	_	ADJ	_	_	_	_	_	_
+1	memoranda	_	VERB	_	_	_	_	_	_
 2	res	_	NOUN	_	_	_	_	_	_
 3	tanti	_	DET	_	_	_	_	_	_
 4	imperatorem	_	NOUN	_	_	_	_	_	_
@@ -1248,7 +1248,7 @@
 
 # sent_id = PliNH37-R-ef-55
 # text = oriens myrrhina mittit
-1	oriens	_	ADJ	_	_	_	_	_	_
+1	oriens	_	VERB	_	_	_	_	_	_
 2	myrrhina	_	NOUN	_	_	_	_	_	_
 3	mittit	_	VERB	_	_	_	_	_	_
 
@@ -1275,7 +1275,7 @@
 3	terra	_	NOUN	_	_	_	_	_	_
 4	putant	_	VERB	_	_	_	_	_	_
 5	calore	_	NOUN	_	_	_	_	_	_
-6	densari	_	VERB	_	_	_	_	_	_
+6	densari	_	ADJ	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-58
 # text = amplitudine numquam paruos excedunt abacos crassitudine raro quanta dicta sunt potoria
@@ -1287,9 +1287,9 @@
 6	crassitudine	_	NOUN	_	_	_	_	_	_
 7	raro	_	ADV	_	_	_	_	_	_
 8	quanta	_	DET	_	_	_	_	_	_
-9	dicta	_	NOUN	_	_	_	_	_	_
+9	dicta	_	VERB	_	_	_	_	_	_
 10	sunt	_	AUX	_	_	_	_	_	_
-11	potoria	_	ADJ	_	_	_	_	_	_
+11	potoria	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-59
 # text = splendor est iis sine uiribus nitor que uerius quam splendor
@@ -1357,7 +1357,7 @@
 1	iam	_	ADV	_	_	_	_	_	_
 2	aliis	_	DET	_	_	_	_	_	_
 3	maculae	_	NOUN	_	_	_	_	_	_
-4	pingues	_	ADJ	_	_	_	_	_	_
+4	pingues	_	NOUN	_	_	_	_	_	_
 5	placent	_	VERB	_	_	_	_	_	_
 6	tralucere	_	VERB	_	_	_	_	_	_
 7	quicquam	_	PRON	_	_	_	_	_	_
@@ -1398,7 +1398,7 @@
 5	facit	_	VERB	_	_	_	_	_	_
 6	gelu	_	NOUN	_	_	_	_	_	_
 7	uehementiore	_	ADJ	_	_	_	_	_	_
-8	concreto	_	VERB	_	_	_	_	_	_
+8	concreto	_	ADJ	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-65
 # text = non aliubi certe reperitur quam ubi maxime hibernae niues rigent glaciem que esse certum est unde nomen Graeci dedere
@@ -1409,7 +1409,7 @@
 5	quam	_	SCONJ	_	_	_	_	_	_
 6	ubi	_	SCONJ	_	_	_	_	_	_
 7	maxime	_	ADV	_	_	_	_	_	_
-8	hibernae	_	ADJ	_	_	_	_	_	_
+8	hibernae	_	NOUN	_	_	_	_	_	_
 9	niues	_	NOUN	_	_	_	_	_	_
 10	rigent	_	VERB	_	_	_	_	_	_
 11	glaciem	_	NOUN	_	_	_	_	_	_
@@ -1417,9 +1417,9 @@
 13	esse	_	AUX	_	_	_	_	_	_
 14	certum	_	ADJ	_	_	_	_	_	_
 15	est	_	AUX	_	_	_	_	_	_
-16	unde	_	SCONJ	_	_	_	_	_	_
+16	unde	_	ADV	_	_	_	_	_	_
 17	nomen	_	NOUN	_	_	_	_	_	_
-18	Graeci	_	ADJ	_	_	_	_	_	_
+18	Graeci	_	PROPN	_	_	_	_	_	_
 19	dedere	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-66
@@ -1513,7 +1513,7 @@
 # text = hoc mirum quod Xenocrates Ephesius tradit aratro in Asia et Cypro excitari
 1	hoc	_	DET	_	_	_	_	_	_
 2	mirum	_	ADJ	_	_	_	_	_	_
-3	quod	_	SCONJ	_	_	_	_	_	_
+3	quod	_	PRON	_	_	_	_	_	_
 4	Xenocrates	_	PROPN	_	_	_	_	_	_
 5	Ephesius	_	PROPN	_	_	_	_	_	_
 6	tradit	_	VERB	_	_	_	_	_	_
@@ -1541,9 +1541,9 @@
 # sent_id = PliNH37-R-ef-72
 # text = similius ueri est quod idem Xenocrates tradit et torrentibus saepe deportari
 1	similius	_	ADJ	_	_	_	_	_	_
-2	ueri	_	ADJ	_	_	_	_	_	_
+2	ueri	_	NOUN	_	_	_	_	_	_
 3	est	_	AUX	_	_	_	_	_	_
-4	quod	_	PRON	_	_	_	_	_	_
+4	quod	_	SCONJ	_	_	_	_	_	_
 5	idem	_	DET	_	_	_	_	_	_
 6	Xenocrates	_	PROPN	_	_	_	_	_	_
 7	tradit	_	VERB	_	_	_	_	_	_
@@ -1576,7 +1576,7 @@
 9	in	_	ADP	_	_	_	_	_	_
 10	regione	_	NOUN	_	_	_	_	_	_
 11	praegelida	_	ADJ	_	_	_	_	_	_
-12	uel	_	ADV	_	_	_	_	_	_
+12	uel	_	CCONJ	_	_	_	_	_	_
 13	si	_	SCONJ	_	_	_	_	_	_
 14	ad	_	ADP	_	_	_	_	_	_
 15	uada	_	NOUN	_	_	_	_	_	_
@@ -1610,7 +1610,7 @@
 
 # sent_id = PliNH37-R-ef-77
 # text = quare nascatur sexangulis lateribus non facile ratio iniri potest eo magis quod neque in mucronibus eadem species est et ita absolutus laterum leuor est ut nulla id arte possit aequari
-1	quare	_	ADV	_	_	_	_	_	_
+1	quare	_	CCONJ	_	_	_	_	_	_
 2	nascatur	_	VERB	_	_	_	_	_	_
 3	sexangulis	_	ADJ	_	_	_	_	_	_
 4	lateribus	_	NOUN	_	_	_	_	_	_
@@ -1665,14 +1665,14 @@
 2	idem	_	DET	_	_	_	_	_	_
 3	auctor	_	NOUN	_	_	_	_	_	_
 4	est	_	AUX	_	_	_	_	_	_
-5	uas	_	NOUN	_	_	_	_	_	_
-6	amphorale	_	ADJ	_	_	_	_	_	_
+5	uas	_	PRON	_	_	_	_	_	_
+6	amphorale	_	NOUN	_	_	_	_	_	_
 7	uisum	_	VERB	_	_	_	_	_	_
 8	et	_	CCONJ	_	_	_	_	_	_
 9	aliqui	_	PRON	_	_	_	_	_	_
 10	ex	_	ADP	_	_	_	_	_	_
 11	India	_	PROPN	_	_	_	_	_	_
-12	sextariorum	_	ADJ	_	_	_	_	_	_
+12	sextariorum	_	NOUN	_	_	_	_	_	_
 13	quattuor	_	NUM	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-80
@@ -1708,14 +1708,14 @@
 1	infestantur	_	VERB	_	_	_	_	_	_
 2	plurimis	_	ADJ	_	_	_	_	_	_
 3	uitiis	_	NOUN	_	_	_	_	_	_
-4	scabro	_	NOUN	_	_	_	_	_	_
+4	scabro	_	ADJ	_	_	_	_	_	_
 5	ferumine	_	NOUN	_	_	_	_	_	_
 6	maculosa	_	ADJ	_	_	_	_	_	_
 7	nube	_	NOUN	_	_	_	_	_	_
 8	occulta	_	ADJ	_	_	_	_	_	_
 9	aliquando	_	ADV	_	_	_	_	_	_
 10	uomica	_	ADJ	_	_	_	_	_	_
-11	praeduro	_	ADJ	_	_	_	_	_	_
+11	praeduro	_	NOUN	_	_	_	_	_	_
 12	fragili	_	ADJ	_	_	_	_	_	_
 13	que	_	CCONJ	_	_	_	_	_	_
 14	centro	_	NOUN	_	_	_	_	_	_
@@ -1776,7 +1776,7 @@
 3	medicos	_	NOUN	_	_	_	_	_	_
 4	quae	_	PRON	_	_	_	_	_	_
 5	sint	_	AUX	_	_	_	_	_	_
-6	urenda	_	VERB	_	_	_	_	_	_
+6	urenda	_	NOUN	_	_	_	_	_	_
 7	corporum	_	NOUN	_	_	_	_	_	_
 8	non	_	PART	_	_	_	_	_	_
 9	aliter	_	ADV	_	_	_	_	_	_
@@ -1788,7 +1788,7 @@
 15	pila	_	NOUN	_	_	_	_	_	_
 16	aduersis	_	ADJ	_	_	_	_	_	_
 17	opposita	_	VERB	_	_	_	_	_	_
-18	solis	_	DET	_	_	_	_	_	_
+18	solis	_	NOUN	_	_	_	_	_	_
 19	radiis	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-88
@@ -1847,7 +1847,7 @@
 # sent_id = PliNH37-R-ef-91
 # text = fragmenta sarciri nullo modo queunt
 1	fragmenta	_	NOUN	_	_	_	_	_	_
-2	sarciri	_	VERB	_	_	_	_	_	_
+2	sarciri	_	NOUN	_	_	_	_	_	_
 3	nullo	_	DET	_	_	_	_	_	_
 4	modo	_	NOUN	_	_	_	_	_	_
 5	queunt	_	VERB	_	_	_	_	_	_
@@ -1867,7 +1867,7 @@
 11	suum	_	DET	_	_	_	_	_	_
 12	pretium	_	NOUN	_	_	_	_	_	_
 13	auxerint	_	VERB	_	_	_	_	_	_
-14	crystalli	_	ADJ	_	_	_	_	_	_
+14	crystalli	_	NOUN	_	_	_	_	_	_
 15	non	_	PART	_	_	_	_	_	_
 16	deminuerint	_	VERB	_	_	_	_	_	_
 
@@ -1880,7 +1880,7 @@
 5	feminarum	_	NOUN	_	_	_	_	_	_
 6	tamen	_	ADV	_	_	_	_	_	_
 7	adhuc	_	ADV	_	_	_	_	_	_
-8	tantum	_	DET	_	_	_	_	_	_
+8	tantum	_	ADV	_	_	_	_	_	_
 9	sucina	_	NOUN	_	_	_	_	_	_
 10	optinent	_	VERB	_	_	_	_	_	_
 11	eandem	_	DET	_	_	_	_	_	_
@@ -1900,8 +1900,8 @@
 5	de	_	ADP	_	_	_	_	_	_
 6	causis	_	NOUN	_	_	_	_	_	_
 7	crystallina	_	ADJ	_	_	_	_	_	_
-8	frigido	_	ADJ	_	_	_	_	_	_
-9	potu	_	VERB	_	_	_	_	_	_
+8	frigido	_	NOUN	_	_	_	_	_	_
+9	potu	_	NOUN	_	_	_	_	_	_
 10	myrrhina	_	NOUN	_	_	_	_	_	_
 11	utroque	_	DET	_	_	_	_	_	_
 
@@ -1928,8 +1928,8 @@
 # sent_id = PliNH37-R-ef-97
 # text = legentes modo aequo perpetiantur animo cum hoc quoque intersit uitae scire non quidquid illi prodidere mirandum
 1	legentes	_	VERB	_	_	_	_	_	_
-2	modo	_	NOUN	_	_	_	_	_	_
-3	aequo	_	ADJ	_	_	_	_	_	_
+2	modo	_	ADV	_	_	_	_	_	_
+3	aequo	_	NOUN	_	_	_	_	_	_
 4	perpetiantur	_	VERB	_	_	_	_	_	_
 5	animo	_	NOUN	_	_	_	_	_	_
 6	cum	_	SCONJ	_	_	_	_	_	_
@@ -1942,7 +1942,7 @@
 13	quidquid	_	DET	_	_	_	_	_	_
 14	illi	_	DET	_	_	_	_	_	_
 15	prodidere	_	VERB	_	_	_	_	_	_
-16	mirandum	_	ADJ	_	_	_	_	_	_
+16	mirandum	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-98
 # text = Phaethontis fulmine icti sorores luctu mutatas in arbores populos lacrimis electrum omnibus annis fundere iuxta Eridanum amnem quem Padum uocauimus electrum appellatum quoniam sol uocitatus sit Elector plurimi poetae dixere primi que ut arbitror Aeschylus Philoxenus Euripides Nicander Satyrus
@@ -1956,7 +1956,7 @@
 8	arbores	_	NOUN	_	_	_	_	_	_
 9	populos	_	NOUN	_	_	_	_	_	_
 10	lacrimis	_	NOUN	_	_	_	_	_	_
-11	electrum	_	ADJ	_	_	_	_	_	_
+11	electrum	_	NOUN	_	_	_	_	_	_
 12	omnibus	_	DET	_	_	_	_	_	_
 13	annis	_	NOUN	_	_	_	_	_	_
 14	fundere	_	VERB	_	_	_	_	_	_
@@ -1966,7 +1966,7 @@
 18	quem	_	PRON	_	_	_	_	_	_
 19	Padum	_	PROPN	_	_	_	_	_	_
 20	uocauimus	_	VERB	_	_	_	_	_	_
-21	electrum	_	ADJ	_	_	_	_	_	_
+21	electrum	_	NOUN	_	_	_	_	_	_
 22	appellatum	_	VERB	_	_	_	_	_	_
 23	quoniam	_	SCONJ	_	_	_	_	_	_
 24	sol	_	NOUN	_	_	_	_	_	_
@@ -1979,7 +1979,7 @@
 31	primi	_	ADJ	_	_	_	_	_	_
 32	que	_	CCONJ	_	_	_	_	_	_
 33	ut	_	SCONJ	_	_	_	_	_	_
-34	arbitror	_	VERB	_	_	_	_	_	_
+34	arbitror	_	NOUN	_	_	_	_	_	_
 35	Aeschylus	_	PROPN	_	_	_	_	_	_
 36	Philoxenus	_	PROPN	_	_	_	_	_	_
 37	Euripides	_	PROPN	_	_	_	_	_	_
@@ -2023,7 +2023,7 @@
 8	est	_	AUX	_	_	_	_	_	_
 9	nec	_	CCONJ	_	_	_	_	_	_
 10	uero	_	ADV	_	_	_	_	_	_
-11	ullas	_	DET	_	_	_	_	_	_
+11	ullas	_	NOUN	_	_	_	_	_	_
 12	ita	_	ADV	_	_	_	_	_	_
 13	positas	_	VERB	_	_	_	_	_	_
 14	esse	_	AUX	_	_	_	_	_	_
@@ -2038,7 +2038,7 @@
 # sent_id = PliNH37-R-ef-102
 # text = nam quod Aeschylus in Hiberia hoc est in Hispania Eridanum esse dixit eundem que appellari Rhodanum Euripides rursus et Apollonius in Hadriatico litore confluere Rhodanum et Padum faciliorem ueniam facit ignorati sucini tanta ignorantia orbis
 1	nam	_	PART	_	_	_	_	_	_
-2	quod	_	SCONJ	_	_	_	_	_	_
+2	quod	_	PRON	_	_	_	_	_	_
 3	Aeschylus	_	PROPN	_	_	_	_	_	_
 4	in	_	ADP	_	_	_	_	_	_
 5	Hiberia	_	PROPN	_	_	_	_	_	_
@@ -2082,7 +2082,7 @@
 5	prodidere	_	VERB	_	_	_	_	_	_
 6	in	_	ADP	_	_	_	_	_	_
 7	extremis	_	ADJ	_	_	_	_	_	_
-8	Hadriatici	_	PROPN	_	_	_	_	_	_
+8	Hadriatici	_	ADJ	_	_	_	_	_	_
 9	sinus	_	NOUN	_	_	_	_	_	_
 10	inuiis	_	ADJ	_	_	_	_	_	_
 11	rupibus	_	NOUN	_	_	_	_	_	_
@@ -2093,12 +2093,12 @@
 16	ortu	_	NOUN	_	_	_	_	_	_
 17	hanc	_	DET	_	_	_	_	_	_
 18	effunderent	_	VERB	_	_	_	_	_	_
-19	cummim	_	NOUN	_	_	_	_	_	_
+19	cummim	_	ADV	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-104
 # text = Theophrastus effodi in Liguria dixit Chares uero Phaethontem in Aethiopia αμμονος νησω obisse ibi et delubrum eius esse atque oraculum electrum que gigni
 1	Theophrastus	_	PROPN	_	_	_	_	_	_
-2	effodi	_	ADJ	_	_	_	_	_	_
+2	effodi	_	VERB	_	_	_	_	_	_
 3	in	_	ADP	_	_	_	_	_	_
 4	Liguria	_	PROPN	_	_	_	_	_	_
 5	dixit	_	VERB	_	_	_	_	_	_
@@ -2112,7 +2112,7 @@
 13	obisse	_	VERB	_	_	_	_	_	_
 14	ibi	_	ADV	_	_	_	_	_	_
 15	et	_	CCONJ	_	_	_	_	_	_
-16	delubrum	_	ADJ	_	_	_	_	_	_
+16	delubrum	_	NOUN	_	_	_	_	_	_
 17	eius	_	PRON	_	_	_	_	_	_
 18	esse	_	AUX	_	_	_	_	_	_
 19	atque	_	CCONJ	_	_	_	_	_	_
@@ -2134,17 +2134,17 @@
 9	locis	_	NOUN	_	_	_	_	_	_
 10	candidum	_	ADJ	_	_	_	_	_	_
 11	atque	_	CCONJ	_	_	_	_	_	_
-12	cerei	_	VERB	_	_	_	_	_	_
+12	cerei	_	NOUN	_	_	_	_	_	_
 13	coloris	_	NOUN	_	_	_	_	_	_
-14	quod	_	SCONJ	_	_	_	_	_	_
+14	quod	_	PRON	_	_	_	_	_	_
 15	uocaretur	_	VERB	_	_	_	_	_	_
-16	electrum	_	ADJ	_	_	_	_	_	_
+16	electrum	_	NOUN	_	_	_	_	_	_
 17	in	_	ADP	_	_	_	_	_	_
 18	alio	_	DET	_	_	_	_	_	_
 19	fuluum	_	NOUN	_	_	_	_	_	_
 20	quod	_	PRON	_	_	_	_	_	_
 21	appellaretur	_	VERB	_	_	_	_	_	_
-22	sualiternicum	_	ADJ	_	_	_	_	_	_
+22	sualiternicum	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-106
 # text = Demostratus lyncurium uocat et fieri ex urina lyncum bestiarum e maribus fuluum et igneum e feminis languidius atque candidum
@@ -2166,7 +2166,7 @@
 16	feminis	_	NOUN	_	_	_	_	_	_
 17	languidius	_	ADJ	_	_	_	_	_	_
 18	atque	_	CCONJ	_	_	_	_	_	_
-19	candidum	_	ADV	_	_	_	_	_	_
+19	candidum	_	ADJ	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-107
 # text = alios id dicere langurium et esse in Italia bestias languros
@@ -2220,7 +2220,7 @@
 5	petris	_	NOUN	_	_	_	_	_	_
 6	effluere	_	VERB	_	_	_	_	_	_
 7	quas	_	PRON	_	_	_	_	_	_
-8	electridas	_	ADJ	_	_	_	_	_	_
+8	electridas	_	VERB	_	_	_	_	_	_
 9	uocauit	_	VERB	_	_	_	_	_	_
 10	Pytheas	_	PROPN	_	_	_	_	_	_
 11	Guionibus	_	PROPN	_	_	_	_	_	_
@@ -2261,7 +2261,7 @@
 
 # sent_id = PliNH37-R-ef-113
 # text = incolas pro ligno ad ignem uti eo proximis que Teutonis uendere
-1	incolas	_	NOUN	_	_	_	_	_	_
+1	incolas	_	VERB	_	_	_	_	_	_
 2	pro	_	ADP	_	_	_	_	_	_
 3	ligno	_	NOUN	_	_	_	_	_	_
 4	ad	_	ADP	_	_	_	_	_	_
@@ -2297,7 +2297,7 @@
 # text = Nicias solis radiorum sucum intellegi uoluit hoc
 1	Nicias	_	PROPN	_	_	_	_	_	_
 2	solis	_	NOUN	_	_	_	_	_	_
-3	radiorum	_	ADJ	_	_	_	_	_	_
+3	radiorum	_	NOUN	_	_	_	_	_	_
 4	sucum	_	NOUN	_	_	_	_	_	_
 5	intellegi	_	VERB	_	_	_	_	_	_
 6	uoluit	_	VERB	_	_	_	_	_	_
@@ -2310,7 +2310,7 @@
 3	uehementiores	_	ADJ	_	_	_	_	_	_
 4	in	_	ADP	_	_	_	_	_	_
 5	terram	_	NOUN	_	_	_	_	_	_
-6	actos	_	VERB	_	_	_	_	_	_
+6	actos	_	NOUN	_	_	_	_	_	_
 7	pinguem	_	ADJ	_	_	_	_	_	_
 8	sudorem	_	NOUN	_	_	_	_	_	_
 9	in	_	ADP	_	_	_	_	_	_
@@ -2330,7 +2330,7 @@
 2	Aegypto	_	PROPN	_	_	_	_	_	_
 3	nasci	_	VERB	_	_	_	_	_	_
 4	simili	_	ADJ	_	_	_	_	_	_
-5	modo	_	NOUN	_	_	_	_	_	_
+5	modo	_	ADV	_	_	_	_	_	_
 6	uocari	_	VERB	_	_	_	_	_	_
 7	sacal	_	NOUN	_	_	_	_	_	_
 8	item	_	ADV	_	_	_	_	_	_
@@ -2464,7 +2464,7 @@
 10	electrum	_	ADJ	_	_	_	_	_	_
 11	ibi	_	ADV	_	_	_	_	_	_
 12	arbores	_	NOUN	_	_	_	_	_	_
-13	populos	_	ADJ	_	_	_	_	_	_
+13	populos	_	NOUN	_	_	_	_	_	_
 14	quarum	_	PRON	_	_	_	_	_	_
 15	e	_	ADP	_	_	_	_	_	_
 16	cacuminibus	_	NOUN	_	_	_	_	_	_
@@ -2534,7 +2534,7 @@
 7	quam	_	PRON	_	_	_	_	_	_
 8	uocari	_	VERB	_	_	_	_	_	_
 9	Seritam	_	PROPN	_	_	_	_	_	_
-10	cedri	_	ADJ	_	_	_	_	_	_
+10	cedri	_	NOUN	_	_	_	_	_	_
 11	genere	_	NOUN	_	_	_	_	_	_
 12	siluosam	_	ADJ	_	_	_	_	_	_
 13	inde	_	ADV	_	_	_	_	_	_
@@ -2552,7 +2552,7 @@
 6	Italia	_	PROPN	_	_	_	_	_	_
 7	sed	_	CCONJ	_	_	_	_	_	_
 8	et	_	ADV	_	_	_	_	_	_
-9	thium	_	NOUN	_	_	_	_	_	_
+9	thium	_	DET	_	_	_	_	_	_
 10	uocari	_	VERB	_	_	_	_	_	_
 11	a	_	ADP	_	_	_	_	_	_
 12	Scythis	_	PROPN	_	_	_	_	_	_
@@ -2659,7 +2659,7 @@
 22	ubi	_	SCONJ	_	_	_	_	_	_
 23	Meleager	_	PROPN	_	_	_	_	_	_
 24	periit	_	VERB	_	_	_	_	_	_
-25	ploratum	_	VERB	_	_	_	_	_	_
+25	ploratum	_	NOUN	_	_	_	_	_	_
 26	adierint	_	VERB	_	_	_	_	_	_
 27	Indos	_	PROPN	_	_	_	_	_	_
 
@@ -2708,7 +2708,7 @@
 # text = certum est gigni in insulis septentrionalis oceani et ab Germanis appellari glaesum itaque et ab nostris ob id unam insularum Glaesariam appellatam Germanico Caesare res ibi gerente classibus Austerauiam a barbaris dictam
 1	certum	_	ADJ	_	_	_	_	_	_
 2	est	_	AUX	_	_	_	_	_	_
-3	gigni	_	NOUN	_	_	_	_	_	_
+3	gigni	_	VERB	_	_	_	_	_	_
 4	in	_	ADP	_	_	_	_	_	_
 5	insulis	_	NOUN	_	_	_	_	_	_
 6	septentrionalis	_	ADJ	_	_	_	_	_	_
@@ -2726,7 +2726,7 @@
 18	id	_	PRON	_	_	_	_	_	_
 19	unam	_	NUM	_	_	_	_	_	_
 20	insularum	_	NOUN	_	_	_	_	_	_
-21	Glaesariam	_	ADJ	_	_	_	_	_	_
+21	Glaesariam	_	PROPN	_	_	_	_	_	_
 22	appellatam	_	VERB	_	_	_	_	_	_
 23	Germanico	_	ADJ	_	_	_	_	_	_
 24	Caesare	_	PROPN	_	_	_	_	_	_
@@ -2769,7 +2769,7 @@
 6	mari	_	NOUN	_	_	_	_	_	_
 7	cum	_	SCONJ	_	_	_	_	_	_
 8	ipsum	_	DET	_	_	_	_	_	_
-9	intumescens	_	ADJ	_	_	_	_	_	_
+9	intumescens	_	VERB	_	_	_	_	_	_
 10	aestus	_	NOUN	_	_	_	_	_	_
 11	rapuit	_	VERB	_	_	_	_	_	_
 12	ex	_	ADP	_	_	_	_	_	_
@@ -2785,7 +2785,7 @@
 22	uideatur	_	VERB	_	_	_	_	_	_
 23	atque	_	CCONJ	_	_	_	_	_	_
 24	non	_	PART	_	_	_	_	_	_
-25	sidere	_	NOUN	_	_	_	_	_	_
+25	sidere	_	VERB	_	_	_	_	_	_
 26	in	_	ADP	_	_	_	_	_	_
 27	uado	_	NOUN	_	_	_	_	_	_
 
@@ -2795,17 +2795,17 @@
 2	sucum	_	NOUN	_	_	_	_	_	_
 3	esse	_	AUX	_	_	_	_	_	_
 4	etiam	_	ADV	_	_	_	_	_	_
-5	prisci	_	ADJ	_	_	_	_	_	_
+5	prisci	_	NOUN	_	_	_	_	_	_
 6	nostri	_	DET	_	_	_	_	_	_
 7	credidere	_	VERB	_	_	_	_	_	_
 8	ob	_	ADP	_	_	_	_	_	_
 9	id	_	PRON	_	_	_	_	_	_
-10	sucinum	_	ADJ	_	_	_	_	_	_
+10	sucinum	_	NOUN	_	_	_	_	_	_
 11	appellantes	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-144
 # text = pinei autem generis arboris esse indicio est pineus in adtritu odor et quod accensum taedae modo ac nidore flagrat
-1	pinei	_	ADJ	_	_	_	_	_	_
+1	pinei	_	NOUN	_	_	_	_	_	_
 2	autem	_	CCONJ	_	_	_	_	_	_
 3	generis	_	NOUN	_	_	_	_	_	_
 4	arboris	_	NOUN	_	_	_	_	_	_
@@ -2858,7 +2858,7 @@
 # text = Pado uero adnexa fabula est euidente causa hodieque Transpadanorum agrestibus feminis monilium uice sucina gestantibus maxime decoris gratia sed et medicinae
 1	Pado	_	PROPN	_	_	_	_	_	_
 2	uero	_	CCONJ	_	_	_	_	_	_
-3	adnexa	_	VERB	_	_	_	_	_	_
+3	adnexa	_	ADJ	_	_	_	_	_	_
 4	fabula	_	NOUN	_	_	_	_	_	_
 5	est	_	AUX	_	_	_	_	_	_
 6	euidente	_	VERB	_	_	_	_	_	_
@@ -2867,17 +2867,17 @@
 8	hodie	_	ADV	_	_	_	_	_	_
 9	que	_	CCONJ	_	_	_	_	_	_
 10	Transpadanorum	_	PROPN	_	_	_	_	_	_
-11	agrestibus	_	NOUN	_	_	_	_	_	_
+11	agrestibus	_	ADJ	_	_	_	_	_	_
 12	feminis	_	NOUN	_	_	_	_	_	_
 13	monilium	_	NOUN	_	_	_	_	_	_
-14	uice	_	NOUN	_	_	_	_	_	_
+14	uice	_	ADV	_	_	_	_	_	_
 15	sucina	_	NOUN	_	_	_	_	_	_
 16	gestantibus	_	VERB	_	_	_	_	_	_
 17	maxime	_	ADV	_	_	_	_	_	_
-18	decoris	_	ADJ	_	_	_	_	_	_
+18	decoris	_	NOUN	_	_	_	_	_	_
 19	gratia	_	NOUN	_	_	_	_	_	_
 20	sed	_	CCONJ	_	_	_	_	_	_
-21	et	_	ADV	_	_	_	_	_	_
+21	et	_	CCONJ	_	_	_	_	_	_
 22	medicinae	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-147
@@ -2900,8 +2900,8 @@
 
 # sent_id = PliNH37-R-ef-148
 # text = DC M p fere a Carnunto Pannoniae abesse litus id Germaniae ex quo inuehitur percognitum nuper uiuit que eques R ad id comparandum missus ab Iuliano curante gladiatorium munus Neronis principis
-1	DC	_	PROPN	_	_	_	_	_	_
-2	M	_	PROPN	_	_	_	_	_	_
+1	DC	_	NUM	_	_	_	_	_	_
+2	M	_	NUM	_	_	_	_	_	_
 3	p	_	NOUN	_	_	_	_	_	_
 4	fere	_	ADV	_	_	_	_	_	_
 5	a	_	ADP	_	_	_	_	_	_
@@ -2955,7 +2955,7 @@
 19	harena	_	NOUN	_	_	_	_	_	_
 20	uero	_	CCONJ	_	_	_	_	_	_
 21	et	_	CCONJ	_	_	_	_	_	_
-22	Libitina	_	PROPN	_	_	_	_	_	_
+22	Libitina	_	ADJ	_	_	_	_	_	_
 23	totus	_	DET	_	_	_	_	_	_
 24	que	_	CCONJ	_	_	_	_	_	_
 25	unius	_	NUM	_	_	_	_	_	_
@@ -3008,7 +3008,7 @@
 15	adipe	_	ADV	_	_	_	_	_	_
 16	suis	_	DET	_	_	_	_	_	_
 17	lactentis	_	NOUN	_	_	_	_	_	_
-18	incoctum	_	ADJ	_	_	_	_	_	_
+18	incoctum	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-153
 # text = liquidum id primo destillare argumento sunt quaedam intus tralucentia ut formicae culices que et lacertae quae adhaesisse musteo non est dubium et inclusa durescente eodem remansisse
@@ -3020,7 +3020,7 @@
 6	sunt	_	AUX	_	_	_	_	_	_
 7	quaedam	_	DET	_	_	_	_	_	_
 8	intus	_	ADV	_	_	_	_	_	_
-9	tralucentia	_	VERB	_	_	_	_	_	_
+9	tralucentia	_	NOUN	_	_	_	_	_	_
 10	ut	_	SCONJ	_	_	_	_	_	_
 11	formicae	_	NOUN	_	_	_	_	_	_
 12	culices	_	NOUN	_	_	_	_	_	_
@@ -3062,7 +3062,7 @@
 
 # sent_id = PliNH37-R-ef-156
 # text = fuluis maior auctoritas
-1	fuluis	_	NOUN	_	_	_	_	_	_
+1	fuluis	_	VERB	_	_	_	_	_	_
 2	maior	_	ADJ	_	_	_	_	_	_
 3	auctoritas	_	NOUN	_	_	_	_	_	_
 
@@ -3073,7 +3073,7 @@
 3	etiamnum	_	ADV	_	_	_	_	_	_
 4	amplius	_	ADV	_	_	_	_	_	_
 5	tralucentibus	_	VERB	_	_	_	_	_	_
-6	praeterquam	_	VERB	_	_	_	_	_	_
+6	praeterquam	_	ADV	_	_	_	_	_	_
 7	si	_	SCONJ	_	_	_	_	_	_
 8	nimio	_	ADJ	_	_	_	_	_	_
 9	ardore	_	NOUN	_	_	_	_	_	_
@@ -3122,7 +3122,7 @@
 8	modo	_	NOUN	_	_	_	_	_	_
 9	libeat	_	VERB	_	_	_	_	_	_
 10	ea	_	PRON	_	_	_	_	_	_
-11	tingui	_	VERB	_	_	_	_	_	_
+11	tingui	_	NOUN	_	_	_	_	_	_
 12	haedorum	_	NOUN	_	_	_	_	_	_
 13	sebo	_	NOUN	_	_	_	_	_	_
 14	et	_	CCONJ	_	_	_	_	_	_
@@ -3130,7 +3130,7 @@
 16	radice	_	NOUN	_	_	_	_	_	_
 17	quippe	_	PART	_	_	_	_	_	_
 18	iam	_	ADV	_	_	_	_	_	_
-19	et	_	ADV	_	_	_	_	_	_
+19	et	_	CCONJ	_	_	_	_	_	_
 20	conchylio	_	NOUN	_	_	_	_	_	_
 21	inficiuntur	_	VERB	_	_	_	_	_	_
 
@@ -3191,7 +3191,7 @@
 16	prorsus	_	ADV	_	_	_	_	_	_
 17	ut	_	SCONJ	_	_	_	_	_	_
 18	castigatio	_	NOUN	_	_	_	_	_	_
-19	una	_	ADV	_	_	_	_	_	_
+19	una	_	NUM	_	_	_	_	_	_
 20	non	_	PART	_	_	_	_	_	_
 21	sit	_	AUX	_	_	_	_	_	_
 22	satis	_	ADJ	_	_	_	_	_	_
@@ -3254,7 +3254,7 @@
 1	Domitius	_	PROPN	_	_	_	_	_	_
 2	Nero	_	PROPN	_	_	_	_	_	_
 3	in	_	ADP	_	_	_	_	_	_
-4	ceteris	_	ADJ	_	_	_	_	_	_
+4	ceteris	_	NOUN	_	_	_	_	_	_
 5	uitae	_	NOUN	_	_	_	_	_	_
 6	suae	_	DET	_	_	_	_	_	_
 7	portentis	_	VERB	_	_	_	_	_	_
@@ -3311,7 +3311,7 @@
 # text = infantibus adalligari amuleti ratione prodest
 1	infantibus	_	NOUN	_	_	_	_	_	_
 2	adalligari	_	VERB	_	_	_	_	_	_
-3	amuleti	_	ADJ	_	_	_	_	_	_
+3	amuleti	_	VERB	_	_	_	_	_	_
 4	ratione	_	NOUN	_	_	_	_	_	_
 5	prodest	_	VERB	_	_	_	_	_	_
 
@@ -3334,7 +3334,7 @@
 
 # sent_id = PliNH37-R-ef-174
 # text = hic et differentiam nouam fecit appellando chryselectrum quod sit coloris aurei et matutino gratissimi aspectus rapacissimum ignium si iuxta fuerint celerrime ardescens
-1	hic	_	DET	_	_	_	_	_	_
+1	hic	_	ADV	_	_	_	_	_	_
 2	et	_	ADV	_	_	_	_	_	_
 3	differentiam	_	NOUN	_	_	_	_	_	_
 4	nouam	_	ADJ	_	_	_	_	_	_
@@ -3362,22 +3362,22 @@
 1	hoc	_	DET	_	_	_	_	_	_
 2	collo	_	NOUN	_	_	_	_	_	_
 3	adalligatum	_	VERB	_	_	_	_	_	_
-4	mederi	_	ADJ	_	_	_	_	_	_
+4	mederi	_	VERB	_	_	_	_	_	_
 5	febribus	_	NOUN	_	_	_	_	_	_
 6	et	_	CCONJ	_	_	_	_	_	_
 7	morbis	_	NOUN	_	_	_	_	_	_
 8	tritum	_	ADJ	_	_	_	_	_	_
 9	uero	_	CCONJ	_	_	_	_	_	_
 10	cum	_	ADP	_	_	_	_	_	_
-11	melle	_	NOUN	_	_	_	_	_	_
+11	melle	_	VERB	_	_	_	_	_	_
 12	ac	_	CCONJ	_	_	_	_	_	_
-13	rosaceo	_	ADJ	_	_	_	_	_	_
+13	rosaceo	_	NOUN	_	_	_	_	_	_
 14	aurium	_	NOUN	_	_	_	_	_	_
 15	uitiis	_	NOUN	_	_	_	_	_	_
 16	et	_	CCONJ	_	_	_	_	_	_
 17	si	_	SCONJ	_	_	_	_	_	_
 18	cum	_	ADP	_	_	_	_	_	_
-19	melle	_	NOUN	_	_	_	_	_	_
+19	melle	_	VERB	_	_	_	_	_	_
 20	Attico	_	PROPN	_	_	_	_	_	_
 21	teratur	_	VERB	_	_	_	_	_	_
 22	oculorum	_	NOUN	_	_	_	_	_	_
@@ -3486,7 +3486,7 @@
 19	aeris	_	NOUN	_	_	_	_	_	_
 20	etiam	_	ADV	_	_	_	_	_	_
 21	ac	_	CCONJ	_	_	_	_	_	_
-22	ferri	_	NOUN	_	_	_	_	_	_
+22	ferri	_	VERB	_	_	_	_	_	_
 23	lamnas	_	NOUN	_	_	_	_	_	_
 24	quod	_	PRON	_	_	_	_	_	_
 25	Diocli	_	PROPN	_	_	_	_	_	_
@@ -3500,7 +3500,7 @@
 1	ego	_	PRON	_	_	_	_	_	_
 2	falsum	_	ADJ	_	_	_	_	_	_
 3	id	_	PRON	_	_	_	_	_	_
-4	totum	_	NOUN	_	_	_	_	_	_
+4	totum	_	DET	_	_	_	_	_	_
 5	arbitror	_	VERB	_	_	_	_	_	_
 6	nec	_	CCONJ	_	_	_	_	_	_
 7	uisam	_	VERB	_	_	_	_	_	_
@@ -3514,7 +3514,7 @@
 
 # sent_id = PliNH37-R-ef-180
 # text = falsum et quod de medicina simul proditur calculos uesicae poto eo elidi et morbo regio succurri si ex uino bibatur aut spectetur etiam
-1	falsum	_	NOUN	_	_	_	_	_	_
+1	falsum	_	ADJ	_	_	_	_	_	_
 2	et	_	CCONJ	_	_	_	_	_	_
 3	quod	_	SCONJ	_	_	_	_	_	_
 4	de	_	ADP	_	_	_	_	_	_
@@ -3542,7 +3542,7 @@
 # text = nunc gemmarum confessa genera dicemus ab laudatissimis orsi nec uero id solum agemus sed etiam maiore utilitate uitae coarguemus magorum infandam uanitatem quando uel plurima illi prodidere de gemmis ab medicinae blandissima specie ad prodigia transgressi
 1	nunc	_	ADV	_	_	_	_	_	_
 2	gemmarum	_	NOUN	_	_	_	_	_	_
-3	confessa	_	ADJ	_	_	_	_	_	_
+3	confessa	_	VERB	_	_	_	_	_	_
 4	genera	_	NOUN	_	_	_	_	_	_
 5	dicemus	_	VERB	_	_	_	_	_	_
 6	ab	_	ADP	_	_	_	_	_	_
@@ -3610,7 +3610,7 @@
 6	metallis	_	NOUN	_	_	_	_	_	_
 7	repertus	_	VERB	_	_	_	_	_	_
 8	perquam	_	ADV	_	_	_	_	_	_
-9	raro	_	ADJ	_	_	_	_	_	_
+9	raro	_	ADV	_	_	_	_	_	_
 10	nec	_	CCONJ	_	_	_	_	_	_
 11	nisi	_	SCONJ	_	_	_	_	_	_
 12	in	_	ADP	_	_	_	_	_	_
@@ -3663,20 +3663,20 @@
 5	nascentis	_	VERB	_	_	_	_	_	_
 6	et	_	CCONJ	_	_	_	_	_	_
 7	quadam	_	DET	_	_	_	_	_	_
-8	crystalli	_	ADJ	_	_	_	_	_	_
+8	crystalli	_	NOUN	_	_	_	_	_	_
 9	cognatione	_	NOUN	_	_	_	_	_	_
 10-11	siquidem	_	_	_	_	_	_	_	_
 10	si	_	SCONJ	_	_	_	_	_	_
-11	quidem	_	ADV	_	_	_	_	_	_
+11	quidem	_	PART	_	_	_	_	_	_
 12	et	_	CCONJ	_	_	_	_	_	_
 13	colore	_	NOUN	_	_	_	_	_	_
-14	tralucido	_	ADJ	_	_	_	_	_	_
+14	tralucido	_	NOUN	_	_	_	_	_	_
 15	non	_	PART	_	_	_	_	_	_
 16	differt	_	VERB	_	_	_	_	_	_
 17	et	_	CCONJ	_	_	_	_	_	_
 18	laterum	_	NOUN	_	_	_	_	_	_
 19	sexangulo	_	NOUN	_	_	_	_	_	_
-20	leuore	_	NOUN	_	_	_	_	_	_
+20	leuore	_	ADJ	_	_	_	_	_	_
 21	turbinati	_	VERB	_	_	_	_	_	_
 22	in	_	ADP	_	_	_	_	_	_
 23	mucronem	_	NOUN	_	_	_	_	_	_
@@ -3697,7 +3697,7 @@
 38	magnitudine	_	NOUN	_	_	_	_	_	_
 39	uero	_	CCONJ	_	_	_	_	_	_
 40	etiam	_	ADV	_	_	_	_	_	_
-41	Abellani	_	PROPN	_	_	_	_	_	_
+41	Abellani	_	ADJ	_	_	_	_	_	_
 42	nuclei	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-187
@@ -3709,7 +3709,7 @@
 5	minor	_	ADJ	_	_	_	_	_	_
 6	tantum	_	ADV	_	_	_	_	_	_
 7	similiter	_	ADV	_	_	_	_	_	_
-8	et	_	ADV	_	_	_	_	_	_
+8	et	_	CCONJ	_	_	_	_	_	_
 9	nascens	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-188
@@ -3750,7 +3750,7 @@
 4	inenarrabilis	_	ADJ	_	_	_	_	_	_
 5	simul	_	ADV	_	_	_	_	_	_
 6	que	_	CCONJ	_	_	_	_	_	_
-7	ignium	_	ADJ	_	_	_	_	_	_
+7	ignium	_	NOUN	_	_	_	_	_	_
 8	uictrix	_	NOUN	_	_	_	_	_	_
 9	natura	_	NOUN	_	_	_	_	_	_
 10	et	_	CCONJ	_	_	_	_	_	_
@@ -3767,7 +3767,7 @@
 2	ex	_	ADP	_	_	_	_	_	_
 3	iis	_	PRON	_	_	_	_	_	_
 4	uocant	_	VERB	_	_	_	_	_	_
-5	cenchron	_	NOUN	_	_	_	_	_	_
+5	cenchron	_	ADJ	_	_	_	_	_	_
 6	milii	_	NUM	_	_	_	_	_	_
 7	magnitudine	_	NOUN	_	_	_	_	_	_
 8	alterum	_	DET	_	_	_	_	_	_
@@ -3783,7 +3783,7 @@
 2	est	_	AUX	_	_	_	_	_	_
 3	cucumis	_	NOUN	_	_	_	_	_	_
 4	semini	_	NOUN	_	_	_	_	_	_
-5	par	_	ADJ	_	_	_	_	_	_
+5	par	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-193
 # text = post hos Cyprius uocatur in Cypro repertus uergens ad aereum colorem sed medica ui de qua dicemus efficacissimus
@@ -3794,7 +3794,7 @@
 5	in	_	ADP	_	_	_	_	_	_
 6	Cypro	_	PROPN	_	_	_	_	_	_
 7	repertus	_	VERB	_	_	_	_	_	_
-8	uergens	_	VERB	_	_	_	_	_	_
+8	uergens	_	ADJ	_	_	_	_	_	_
 9	ad	_	ADP	_	_	_	_	_	_
 10	aereum	_	ADJ	_	_	_	_	_	_
 11	colorem	_	NOUN	_	_	_	_	_	_
@@ -3811,7 +3811,7 @@
 1	post	_	ADP	_	_	_	_	_	_
 2	hunc	_	DET	_	_	_	_	_	_
 3	siderites	_	NOUN	_	_	_	_	_	_
-4	ferrei	_	ADJ	_	_	_	_	_	_
+4	ferrei	_	NOUN	_	_	_	_	_	_
 5	splendoris	_	NOUN	_	_	_	_	_	_
 6	pondere	_	NOUN	_	_	_	_	_	_
 7	ante	_	ADP	_	_	_	_	_	_
@@ -3831,8 +3831,8 @@
 7	adamante	_	VERB	_	_	_	_	_	_
 8	perforari	_	VERB	_	_	_	_	_	_
 9	potest	_	VERB	_	_	_	_	_	_
-10	quod	_	SCONJ	_	_	_	_	_	_
-11	et	_	ADV	_	_	_	_	_	_
+10	quod	_	PRON	_	_	_	_	_	_
+11	et	_	CCONJ	_	_	_	_	_	_
 12	Cyprio	_	PROPN	_	_	_	_	_	_
 13	euenit	_	VERB	_	_	_	_	_	_
 14	breuiter	_	ADV	_	_	_	_	_	_
@@ -3840,7 +3840,7 @@
 16	ut	_	SCONJ	_	_	_	_	_	_
 17	degeneres	_	ADJ	_	_	_	_	_	_
 18	nominis	_	NOUN	_	_	_	_	_	_
-19	tantum	_	DET	_	_	_	_	_	_
+19	tantum	_	ADV	_	_	_	_	_	_
 20	auctoritatem	_	NOUN	_	_	_	_	_	_
 21	habent	_	VERB	_	_	_	_	_	_
 
@@ -3859,7 +3859,7 @@
 11	rerum	_	NOUN	_	_	_	_	_	_
 12	concordia	_	NOUN	_	_	_	_	_	_
 13	que	_	CCONJ	_	_	_	_	_	_
-14	quam	_	PRON	_	_	_	_	_	_
+14	quam	_	SCONJ	_	_	_	_	_	_
 15	antipathian	_	NOUN	_	_	_	_	_	_
 16	Graeci	_	PROPN	_	_	_	_	_	_
 17	uocauere	_	VERB	_	_	_	_	_	_
@@ -3901,7 +3901,7 @@
 52	ictibus	_	NOUN	_	_	_	_	_	_
 53	tunc	_	ADV	_	_	_	_	_	_
 54	etiam	_	ADV	_	_	_	_	_	_
-55	praeterquam	_	VERB	_	_	_	_	_	_
+55	praeterquam	_	ADV	_	_	_	_	_	_
 56	eximias	_	ADJ	_	_	_	_	_	_
 57	incudes	_	NOUN	_	_	_	_	_	_
 58	malleos	_	NOUN	_	_	_	_	_	_
@@ -3927,7 +3927,7 @@
 4	coniectura	_	NOUN	_	_	_	_	_	_
 5	experiendi	_	VERB	_	_	_	_	_	_
 6	rem	_	NOUN	_	_	_	_	_	_
-7	inmensi	_	VERB	_	_	_	_	_	_
+7	inmensi	_	ADJ	_	_	_	_	_	_
 8	pretii	_	NOUN	_	_	_	_	_	_
 9	in	_	ADP	_	_	_	_	_	_
 10	foedissimo	_	ADJ	_	_	_	_	_	_
@@ -3936,11 +3936,11 @@
 # sent_id = PliNH37-R-ef-199
 # text = numinum profecto talis inuentio est et hoc munus omne nec quaerenda ratio in ulla parte naturae sed uoluntas
 1	numinum	_	NOUN	_	_	_	_	_	_
-2	profecto	_	VERB	_	_	_	_	_	_
+2	profecto	_	ADV	_	_	_	_	_	_
 3	talis	_	DET	_	_	_	_	_	_
 4	inuentio	_	NOUN	_	_	_	_	_	_
 5	est	_	AUX	_	_	_	_	_	_
-6	et	_	ADV	_	_	_	_	_	_
+6	et	_	CCONJ	_	_	_	_	_	_
 7	hoc	_	DET	_	_	_	_	_	_
 8	munus	_	NOUN	_	_	_	_	_	_
 9	omne	_	DET	_	_	_	_	_	_
@@ -4016,7 +4016,7 @@
 3	uenena	_	NOUN	_	_	_	_	_	_
 4	uincit	_	VERB	_	_	_	_	_	_
 5	atque	_	CCONJ	_	_	_	_	_	_
-6	inrita	_	NOUN	_	_	_	_	_	_
+6	inrita	_	ADJ	_	_	_	_	_	_
 7	facit	_	VERB	_	_	_	_	_	_
 8	et	_	CCONJ	_	_	_	_	_	_
 9	lymphationes	_	NOUN	_	_	_	_	_	_
@@ -4044,7 +4044,7 @@
 3	in	_	ADP	_	_	_	_	_	_
 4	eadem	_	DET	_	_	_	_	_	_
 5	Germania	_	PROPN	_	_	_	_	_	_
-6	Basilia	_	ADJ	_	_	_	_	_	_
+6	Basilia	_	PROPN	_	_	_	_	_	_
 7	insula	_	NOUN	_	_	_	_	_	_
 8	nasci	_	VERB	_	_	_	_	_	_
 9	in	_	ADP	_	_	_	_	_	_
@@ -4073,7 +4073,7 @@
 1	proximum	_	ADJ	_	_	_	_	_	_
 2	apud	_	ADP	_	_	_	_	_	_
 3	nos	_	PRON	_	_	_	_	_	_
-4	Indicis	_	ADJ	_	_	_	_	_	_
+4	Indicis	_	PROPN	_	_	_	_	_	_
 5	Arabicis	_	ADJ	_	_	_	_	_	_
 6	que	_	CCONJ	_	_	_	_	_	_
 7	margaritis	_	NOUN	_	_	_	_	_	_
@@ -4110,7 +4110,7 @@
 1	nam	_	PART	_	_	_	_	_	_
 2	herbas	_	NOUN	_	_	_	_	_	_
 3	quoque	_	ADV	_	_	_	_	_	_
-4	silentes	_	ADJ	_	_	_	_	_	_
+4	silentes	_	VERB	_	_	_	_	_	_
 5	frondes	_	NOUN	_	_	_	_	_	_
 6	que	_	CCONJ	_	_	_	_	_	_
 7	auide	_	ADV	_	_	_	_	_	_
@@ -4123,14 +4123,14 @@
 14	nihil	_	PRON	_	_	_	_	_	_
 15	omnino	_	ADV	_	_	_	_	_	_
 16	uiridius	_	ADJ	_	_	_	_	_	_
-17	comparatum	_	ADJ	_	_	_	_	_	_
+17	comparatum	_	VERB	_	_	_	_	_	_
 18	illis	_	DET	_	_	_	_	_	_
 19	uiret	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-210
 # text = praeterea soli gemmarum contuitu inplent oculos nec satiant
 1	praeterea	_	ADV	_	_	_	_	_	_
-2	soli	_	NOUN	_	_	_	_	_	_
+2	soli	_	DET	_	_	_	_	_	_
 3	gemmarum	_	NOUN	_	_	_	_	_	_
 4	contuitu	_	NOUN	_	_	_	_	_	_
 5	inplent	_	VERB	_	_	_	_	_	_
@@ -4162,7 +4162,7 @@
 # sent_id = PliNH37-R-ef-212
 # text = ita uiridi lenitate lassitudinem mulcent
 1	ita	_	ADV	_	_	_	_	_	_
-2	uiridi	_	ADJ	_	_	_	_	_	_
+2	uiridi	_	NOUN	_	_	_	_	_	_
 3	lenitate	_	NOUN	_	_	_	_	_	_
 4	lassitudinem	_	NOUN	_	_	_	_	_	_
 5	mulcent	_	VERB	_	_	_	_	_	_
@@ -4197,7 +4197,7 @@
 26	sui	_	PRON	_	_	_	_	_	_
 27	facilitate	_	NOUN	_	_	_	_	_	_
 28	tralucida	_	ADJ	_	_	_	_	_	_
-29	quod	_	PRON	_	_	_	_	_	_
+29	quod	_	SCONJ	_	_	_	_	_	_
 30	etiam	_	ADV	_	_	_	_	_	_
 31	in	_	ADP	_	_	_	_	_	_
 32	aquis	_	NOUN	_	_	_	_	_	_
@@ -4210,7 +4210,7 @@
 2	plerumque	_	ADV	_	_	_	_	_	_
 3	concaui	_	VERB	_	_	_	_	_	_
 4	ut	_	SCONJ	_	_	_	_	_	_
-5	uisum	_	VERB	_	_	_	_	_	_
+5	uisum	_	NOUN	_	_	_	_	_	_
 6	conligant	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-215
@@ -4250,7 +4250,7 @@
 7	qua	_	PRON	_	_	_	_	_	_
 8	specula	_	NOUN	_	_	_	_	_	_
 9	ratione	_	NOUN	_	_	_	_	_	_
-10	supini	_	ADJ	_	_	_	_	_	_
+10	supini	_	NOUN	_	_	_	_	_	_
 11	rerum	_	NOUN	_	_	_	_	_	_
 12	imagines	_	NOUN	_	_	_	_	_	_
 13	reddunt	_	VERB	_	_	_	_	_	_
@@ -4299,7 +4299,7 @@
 3	a	_	ADP	_	_	_	_	_	_
 4	gemmis	_	NOUN	_	_	_	_	_	_
 5	distant	_	VERB	_	_	_	_	_	_
-6	tantum	_	ADV	_	_	_	_	_	_
+6	tantum	_	PRON	_	_	_	_	_	_
 7	Scythicus	_	PROPN	_	_	_	_	_	_
 8	a	_	ADP	_	_	_	_	_	_
 9	ceteris	_	ADJ	_	_	_	_	_	_
@@ -4335,7 +4335,7 @@
 5	internitent	_	VERB	_	_	_	_	_	_
 6	quia	_	SCONJ	_	_	_	_	_	_
 7	iis	_	PRON	_	_	_	_	_	_
-8	uentis	_	VERB	_	_	_	_	_	_
+8	uentis	_	NOUN	_	_	_	_	_	_
 9	harenae	_	NOUN	_	_	_	_	_	_
 10	maxime	_	ADV	_	_	_	_	_	_
 11	mouentur	_	VERB	_	_	_	_	_	_
@@ -4373,7 +4373,7 @@
 2	genera	_	NOUN	_	_	_	_	_	_
 3	in	_	ADP	_	_	_	_	_	_
 4	metallis	_	NOUN	_	_	_	_	_	_
-5	aerariis	_	NOUN	_	_	_	_	_	_
+5	aerariis	_	ADJ	_	_	_	_	_	_
 6	inueniuntur	_	VERB	_	_	_	_	_	_
 7	quapropter	_	SCONJ	_	_	_	_	_	_
 8	principatum	_	NOUN	_	_	_	_	_	_
@@ -4392,10 +4392,10 @@
 6	liquido	_	ADJ	_	_	_	_	_	_
 7	nec	_	CCONJ	_	_	_	_	_	_
 8	diluto	_	ADJ	_	_	_	_	_	_
-9	uerum	_	NOUN	_	_	_	_	_	_
+9	uerum	_	CCONJ	_	_	_	_	_	_
 10	ex	_	ADP	_	_	_	_	_	_
 11	umido	_	NOUN	_	_	_	_	_	_
-12	pingui	_	ADJ	_	_	_	_	_	_
+12	pingui	_	NOUN	_	_	_	_	_	_
 13	qua	_	SCONJ	_	_	_	_	_	_
 14	que	_	CCONJ	_	_	_	_	_	_
 15	perspicitur	_	VERB	_	_	_	_	_	_
@@ -4425,10 +4425,10 @@
 5	tumulo	_	NOUN	_	_	_	_	_	_
 6	reguli	_	NOUN	_	_	_	_	_	_
 7	Hermiae	_	PROPN	_	_	_	_	_	_
-8	iuxta	_	ADP	_	_	_	_	_	_
-9	cetarias	_	ADJ	_	_	_	_	_	_
+8	iuxta	_	ADV	_	_	_	_	_	_
+9	cetarias	_	NOUN	_	_	_	_	_	_
 10	marmoreo	_	NOUN	_	_	_	_	_	_
-11	leoni	_	NOUN	_	_	_	_	_	_
+11	leoni	_	ADJ	_	_	_	_	_	_
 12	fuisse	_	AUX	_	_	_	_	_	_
 13	inditos	_	VERB	_	_	_	_	_	_
 14	oculos	_	NOUN	_	_	_	_	_	_
@@ -4534,7 +4534,7 @@
 13	nec	_	CCONJ	_	_	_	_	_	_
 14	e	_	ADP	_	_	_	_	_	_
 15	liquido	_	NOUN	_	_	_	_	_	_
-16	tralucidi	_	ADJ	_	_	_	_	_	_
+16	tralucidi	_	VERB	_	_	_	_	_	_
 17	quidam	_	DET	_	_	_	_	_	_
 18	uarii	_	ADJ	_	_	_	_	_	_
 19	quidam	_	DET	_	_	_	_	_	_
@@ -4558,7 +4558,7 @@
 2	albicantis	_	VERB	_	_	_	_	_	_
 3	est	_	AUX	_	_	_	_	_	_
 4	uitium	_	NOUN	_	_	_	_	_	_
-5	cum	_	ADP	_	_	_	_	_	_
+5	cum	_	SCONJ	_	_	_	_	_	_
 6	uiridis	_	NOUN	_	_	_	_	_	_
 7	non	_	PART	_	_	_	_	_	_
 8	pertransit	_	VERB	_	_	_	_	_	_
@@ -4623,7 +4623,7 @@
 5	ponit	_	VERB	_	_	_	_	_	_
 6	Thermiaeos	_	PROPN	_	_	_	_	_	_
 7	et	_	CCONJ	_	_	_	_	_	_
-8	Persicos	_	PROPN	_	_	_	_	_	_
+8	Persicos	_	ADJ	_	_	_	_	_	_
 9	illos	_	DET	_	_	_	_	_	_
 10	intumescentes	_	VERB	_	_	_	_	_	_
 11	pinguiter	_	ADV	_	_	_	_	_	_
@@ -4634,12 +4634,12 @@
 16	sed	_	CCONJ	_	_	_	_	_	_
 17	iucundi	_	ADJ	_	_	_	_	_	_
 18	tenoris	_	NOUN	_	_	_	_	_	_
-19	uisum	_	VERB	_	_	_	_	_	_
+19	uisum	_	NOUN	_	_	_	_	_	_
 20	inplere	_	VERB	_	_	_	_	_	_
 21	quem	_	PRON	_	_	_	_	_	_
 22	non	_	PART	_	_	_	_	_	_
 23	admittant	_	VERB	_	_	_	_	_	_
-24	felium	_	NOUN	_	_	_	_	_	_
+24	felium	_	ADJ	_	_	_	_	_	_
 25	pantherarum	_	NOUN	_	_	_	_	_	_
 26	que	_	CCONJ	_	_	_	_	_	_
 27	oculis	_	NOUN	_	_	_	_	_	_
@@ -4718,7 +4718,7 @@
 2	est	_	AUX	_	_	_	_	_	_
 3	in	_	ADP	_	_	_	_	_	_
 4	his	_	DET	_	_	_	_	_	_
-5	et	_	CCONJ	_	_	_	_	_	_
+5	et	_	ADV	_	_	_	_	_	_
 6	plumbago	_	NOUN	_	_	_	_	_	_
 7	hoc	_	DET	_	_	_	_	_	_
 8	est	_	AUX	_	_	_	_	_	_
@@ -4801,7 +4801,7 @@
 2	nescio	_	VERB	_	_	_	_	_	_
 3	an	_	PART	_	_	_	_	_	_
 4	in	_	ADP	_	_	_	_	_	_
-5	totum	_	NOUN	_	_	_	_	_	_
+5	totum	_	DET	_	_	_	_	_	_
 6	exoleuerunt	_	VERB	_	_	_	_	_	_
 7	postquam	_	SCONJ	_	_	_	_	_	_
 8	metalla	_	NOUN	_	_	_	_	_	_
@@ -4876,7 +4876,7 @@
 2	auctor	_	NOUN	_	_	_	_	_	_
 3	est	_	AUX	_	_	_	_	_	_
 4	smaragdum	_	NOUN	_	_	_	_	_	_
-5	quam	_	SCONJ	_	_	_	_	_	_
+5	quam	_	PRON	_	_	_	_	_	_
 6	chloran	_	NOUN	_	_	_	_	_	_
 7	uocent	_	VERB	_	_	_	_	_	_
 8	in	_	ADP	_	_	_	_	_	_
@@ -4919,7 +4919,7 @@
 9	ueniens	_	VERB	_	_	_	_	_	_
 10	gemma	_	NOUN	_	_	_	_	_	_
 11	ingrate	_	ADV	_	_	_	_	_	_
-12	uiridis	_	ADJ	_	_	_	_	_	_
+12	uiridis	_	NOUN	_	_	_	_	_	_
 13	atque	_	CCONJ	_	_	_	_	_	_
 14	intus	_	ADV	_	_	_	_	_	_
 15	sordida	_	ADJ	_	_	_	_	_	_
@@ -4927,7 +4927,7 @@
 17	chalcosmaragdos	_	NOUN	_	_	_	_	_	_
 18	e	_	ADP	_	_	_	_	_	_
 19	Cypro	_	PROPN	_	_	_	_	_	_
-20	turbida	_	ADJ	_	_	_	_	_	_
+20	turbida	_	VERB	_	_	_	_	_	_
 21	aereis	_	NOUN	_	_	_	_	_	_
 22	uenis	_	NOUN	_	_	_	_	_	_
 
@@ -4943,7 +4943,7 @@
 8	eorum	_	PRON	_	_	_	_	_	_
 9	a	_	ADP	_	_	_	_	_	_
 10	rege	_	NOUN	_	_	_	_	_	_
-11	Babylonio	_	PROPN	_	_	_	_	_	_
+11	Babylonio	_	ADJ	_	_	_	_	_	_
 12	muneri	_	NOUN	_	_	_	_	_	_
 13	missum	_	VERB	_	_	_	_	_	_
 14	smaragdum	_	NOUN	_	_	_	_	_	_
@@ -5010,7 +5010,7 @@
 75	nondum	_	ADV	_	_	_	_	_	_
 76	umore	_	NOUN	_	_	_	_	_	_
 77	in	_	ADP	_	_	_	_	_	_
-78	totum	_	NOUN	_	_	_	_	_	_
+78	totum	_	DET	_	_	_	_	_	_
 79	transfigurato	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-256
@@ -5043,7 +5043,7 @@
 5	certe	_	ADV	_	_	_	_	_	_
 6	similem	_	ADJ	_	_	_	_	_	_
 7	habere	_	VERB	_	_	_	_	_	_
-8	berulli	_	NOUN	_	_	_	_	_	_
+8	berulli	_	VERB	_	_	_	_	_	_
 9	uidentur	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-258
@@ -5154,7 +5154,7 @@
 5	sordes	_	NOUN	_	_	_	_	_	_
 6	que	_	CCONJ	_	_	_	_	_	_
 7	alioqui	_	ADV	_	_	_	_	_	_
-8	euanidi	_	NOUN	_	_	_	_	_	_
+8	euanidi	_	ADJ	_	_	_	_	_	_
 9	quae	_	PRON	_	_	_	_	_	_
 10	sunt	_	AUX	_	_	_	_	_	_
 11	omnia	_	DET	_	_	_	_	_	_
@@ -5167,7 +5167,7 @@
 3	gaudent	_	VERB	_	_	_	_	_	_
 4	longitudine	_	NOUN	_	_	_	_	_	_
 5	eorum	_	PRON	_	_	_	_	_	_
-6	solos	_	DET	_	_	_	_	_	_
+6	solos	_	NOUN	_	_	_	_	_	_
 7	que	_	CCONJ	_	_	_	_	_	_
 8	gemmarum	_	NOUN	_	_	_	_	_	_
 9	esse	_	AUX	_	_	_	_	_	_
@@ -5229,7 +5229,7 @@
 5	putant	_	VERB	_	_	_	_	_	_
 6	nasci	_	VERB	_	_	_	_	_	_
 7	et	_	CCONJ	_	_	_	_	_	_
-8	perforatos	_	VERB	_	_	_	_	_	_
+8	perforatos	_	ADJ	_	_	_	_	_	_
 9	gratiores	_	ADJ	_	_	_	_	_	_
 10	fieri	_	VERB	_	_	_	_	_	_
 11	medulla	_	NOUN	_	_	_	_	_	_
@@ -5250,7 +5250,7 @@
 1	uitia	_	NOUN	_	_	_	_	_	_
 2	praeter	_	ADP	_	_	_	_	_	_
 3	iam	_	ADV	_	_	_	_	_	_
-4	dicta	_	NOUN	_	_	_	_	_	_
+4	dicta	_	VERB	_	_	_	_	_	_
 5	eadem	_	DET	_	_	_	_	_	_
 6	fere	_	ADV	_	_	_	_	_	_
 7	quae	_	PRON	_	_	_	_	_	_
@@ -5279,7 +5279,7 @@
 5	gemmas	_	NOUN	_	_	_	_	_	_
 6	crystallum	_	NOUN	_	_	_	_	_	_
 7	tinguendo	_	VERB	_	_	_	_	_	_
-8	adulterare	_	NOUN	_	_	_	_	_	_
+8	adulterare	_	VERB	_	_	_	_	_	_
 9	inuenerunt	_	VERB	_	_	_	_	_	_
 10	sed	_	CCONJ	_	_	_	_	_	_
 11	praecipue	_	ADV	_	_	_	_	_	_
@@ -5287,7 +5287,7 @@
 
 # sent_id = PliNH37-R-ef-273
 # text = minimum iidem que plurimum ab iis differunt opali smaragdis tantum cedentes
-1	minimum	_	NOUN	_	_	_	_	_	_
+1	minimum	_	ADV	_	_	_	_	_	_
 2	iidem	_	DET	_	_	_	_	_	_
 3	que	_	CCONJ	_	_	_	_	_	_
 4	plurimum	_	ADV	_	_	_	_	_	_
@@ -5492,7 +5492,7 @@
 21	aut	_	CCONJ	_	_	_	_	_	_
 22	scabritia	_	NOUN	_	_	_	_	_	_
 23	aut	_	CCONJ	_	_	_	_	_	_
-24	puncta	_	VERB	_	_	_	_	_	_
+24	puncta	_	NOUN	_	_	_	_	_	_
 25	oculis	_	NOUN	_	_	_	_	_	_
 26	occursantia	_	VERB	_	_	_	_	_	_
 
@@ -5511,18 +5511,18 @@
 1	experimentum	_	NOUN	_	_	_	_	_	_
 2	in	_	ADP	_	_	_	_	_	_
 3	sole	_	NOUN	_	_	_	_	_	_
-4	tantum	_	DET	_	_	_	_	_	_
+4	tantum	_	ADV	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-284
 # text = falsis enim contra radios libratis digito ac pollice unus atque idem tralucet colos in se consumptus
-1	falsis	_	NOUN	_	_	_	_	_	_
+1	falsis	_	ADJ	_	_	_	_	_	_
 2	enim	_	PART	_	_	_	_	_	_
 3	contra	_	ADP	_	_	_	_	_	_
 4	radios	_	NOUN	_	_	_	_	_	_
 5	libratis	_	VERB	_	_	_	_	_	_
 6	digito	_	NOUN	_	_	_	_	_	_
 7	ac	_	CCONJ	_	_	_	_	_	_
-8	pollice	_	NOUN	_	_	_	_	_	_
+8	pollice	_	ADV	_	_	_	_	_	_
 9	unus	_	NUM	_	_	_	_	_	_
 10	atque	_	CCONJ	_	_	_	_	_	_
 11	idem	_	DET	_	_	_	_	_	_
@@ -5542,7 +5542,7 @@
 6	modo	_	ADV	_	_	_	_	_	_
 7	ex	_	ADP	_	_	_	_	_	_
 8	hoc	_	DET	_	_	_	_	_	_
-9	plus	_	ADV	_	_	_	_	_	_
+9	plus	_	ADJ	_	_	_	_	_	_
 10	modo	_	ADV	_	_	_	_	_	_
 11	ex	_	ADP	_	_	_	_	_	_
 12	illo	_	DET	_	_	_	_	_	_
@@ -5618,7 +5618,7 @@
 
 # sent_id = PliNH37-R-ef-290
 # text = summa illi coloris ex aere et purpura constat uiriditas smaragdi deest
-1	summa	_	NOUN	_	_	_	_	_	_
+1	summa	_	ADJ	_	_	_	_	_	_
 2	illi	_	DET	_	_	_	_	_	_
 3	coloris	_	NOUN	_	_	_	_	_	_
 4	ex	_	ADP	_	_	_	_	_	_
@@ -5691,7 +5691,7 @@
 1	primus	_	ADJ	_	_	_	_	_	_
 2	autem	_	CCONJ	_	_	_	_	_	_
 3	Romanorum	_	PROPN	_	_	_	_	_	_
-4	sardonyche	_	ADV	_	_	_	_	_	_
+4	sardonyche	_	NOUN	_	_	_	_	_	_
 5	usus	_	VERB	_	_	_	_	_	_
 6	est	_	AUX	_	_	_	_	_	_
 7	Africanus	_	PROPN	_	_	_	_	_	_
@@ -5727,19 +5727,19 @@
 6	nomine	_	NOUN	_	_	_	_	_	_
 7	apparet	_	VERB	_	_	_	_	_	_
 8	intellegebantur	_	VERB	_	_	_	_	_	_
-9	candore	_	NOUN	_	_	_	_	_	_
+9	candore	_	ADV	_	_	_	_	_	_
 10	in	_	ADP	_	_	_	_	_	_
 11	sarda	_	NOUN	_	_	_	_	_	_
 12	hoc	_	DET	_	_	_	_	_	_
 13	est	_	AUX	_	_	_	_	_	_
-14	ueluti	_	VERB	_	_	_	_	_	_
+14	ueluti	_	NOUN	_	_	_	_	_	_
 15	carne	_	NOUN	_	_	_	_	_	_
 16	ungui	_	DET	_	_	_	_	_	_
 17	hominis	_	NOUN	_	_	_	_	_	_
 18	inposita	_	VERB	_	_	_	_	_	_
 19	et	_	CCONJ	_	_	_	_	_	_
 20	utroque	_	DET	_	_	_	_	_	_
-21	tralucido	_	ADJ	_	_	_	_	_	_
+21	tralucido	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-298
 # text = tales que esse Indicas tradunt Ismenias Demostratus Zenothemis Sotacus hi quidem duo reliquas omnes quae non traluceant caecas appellantes
@@ -5832,7 +5832,7 @@
 25	initio	_	NOUN	_	_	_	_	_	_
 26	quoniam	_	SCONJ	_	_	_	_	_	_
 27	solae	_	DET	_	_	_	_	_	_
-28	prope	_	ADP	_	_	_	_	_	_
+28	prope	_	ADV	_	_	_	_	_	_
 29	gemmarum	_	NOUN	_	_	_	_	_	_
 30	scalptae	_	NOUN	_	_	_	_	_	_
 31	ceram	_	NOUN	_	_	_	_	_	_
@@ -5860,7 +5860,7 @@
 
 # sent_id = PliNH37-R-ef-303
 # text = et hoc nunc est Indicarum argumentum
-1	et	_	ADV	_	_	_	_	_	_
+1	et	_	CCONJ	_	_	_	_	_	_
 2	hoc	_	DET	_	_	_	_	_	_
 3	nunc	_	ADV	_	_	_	_	_	_
 4	est	_	AUX	_	_	_	_	_	_
@@ -5908,7 +5908,7 @@
 # sent_id = PliNH37-R-ef-306
 # text = item circuli albi quaedam in iis caelestis arcus anhelatio est superficies uero locustarum maris crustis rubentibus
 1	item	_	ADV	_	_	_	_	_	_
-2	circuli	_	ADJ	_	_	_	_	_	_
+2	circuli	_	NOUN	_	_	_	_	_	_
 3	albi	_	NOUN	_	_	_	_	_	_
 4	quaedam	_	DET	_	_	_	_	_	_
 5	in	_	ADP	_	_	_	_	_	_
@@ -5919,7 +5919,7 @@
 10	est	_	AUX	_	_	_	_	_	_
 11	superficies	_	NOUN	_	_	_	_	_	_
 12	uero	_	CCONJ	_	_	_	_	_	_
-13	locustarum	_	NOUN	_	_	_	_	_	_
+13	locustarum	_	VERB	_	_	_	_	_	_
 14	maris	_	NOUN	_	_	_	_	_	_
 15	crustis	_	NOUN	_	_	_	_	_	_
 16	rubentibus	_	VERB	_	_	_	_	_	_
@@ -5944,7 +5944,7 @@
 16	se	_	PRON	_	_	_	_	_	_
 17	non	_	PART	_	_	_	_	_	_
 18	colligat	_	VERB	_	_	_	_	_	_
-19	simili	_	ADJ	_	_	_	_	_	_
+19	simili	_	DET	_	_	_	_	_	_
 20	modo	_	NOUN	_	_	_	_	_	_
 21	si	_	SCONJ	_	_	_	_	_	_
 22	ex	_	ADP	_	_	_	_	_	_
@@ -5996,7 +5996,7 @@
 3	lapidis	_	NOUN	_	_	_	_	_	_
 4	hic	_	DET	_	_	_	_	_	_
 5	gemmae	_	NOUN	_	_	_	_	_	_
-6	uocabulum	_	ADJ	_	_	_	_	_	_
+6	uocabulum	_	VERB	_	_	_	_	_	_
 7	est	_	AUX	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-312
@@ -6016,7 +6016,7 @@
 13	et	_	CCONJ	_	_	_	_	_	_
 14	sardae	_	NOUN	_	_	_	_	_	_
 15	et	_	CCONJ	_	_	_	_	_	_
-16	iaspidis	_	ADJ	_	_	_	_	_	_
+16	iaspidis	_	NOUN	_	_	_	_	_	_
 17	Zenothemis	_	PROPN	_	_	_	_	_	_
 18	Indicam	_	ADJ	_	_	_	_	_	_
 19	onychem	_	NOUN	_	_	_	_	_	_
@@ -6027,7 +6027,7 @@
 24	nigram	_	NOUN	_	_	_	_	_	_
 25	corneam	_	NOUN	_	_	_	_	_	_
 26	cingentibus	_	VERB	_	_	_	_	_	_
-27	candidis	_	ADJ	_	_	_	_	_	_
+27	candidis	_	NOUN	_	_	_	_	_	_
 28	uenis	_	NOUN	_	_	_	_	_	_
 29	oculi	_	NOUN	_	_	_	_	_	_
 30	modo	_	ADV	_	_	_	_	_	_
@@ -6046,7 +6046,7 @@
 5	onychem	_	NOUN	_	_	_	_	_	_
 6	distare	_	VERB	_	_	_	_	_	_
 7	quod	_	SCONJ	_	_	_	_	_	_
-8	Indica	_	PROPN	_	_	_	_	_	_
+8	Indica	_	ADJ	_	_	_	_	_	_
 9	igniculos	_	NOUN	_	_	_	_	_	_
 10	habeat	_	VERB	_	_	_	_	_	_
 11	albis	_	NOUN	_	_	_	_	_	_
@@ -6076,7 +6076,7 @@
 2	onychas	_	NOUN	_	_	_	_	_	_
 3	nigras	_	ADJ	_	_	_	_	_	_
 4	inueniri	_	VERB	_	_	_	_	_	_
-5	candidis	_	ADJ	_	_	_	_	_	_
+5	candidis	_	NOUN	_	_	_	_	_	_
 6	zonis	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-316
@@ -6139,7 +6139,7 @@
 13	obiter	_	ADV	_	_	_	_	_	_
 14	que	_	CCONJ	_	_	_	_	_	_
 15	omnium	_	DET	_	_	_	_	_	_
-16	ardentium	_	ADJ	_	_	_	_	_	_
+16	ardentium	_	VERB	_	_	_	_	_	_
 17	gemmarum	_	NOUN	_	_	_	_	_	_
 18	indicanda	_	VERB	_	_	_	_	_	_
 19	natura	_	NOUN	_	_	_	_	_	_
@@ -6162,7 +6162,7 @@
 14	quibusdam	_	DET	_	_	_	_	_	_
 15	ob	_	ADP	_	_	_	_	_	_
 16	hoc	_	DET	_	_	_	_	_	_
-17	acaustoe	_	VERB	_	_	_	_	_	_
+17	acaustoe	_	ADJ	_	_	_	_	_	_
 18	appellati	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-320
@@ -6227,10 +6227,10 @@
 13	lucidos	_	ADJ	_	_	_	_	_	_
 14	ac	_	CCONJ	_	_	_	_	_	_
 15	magis	_	ADV	_	_	_	_	_	_
-16	ceteris	_	ADJ	_	_	_	_	_	_
+16	ceteris	_	NOUN	_	_	_	_	_	_
 17	in	_	ADP	_	_	_	_	_	_
 18	sole	_	NOUN	_	_	_	_	_	_
-19	flagrantes	_	VERB	_	_	_	_	_	_
+19	flagrantes	_	ADJ	_	_	_	_	_	_
 20	optimos	_	ADJ	_	_	_	_	_	_
 21	uero	_	CCONJ	_	_	_	_	_	_
 22	amethystizontas	_	NOUN	_	_	_	_	_	_
@@ -6256,11 +6256,11 @@
 # text = inueniri autem ubi maxime sit solis repercussus
 1	inueniri	_	VERB	_	_	_	_	_	_
 2	autem	_	CCONJ	_	_	_	_	_	_
-3	ubi	_	SCONJ	_	_	_	_	_	_
+3	ubi	_	ADV	_	_	_	_	_	_
 4	maxime	_	ADV	_	_	_	_	_	_
 5	sit	_	AUX	_	_	_	_	_	_
 6	solis	_	NOUN	_	_	_	_	_	_
-7	repercussus	_	NOUN	_	_	_	_	_	_
+7	repercussus	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-325
 # text = Satyrus Indicos non esse claros dicit ac plerumque sordidos ac semper fulgoris retorridi Aethiopicos pingues lucem que non fundentes conuoluto igne flagrare
@@ -6275,8 +6275,8 @@
 9	sordidos	_	ADJ	_	_	_	_	_	_
 10	ac	_	CCONJ	_	_	_	_	_	_
 11	semper	_	ADV	_	_	_	_	_	_
-12	fulgoris	_	ADJ	_	_	_	_	_	_
-13	retorridi	_	ADJ	_	_	_	_	_	_
+12	fulgoris	_	NOUN	_	_	_	_	_	_
+13	retorridi	_	VERB	_	_	_	_	_	_
 14	Aethiopicos	_	PROPN	_	_	_	_	_	_
 15	pingues	_	ADJ	_	_	_	_	_	_
 16	lucem	_	NOUN	_	_	_	_	_	_
@@ -6354,7 +6354,7 @@
 1	eosdem	_	DET	_	_	_	_	_	_
 2	obumbrante	_	VERB	_	_	_	_	_	_
 3	tecto	_	NOUN	_	_	_	_	_	_
-4	purpureos	_	ADJ	_	_	_	_	_	_
+4	purpureos	_	NOUN	_	_	_	_	_	_
 5	uideri	_	VERB	_	_	_	_	_	_
 6	sub	_	ADP	_	_	_	_	_	_
 7	caelo	_	NOUN	_	_	_	_	_	_
@@ -6369,7 +6369,7 @@
 16	liquescere	_	VERB	_	_	_	_	_	_
 17	quamuis	_	SCONJ	_	_	_	_	_	_
 18	in	_	ADP	_	_	_	_	_	_
-19	opaco	_	ADJ	_	_	_	_	_	_
+19	opaco	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-330
 # text = multi Indicos Carchedoniis candidiores esse et e diuerso inclinatione hebetari scripsere etiamnum in Carchedoniis maribus stellam intus ardere feminas fulgorem uniuersum fundere extra se alabandicos nigriores ceteris esse scabros que
@@ -6386,7 +6386,7 @@
 11	scripsere	_	VERB	_	_	_	_	_	_
 12	etiamnum	_	ADV	_	_	_	_	_	_
 13	in	_	ADP	_	_	_	_	_	_
-14	Carchedoniis	_	ADJ	_	_	_	_	_	_
+14	Carchedoniis	_	PROPN	_	_	_	_	_	_
 15	maribus	_	NOUN	_	_	_	_	_	_
 16	stellam	_	NOUN	_	_	_	_	_	_
 17	intus	_	ADV	_	_	_	_	_	_
@@ -6453,7 +6453,7 @@
 10	sed	_	CCONJ	_	_	_	_	_	_
 11	pallidiores	_	ADJ	_	_	_	_	_	_
 12	e	_	ADP	_	_	_	_	_	_
-13	candido	_	ADJ	_	_	_	_	_	_
+13	candido	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-334
 # text = a Massilia quoque inportari
@@ -6514,13 +6514,13 @@
 8	nitescere	_	VERB	_	_	_	_	_	_
 9	totidem	_	DET	_	_	_	_	_	_
 10	mensibus	_	NOUN	_	_	_	_	_	_
-11	durante	_	ADP	_	_	_	_	_	_
+11	durante	_	VERB	_	_	_	_	_	_
 12	fulgore	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-339
 # text = adulterantur uitro simillime sed cote deprehenduntur sicut aliae gemmae
 1	adulterantur	_	VERB	_	_	_	_	_	_
-2	uitro	_	NOUN	_	_	_	_	_	_
+2	uitro	_	ADV	_	_	_	_	_	_
 3	simillime	_	ADV	_	_	_	_	_	_
 4	sed	_	CCONJ	_	_	_	_	_	_
 5	cote	_	ADV	_	_	_	_	_	_
@@ -6531,7 +6531,7 @@
 
 # sent_id = PliNH37-R-ef-340
 # text = fictis enim mollior materia fragilis que est
-1	fictis	_	NOUN	_	_	_	_	_	_
+1	fictis	_	ADJ	_	_	_	_	_	_
 2	enim	_	PART	_	_	_	_	_	_
 3	mollior	_	ADJ	_	_	_	_	_	_
 4	materia	_	NOUN	_	_	_	_	_	_
@@ -6566,7 +6566,7 @@
 4	appellata	_	VERB	_	_	_	_	_	_
 5	in	_	ADP	_	_	_	_	_	_
 6	Thesprotia	_	PROPN	_	_	_	_	_	_
-7	fossilis	_	ADJ	_	_	_	_	_	_
+7	fossilis	_	NOUN	_	_	_	_	_	_
 8	carbonibus	_	NOUN	_	_	_	_	_	_
 9	similis	_	ADJ	_	_	_	_	_	_
 
@@ -6599,7 +6599,7 @@
 # sent_id = PliNH37-R-ef-345
 # text = harum igneus color ut superiorum sed peculiare quod tactu uelut intermortuae extinguntur contra aquis perfusae exardescunt
 1	harum	_	DET	_	_	_	_	_	_
-2	igneus	_	ADJ	_	_	_	_	_	_
+2	igneus	_	NOUN	_	_	_	_	_	_
 3	color	_	NOUN	_	_	_	_	_	_
 4	ut	_	SCONJ	_	_	_	_	_	_
 5	superiorum	_	ADJ	_	_	_	_	_	_
@@ -6608,7 +6608,7 @@
 8	quod	_	SCONJ	_	_	_	_	_	_
 9	tactu	_	NOUN	_	_	_	_	_	_
 10	uelut	_	SCONJ	_	_	_	_	_	_
-11	intermortuae	_	VERB	_	_	_	_	_	_
+11	intermortuae	_	NOUN	_	_	_	_	_	_
 12	extinguntur	_	VERB	_	_	_	_	_	_
 13	contra	_	ADV	_	_	_	_	_	_
 14	aquis	_	NOUN	_	_	_	_	_	_
@@ -6619,7 +6619,7 @@
 # text = cognata est et sandastros proxima natura eius quam aliqui Garamanticam uocant
 1	cognata	_	VERB	_	_	_	_	_	_
 2	est	_	AUX	_	_	_	_	_	_
-3	et	_	CCONJ	_	_	_	_	_	_
+3	et	_	ADV	_	_	_	_	_	_
 4	sandastros	_	NOUN	_	_	_	_	_	_
 5	proxima	_	ADJ	_	_	_	_	_	_
 6	natura	_	NOUN	_	_	_	_	_	_
@@ -6641,7 +6641,7 @@
 # sent_id = PliNH37-R-ef-348
 # text = gignitur et in Arabia ad meridiem uersa
 1	gignitur	_	VERB	_	_	_	_	_	_
-2	et	_	ADV	_	_	_	_	_	_
+2	et	_	CCONJ	_	_	_	_	_	_
 3	in	_	ADP	_	_	_	_	_	_
 4	Arabia	_	PROPN	_	_	_	_	_	_
 5	ad	_	ADP	_	_	_	_	_	_
@@ -6653,7 +6653,7 @@
 1	commendatio	_	NOUN	_	_	_	_	_	_
 2	summa	_	ADJ	_	_	_	_	_	_
 3	quod	_	SCONJ	_	_	_	_	_	_
-4	ueluti	_	VERB	_	_	_	_	_	_
+4	ueluti	_	ADJ	_	_	_	_	_	_
 5	in	_	ADP	_	_	_	_	_	_
 6	tralucido	_	NOUN	_	_	_	_	_	_
 7	ignis	_	NOUN	_	_	_	_	_	_
@@ -6713,7 +6713,7 @@
 2	quidem	_	PART	_	_	_	_	_	_
 3	etiam	_	ADV	_	_	_	_	_	_
 4	hebetare	_	VERB	_	_	_	_	_	_
-5	uisus	_	VERB	_	_	_	_	_	_
+5	uisus	_	NOUN	_	_	_	_	_	_
 6	dicuntur	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-353
@@ -6732,8 +6732,8 @@
 2	qui	_	PRON	_	_	_	_	_	_
 3	praeferant	_	VERB	_	_	_	_	_	_
 4	Arabicas	_	ADJ	_	_	_	_	_	_
-5	Indicis	_	PROPN	_	_	_	_	_	_
-6	fumidae	_	ADJ	_	_	_	_	_	_
+5	Indicis	_	ADJ	_	_	_	_	_	_
+6	fumidae	_	VERB	_	_	_	_	_	_
 7	que	_	CCONJ	_	_	_	_	_	_
 8	chrysolitho	_	NOUN	_	_	_	_	_	_
 9	similes	_	ADJ	_	_	_	_	_	_
@@ -6771,7 +6771,7 @@
 5	numero	_	NOUN	_	_	_	_	_	_
 6	stellarum	_	NOUN	_	_	_	_	_	_
 7	accedat	_	VERB	_	_	_	_	_	_
-8	tantum	_	ADV	_	_	_	_	_	_
+8	tantum	_	PRON	_	_	_	_	_	_
 9	et	_	ADV	_	_	_	_	_	_
 10	pretio	_	NOUN	_	_	_	_	_	_
 11	accedere	_	VERB	_	_	_	_	_	_
@@ -6797,7 +6797,7 @@
 8	hanc	_	DET	_	_	_	_	_	_
 9	sandastrum	_	ADJ	_	_	_	_	_	_
 10	illam	_	DET	_	_	_	_	_	_
-11	sandaresum	_	ADJ	_	_	_	_	_	_
+11	sandaresum	_	NOUN	_	_	_	_	_	_
 12	in	_	ADP	_	_	_	_	_	_
 13	India	_	PROPN	_	_	_	_	_	_
 14	nascentem	_	VERB	_	_	_	_	_	_
@@ -6888,7 +6888,7 @@
 4	aut	_	CCONJ	_	_	_	_	_	_
 5	attritu	_	NOUN	_	_	_	_	_	_
 6	digitorum	_	NOUN	_	_	_	_	_	_
-7	paleas	_	ADJ	_	_	_	_	_	_
+7	paleas	_	NOUN	_	_	_	_	_	_
 8	et	_	CCONJ	_	_	_	_	_	_
 9	chartarum	_	NOUN	_	_	_	_	_	_
 10	fila	_	NOUN	_	_	_	_	_	_
@@ -6959,7 +6959,7 @@
 5	ex	_	ADP	_	_	_	_	_	_
 6	lychnide	_	NOUN	_	_	_	_	_	_
 7	factitata	_	VERB	_	_	_	_	_	_
-8	inuenio	_	VERB	_	_	_	_	_	_
+8	inuenio	_	NOUN	_	_	_	_	_	_
 9	omnia	_	DET	_	_	_	_	_	_
 10	autem	_	CCONJ	_	_	_	_	_	_
 11	haec	_	DET	_	_	_	_	_	_
@@ -6980,7 +6980,7 @@
 2	diuerso	_	NOUN	_	_	_	_	_	_
 3	ad	_	ADP	_	_	_	_	_	_
 4	haec	_	DET	_	_	_	_	_	_
-5	sarda	_	ADJ	_	_	_	_	_	_
+5	sarda	_	NOUN	_	_	_	_	_	_
 6	utilissima	_	ADJ	_	_	_	_	_	_
 7	quae	_	PRON	_	_	_	_	_	_
 8	nomen	_	NOUN	_	_	_	_	_	_
@@ -6991,7 +6991,7 @@
 # sent_id = PliNH37-R-ef-372
 # text = ipsa uolgaris et primum Sardibus reperta
 1	ipsa	_	DET	_	_	_	_	_	_
-2	uolgaris	_	ADJ	_	_	_	_	_	_
+2	uolgaris	_	NOUN	_	_	_	_	_	_
 3	et	_	CCONJ	_	_	_	_	_	_
 4	primum	_	ADV	_	_	_	_	_	_
 5	Sardibus	_	PROPN	_	_	_	_	_	_
@@ -7047,7 +7047,7 @@
 1	rubrae	_	ADJ	_	_	_	_	_	_
 2	et	_	CCONJ	_	_	_	_	_	_
 3	quas	_	PRON	_	_	_	_	_	_
-4	pionias	_	ADJ	_	_	_	_	_	_
+4	pionias	_	NOUN	_	_	_	_	_	_
 5	uocant	_	VERB	_	_	_	_	_	_
 6	ab	_	ADP	_	_	_	_	_	_
 7	pinguitudine	_	NOUN	_	_	_	_	_	_
@@ -7064,7 +7064,7 @@
 
 # sent_id = PliNH37-R-ef-379
 # text = Indicae perlucent crassiores sunt Arabicae
-1	Indicae	_	ADJ	_	_	_	_	_	_
+1	Indicae	_	PROPN	_	_	_	_	_	_
 2	perlucent	_	VERB	_	_	_	_	_	_
 3	crassiores	_	ADJ	_	_	_	_	_	_
 4	sunt	_	AUX	_	_	_	_	_	_
@@ -7082,12 +7082,12 @@
 8	Aegypto	_	PROPN	_	_	_	_	_	_
 9	quae	_	PRON	_	_	_	_	_	_
 10	brattea	_	NOUN	_	_	_	_	_	_
-11	aurea	_	NOUN	_	_	_	_	_	_
+11	aurea	_	ADJ	_	_	_	_	_	_
 12	sublinuntur	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-381
 # text = et in his autem mares excitatius fulgent feminae pigriores et crassius nitent
-1	et	_	ADV	_	_	_	_	_	_
+1	et	_	CCONJ	_	_	_	_	_	_
 2	in	_	ADP	_	_	_	_	_	_
 3	his	_	DET	_	_	_	_	_	_
 4	autem	_	CCONJ	_	_	_	_	_	_
@@ -7151,7 +7151,7 @@
 5	gloria	_	NOUN	_	_	_	_	_	_
 6	est	_	AUX	_	_	_	_	_	_
 7	e	_	ADP	_	_	_	_	_	_
-8	uirenti	_	VERB	_	_	_	_	_	_
+8	uirenti	_	NOUN	_	_	_	_	_	_
 9	genere	_	NOUN	_	_	_	_	_	_
 10	et	_	CCONJ	_	_	_	_	_	_
 11	cum	_	SCONJ	_	_	_	_	_	_
@@ -7178,7 +7178,7 @@
 13	fame	_	NOUN	_	_	_	_	_	_
 14	et	_	CCONJ	_	_	_	_	_	_
 15	tempestate	_	NOUN	_	_	_	_	_	_
-16	fessi	_	ADJ	_	_	_	_	_	_
+16	fessi	_	VERB	_	_	_	_	_	_
 17	ut	_	SCONJ	_	_	_	_	_	_
 18	cum	_	SCONJ	_	_	_	_	_	_
 19	herbas	_	NOUN	_	_	_	_	_	_
@@ -7242,7 +7242,7 @@
 7	quae	_	PRON	_	_	_	_	_	_
 8	fuit	_	AUX	_	_	_	_	_	_
 9	mater	_	NOUN	_	_	_	_	_	_
-10	sequentis	_	VERB	_	_	_	_	_	_
+10	sequentis	_	ADJ	_	_	_	_	_	_
 11	Ptolemaei	_	PROPN	_	_	_	_	_	_
 12	ab	_	ADP	_	_	_	_	_	_
 13	Philone	_	PROPN	_	_	_	_	_	_
@@ -7262,7 +7262,7 @@
 10	uxori	_	NOUN	_	_	_	_	_	_
 11	quattuor	_	NUM	_	_	_	_	_	_
 12	cubitorum	_	NOUN	_	_	_	_	_	_
-13	sacratam	_	ADJ	_	_	_	_	_	_
+13	sacratam	_	VERB	_	_	_	_	_	_
 14	in	_	ADP	_	_	_	_	_	_
 15	delubro	_	NOUN	_	_	_	_	_	_
 16	quod	_	PRON	_	_	_	_	_	_
@@ -7312,7 +7312,7 @@
 # text = eadem sola nobilium limam sentit ceterae Naxio et cotibus poliuntur
 1	eadem	_	DET	_	_	_	_	_	_
 2	sola	_	DET	_	_	_	_	_	_
-3	nobilium	_	ADJ	_	_	_	_	_	_
+3	nobilium	_	NOUN	_	_	_	_	_	_
 4	limam	_	NOUN	_	_	_	_	_	_
 5	sentit	_	VERB	_	_	_	_	_	_
 6	ceterae	_	ADJ	_	_	_	_	_	_
@@ -7333,10 +7333,10 @@
 1	comitatur	_	VERB	_	_	_	_	_	_
 2	eam	_	PRON	_	_	_	_	_	_
 3	similitudine	_	NOUN	_	_	_	_	_	_
-4	propior	_	ADV	_	_	_	_	_	_
+4	propior	_	ADJ	_	_	_	_	_	_
 5	quam	_	SCONJ	_	_	_	_	_	_
 6	auctoritate	_	NOUN	_	_	_	_	_	_
-7	callaina	_	NOUN	_	_	_	_	_	_
+7	callaina	_	ADJ	_	_	_	_	_	_
 8	e	_	ADP	_	_	_	_	_	_
 9	uiridi	_	NOUN	_	_	_	_	_	_
 10	pallens	_	ADJ	_	_	_	_	_	_
@@ -7344,8 +7344,8 @@
 # sent_id = PliNH37-R-ef-397
 # text = nascitur post auersa Indiae apud incolas Caucasi montis Hyrcanos Sacas Dahas amplitudine conspicua sed fistulosa ac sordium plena sincerior praestantior que multo in Carmania utrobique autem in rupibus inuiis et gelidis oculi figura extuberans leuiter que adhaerescens nec ut adnata petris sed ut adposita
 1	nascitur	_	VERB	_	_	_	_	_	_
-2	post	_	ADP	_	_	_	_	_	_
-3	auersa	_	NOUN	_	_	_	_	_	_
+2	post	_	ADV	_	_	_	_	_	_
+3	auersa	_	VERB	_	_	_	_	_	_
 4	Indiae	_	PROPN	_	_	_	_	_	_
 5	apud	_	ADP	_	_	_	_	_	_
 6	incolas	_	NOUN	_	_	_	_	_	_
@@ -7367,7 +7367,7 @@
 22	multo	_	ADV	_	_	_	_	_	_
 23	in	_	ADP	_	_	_	_	_	_
 24	Carmania	_	PROPN	_	_	_	_	_	_
-25	utrobique	_	ADJ	_	_	_	_	_	_
+25	utrobique	_	DET	_	_	_	_	_	_
 26	autem	_	CCONJ	_	_	_	_	_	_
 27	in	_	ADP	_	_	_	_	_	_
 28	rupibus	_	NOUN	_	_	_	_	_	_
@@ -7419,7 +7419,7 @@
 9	musco	_	NOUN	_	_	_	_	_	_
 10	excutiunt	_	VERB	_	_	_	_	_	_
 11	hoc	_	DET	_	_	_	_	_	_
-12	uectigal	_	ADJ	_	_	_	_	_	_
+12	uectigal	_	NOUN	_	_	_	_	_	_
 13	hoc	_	DET	_	_	_	_	_	_
 14	gestamen	_	NOUN	_	_	_	_	_	_
 15	in	_	ADP	_	_	_	_	_	_
@@ -7445,7 +7445,7 @@
 4	fortuna	_	NOUN	_	_	_	_	_	_
 5	quidam	_	DET	_	_	_	_	_	_
 6	ictu	_	NOUN	_	_	_	_	_	_
-7	primo	_	ADJ	_	_	_	_	_	_
+7	primo	_	ADV	_	_	_	_	_	_
 8	cepere	_	VERB	_	_	_	_	_	_
 9	praeclaras	_	ADJ	_	_	_	_	_	_
 10	multi	_	NOUN	_	_	_	_	_	_
@@ -7467,7 +7467,7 @@
 1	sectura	_	NOUN	_	_	_	_	_	_
 2	inde	_	ADV	_	_	_	_	_	_
 3	formantur	_	VERB	_	_	_	_	_	_
-4	alias	_	DET	_	_	_	_	_	_
+4	alias	_	ADV	_	_	_	_	_	_
 5	faciles	_	ADJ	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-403
@@ -7543,7 +7543,7 @@
 
 # sent_id = PliNH37-R-ef-408
 # text = uilioris turbae prasius cuius alterum genus sanguineis punctis abhorret tertium uirgulis tribus distinctum candidis
-1	uilioris	_	NOUN	_	_	_	_	_	_
+1	uilioris	_	ADJ	_	_	_	_	_	_
 2	turbae	_	NOUN	_	_	_	_	_	_
 3	prasius	_	NOUN	_	_	_	_	_	_
 4	cuius	_	PRON	_	_	_	_	_	_
@@ -7556,7 +7556,7 @@
 11	uirgulis	_	NOUN	_	_	_	_	_	_
 12	tribus	_	NUM	_	_	_	_	_	_
 13	distinctum	_	VERB	_	_	_	_	_	_
-14	candidis	_	ADJ	_	_	_	_	_	_
+14	candidis	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-409
 # text = praefertur his chrysoprasos porri sucum et ipsa referens sed haec paulum declinantem a topazo in aurum
@@ -7565,7 +7565,7 @@
 3	chrysoprasos	_	NOUN	_	_	_	_	_	_
 4	porri	_	NOUN	_	_	_	_	_	_
 5	sucum	_	NOUN	_	_	_	_	_	_
-6	et	_	CCONJ	_	_	_	_	_	_
+6	et	_	ADV	_	_	_	_	_	_
 7	ipsa	_	DET	_	_	_	_	_	_
 8	referens	_	VERB	_	_	_	_	_	_
 9	sed	_	CCONJ	_	_	_	_	_	_
@@ -7590,10 +7590,10 @@
 9	ex	_	ADP	_	_	_	_	_	_
 10	ea	_	PRON	_	_	_	_	_	_
 11	fiant	_	VERB	_	_	_	_	_	_
-12	cylindri	_	NOUN	_	_	_	_	_	_
+12	cylindri	_	ADJ	_	_	_	_	_	_
 13	quidem	_	PART	_	_	_	_	_	_
 14	et	_	CCONJ	_	_	_	_	_	_
-15	creberrime	_	ADV	_	_	_	_	_	_
+15	creberrime	_	ADJ	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-411
 # text = India et has generat et nilion fulgore ab ea distantem breui et cum intueare fallaci
@@ -7607,9 +7607,9 @@
 8	ab	_	ADP	_	_	_	_	_	_
 9	ea	_	PRON	_	_	_	_	_	_
 10	distantem	_	VERB	_	_	_	_	_	_
-11	breui	_	ADJ	_	_	_	_	_	_
+11	breui	_	ADV	_	_	_	_	_	_
 12	et	_	CCONJ	_	_	_	_	_	_
-13	cum	_	ADP	_	_	_	_	_	_
+13	cum	_	SCONJ	_	_	_	_	_	_
 14	intueare	_	VERB	_	_	_	_	_	_
 15	fallaci	_	ADJ	_	_	_	_	_	_
 
@@ -7617,7 +7617,7 @@
 # text = Sudines dicit et in Sibero Atticae flumine nasci
 1	Sudines	_	PROPN	_	_	_	_	_	_
 2	dicit	_	VERB	_	_	_	_	_	_
-3	et	_	ADV	_	_	_	_	_	_
+3	et	_	CCONJ	_	_	_	_	_	_
 4	in	_	ADP	_	_	_	_	_	_
 5	Sibero	_	PROPN	_	_	_	_	_	_
 6	Atticae	_	PROPN	_	_	_	_	_	_
@@ -7629,11 +7629,11 @@
 1	est	_	AUX	_	_	_	_	_	_
 2	autem	_	CCONJ	_	_	_	_	_	_
 3	color	_	NOUN	_	_	_	_	_	_
-4	fumidae	_	ADJ	_	_	_	_	_	_
+4	fumidae	_	NOUN	_	_	_	_	_	_
 5	topazi	_	NOUN	_	_	_	_	_	_
 6	aut	_	CCONJ	_	_	_	_	_	_
 7	aliquando	_	ADV	_	_	_	_	_	_
-8	melleae	_	ADJ	_	_	_	_	_	_
+8	melleae	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-414
 # text = Iuba in Aethiopia gigni tradit in litoribus amnis quem Nilum uocamus et inde nomen trahere
@@ -7665,7 +7665,7 @@
 2	uiret	_	VERB	_	_	_	_	_	_
 3	ab	_	ADP	_	_	_	_	_	_
 4	colore	_	NOUN	_	_	_	_	_	_
-5	maluae	_	ADJ	_	_	_	_	_	_
+5	maluae	_	NOUN	_	_	_	_	_	_
 6	nomine	_	NOUN	_	_	_	_	_	_
 7	accepto	_	VERB	_	_	_	_	_	_
 8	reddendis	_	VERB	_	_	_	_	_	_
@@ -7677,7 +7677,7 @@
 14	quodam	_	DET	_	_	_	_	_	_
 15	que	_	CCONJ	_	_	_	_	_	_
 16	innato	_	ADJ	_	_	_	_	_	_
-17	contra	_	ADP	_	_	_	_	_	_
+17	contra	_	ADV	_	_	_	_	_	_
 18	pericula	_	NOUN	_	_	_	_	_	_
 19	medicamine	_	NOUN	_	_	_	_	_	_
 
@@ -7690,7 +7690,7 @@
 5	iaspis	_	NOUN	_	_	_	_	_	_
 6	etiam	_	ADV	_	_	_	_	_	_
 7	uicta	_	VERB	_	_	_	_	_	_
-8	multis	_	ADJ	_	_	_	_	_	_
+8	multis	_	NOUN	_	_	_	_	_	_
 9	antiquitatis	_	NOUN	_	_	_	_	_	_
 10	gloriam	_	NOUN	_	_	_	_	_	_
 11	retinens	_	VERB	_	_	_	_	_	_
@@ -7730,7 +7730,7 @@
 1	caerulea	_	NOUN	_	_	_	_	_	_
 2	est	_	AUX	_	_	_	_	_	_
 3	circa	_	ADP	_	_	_	_	_	_
-4	Thermodontem	_	ADJ	_	_	_	_	_	_
+4	Thermodontem	_	PROPN	_	_	_	_	_	_
 5	amnem	_	NOUN	_	_	_	_	_	_
 6	in	_	ADP	_	_	_	_	_	_
 7	Phrygia	_	PROPN	_	_	_	_	_	_
@@ -7739,8 +7739,8 @@
 10	in	_	ADP	_	_	_	_	_	_
 11	Cappadocia	_	PROPN	_	_	_	_	_	_
 12	ex	_	ADP	_	_	_	_	_	_
-13	purpura	_	ADJ	_	_	_	_	_	_
-14	caerulea	_	NOUN	_	_	_	_	_	_
+13	purpura	_	NOUN	_	_	_	_	_	_
+14	caerulea	_	ADJ	_	_	_	_	_	_
 15	tristis	_	ADJ	_	_	_	_	_	_
 16	atque	_	CCONJ	_	_	_	_	_	_
 17	non	_	PART	_	_	_	_	_	_
@@ -7753,7 +7753,7 @@
 3	similem	_	ADJ	_	_	_	_	_	_
 4	mittit	_	VERB	_	_	_	_	_	_
 5	Calchedon	_	PROPN	_	_	_	_	_	_
-6	turbidam	_	ADJ	_	_	_	_	_	_
+6	turbidam	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-422
 # text = sed minus refert nationes quam bonitates distinguere
@@ -7769,15 +7769,15 @@
 # text = optima quae purpurae aliquid habet secunda quae rosae tertia quae smaragdi
 1	optima	_	ADJ	_	_	_	_	_	_
 2	quae	_	PRON	_	_	_	_	_	_
-3	purpurae	_	ADJ	_	_	_	_	_	_
+3	purpurae	_	NOUN	_	_	_	_	_	_
 4	aliquid	_	PRON	_	_	_	_	_	_
 5	habet	_	VERB	_	_	_	_	_	_
 6	secunda	_	ADJ	_	_	_	_	_	_
 7	quae	_	PRON	_	_	_	_	_	_
-8	rosae	_	ADJ	_	_	_	_	_	_
+8	rosae	_	NOUN	_	_	_	_	_	_
 9	tertia	_	ADJ	_	_	_	_	_	_
 10	quae	_	PRON	_	_	_	_	_	_
-11	smaragdi	_	ADJ	_	_	_	_	_	_
+11	smaragdi	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-424
 # text = singulis Graeci nomina ex argumento dedere
@@ -7806,7 +7806,7 @@
 2	erit	_	AUX	_	_	_	_	_	_
 3	illa	_	DET	_	_	_	_	_	_
 4	quae	_	PRON	_	_	_	_	_	_
-5	aerizusa	_	ADJ	_	_	_	_	_	_
+5	aerizusa	_	NOUN	_	_	_	_	_	_
 6	dicitur	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-427
@@ -7826,13 +7826,13 @@
 13	crystallo	_	NOUN	_	_	_	_	_	_
 14	similis	_	ADJ	_	_	_	_	_	_
 15	aut	_	CCONJ	_	_	_	_	_	_
-16	myxis	_	NOUN	_	_	_	_	_	_
+16	myxis	_	ADJ	_	_	_	_	_	_
 17	item	_	ADV	_	_	_	_	_	_
 18	terebinthizusa	_	ADJ	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-428
 # text = quam ob rem praestantiores funda cluduntur ut sint patentes ab utraque parte nec praeter margines quicquam auro amplectente
-1	quam	_	DET	_	_	_	_	_	_
+1	quam	_	PRON	_	_	_	_	_	_
 2	ob	_	ADP	_	_	_	_	_	_
 3	rem	_	NOUN	_	_	_	_	_	_
 4	praestantiores	_	ADJ	_	_	_	_	_	_
@@ -7840,7 +7840,7 @@
 6	cluduntur	_	VERB	_	_	_	_	_	_
 7	ut	_	SCONJ	_	_	_	_	_	_
 8	sint	_	AUX	_	_	_	_	_	_
-9	patentes	_	ADJ	_	_	_	_	_	_
+9	patentes	_	VERB	_	_	_	_	_	_
 10	ab	_	ADP	_	_	_	_	_	_
 11	utraque	_	DET	_	_	_	_	_	_
 12	parte	_	NOUN	_	_	_	_	_	_
@@ -7873,7 +7873,7 @@
 # sent_id = PliNH37-R-ef-430
 # text = et uitro adulterantur quod manifestum fit cum extra fulgorem spargunt atque non in se continent
 1	et	_	CCONJ	_	_	_	_	_	_
-2	uitro	_	NOUN	_	_	_	_	_	_
+2	uitro	_	ADV	_	_	_	_	_	_
 3	adulterantur	_	VERB	_	_	_	_	_	_
 4	quod	_	PRON	_	_	_	_	_	_
 5	manifestum	_	ADJ	_	_	_	_	_	_
@@ -7897,14 +7897,14 @@
 5	gemmarum	_	NOUN	_	_	_	_	_	_
 6	nomine	_	NOUN	_	_	_	_	_	_
 7	his	_	DET	_	_	_	_	_	_
-8	tantum	_	DET	_	_	_	_	_	_
+8	tantum	_	ADV	_	_	_	_	_	_
 9	dato	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-432
 # text = totus uero oriens pro amuleto gestare eas traditur
 1	totus	_	DET	_	_	_	_	_	_
 2	uero	_	CCONJ	_	_	_	_	_	_
-3	oriens	_	ADJ	_	_	_	_	_	_
+3	oriens	_	VERB	_	_	_	_	_	_
 4	pro	_	ADP	_	_	_	_	_	_
 5	amuleto	_	NOUN	_	_	_	_	_	_
 6	gestare	_	VERB	_	_	_	_	_	_
@@ -7981,8 +7981,8 @@
 5	similis	_	ADJ	_	_	_	_	_	_
 6	et	_	CCONJ	_	_	_	_	_	_
 7	uelut	_	SCONJ	_	_	_	_	_	_
-8	fumo	_	VERB	_	_	_	_	_	_
-9	infecta	_	ADJ	_	_	_	_	_	_
+8	fumo	_	NOUN	_	_	_	_	_	_
+9	infecta	_	VERB	_	_	_	_	_	_
 10	quae	_	PRON	_	_	_	_	_	_
 11	capnias	_	NOUN	_	_	_	_	_	_
 12	uocatur	_	VERB	_	_	_	_	_	_
@@ -7991,7 +7991,7 @@
 # text = magnitudine XUI unciarum uidimus formatam inde effigiem Neronis thoracatam
 1	magnitudine	_	NOUN	_	_	_	_	_	_
 2	XUI	_	NUM	_	_	_	_	_	_
-3	unciarum	_	ADJ	_	_	_	_	_	_
+3	unciarum	_	NOUN	_	_	_	_	_	_
 4	uidimus	_	VERB	_	_	_	_	_	_
 5	formatam	_	VERB	_	_	_	_	_	_
 6	inde	_	ADV	_	_	_	_	_	_
@@ -8014,16 +8014,16 @@
 11	nomine	_	NOUN	_	_	_	_	_	_
 12	a	_	ADP	_	_	_	_	_	_
 13	colore	_	NOUN	_	_	_	_	_	_
-14	caeruleo	_	ADJ	_	_	_	_	_	_
+14	caeruleo	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-440
 # text = optima Scythica dein Cypria postremo Aegyptia
 1	optima	_	ADJ	_	_	_	_	_	_
-2	Scythica	_	ADJ	_	_	_	_	_	_
+2	Scythica	_	PROPN	_	_	_	_	_	_
 3	dein	_	ADV	_	_	_	_	_	_
-4	Cypria	_	ADJ	_	_	_	_	_	_
+4	Cypria	_	PROPN	_	_	_	_	_	_
 5	postremo	_	ADV	_	_	_	_	_	_
-6	Aegyptia	_	ADJ	_	_	_	_	_	_
+6	Aegyptia	_	PROPN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-441
 # text = adulteratur maxime tinctura id que in gloria est regum Aegypti
@@ -8063,7 +8063,7 @@
 2	ei	_	PRON	_	_	_	_	_	_
 3	aliquando	_	ADV	_	_	_	_	_	_
 4	et	_	ADV	_	_	_	_	_	_
-5	aureus	_	ADJ	_	_	_	_	_	_
+5	aureus	_	NOUN	_	_	_	_	_	_
 6	puluis	_	NOUN	_	_	_	_	_	_
 7	non	_	PART	_	_	_	_	_	_
 8	qualis	_	DET	_	_	_	_	_	_
@@ -8206,7 +8206,7 @@
 1	perlucent	_	VERB	_	_	_	_	_	_
 2	autem	_	CCONJ	_	_	_	_	_	_
 3	omnes	_	DET	_	_	_	_	_	_
-4	uiolaceo	_	ADJ	_	_	_	_	_	_
+4	uiolaceo	_	NOUN	_	_	_	_	_	_
 5	decore	_	NOUN	_	_	_	_	_	_
 6	scalpturis	_	NOUN	_	_	_	_	_	_
 7	faciles	_	ADJ	_	_	_	_	_	_
@@ -8215,7 +8215,7 @@
 # text = Indica absolutum Phoenices purpurae colorem habet
 1	Indica	_	PROPN	_	_	_	_	_	_
 2	absolutum	_	ADJ	_	_	_	_	_	_
-3	Phoenices	_	ADJ	_	_	_	_	_	_
+3	Phoenices	_	PROPN	_	_	_	_	_	_
 4	purpurae	_	NOUN	_	_	_	_	_	_
 5	colorem	_	NOUN	_	_	_	_	_	_
 6	habet	_	VERB	_	_	_	_	_	_
@@ -8377,7 +8377,7 @@
 39	quoque	_	ADV	_	_	_	_	_	_
 40	auertere	_	VERB	_	_	_	_	_	_
 41	ac	_	CCONJ	_	_	_	_	_	_
-42	locustas	_	NOUN	_	_	_	_	_	_
+42	locustas	_	VERB	_	_	_	_	_	_
 43	precatione	_	NOUN	_	_	_	_	_	_
 44	addita	_	VERB	_	_	_	_	_	_
 45	quam	_	PRON	_	_	_	_	_	_
@@ -8395,7 +8395,7 @@
 8	aquilae	_	NOUN	_	_	_	_	_	_
 9	scalperentur	_	VERB	_	_	_	_	_	_
 10	aut	_	CCONJ	_	_	_	_	_	_
-11	scarabaei	_	VERB	_	_	_	_	_	_
+11	scarabaei	_	NOUN	_	_	_	_	_	_
 12	quae	_	PRON	_	_	_	_	_	_
 13	quidem	_	PART	_	_	_	_	_	_
 14	scripsisse	_	VERB	_	_	_	_	_	_
@@ -8411,7 +8411,7 @@
 
 # sent_id = PliNH37-R-ef-466
 # text = multum ab hac distat hyacinthos ab uicino tamen colore descendens
-1	multum	_	NOUN	_	_	_	_	_	_
+1	multum	_	ADV	_	_	_	_	_	_
 2	ab	_	ADP	_	_	_	_	_	_
 3	hac	_	DET	_	_	_	_	_	_
 4	distat	_	VERB	_	_	_	_	_	_
@@ -8433,9 +8433,9 @@
 7	in	_	ADP	_	_	_	_	_	_
 8	amethysto	_	NOUN	_	_	_	_	_	_
 9	fulgor	_	NOUN	_	_	_	_	_	_
-10	uiolaceus	_	ADV	_	_	_	_	_	_
+10	uiolaceus	_	ADJ	_	_	_	_	_	_
 11	diluitur	_	VERB	_	_	_	_	_	_
-12	hyacintho	_	NOUN	_	_	_	_	_	_
+12	hyacintho	_	PROPN	_	_	_	_	_	_
 13	primo	_	ADJ	_	_	_	_	_	_
 14	que	_	CCONJ	_	_	_	_	_	_
 15	aspectu	_	NOUN	_	_	_	_	_	_
@@ -8526,7 +8526,7 @@
 5	ceteris	_	NOUN	_	_	_	_	_	_
 6	subicitur	_	VERB	_	_	_	_	_	_
 7	aurichalcum	_	NOUN	_	_	_	_	_	_
-8	tametsi	_	SCONJ	_	_	_	_	_	_
+8	tametsi	_	ADV	_	_	_	_	_	_
 9	exiere	_	VERB	_	_	_	_	_	_
 10	iam	_	ADV	_	_	_	_	_	_
 11	de	_	ADP	_	_	_	_	_	_
@@ -8588,7 +8588,7 @@
 19	erui	_	VERB	_	_	_	_	_	_
 20	chrysolithon	_	NOUN	_	_	_	_	_	_
 21	XII	_	NUM	_	_	_	_	_	_
-22	pondo	_	NOUN	_	_	_	_	_	_
+22	pondo	_	VERB	_	_	_	_	_	_
 23	a	_	ADP	_	_	_	_	_	_
 24	se	_	PRON	_	_	_	_	_	_
 25	uisam	_	VERB	_	_	_	_	_	_
@@ -8596,7 +8596,7 @@
 # sent_id = PliNH37-R-ef-477
 # text = fiunt et leucochrysi interueniente candida uena
 1	fiunt	_	VERB	_	_	_	_	_	_
-2	et	_	ADV	_	_	_	_	_	_
+2	et	_	CCONJ	_	_	_	_	_	_
 3	leucochrysi	_	NOUN	_	_	_	_	_	_
 4	interueniente	_	VERB	_	_	_	_	_	_
 5	candida	_	ADJ	_	_	_	_	_	_
@@ -8619,11 +8619,11 @@
 4	similes	_	ADJ	_	_	_	_	_	_
 5	uelut	_	SCONJ	_	_	_	_	_	_
 6	croco	_	NOUN	_	_	_	_	_	_
-7	fulgentes	_	ADJ	_	_	_	_	_	_
+7	fulgentes	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-480
 # text = uitro adulterantur ut uisu discerni non possint
-1	uitro	_	NOUN	_	_	_	_	_	_
+1	uitro	_	ADV	_	_	_	_	_	_
 2	adulterantur	_	VERB	_	_	_	_	_	_
 3	ut	_	SCONJ	_	_	_	_	_	_
 4	uisu	_	NOUN	_	_	_	_	_	_
@@ -8650,7 +8650,7 @@
 7	per	_	ADP	_	_	_	_	_	_
 8	aurum	_	NOUN	_	_	_	_	_	_
 9	sincero	_	ADJ	_	_	_	_	_	_
-10	melle	_	ADV	_	_	_	_	_	_
+10	melle	_	VERB	_	_	_	_	_	_
 11	tralucente	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-483
@@ -8671,9 +8671,9 @@
 2	et	_	ADV	_	_	_	_	_	_
 3	xuthon	_	NOUN	_	_	_	_	_	_
 4	parit	_	VERB	_	_	_	_	_	_
-5	plebeiam	_	ADJ	_	_	_	_	_	_
+5	plebeiam	_	NOUN	_	_	_	_	_	_
 6	sibi	_	PRON	_	_	_	_	_	_
-7	gemmam	_	NOUN	_	_	_	_	_	_
+7	gemmam	_	ADJ	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-485
 # text = candidarum dux est paederos quamquam quaeri potest in quo colore numerari debeat totiens iactati per alienas pulchritudines nominis adeo ut decoris praerogatiua in uocabulo facta sit
@@ -8722,7 +8722,7 @@
 3	in	_	ADP	_	_	_	_	_	_
 4	tralucidam	_	ADJ	_	_	_	_	_	_
 5	crystallum	_	NOUN	_	_	_	_	_	_
-6	uiridis	_	ADJ	_	_	_	_	_	_
+6	uiridis	_	NOUN	_	_	_	_	_	_
 7	suo	_	DET	_	_	_	_	_	_
 8	modo	_	NOUN	_	_	_	_	_	_
 9	aer	_	NOUN	_	_	_	_	_	_
@@ -8732,7 +8732,7 @@
 13	et	_	CCONJ	_	_	_	_	_	_
 14	quidam	_	DET	_	_	_	_	_	_
 15	uini	_	NOUN	_	_	_	_	_	_
-16	aurei	_	NOUN	_	_	_	_	_	_
+16	aurei	_	ADJ	_	_	_	_	_	_
 17	nitor	_	NOUN	_	_	_	_	_	_
 18	semper	_	ADV	_	_	_	_	_	_
 19	extremus	_	ADJ	_	_	_	_	_	_
@@ -8781,41 +8781,41 @@
 15	tertia	_	ADJ	_	_	_	_	_	_
 16	in	_	ADP	_	_	_	_	_	_
 17	Arabia	_	PROPN	_	_	_	_	_	_
-18	uerum	_	ADJ	_	_	_	_	_	_
+18	uerum	_	CCONJ	_	_	_	_	_	_
 19	scabra	_	NOUN	_	_	_	_	_	_
 20	tum	_	ADV	_	_	_	_	_	_
 21	Pontica	_	ADJ	_	_	_	_	_	_
 22	quae	_	PRON	_	_	_	_	_	_
 23	mollius	_	ADV	_	_	_	_	_	_
 24	radiat	_	VERB	_	_	_	_	_	_
-25	Thasia	_	ADJ	_	_	_	_	_	_
+25	Thasia	_	PROPN	_	_	_	_	_	_
 26	et	_	CCONJ	_	_	_	_	_	_
 27	ipsa	_	DET	_	_	_	_	_	_
 28	mollior	_	ADJ	_	_	_	_	_	_
 29	et	_	CCONJ	_	_	_	_	_	_
 30	Galatica	_	ADJ	_	_	_	_	_	_
 31	et	_	CCONJ	_	_	_	_	_	_
-32	Thracia	_	ADJ	_	_	_	_	_	_
+32	Thracia	_	PROPN	_	_	_	_	_	_
 33	et	_	CCONJ	_	_	_	_	_	_
-34	Cypria	_	ADJ	_	_	_	_	_	_
+34	Cypria	_	PROPN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-490
 # text = uitia earum languor aut alienis turbari coloribus et quae ceterarum
 1	uitia	_	NOUN	_	_	_	_	_	_
 2	earum	_	PRON	_	_	_	_	_	_
-3	languor	_	ADJ	_	_	_	_	_	_
+3	languor	_	NOUN	_	_	_	_	_	_
 4	aut	_	CCONJ	_	_	_	_	_	_
 5	alienis	_	ADJ	_	_	_	_	_	_
-6	turbari	_	NOUN	_	_	_	_	_	_
+6	turbari	_	VERB	_	_	_	_	_	_
 7	coloribus	_	NOUN	_	_	_	_	_	_
 8	et	_	CCONJ	_	_	_	_	_	_
 9	quae	_	PRON	_	_	_	_	_	_
-10	ceterarum	_	ADJ	_	_	_	_	_	_
+10	ceterarum	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-491
 # text = proxima candicantium est asteria
 1	proxima	_	ADJ	_	_	_	_	_	_
-2	candicantium	_	NOUN	_	_	_	_	_	_
+2	candicantium	_	VERB	_	_	_	_	_	_
 3	est	_	AUX	_	_	_	_	_	_
 4	asteria	_	NOUN	_	_	_	_	_	_
 
@@ -8867,7 +8867,7 @@
 1	difficiles	_	ADJ	_	_	_	_	_	_
 2	in	_	ADP	_	_	_	_	_	_
 3	India	_	PROPN	_	_	_	_	_	_
-4	natae	_	ADJ	_	_	_	_	_	_
+4	natae	_	VERB	_	_	_	_	_	_
 5	ad	_	ADP	_	_	_	_	_	_
 6	caelandum	_	VERB	_	_	_	_	_	_
 
@@ -8879,7 +8879,7 @@
 # sent_id = PliNH37-R-ef-497
 # text = similiter candida est quae uocatur astrion crystallo propinqua in India nascens et in Patalenes litoribus
 1	similiter	_	ADV	_	_	_	_	_	_
-2	candida	_	NOUN	_	_	_	_	_	_
+2	candida	_	ADJ	_	_	_	_	_	_
 3	est	_	AUX	_	_	_	_	_	_
 4	quae	_	PRON	_	_	_	_	_	_
 5	uocatur	_	VERB	_	_	_	_	_	_
@@ -8889,7 +8889,7 @@
 9	in	_	ADP	_	_	_	_	_	_
 10	India	_	PROPN	_	_	_	_	_	_
 11	nascens	_	VERB	_	_	_	_	_	_
-12	et	_	ADV	_	_	_	_	_	_
+12	et	_	CCONJ	_	_	_	_	_	_
 13	in	_	ADP	_	_	_	_	_	_
 14	Patalenes	_	PROPN	_	_	_	_	_	_
 15	litoribus	_	NOUN	_	_	_	_	_	_
@@ -8931,7 +8931,7 @@
 7	que	_	CCONJ	_	_	_	_	_	_
 8	minus	_	ADV	_	_	_	_	_	_
 9	obnoxiam	_	ADJ	_	_	_	_	_	_
-10	uitio	_	VERB	_	_	_	_	_	_
+10	uitio	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-501
 # text = cerauniam etiam uocari quae sit deterior
@@ -9016,8 +9016,8 @@
 # sent_id = PliNH37-R-ef-507
 # text = fieri et hebetes ceraunias quas in nitro et aceto maceratas per aliquot dies concipere stellam eam quae post totidem menses relanguescat
 1	fieri	_	VERB	_	_	_	_	_	_
-2	et	_	ADV	_	_	_	_	_	_
-3	hebetes	_	NOUN	_	_	_	_	_	_
+2	et	_	CCONJ	_	_	_	_	_	_
+3	hebetes	_	ADJ	_	_	_	_	_	_
 4	ceraunias	_	NOUN	_	_	_	_	_	_
 5	quas	_	PRON	_	_	_	_	_	_
 6	in	_	ADP	_	_	_	_	_	_
@@ -9059,7 +9059,7 @@
 5	sint	_	AUX	_	_	_	_	_	_
 6	ac	_	CCONJ	_	_	_	_	_	_
 7	rotundae	_	ADJ	_	_	_	_	_	_
-8	sacras	_	ADJ	_	_	_	_	_	_
+8	sacras	_	NOUN	_	_	_	_	_	_
 9	esse	_	AUX	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-510
@@ -9079,7 +9079,7 @@
 # sent_id = PliNH37-R-ef-512
 # text = quae uero longae sint ceraunias
 1	quae	_	PRON	_	_	_	_	_	_
-2	uero	_	CCONJ	_	_	_	_	_	_
+2	uero	_	ADV	_	_	_	_	_	_
 3	longae	_	ADJ	_	_	_	_	_	_
 4	sint	_	AUX	_	_	_	_	_	_
 5	ceraunias	_	NOUN	_	_	_	_	_	_
@@ -9091,7 +9091,7 @@
 3	aliam	_	DET	_	_	_	_	_	_
 4	raram	_	ADJ	_	_	_	_	_	_
 5	admodum	_	ADV	_	_	_	_	_	_
-6	magorum	_	ADJ	_	_	_	_	_	_
+6	magorum	_	NOUN	_	_	_	_	_	_
 7	studiis	_	NOUN	_	_	_	_	_	_
 8	expetitam	_	VERB	_	_	_	_	_	_
 9	quoniam	_	SCONJ	_	_	_	_	_	_
@@ -9114,7 +9114,7 @@
 6	habet	_	VERB	_	_	_	_	_	_
 7	quae	_	PRON	_	_	_	_	_	_
 8	uocatur	_	VERB	_	_	_	_	_	_
-9	iris	_	VERB	_	_	_	_	_	_
+9	iris	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-515
 # text = effoditur in quadam insula Rubri maris quae distat a Berenice urbe LX p cetera sui parte crystallus
@@ -9177,10 +9177,10 @@
 
 # sent_id = PliNH37-R-ef-518
 # text = sexangulam esse ut crystallum constat sed aliqui scabris lateribus et angulis inaequalibus dicunt in sole aperto radios in se candentes discutere aliquo uero ante se proiecto nitore adiacentia inlustrare
-1	sexangulam	_	ADJ	_	_	_	_	_	_
+1	sexangulam	_	NOUN	_	_	_	_	_	_
 2	esse	_	AUX	_	_	_	_	_	_
 3	ut	_	SCONJ	_	_	_	_	_	_
-4	crystallum	_	ADJ	_	_	_	_	_	_
+4	crystallum	_	NOUN	_	_	_	_	_	_
 5	constat	_	VERB	_	_	_	_	_	_
 6	sed	_	CCONJ	_	_	_	_	_	_
 7	aliqui	_	PRON	_	_	_	_	_	_
@@ -9196,15 +9196,15 @@
 17	radios	_	NOUN	_	_	_	_	_	_
 18	in	_	ADP	_	_	_	_	_	_
 19	se	_	PRON	_	_	_	_	_	_
-20	candentes	_	ADJ	_	_	_	_	_	_
+20	candentes	_	VERB	_	_	_	_	_	_
 21	discutere	_	VERB	_	_	_	_	_	_
 22	aliquo	_	PRON	_	_	_	_	_	_
 23	uero	_	CCONJ	_	_	_	_	_	_
 24	ante	_	ADP	_	_	_	_	_	_
 25	se	_	PRON	_	_	_	_	_	_
 26	proiecto	_	VERB	_	_	_	_	_	_
-27	nitore	_	NOUN	_	_	_	_	_	_
-28	adiacentia	_	VERB	_	_	_	_	_	_
+27	nitore	_	ADV	_	_	_	_	_	_
+28	adiacentia	_	NOUN	_	_	_	_	_	_
 29	inlustrare	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-519
@@ -9214,7 +9214,7 @@
 3	non	_	PART	_	_	_	_	_	_
 4	nisi	_	SCONJ	_	_	_	_	_	_
 5	ex	_	ADP	_	_	_	_	_	_
-6	opaco	_	ADJ	_	_	_	_	_	_
+6	opaco	_	NOUN	_	_	_	_	_	_
 7	ut	_	SCONJ	_	_	_	_	_	_
 8	diximus	_	VERB	_	_	_	_	_	_
 9	reddunt	_	VERB	_	_	_	_	_	_
@@ -9225,7 +9225,7 @@
 14	sed	_	CCONJ	_	_	_	_	_	_
 15	ut	_	SCONJ	_	_	_	_	_	_
 16	repercussu	_	NOUN	_	_	_	_	_	_
-17	parietum	_	ADJ	_	_	_	_	_	_
+17	parietum	_	NOUN	_	_	_	_	_	_
 18	elidant	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-520
@@ -9244,18 +9244,18 @@
 1	est	_	AUX	_	_	_	_	_	_
 2	et	_	ADV	_	_	_	_	_	_
 3	alia	_	DET	_	_	_	_	_	_
-4	iritis	_	ADJ	_	_	_	_	_	_
-5	cetera	_	NOUN	_	_	_	_	_	_
+4	iritis	_	NOUN	_	_	_	_	_	_
+5	cetera	_	ADJ	_	_	_	_	_	_
 6	similis	_	ADJ	_	_	_	_	_	_
 7	sed	_	CCONJ	_	_	_	_	_	_
-8	praedura	_	NOUN	_	_	_	_	_	_
+8	praedura	_	ADJ	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-522
 # text = hanc Orus crematam tusam que ad ichneumonum morsus remedio esse scripsit nasci autem in Perside
 1	hanc	_	DET	_	_	_	_	_	_
 2	Orus	_	PROPN	_	_	_	_	_	_
 3	crematam	_	VERB	_	_	_	_	_	_
-4	tusam	_	ADJ	_	_	_	_	_	_
+4	tusam	_	VERB	_	_	_	_	_	_
 5	que	_	CCONJ	_	_	_	_	_	_
 6	ad	_	ADP	_	_	_	_	_	_
 7	ichneumonum	_	NOUN	_	_	_	_	_	_
@@ -9305,7 +9305,7 @@
 
 # sent_id = PliNH37-R-ef-525
 # text = achates in magna fuit auctoritate nunc in nulla est reperta primum in Sicilia iuxta flumen eiusdem nominis postea plurimis in terris excellens amplitudine numerosa uarietatibus quae mutant cognomina eius
-1	achates	_	NOUN	_	_	_	_	_	_
+1	achates	_	VERB	_	_	_	_	_	_
 2	in	_	ADP	_	_	_	_	_	_
 3	magna	_	ADJ	_	_	_	_	_	_
 4	fuit	_	AUX	_	_	_	_	_	_
@@ -9350,7 +9350,7 @@
 11	arbusculis	_	NOUN	_	_	_	_	_	_
 12	insignis	_	ADJ	_	_	_	_	_	_
 13	est	_	AUX	_	_	_	_	_	_
-14	antachates	_	VERB	_	_	_	_	_	_
+14	antachates	_	NOUN	_	_	_	_	_	_
 15	quae	_	PRON	_	_	_	_	_	_
 16	cum	_	SCONJ	_	_	_	_	_	_
 17	uritur	_	VERB	_	_	_	_	_	_
@@ -9358,7 +9358,7 @@
 19	redolet	_	VERB	_	_	_	_	_	_
 20	corallachates	_	NOUN	_	_	_	_	_	_
 21	guttis	_	NOUN	_	_	_	_	_	_
-22	aureis	_	NOUN	_	_	_	_	_	_
+22	aureis	_	ADJ	_	_	_	_	_	_
 23	sappiri	_	NOUN	_	_	_	_	_	_
 24	modo	_	ADV	_	_	_	_	_	_
 25	sparsa	_	VERB	_	_	_	_	_	_
@@ -9404,11 +9404,11 @@
 
 # sent_id = PliNH37-R-ef-530
 # text = et in India inuentae contra eadem pollent magnis et aliis miraculis
-1	et	_	ADV	_	_	_	_	_	_
+1	et	_	CCONJ	_	_	_	_	_	_
 2	in	_	ADP	_	_	_	_	_	_
 3	India	_	PROPN	_	_	_	_	_	_
 4	inuentae	_	VERB	_	_	_	_	_	_
-5	contra	_	ADP	_	_	_	_	_	_
+5	contra	_	ADV	_	_	_	_	_	_
 6	eadem	_	DET	_	_	_	_	_	_
 7	pollent	_	VERB	_	_	_	_	_	_
 8	magnis	_	ADJ	_	_	_	_	_	_
@@ -9462,7 +9462,7 @@
 # sent_id = PliNH37-R-ef-535
 # text = Thebis Aegyptiis repertae carent rubentibus uenis et albis hae quoque contra scorpiones ualidae
 1	Thebis	_	PROPN	_	_	_	_	_	_
-2	Aegyptiis	_	ADJ	_	_	_	_	_	_
+2	Aegyptiis	_	PROPN	_	_	_	_	_	_
 3	repertae	_	VERB	_	_	_	_	_	_
 4	carent	_	VERB	_	_	_	_	_	_
 5	rubentibus	_	VERB	_	_	_	_	_	_
@@ -9511,7 +9511,7 @@
 14	in	_	ADP	_	_	_	_	_	_
 15	Messene	_	PROPN	_	_	_	_	_	_
 16	similes	_	ADJ	_	_	_	_	_	_
-17	limitum	_	NOUN	_	_	_	_	_	_
+17	limitum	_	ADJ	_	_	_	_	_	_
 18	floribus	_	NOUN	_	_	_	_	_	_
 19	et	_	CCONJ	_	_	_	_	_	_
 20	in	_	ADP	_	_	_	_	_	_
@@ -9522,7 +9522,7 @@
 1	aliae	_	DET	_	_	_	_	_	_
 2	apud	_	ADP	_	_	_	_	_	_
 3	Magos	_	PROPN	_	_	_	_	_	_
-4	differentiae	_	ADJ	_	_	_	_	_	_
+4	differentiae	_	NOUN	_	_	_	_	_	_
 5	sunt	_	AUX	_	_	_	_	_	_
 6	in	_	ADP	_	_	_	_	_	_
 7	iis	_	PRON	_	_	_	_	_	_
@@ -9552,7 +9552,7 @@
 8	et	_	CCONJ	_	_	_	_	_	_
 9	presteras	_	ADJ	_	_	_	_	_	_
 10	flumina	_	NOUN	_	_	_	_	_	_
-11	sisti	_	VERB	_	_	_	_	_	_
+11	sisti	_	AUX	_	_	_	_	_	_
 12	argumentum	_	NOUN	_	_	_	_	_	_
 13	esse	_	AUX	_	_	_	_	_	_
 14	si	_	SCONJ	_	_	_	_	_	_
@@ -9564,7 +9564,7 @@
 20	sed	_	CCONJ	_	_	_	_	_	_
 21	ut	_	SCONJ	_	_	_	_	_	_
 22	prosint	_	VERB	_	_	_	_	_	_
-23	leoninis	_	NOUN	_	_	_	_	_	_
+23	leoninis	_	ADJ	_	_	_	_	_	_
 24	iubis	_	NOUN	_	_	_	_	_	_
 25	adalligandas	_	VERB	_	_	_	_	_	_
 26	nam	_	PART	_	_	_	_	_	_
@@ -9585,7 +9585,7 @@
 7	inuictam	_	VERB	_	_	_	_	_	_
 8	athletis	_	NOUN	_	_	_	_	_	_
 9	esse	_	AUX	_	_	_	_	_	_
-10	argumento	_	VERB	_	_	_	_	_	_
+10	argumento	_	NOUN	_	_	_	_	_	_
 11	quod	_	SCONJ	_	_	_	_	_	_
 12	in	_	ADP	_	_	_	_	_	_
 13	ollam	_	NOUN	_	_	_	_	_	_
@@ -9608,14 +9608,14 @@
 # sent_id = PliNH37-R-ef-543
 # text = acopos nitro colore similis est pumicosa guttis aureis stellata
 1	acopos	_	NOUN	_	_	_	_	_	_
-2	nitro	_	ADJ	_	_	_	_	_	_
+2	nitro	_	NOUN	_	_	_	_	_	_
 3	colore	_	NOUN	_	_	_	_	_	_
 4	similis	_	ADJ	_	_	_	_	_	_
 5	est	_	AUX	_	_	_	_	_	_
 6	pumicosa	_	ADJ	_	_	_	_	_	_
 7	guttis	_	NOUN	_	_	_	_	_	_
 8	aureis	_	ADJ	_	_	_	_	_	_
-9	stellata	_	ADJ	_	_	_	_	_	_
+9	stellata	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-544
 # text = cum hac oleum sufferuefactum perunctis lassitudinem si credimus soluit
@@ -9640,7 +9640,7 @@
 7	in	_	ADP	_	_	_	_	_	_
 8	Syriae	_	PROPN	_	_	_	_	_	_
 9	Damasco	_	PROPN	_	_	_	_	_	_
-10	candore	_	NOUN	_	_	_	_	_	_
+10	candore	_	ADV	_	_	_	_	_	_
 11	interstincto	_	VERB	_	_	_	_	_	_
 12	uariis	_	ADJ	_	_	_	_	_	_
 13	coloribus	_	NOUN	_	_	_	_	_	_
@@ -9649,8 +9649,8 @@
 # text = haec cremata cum fossili sale et trita grauitates oris et dentium extenuare dicitur
 1	haec	_	DET	_	_	_	_	_	_
 2	cremata	_	VERB	_	_	_	_	_	_
-3	cum	_	ADP	_	_	_	_	_	_
-4	fossili	_	NOUN	_	_	_	_	_	_
+3	cum	_	SCONJ	_	_	_	_	_	_
+4	fossili	_	ADJ	_	_	_	_	_	_
 5	sale	_	NOUN	_	_	_	_	_	_
 6	et	_	CCONJ	_	_	_	_	_	_
 7	trita	_	NOUN	_	_	_	_	_	_
@@ -9708,7 +9708,7 @@
 9	hominum	_	NOUN	_	_	_	_	_	_
 10	et	_	CCONJ	_	_	_	_	_	_
 11	iracundias	_	NOUN	_	_	_	_	_	_
-12	domet	_	VERB	_	_	_	_	_	_
+12	domet	_	ADV	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-550
 # text = argyrodamas eadem sit an alia auctores non explicant
@@ -9778,7 +9778,7 @@
 2	ebori	_	NOUN	_	_	_	_	_	_
 3	simillima	_	ADJ	_	_	_	_	_	_
 4	est	_	AUX	_	_	_	_	_	_
-5	et	_	CCONJ	_	_	_	_	_	_
+5	et	_	ADV	_	_	_	_	_	_
 6	hoc	_	DET	_	_	_	_	_	_
 7	uideretur	_	VERB	_	_	_	_	_	_
 8	nisi	_	SCONJ	_	_	_	_	_	_
@@ -9820,9 +9820,9 @@
 11	circa	_	ADP	_	_	_	_	_	_
 12	Philas	_	PROPN	_	_	_	_	_	_
 13	ubique	_	ADV	_	_	_	_	_	_
-14	lapidosa	_	NOUN	_	_	_	_	_	_
+14	lapidosa	_	ADJ	_	_	_	_	_	_
 15	et	_	CCONJ	_	_	_	_	_	_
-16	murrae	_	NOUN	_	_	_	_	_	_
+16	murrae	_	ADJ	_	_	_	_	_	_
 17	coloris	_	NOUN	_	_	_	_	_	_
 18	et	_	CCONJ	_	_	_	_	_	_
 19	odoris	_	NOUN	_	_	_	_	_	_
@@ -9833,7 +9833,7 @@
 
 # sent_id = PliNH37-R-ef-560
 # text = asbestos in Arcadiae montibus nascitur coloris ferrei
-1	asbestos	_	VERB	_	_	_	_	_	_
+1	asbestos	_	NOUN	_	_	_	_	_	_
 2	in	_	ADP	_	_	_	_	_	_
 3	Arcadiae	_	PROPN	_	_	_	_	_	_
 4	montibus	_	NOUN	_	_	_	_	_	_
@@ -9867,7 +9867,7 @@
 
 # sent_id = PliNH37-R-ef-562
 # text = et aliam eodem nomine ibi in Leucopetra nasci argentei coloris radiantem
-1	et	_	ADV	_	_	_	_	_	_
+1	et	_	CCONJ	_	_	_	_	_	_
 2	aliam	_	DET	_	_	_	_	_	_
 3	eodem	_	DET	_	_	_	_	_	_
 4	nomine	_	NOUN	_	_	_	_	_	_
@@ -9882,7 +9882,7 @@
 # sent_id = PliNH37-R-ef-563
 # text = cum contra lymphatum habentibus
 1	cum	_	ADP	_	_	_	_	_	_
-2	contra	_	ADP	_	_	_	_	_	_
+2	contra	_	ADV	_	_	_	_	_	_
 3	lymphatum	_	NOUN	_	_	_	_	_	_
 4	habentibus	_	VERB	_	_	_	_	_	_
 
@@ -9898,7 +9898,7 @@
 8	nasci	_	VERB	_	_	_	_	_	_
 9	argenteo	_	ADJ	_	_	_	_	_	_
 10	nitore	_	NOUN	_	_	_	_	_	_
-11	fulgentem	_	ADJ	_	_	_	_	_	_
+11	fulgentem	_	VERB	_	_	_	_	_	_
 12	magnitudine	_	NOUN	_	_	_	_	_	_
 13	trium	_	NUM	_	_	_	_	_	_
 14	digitorum	_	NOUN	_	_	_	_	_	_
@@ -9914,14 +9914,14 @@
 
 # sent_id = PliNH37-R-ef-565
 # text = augitis non alia uidetur multis esse quam callaina
-1	augitis	_	NOUN	_	_	_	_	_	_
+1	augitis	_	VERB	_	_	_	_	_	_
 2	non	_	PART	_	_	_	_	_	_
 3	alia	_	DET	_	_	_	_	_	_
 4	uidetur	_	VERB	_	_	_	_	_	_
 5	multis	_	ADJ	_	_	_	_	_	_
 6	esse	_	AUX	_	_	_	_	_	_
 7	quam	_	SCONJ	_	_	_	_	_	_
-8	callaina	_	NOUN	_	_	_	_	_	_
+8	callaina	_	ADJ	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-566
 # text = lapis amphidanes alio nomine chrysocolla appellatur nascens in Indiae parte ubi formicae eruunt aurum in quo et inuenitur auro similis quadrata figura
@@ -10002,12 +10002,12 @@
 3	intellegit	_	VERB	_	_	_	_	_	_
 4	per	_	ADP	_	_	_	_	_	_
 5	album	_	NOUN	_	_	_	_	_	_
-6	sardae	_	ADJ	_	_	_	_	_	_
+6	sardae	_	NOUN	_	_	_	_	_	_
 7	nigra	_	ADJ	_	_	_	_	_	_
 8	que	_	CCONJ	_	_	_	_	_	_
 9	uenis	_	NOUN	_	_	_	_	_	_
 10	transeuntibus	_	VERB	_	_	_	_	_	_
-11	uolgus	_	ADJ	_	_	_	_	_	_
+11	uolgus	_	NOUN	_	_	_	_	_	_
 12	autem	_	CCONJ	_	_	_	_	_	_
 13	nigra	_	ADJ	_	_	_	_	_	_
 14	radice	_	NOUN	_	_	_	_	_	_
@@ -10026,9 +10026,9 @@
 2	duo	_	NUM	_	_	_	_	_	_
 3	genera	_	NOUN	_	_	_	_	_	_
 4	sunt	_	AUX	_	_	_	_	_	_
-5	subuiridis	_	ADJ	_	_	_	_	_	_
+5	subuiridis	_	NOUN	_	_	_	_	_	_
 6	et	_	CCONJ	_	_	_	_	_	_
-7	Corinthii	_	ADJ	_	_	_	_	_	_
+7	Corinthii	_	PROPN	_	_	_	_	_	_
 8	aeris	_	NOUN	_	_	_	_	_	_
 9	similitudine	_	NOUN	_	_	_	_	_	_
 10	illa	_	DET	_	_	_	_	_	_
@@ -10057,7 +10057,7 @@
 10	et	_	CCONJ	_	_	_	_	_	_
 11	uenis	_	NOUN	_	_	_	_	_	_
 12	tertiam	_	ADJ	_	_	_	_	_	_
-13	rubetis	_	ADJ	_	_	_	_	_	_
+13	rubetis	_	VERB	_	_	_	_	_	_
 14	e	_	ADP	_	_	_	_	_	_
 15	nigro	_	NOUN	_	_	_	_	_	_
 
@@ -10073,7 +10073,7 @@
 # text = Beli oculus albicans pupillam cingit nigram e medio aureo colore fulgentem et propter speciem sacratissimo Assyriorum deo dicatam
 1	Beli	_	PROPN	_	_	_	_	_	_
 2	oculus	_	NOUN	_	_	_	_	_	_
-3	albicans	_	ADJ	_	_	_	_	_	_
+3	albicans	_	ADV	_	_	_	_	_	_
 4	pupillam	_	NOUN	_	_	_	_	_	_
 5	cingit	_	VERB	_	_	_	_	_	_
 6	nigram	_	NOUN	_	_	_	_	_	_
@@ -10081,7 +10081,7 @@
 8	medio	_	ADJ	_	_	_	_	_	_
 9	aureo	_	ADJ	_	_	_	_	_	_
 10	colore	_	NOUN	_	_	_	_	_	_
-11	fulgentem	_	ADJ	_	_	_	_	_	_
+11	fulgentem	_	VERB	_	_	_	_	_	_
 12	et	_	CCONJ	_	_	_	_	_	_
 13	propter	_	ADP	_	_	_	_	_	_
 14	speciem	_	NOUN	_	_	_	_	_	_
@@ -10121,7 +10121,7 @@
 8	nodis	_	NOUN	_	_	_	_	_	_
 9	adalligata	_	VERB	_	_	_	_	_	_
 10	proicitur	_	VERB	_	_	_	_	_	_
-11	ueluti	_	VERB	_	_	_	_	_	_
+11	ueluti	_	NOUN	_	_	_	_	_	_
 12	portentosa	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-579
@@ -10133,7 +10133,7 @@
 5	alia	_	DET	_	_	_	_	_	_
 6	pampinea	_	NOUN	_	_	_	_	_	_
 7	incipienti	_	VERB	_	_	_	_	_	_
-8	uuae	_	ADJ	_	_	_	_	_	_
+8	uuae	_	NOUN	_	_	_	_	_	_
 9	similis	_	ADJ	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-580
@@ -10174,7 +10174,7 @@
 
 # sent_id = PliNH37-R-ef-583
 # text = boloe in Hibero inueniuntur glaebae similitudine
-1	boloe	_	VERB	_	_	_	_	_	_
+1	boloe	_	NOUN	_	_	_	_	_	_
 2	in	_	ADP	_	_	_	_	_	_
 3	Hibero	_	PROPN	_	_	_	_	_	_
 4	inueniuntur	_	VERB	_	_	_	_	_	_
@@ -10217,8 +10217,8 @@
 5	genus	_	NOUN	_	_	_	_	_	_
 6	habere	_	VERB	_	_	_	_	_	_
 7	pluribus	_	ADJ	_	_	_	_	_	_
-8	iaspidis	_	ADJ	_	_	_	_	_	_
-9	fumidae	_	NOUN	_	_	_	_	_	_
+8	iaspidis	_	NOUN	_	_	_	_	_	_
+9	fumidae	_	VERB	_	_	_	_	_	_
 10	ut	_	SCONJ	_	_	_	_	_	_
 11	suo	_	DET	_	_	_	_	_	_
 12	loco	_	NOUN	_	_	_	_	_	_
@@ -10253,7 +10253,7 @@
 # sent_id = PliNH37-R-ef-590
 # text = catochitis Corsicae lapis est ceteris maior et magis mirabilis si uera traduntur inpositam manum ueluti cummi retinens
 1	catochitis	_	NOUN	_	_	_	_	_	_
-2	Corsicae	_	ADJ	_	_	_	_	_	_
+2	Corsicae	_	PROPN	_	_	_	_	_	_
 3	lapis	_	NOUN	_	_	_	_	_	_
 4	est	_	AUX	_	_	_	_	_	_
 5	ceteris	_	NOUN	_	_	_	_	_	_
@@ -10262,11 +10262,11 @@
 8	magis	_	ADV	_	_	_	_	_	_
 9	mirabilis	_	ADJ	_	_	_	_	_	_
 10	si	_	SCONJ	_	_	_	_	_	_
-11	uera	_	ADJ	_	_	_	_	_	_
+11	uera	_	NOUN	_	_	_	_	_	_
 12	traduntur	_	VERB	_	_	_	_	_	_
 13	inpositam	_	VERB	_	_	_	_	_	_
 14	manum	_	NOUN	_	_	_	_	_	_
-15	ueluti	_	VERB	_	_	_	_	_	_
+15	ueluti	_	NOUN	_	_	_	_	_	_
 16	cummi	_	NOUN	_	_	_	_	_	_
 17	retinens	_	VERB	_	_	_	_	_	_
 
@@ -10276,7 +10276,7 @@
 2	in	_	ADP	_	_	_	_	_	_
 3	Cappadocia	_	PROPN	_	_	_	_	_	_
 4	prouenit	_	VERB	_	_	_	_	_	_
-5	candore	_	NOUN	_	_	_	_	_	_
+5	candore	_	ADV	_	_	_	_	_	_
 6	imaginem	_	NOUN	_	_	_	_	_	_
 7	regerens	_	VERB	_	_	_	_	_	_
 
@@ -10287,7 +10287,7 @@
 3	cepolatitis	_	NOUN	_	_	_	_	_	_
 4	candida	_	ADJ	_	_	_	_	_	_
 5	est	_	AUX	_	_	_	_	_	_
-6	uenarum	_	VERB	_	_	_	_	_	_
+6	uenarum	_	NOUN	_	_	_	_	_	_
 7	coeuntibus	_	VERB	_	_	_	_	_	_
 8	lineis	_	NOUN	_	_	_	_	_	_
 9	in	_	ADP	_	_	_	_	_	_
@@ -10316,14 +10316,14 @@
 12	que	_	CCONJ	_	_	_	_	_	_
 13	mirae	_	ADJ	_	_	_	_	_	_
 14	si	_	SCONJ	_	_	_	_	_	_
-15	modo	_	NOUN	_	_	_	_	_	_
+15	modo	_	ADV	_	_	_	_	_	_
 16	est	_	AUX	_	_	_	_	_	_
 17	fides	_	NOUN	_	_	_	_	_	_
 18	praesagire	_	VERB	_	_	_	_	_	_
 19	eas	_	PRON	_	_	_	_	_	_
 20	habitum	_	NOUN	_	_	_	_	_	_
 21	maris	_	NOUN	_	_	_	_	_	_
-22	nubili	_	ADJ	_	_	_	_	_	_
+22	nubili	_	NOUN	_	_	_	_	_	_
 23	uel	_	CCONJ	_	_	_	_	_	_
 24	tranquilli	_	ADJ	_	_	_	_	_	_
 
@@ -10360,10 +10360,10 @@
 2	inter	_	ADP	_	_	_	_	_	_
 3	chrysolithum	_	NOUN	_	_	_	_	_	_
 4	et	_	CCONJ	_	_	_	_	_	_
-5	electrum	_	ADJ	_	_	_	_	_	_
+5	electrum	_	NOUN	_	_	_	_	_	_
 6	colorem	_	NOUN	_	_	_	_	_	_
 7	habet	_	VERB	_	_	_	_	_	_
-8	praedura	_	NOUN	_	_	_	_	_	_
+8	praedura	_	ADJ	_	_	_	_	_	_
 9	natura	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-598
@@ -10383,7 +10383,7 @@
 7	uidetur	_	VERB	_	_	_	_	_	_
 8	intus	_	ADV	_	_	_	_	_	_
 9	habere	_	VERB	_	_	_	_	_	_
-10	partum	_	VERB	_	_	_	_	_	_
+10	partum	_	NOUN	_	_	_	_	_	_
 11	qui	_	PRON	_	_	_	_	_	_
 12	sentiatur	_	VERB	_	_	_	_	_	_
 13	etiam	_	ADV	_	_	_	_	_	_
@@ -10395,7 +10395,7 @@
 2	nigra	_	ADJ	_	_	_	_	_	_
 3	est	_	AUX	_	_	_	_	_	_
 4	sed	_	CCONJ	_	_	_	_	_	_
-5	inlisa	_	NOUN	_	_	_	_	_	_
+5	inlisa	_	ADJ	_	_	_	_	_	_
 6	aeris	_	NOUN	_	_	_	_	_	_
 7	tinnitum	_	NOUN	_	_	_	_	_	_
 8	reddit	_	VERB	_	_	_	_	_	_
@@ -10418,7 +10418,7 @@
 10	purpureae	_	ADJ	_	_	_	_	_	_
 11	in	_	ADP	_	_	_	_	_	_
 12	alia	_	DET	_	_	_	_	_	_
-13	purpuram	_	ADJ	_	_	_	_	_	_
+13	purpuram	_	NOUN	_	_	_	_	_	_
 14	nigris	_	ADJ	_	_	_	_	_	_
 15	interpellantibus	_	VERB	_	_	_	_	_	_
 16	maculis	_	NOUN	_	_	_	_	_	_
@@ -10428,7 +10428,7 @@
 1	chelonia	_	NOUN	_	_	_	_	_	_
 2	oculus	_	NOUN	_	_	_	_	_	_
 3	est	_	AUX	_	_	_	_	_	_
-4	Indicae	_	PROPN	_	_	_	_	_	_
+4	Indicae	_	ADJ	_	_	_	_	_	_
 5	testudinis	_	NOUN	_	_	_	_	_	_
 6	uel	_	CCONJ	_	_	_	_	_	_
 7	portentosissima	_	ADJ	_	_	_	_	_	_
@@ -10457,7 +10457,7 @@
 18	uero	_	CCONJ	_	_	_	_	_	_
 19	ante	_	ADP	_	_	_	_	_	_
 20	ortum	_	NOUN	_	_	_	_	_	_
-21	solis	_	DET	_	_	_	_	_	_
+21	solis	_	NOUN	_	_	_	_	_	_
 22	ceteris	_	ADJ	_	_	_	_	_	_
 23	diebus	_	NOUN	_	_	_	_	_	_
 24	a	_	ADP	_	_	_	_	_	_
@@ -10502,7 +10502,7 @@
 
 # sent_id = PliNH37-R-ef-605
 # text = chloritis herbacei coloris est
-1	chloritis	_	ADJ	_	_	_	_	_	_
+1	chloritis	_	VERB	_	_	_	_	_	_
 2	herbacei	_	ADJ	_	_	_	_	_	_
 3	coloris	_	NOUN	_	_	_	_	_	_
 4	est	_	AUX	_	_	_	_	_	_
@@ -10512,12 +10512,12 @@
 1	eam	_	PRON	_	_	_	_	_	_
 2	in	_	ADP	_	_	_	_	_	_
 3	uentre	_	NOUN	_	_	_	_	_	_
-4	motacillae	_	ADJ	_	_	_	_	_	_
+4	motacillae	_	NOUN	_	_	_	_	_	_
 5	auis	_	NOUN	_	_	_	_	_	_
 6	inueniri	_	VERB	_	_	_	_	_	_
 7	dicunt	_	VERB	_	_	_	_	_	_
 8	Magi	_	PROPN	_	_	_	_	_	_
-9	congenitam	_	VERB	_	_	_	_	_	_
+9	congenitam	_	NOUN	_	_	_	_	_	_
 10	ei	_	PRON	_	_	_	_	_	_
 11	et	_	CCONJ	_	_	_	_	_	_
 12	ferro	_	NOUN	_	_	_	_	_	_
@@ -10537,7 +10537,7 @@
 4	dicta	_	VERB	_	_	_	_	_	_
 5	est	_	AUX	_	_	_	_	_	_
 6	ex	_	ADP	_	_	_	_	_	_
-7	uiridi	_	ADJ	_	_	_	_	_	_
+7	uiridi	_	NOUN	_	_	_	_	_	_
 8	fulgoris	_	NOUN	_	_	_	_	_	_
 9	aurei	_	NOUN	_	_	_	_	_	_
 
@@ -10548,7 +10548,7 @@
 3	Aethiopia	_	PROPN	_	_	_	_	_	_
 4	nascitur	_	VERB	_	_	_	_	_	_
 5	pallida	_	ADJ	_	_	_	_	_	_
-6	alias	_	DET	_	_	_	_	_	_
+6	alias	_	ADV	_	_	_	_	_	_
 7	sed	_	CCONJ	_	_	_	_	_	_
 8	noctu	_	ADV	_	_	_	_	_	_
 9	ignea	_	ADJ	_	_	_	_	_	_
@@ -10577,8 +10577,8 @@
 13	alias	_	DET	_	_	_	_	_	_
 14	uitreae	_	NOUN	_	_	_	_	_	_
 15	alias	_	DET	_	_	_	_	_	_
-16	crystallinae	_	ADJ	_	_	_	_	_	_
-17	alias	_	DET	_	_	_	_	_	_
+16	crystallinae	_	NOUN	_	_	_	_	_	_
+17	alias	_	ADV	_	_	_	_	_	_
 18	iaspidis	_	ADJ	_	_	_	_	_	_
 19	sed	_	CCONJ	_	_	_	_	_	_
 20	et	_	ADV	_	_	_	_	_	_
@@ -10594,7 +10594,7 @@
 
 # sent_id = PliNH37-R-ef-611
 # text = daphnean Zoroastres morbis comitialibus demonstrat
-1	daphnean	_	NOUN	_	_	_	_	_	_
+1	daphnean	_	PROPN	_	_	_	_	_	_
 2	Zoroastres	_	PROPN	_	_	_	_	_	_
 3	morbis	_	NOUN	_	_	_	_	_	_
 4	comitialibus	_	ADJ	_	_	_	_	_	_
@@ -10602,7 +10602,7 @@
 
 # sent_id = PliNH37-R-ef-612
 # text = diadochos berullo similis est
-1	diadochos	_	ADJ	_	_	_	_	_	_
+1	diadochos	_	NOUN	_	_	_	_	_	_
 2	berullo	_	NOUN	_	_	_	_	_	_
 3	similis	_	ADJ	_	_	_	_	_	_
 4	est	_	AUX	_	_	_	_	_	_
@@ -10614,10 +10614,10 @@
 3	candida	_	ADJ	_	_	_	_	_	_
 4	ac	_	CCONJ	_	_	_	_	_	_
 5	nigra	_	ADJ	_	_	_	_	_	_
-6	mas	_	ADV	_	_	_	_	_	_
+6	mas	_	CCONJ	_	_	_	_	_	_
 7	ac	_	CCONJ	_	_	_	_	_	_
 8	femina	_	NOUN	_	_	_	_	_	_
-9	genitale	_	NOUN	_	_	_	_	_	_
+9	genitale	_	ADJ	_	_	_	_	_	_
 10	utriusque	_	DET	_	_	_	_	_	_
 11	sexus	_	NOUN	_	_	_	_	_	_
 12	distinguente	_	VERB	_	_	_	_	_	_
@@ -10694,8 +10694,8 @@
 # sent_id = PliNH37-R-ef-617
 # text = esse candore tralucido nec postea poliri aut artem admittere
 1	esse	_	AUX	_	_	_	_	_	_
-2	candore	_	NOUN	_	_	_	_	_	_
-3	tralucido	_	ADJ	_	_	_	_	_	_
+2	candore	_	ADV	_	_	_	_	_	_
+3	tralucido	_	NOUN	_	_	_	_	_	_
 4	nec	_	CCONJ	_	_	_	_	_	_
 5	postea	_	ADV	_	_	_	_	_	_
 6	poliri	_	VERB	_	_	_	_	_	_
@@ -10707,7 +10707,7 @@
 # text = encardia cognominatur enariste in nigro colore effigie cordis eminente
 1	encardia	_	NOUN	_	_	_	_	_	_
 2	cognominatur	_	VERB	_	_	_	_	_	_
-3	enariste	_	VERB	_	_	_	_	_	_
+3	enariste	_	ADJ	_	_	_	_	_	_
 4	in	_	ADP	_	_	_	_	_	_
 5	nigro	_	ADJ	_	_	_	_	_	_
 6	colore	_	NOUN	_	_	_	_	_	_
@@ -10720,7 +10720,7 @@
 1	altera	_	DET	_	_	_	_	_	_
 2	eodem	_	DET	_	_	_	_	_	_
 3	nomine	_	NOUN	_	_	_	_	_	_
-4	uiridi	_	ADJ	_	_	_	_	_	_
+4	uiridi	_	NOUN	_	_	_	_	_	_
 5	colore	_	NOUN	_	_	_	_	_	_
 6	cordis	_	NOUN	_	_	_	_	_	_
 7	speciem	_	NOUN	_	_	_	_	_	_
@@ -10735,7 +10735,7 @@
 
 # sent_id = PliNH37-R-ef-620
 # text = enorchis candida est diuisis que fragmentis testium effigiem repraesentat
-1	enorchis	_	ADJ	_	_	_	_	_	_
+1	enorchis	_	NOUN	_	_	_	_	_	_
 2	candida	_	NOUN	_	_	_	_	_	_
 3	est	_	AUX	_	_	_	_	_	_
 4	diuisis	_	VERB	_	_	_	_	_	_
@@ -10747,7 +10747,7 @@
 
 # sent_id = PliNH37-R-ef-621
 # text = exhebenum Zoroastres speciosam et candidam tradit qua aurifices aurum poliant
-1	exhebenum	_	NOUN	_	_	_	_	_	_
+1	exhebenum	_	VERB	_	_	_	_	_	_
 2	Zoroastres	_	PROPN	_	_	_	_	_	_
 3	speciosam	_	ADJ	_	_	_	_	_	_
 4	et	_	CCONJ	_	_	_	_	_	_
@@ -10784,7 +10784,7 @@
 
 # sent_id = PliNH37-R-ef-624
 # text = eumeces in Bactris nascitur silici similis et capiti supposita uisa nocturna oraculi modo reddit
-1	eumeces	_	ADJ	_	_	_	_	_	_
+1	eumeces	_	NOUN	_	_	_	_	_	_
 2	in	_	ADP	_	_	_	_	_	_
 3	Bactris	_	PROPN	_	_	_	_	_	_
 4	nascitur	_	VERB	_	_	_	_	_	_
@@ -10793,15 +10793,15 @@
 7	et	_	CCONJ	_	_	_	_	_	_
 8	capiti	_	NOUN	_	_	_	_	_	_
 9	supposita	_	VERB	_	_	_	_	_	_
-10	uisa	_	VERB	_	_	_	_	_	_
-11	nocturna	_	NOUN	_	_	_	_	_	_
+10	uisa	_	NOUN	_	_	_	_	_	_
+11	nocturna	_	ADJ	_	_	_	_	_	_
 12	oraculi	_	NOUN	_	_	_	_	_	_
-13	modo	_	NOUN	_	_	_	_	_	_
+13	modo	_	ADV	_	_	_	_	_	_
 14	reddit	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-625
 # text = eumitren Beli gemmam sanctissimi deorum sui Assyrii obseruant porracei coloris superstitionibus gratam
-1	eumitren	_	DET	_	_	_	_	_	_
+1	eumitren	_	NOUN	_	_	_	_	_	_
 2	Beli	_	PROPN	_	_	_	_	_	_
 3	gemmam	_	NOUN	_	_	_	_	_	_
 4	sanctissimi	_	ADJ	_	_	_	_	_	_
@@ -10833,7 +10833,7 @@
 4	similis	_	ADJ	_	_	_	_	_	_
 5	est	_	AUX	_	_	_	_	_	_
 6	striata	_	NOUN	_	_	_	_	_	_
-7	concharum	_	ADJ	_	_	_	_	_	_
+7	concharum	_	NOUN	_	_	_	_	_	_
 8	modo	_	ADV	_	_	_	_	_	_
 9	non	_	PART	_	_	_	_	_	_
 10	adeo	_	ADV	_	_	_	_	_	_
@@ -10906,23 +10906,23 @@
 # sent_id = PliNH37-R-ef-633
 # text = eandem leucogaeam et leucographitim appellant et synechitim in attritu lactis suco ac sapore notabilem in educatione nutricibus lactis fecundam
 1	eandem	_	DET	_	_	_	_	_	_
-2	leucogaeam	_	ADJ	_	_	_	_	_	_
+2	leucogaeam	_	ADV	_	_	_	_	_	_
 3	et	_	CCONJ	_	_	_	_	_	_
-4	leucographitim	_	ADJ	_	_	_	_	_	_
+4	leucographitim	_	ADV	_	_	_	_	_	_
 5	appellant	_	VERB	_	_	_	_	_	_
 6	et	_	CCONJ	_	_	_	_	_	_
-7	synechitim	_	ADJ	_	_	_	_	_	_
+7	synechitim	_	ADV	_	_	_	_	_	_
 8	in	_	ADP	_	_	_	_	_	_
 9	attritu	_	NOUN	_	_	_	_	_	_
-10	lactis	_	NOUN	_	_	_	_	_	_
+10	lactis	_	VERB	_	_	_	_	_	_
 11	suco	_	NOUN	_	_	_	_	_	_
 12	ac	_	CCONJ	_	_	_	_	_	_
 13	sapore	_	NOUN	_	_	_	_	_	_
 14	notabilem	_	ADJ	_	_	_	_	_	_
 15	in	_	ADP	_	_	_	_	_	_
 16	educatione	_	NOUN	_	_	_	_	_	_
-17	nutricibus	_	ADJ	_	_	_	_	_	_
-18	lactis	_	NOUN	_	_	_	_	_	_
+17	nutricibus	_	NOUN	_	_	_	_	_	_
+18	lactis	_	VERB	_	_	_	_	_	_
 19	fecundam	_	ADJ	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-634
@@ -10955,7 +10955,7 @@
 # text = sunt qui smaragdum albis uenis circumligatum galactiten uocent
 1	sunt	_	AUX	_	_	_	_	_	_
 2	qui	_	PRON	_	_	_	_	_	_
-3	smaragdum	_	ADJ	_	_	_	_	_	_
+3	smaragdum	_	NOUN	_	_	_	_	_	_
 4	albis	_	NOUN	_	_	_	_	_	_
 5	uenis	_	NOUN	_	_	_	_	_	_
 6	circumligatum	_	VERB	_	_	_	_	_	_
@@ -10975,7 +10975,7 @@
 # text = inueniuntur iunctae binae ternae que
 1	inueniuntur	_	VERB	_	_	_	_	_	_
 2	iunctae	_	VERB	_	_	_	_	_	_
-3	binae	_	ADJ	_	_	_	_	_	_
+3	binae	_	NOUN	_	_	_	_	_	_
 4	ternae	_	ADJ	_	_	_	_	_	_
 5	que	_	CCONJ	_	_	_	_	_	_
 
@@ -10985,7 +10985,7 @@
 2	Medi	_	PROPN	_	_	_	_	_	_
 3	mittunt	_	VERB	_	_	_	_	_	_
 4	coloris	_	NOUN	_	_	_	_	_	_
-5	orobini	_	NOUN	_	_	_	_	_	_
+5	orobini	_	ADJ	_	_	_	_	_	_
 6	ueluti	_	VERB	_	_	_	_	_	_
 7	floribus	_	NOUN	_	_	_	_	_	_
 8	sparsam	_	VERB	_	_	_	_	_	_
@@ -11007,7 +11007,7 @@
 6	et	_	CCONJ	_	_	_	_	_	_
 7	intra	_	ADP	_	_	_	_	_	_
 8	se	_	PRON	_	_	_	_	_	_
-9	partum	_	VERB	_	_	_	_	_	_
+9	partum	_	NOUN	_	_	_	_	_	_
 10	fateri	_	NOUN	_	_	_	_	_	_
 11	concussa	_	VERB	_	_	_	_	_	_
 12	concipere	_	VERB	_	_	_	_	_	_
@@ -11037,16 +11037,16 @@
 # sent_id = PliNH37-R-ef-643
 # text = quod ne credamus promissi quoque uanitas facit
 1	quod	_	PRON	_	_	_	_	_	_
-2	ne	_	PART	_	_	_	_	_	_
+2	ne	_	SCONJ	_	_	_	_	_	_
 3	credamus	_	VERB	_	_	_	_	_	_
-4	promissi	_	NOUN	_	_	_	_	_	_
+4	promissi	_	VERB	_	_	_	_	_	_
 5	quoque	_	ADV	_	_	_	_	_	_
 6	uanitas	_	NOUN	_	_	_	_	_	_
 7	facit	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-644
 # text = uentos enim ea comprimi narrant
-1	uentos	_	VERB	_	_	_	_	_	_
+1	uentos	_	NOUN	_	_	_	_	_	_
 2	enim	_	PART	_	_	_	_	_	_
 3	ea	_	PRON	_	_	_	_	_	_
 4	comprimi	_	VERB	_	_	_	_	_	_
@@ -11059,18 +11059,18 @@
 3	aliud	_	DET	_	_	_	_	_	_
 4	est	_	AUX	_	_	_	_	_	_
 5	quam	_	SCONJ	_	_	_	_	_	_
-6	curalium	_	ADJ	_	_	_	_	_	_
+6	curalium	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-646
 # text = nominis causa quod in duritiam lapidis mutatur emollitum in mari
 1	nominis	_	NOUN	_	_	_	_	_	_
 2	causa	_	NOUN	_	_	_	_	_	_
-3	quod	_	PRON	_	_	_	_	_	_
+3	quod	_	SCONJ	_	_	_	_	_	_
 4	in	_	ADP	_	_	_	_	_	_
 5	duritiam	_	NOUN	_	_	_	_	_	_
 6	lapidis	_	NOUN	_	_	_	_	_	_
 7	mutatur	_	VERB	_	_	_	_	_	_
-8	emollitum	_	VERB	_	_	_	_	_	_
+8	emollitum	_	NOUN	_	_	_	_	_	_
 9	in	_	ADP	_	_	_	_	_	_
 10	mari	_	NOUN	_	_	_	_	_	_
 
@@ -11103,7 +11103,7 @@
 6	Cypro	_	PROPN	_	_	_	_	_	_
 7	porraceo	_	NOUN	_	_	_	_	_	_
 8	colore	_	NOUN	_	_	_	_	_	_
-9	sanguineis	_	NOUN	_	_	_	_	_	_
+9	sanguineis	_	ADJ	_	_	_	_	_	_
 10	uenis	_	NOUN	_	_	_	_	_	_
 11	distincta	_	VERB	_	_	_	_	_	_
 
@@ -11146,7 +11146,7 @@
 # text = magorum inpudentiae uel manifestissimum in hac quoque exemplum est quoniam admixta herba heliotropio quibusdam additis precationibus gerentem conspici negent
 1	magorum	_	NOUN	_	_	_	_	_	_
 2	inpudentiae	_	NOUN	_	_	_	_	_	_
-3	uel	_	ADV	_	_	_	_	_	_
+3	uel	_	CCONJ	_	_	_	_	_	_
 4	manifestissimum	_	ADJ	_	_	_	_	_	_
 5	in	_	ADP	_	_	_	_	_	_
 6	hac	_	DET	_	_	_	_	_	_
@@ -11166,7 +11166,7 @@
 
 # sent_id = PliNH37-R-ef-653
 # text = hephaestitis quoque speculi naturam habet in reddendis imaginibus quamquam rutila
-1	hephaestitis	_	ADJ	_	_	_	_	_	_
+1	hephaestitis	_	NOUN	_	_	_	_	_	_
 2	quoque	_	ADV	_	_	_	_	_	_
 3	speculi	_	NOUN	_	_	_	_	_	_
 4	naturam	_	NOUN	_	_	_	_	_	_
@@ -11184,7 +11184,7 @@
 3	si	_	SCONJ	_	_	_	_	_	_
 4	statim	_	ADV	_	_	_	_	_	_
 5	addita	_	VERB	_	_	_	_	_	_
-6	feruens	_	ADJ	_	_	_	_	_	_
+6	feruens	_	VERB	_	_	_	_	_	_
 7	aqua	_	NOUN	_	_	_	_	_	_
 8	refrigerata	_	VERB	_	_	_	_	_	_
 9	sit	_	AUX	_	_	_	_	_	_
@@ -11242,7 +11242,7 @@
 
 # sent_id = PliNH37-R-ef-658
 # text = hieracitis alternat tota miluinis nigris que ueluti plumis
-1	hieracitis	_	NOUN	_	_	_	_	_	_
+1	hieracitis	_	VERB	_	_	_	_	_	_
 2	alternat	_	VERB	_	_	_	_	_	_
 3	tota	_	DET	_	_	_	_	_	_
 4	miluinis	_	NOUN	_	_	_	_	_	_
@@ -11253,12 +11253,12 @@
 
 # sent_id = PliNH37-R-ef-659
 # text = hammitis ouis piscium similis est et alia uelut e nitro composita praedura alioqui
-1	hammitis	_	ADJ	_	_	_	_	_	_
+1	hammitis	_	NOUN	_	_	_	_	_	_
 2	ouis	_	NOUN	_	_	_	_	_	_
 3	piscium	_	NOUN	_	_	_	_	_	_
 4	similis	_	ADJ	_	_	_	_	_	_
 5	est	_	AUX	_	_	_	_	_	_
-6	et	_	CCONJ	_	_	_	_	_	_
+6	et	_	ADV	_	_	_	_	_	_
 7	alia	_	DET	_	_	_	_	_	_
 8	uelut	_	SCONJ	_	_	_	_	_	_
 9	e	_	ADP	_	_	_	_	_	_
@@ -11281,7 +11281,7 @@
 10	effigiem	_	NOUN	_	_	_	_	_	_
 11	reddens	_	VERB	_	_	_	_	_	_
 12	promittitur	_	VERB	_	_	_	_	_	_
-13	praediuina	_	NOUN	_	_	_	_	_	_
+13	praediuina	_	ADJ	_	_	_	_	_	_
 14	somnia	_	NOUN	_	_	_	_	_	_
 15	repraesentare	_	VERB	_	_	_	_	_	_
 
@@ -11292,7 +11292,7 @@
 3	gratissimas	_	NOUN	_	_	_	_	_	_
 4	aspicitur	_	VERB	_	_	_	_	_	_
 5	ex	_	ADP	_	_	_	_	_	_
-6	igneo	_	ADJ	_	_	_	_	_	_
+6	igneo	_	NOUN	_	_	_	_	_	_
 7	colore	_	NOUN	_	_	_	_	_	_
 8	radians	_	VERB	_	_	_	_	_	_
 9	auro	_	NOUN	_	_	_	_	_	_
@@ -11302,7 +11302,7 @@
 1	hyaeniae	_	NOUN	_	_	_	_	_	_
 2	ex	_	ADP	_	_	_	_	_	_
 3	oculis	_	NOUN	_	_	_	_	_	_
-4	hyaenae	_	ADJ	_	_	_	_	_	_
+4	hyaenae	_	NOUN	_	_	_	_	_	_
 5	lapides	_	NOUN	_	_	_	_	_	_
 6	inueniri	_	VERB	_	_	_	_	_	_
 7	dicuntur	_	VERB	_	_	_	_	_	_
@@ -11312,7 +11312,7 @@
 11	linguae	_	NOUN	_	_	_	_	_	_
 12	hominis	_	NOUN	_	_	_	_	_	_
 13	subditi	_	ADJ	_	_	_	_	_	_
-14	futura	_	NOUN	_	_	_	_	_	_
+14	futura	_	AUX	_	_	_	_	_	_
 15	praecinere	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-663
@@ -11343,7 +11343,7 @@
 
 # sent_id = PliNH37-R-ef-664
 # text = zachalias Babylonius in iis libris quos scripsit ad regem Mithridatem gemmis humana fata adtribuens hanc non contentus oculorum et iocineris medicina decorasse a rege etiam aliquid petituris dedit eandem litibus iudiciis que interposuit in proeliis etiam exangui salutarem pronuntiauit
-1	zachalias	_	PROPN	_	_	_	_	_	_
+1	zachalias	_	NOUN	_	_	_	_	_	_
 2	Babylonius	_	PROPN	_	_	_	_	_	_
 3	in	_	ADP	_	_	_	_	_	_
 4	iis	_	PRON	_	_	_	_	_	_
@@ -11423,7 +11423,7 @@
 1	icterias	_	NOUN	_	_	_	_	_	_
 2	cuti	_	VERB	_	_	_	_	_	_
 3	mali	_	NOUN	_	_	_	_	_	_
-4	luridae	_	ADJ	_	_	_	_	_	_
+4	luridae	_	NOUN	_	_	_	_	_	_
 5	similis	_	ADJ	_	_	_	_	_	_
 6	et	_	CCONJ	_	_	_	_	_	_
 7	ideo	_	ADV	_	_	_	_	_	_
@@ -11490,7 +11490,7 @@
 7	colore	_	NOUN	_	_	_	_	_	_
 8	sed	_	CCONJ	_	_	_	_	_	_
 9	in	_	ADP	_	_	_	_	_	_
-10	attritu	_	VERB	_	_	_	_	_	_
+10	attritu	_	NOUN	_	_	_	_	_	_
 11	purpureo	_	ADJ	_	_	_	_	_	_
 12	sudore	_	NOUN	_	_	_	_	_	_
 13	manant	_	VERB	_	_	_	_	_	_
@@ -11501,7 +11501,7 @@
 2	eodem	_	DET	_	_	_	_	_	_
 3	nomine	_	NOUN	_	_	_	_	_	_
 4	candida	_	ADJ	_	_	_	_	_	_
-5	puluereo	_	ADJ	_	_	_	_	_	_
+5	puluereo	_	NOUN	_	_	_	_	_	_
 6	aspectu	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-674
@@ -11509,7 +11509,7 @@
 1	Ion	_	PROPN	_	_	_	_	_	_
 2	apud	_	ADP	_	_	_	_	_	_
 3	Indos	_	PROPN	_	_	_	_	_	_
-4	uiolacea	_	ADJ	_	_	_	_	_	_
+4	uiolacea	_	NOUN	_	_	_	_	_	_
 5	est	_	AUX	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-675
@@ -11522,7 +11522,7 @@
 
 # sent_id = PliNH37-R-ef-676
 # text = lepidotis squamas piscium uariis coloribus imitatur Lesbias glaebas patriae habens nomen
-1	lepidotis	_	ADJ	_	_	_	_	_	_
+1	lepidotis	_	NOUN	_	_	_	_	_	_
 2	squamas	_	NOUN	_	_	_	_	_	_
 3	piscium	_	NOUN	_	_	_	_	_	_
 4	uariis	_	ADJ	_	_	_	_	_	_
@@ -11545,7 +11545,7 @@
 # sent_id = PliNH37-R-ef-678
 # text = leucophthalmos rutila alias oculi speciem candidam nigram que continet
 1	leucophthalmos	_	NOUN	_	_	_	_	_	_
-2	rutila	_	NOUN	_	_	_	_	_	_
+2	rutila	_	ADJ	_	_	_	_	_	_
 3	alias	_	DET	_	_	_	_	_	_
 4	oculi	_	NOUN	_	_	_	_	_	_
 5	speciem	_	NOUN	_	_	_	_	_	_
@@ -11557,7 +11557,7 @@
 # sent_id = PliNH37-R-ef-679
 # text = leucopoecilos candorem minii guttis ex auro distinguit
 1	leucopoecilos	_	NOUN	_	_	_	_	_	_
-2	candorem	_	NOUN	_	_	_	_	_	_
+2	candorem	_	ADV	_	_	_	_	_	_
 3	minii	_	NOUN	_	_	_	_	_	_
 4	guttis	_	NOUN	_	_	_	_	_	_
 5	ex	_	ADP	_	_	_	_	_	_
@@ -11571,7 +11571,7 @@
 3	similitudinem	_	NOUN	_	_	_	_	_	_
 4	ostendit	_	VERB	_	_	_	_	_	_
 5	et	_	CCONJ	_	_	_	_	_	_
-6	mellis	_	VERB	_	_	_	_	_	_
+6	mellis	_	NOUN	_	_	_	_	_	_
 7	sucum	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-681
@@ -11598,7 +11598,7 @@
 # sent_id = PliNH37-R-ef-683
 # text = lysimachos Rhodio marmori similis auratis uenis politur ex maiore amplitudine in angustias ut inutilia exterantur
 1	lysimachos	_	NOUN	_	_	_	_	_	_
-2	Rhodio	_	ADJ	_	_	_	_	_	_
+2	Rhodio	_	PROPN	_	_	_	_	_	_
 3	marmori	_	NOUN	_	_	_	_	_	_
 4	similis	_	ADJ	_	_	_	_	_	_
 5	auratis	_	ADJ	_	_	_	_	_	_
@@ -11610,7 +11610,7 @@
 11	in	_	ADP	_	_	_	_	_	_
 12	angustias	_	NOUN	_	_	_	_	_	_
 13	ut	_	SCONJ	_	_	_	_	_	_
-14	inutilia	_	ADJ	_	_	_	_	_	_
+14	inutilia	_	NOUN	_	_	_	_	_	_
 15	exterantur	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-684
@@ -11619,7 +11619,7 @@
 2	fit	_	VERB	_	_	_	_	_	_
 3	e	_	ADP	_	_	_	_	_	_
 4	chrysolitho	_	NOUN	_	_	_	_	_	_
-5	interalbicante	_	ADV	_	_	_	_	_	_
+5	interalbicante	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-685
 # text = memnonia qualis sit non traditur
@@ -11632,7 +11632,7 @@
 # sent_id = PliNH37-R-ef-686
 # text = media nigra est ab Media illa fabulosa inuenta
 1	media	_	ADJ	_	_	_	_	_	_
-2	nigra	_	ADJ	_	_	_	_	_	_
+2	nigra	_	NOUN	_	_	_	_	_	_
 3	est	_	AUX	_	_	_	_	_	_
 4	ab	_	ADP	_	_	_	_	_	_
 5	Media	_	ADJ	_	_	_	_	_	_
@@ -11655,7 +11655,7 @@
 # sent_id = PliNH37-R-ef-688
 # text = meconitis papauera exprimit
 1	meconitis	_	NOUN	_	_	_	_	_	_
-2	papauera	_	ADJ	_	_	_	_	_	_
+2	papauera	_	NOUN	_	_	_	_	_	_
 3	exprimit	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-689
@@ -11758,7 +11758,7 @@
 1	myrmecias	_	NOUN	_	_	_	_	_	_
 2	nigra	_	ADJ	_	_	_	_	_	_
 3	habet	_	VERB	_	_	_	_	_	_
-4	eminentia	_	ADJ	_	_	_	_	_	_
+4	eminentia	_	NOUN	_	_	_	_	_	_
 5	similia	_	ADJ	_	_	_	_	_	_
 6	uerrucis	_	NOUN	_	_	_	_	_	_
 7	myrsinitis	_	NOUN	_	_	_	_	_	_
@@ -11798,7 +11798,7 @@
 1	nebritis	_	VERB	_	_	_	_	_	_
 2	Libero	_	PROPN	_	_	_	_	_	_
 3	patri	_	NOUN	_	_	_	_	_	_
-4	sacra	_	NOUN	_	_	_	_	_	_
+4	sacra	_	ADJ	_	_	_	_	_	_
 5	nomen	_	NOUN	_	_	_	_	_	_
 6	traxit	_	VERB	_	_	_	_	_	_
 7	a	_	ADP	_	_	_	_	_	_
@@ -11824,7 +11824,7 @@
 7	nomen	_	NOUN	_	_	_	_	_	_
 8	similis	_	ADJ	_	_	_	_	_	_
 9	hippopotami	_	NOUN	_	_	_	_	_	_
-10	dentibus	_	NOUN	_	_	_	_	_	_
+10	dentibus	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-702
 # text = oica barbari nominis e nigro et fuluo uiridi que et candido placet
@@ -11832,7 +11832,7 @@
 2	barbari	_	ADJ	_	_	_	_	_	_
 3	nominis	_	NOUN	_	_	_	_	_	_
 4	e	_	ADP	_	_	_	_	_	_
-5	nigro	_	ADJ	_	_	_	_	_	_
+5	nigro	_	NOUN	_	_	_	_	_	_
 6	et	_	CCONJ	_	_	_	_	_	_
 7	fuluo	_	NOUN	_	_	_	_	_	_
 8	uiridi	_	ADJ	_	_	_	_	_	_
@@ -11910,7 +11910,7 @@
 5	testacea	_	NOUN	_	_	_	_	_	_
 6	durior	_	ADJ	_	_	_	_	_	_
 7	ceramitide	_	NOUN	_	_	_	_	_	_
-8	achatae	_	VERB	_	_	_	_	_	_
+8	achatae	_	NOUN	_	_	_	_	_	_
 9	similis	_	ADJ	_	_	_	_	_	_
 10	nisi	_	SCONJ	_	_	_	_	_	_
 11	quod	_	SCONJ	_	_	_	_	_	_
@@ -11955,7 +11955,7 @@
 # sent_id = PliNH37-R-ef-711
 # text = de obsiano lapide diximus priore libro
 1	de	_	ADP	_	_	_	_	_	_
-2	obsiano	_	ADJ	_	_	_	_	_	_
+2	obsiano	_	NOUN	_	_	_	_	_	_
 3	lapide	_	NOUN	_	_	_	_	_	_
 4	diximus	_	VERB	_	_	_	_	_	_
 5	priore	_	ADJ	_	_	_	_	_	_
@@ -12031,7 +12031,7 @@
 14	dicatum	_	VERB	_	_	_	_	_	_
 15	Ueneri	_	PROPN	_	_	_	_	_	_
 16	non	_	PART	_	_	_	_	_	_
-17	inelegans	_	ADJ	_	_	_	_	_	_
+17	inelegans	_	VERB	_	_	_	_	_	_
 18	ponit	_	VERB	_	_	_	_	_	_
 19	ex	_	ADP	_	_	_	_	_	_
 20	quo	_	PRON	_	_	_	_	_	_
@@ -12048,7 +12048,7 @@
 
 # sent_id = PliNH37-R-ef-717
 # text = Ponticarum plura sunt genera
-1	Ponticarum	_	PROPN	_	_	_	_	_	_
+1	Ponticarum	_	ADJ	_	_	_	_	_	_
 2	plura	_	ADJ	_	_	_	_	_	_
 3	sunt	_	AUX	_	_	_	_	_	_
 4	genera	_	NOUN	_	_	_	_	_	_
@@ -12056,11 +12056,11 @@
 # sent_id = PliNH37-R-ef-718
 # text = est stellata nunc sanguineis nunc auratis guttis quae inter sacras habetur
 1	est	_	AUX	_	_	_	_	_	_
-2	stellata	_	VERB	_	_	_	_	_	_
+2	stellata	_	NOUN	_	_	_	_	_	_
 3	nunc	_	ADV	_	_	_	_	_	_
-4	sanguineis	_	ADJ	_	_	_	_	_	_
+4	sanguineis	_	NOUN	_	_	_	_	_	_
 5	nunc	_	ADV	_	_	_	_	_	_
-6	auratis	_	ADJ	_	_	_	_	_	_
+6	auratis	_	VERB	_	_	_	_	_	_
 7	guttis	_	NOUN	_	_	_	_	_	_
 8	quae	_	PRON	_	_	_	_	_	_
 9	inter	_	ADP	_	_	_	_	_	_
@@ -12085,7 +12085,7 @@
 # sent_id = PliNH37-R-ef-720
 # text = phloginos quam et chrysitim uocant ochrae Atticae adsimulata inuenitur in Aegypto
 1	phloginos	_	NOUN	_	_	_	_	_	_
-2	quam	_	SCONJ	_	_	_	_	_	_
+2	quam	_	PRON	_	_	_	_	_	_
 3	et	_	CCONJ	_	_	_	_	_	_
 4	chrysitim	_	ADV	_	_	_	_	_	_
 5	uocant	_	VERB	_	_	_	_	_	_
@@ -12116,7 +12116,7 @@
 6	ad	_	ADP	_	_	_	_	_	_
 7	radicem	_	NOUN	_	_	_	_	_	_
 8	usque	_	ADV	_	_	_	_	_	_
-9	albo	_	VERB	_	_	_	_	_	_
+9	albo	_	NOUN	_	_	_	_	_	_
 10	descendente	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-723
@@ -12124,9 +12124,9 @@
 1	paeanitides	_	NOUN	_	_	_	_	_	_
 2	quas	_	PRON	_	_	_	_	_	_
 3	quidam	_	DET	_	_	_	_	_	_
-4	gaeanidas	_	ADJ	_	_	_	_	_	_
+4	gaeanidas	_	NOUN	_	_	_	_	_	_
 5	uocant	_	VERB	_	_	_	_	_	_
-6	praegnantes	_	ADJ	_	_	_	_	_	_
+6	praegnantes	_	VERB	_	_	_	_	_	_
 7	fieri	_	VERB	_	_	_	_	_	_
 8	et	_	CCONJ	_	_	_	_	_	_
 9	parere	_	VERB	_	_	_	_	_	_
@@ -12146,7 +12146,7 @@
 7	Tiresiae	_	PROPN	_	_	_	_	_	_
 8	species	_	NOUN	_	_	_	_	_	_
 9	aquae	_	NOUN	_	_	_	_	_	_
-10	glaciatae	_	ADJ	_	_	_	_	_	_
+10	glaciatae	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-725
 # text = solis gemma candida est ad speciem sideris in orbem fulgentis spargens radios
@@ -12159,13 +12159,13 @@
 7	sideris	_	NOUN	_	_	_	_	_	_
 8	in	_	ADP	_	_	_	_	_	_
 9	orbem	_	NOUN	_	_	_	_	_	_
-10	fulgentis	_	ADJ	_	_	_	_	_	_
+10	fulgentis	_	VERB	_	_	_	_	_	_
 11	spargens	_	VERB	_	_	_	_	_	_
 12	radios	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-726
 # text = sagdam Chaldaei uocant et adhaerentem ut ferunt nauibus inueniunt prasini coloris
-1	sagdam	_	ADJ	_	_	_	_	_	_
+1	sagdam	_	NOUN	_	_	_	_	_	_
 2	Chaldaei	_	PROPN	_	_	_	_	_	_
 3	uocant	_	VERB	_	_	_	_	_	_
 4	et	_	CCONJ	_	_	_	_	_	_
@@ -12182,7 +12182,7 @@
 1	Samothraca	_	ADJ	_	_	_	_	_	_
 2	insula	_	NOUN	_	_	_	_	_	_
 3	dat	_	VERB	_	_	_	_	_	_
-4	sui	_	PRON	_	_	_	_	_	_
+4	sui	_	DET	_	_	_	_	_	_
 5	nominis	_	NOUN	_	_	_	_	_	_
 6	nigram	_	ADJ	_	_	_	_	_	_
 7	ac	_	CCONJ	_	_	_	_	_	_
@@ -12196,7 +12196,7 @@
 1	sauritim	_	ADV	_	_	_	_	_	_
 2	in	_	ADP	_	_	_	_	_	_
 3	uentre	_	NOUN	_	_	_	_	_	_
-4	uiridis	_	ADJ	_	_	_	_	_	_
+4	uiridis	_	NOUN	_	_	_	_	_	_
 5	lacertae	_	ADJ	_	_	_	_	_	_
 6	harundine	_	NOUN	_	_	_	_	_	_
 7	dissecto	_	VERB	_	_	_	_	_	_
@@ -12266,7 +12266,7 @@
 
 # sent_id = PliNH37-R-ef-735
 # text = sideropoecilos ex ea fit uariantibus guttis
-1	sideropoecilos	_	ADJ	_	_	_	_	_	_
+1	sideropoecilos	_	NOUN	_	_	_	_	_	_
 2	ex	_	ADP	_	_	_	_	_	_
 3	ea	_	PRON	_	_	_	_	_	_
 4	fit	_	VERB	_	_	_	_	_	_
@@ -12293,7 +12293,7 @@
 
 # sent_id = PliNH37-R-ef-738
 # text = syrtitides in litore Syrtium iam quidem et Lucaniae inueniuntur e melleo colore croco refulgentes intus autem stellas continent languidas
-1	syrtitides	_	VERB	_	_	_	_	_	_
+1	syrtitides	_	NOUN	_	_	_	_	_	_
 2	in	_	ADP	_	_	_	_	_	_
 3	litore	_	NOUN	_	_	_	_	_	_
 4	Syrtium	_	PROPN	_	_	_	_	_	_
@@ -12315,7 +12315,7 @@
 
 # sent_id = PliNH37-R-ef-739
 # text = syringitis stipulae internodio similis perpetua fistula cauatur
-1	syringitis	_	NOUN	_	_	_	_	_	_
+1	syringitis	_	VERB	_	_	_	_	_	_
 2	stipulae	_	VERB	_	_	_	_	_	_
 3	internodio	_	NOUN	_	_	_	_	_	_
 4	similis	_	ADJ	_	_	_	_	_	_
@@ -12329,7 +12329,7 @@
 2	ex	_	ADP	_	_	_	_	_	_
 3	Africa	_	PROPN	_	_	_	_	_	_
 4	uenit	_	VERB	_	_	_	_	_	_
-5	nigra	_	ADJ	_	_	_	_	_	_
+5	nigra	_	NOUN	_	_	_	_	_	_
 6	sed	_	CCONJ	_	_	_	_	_	_
 7	tres	_	NUM	_	_	_	_	_	_
 8	sucos	_	NOUN	_	_	_	_	_	_
@@ -12340,12 +12340,12 @@
 13	medio	_	ADJ	_	_	_	_	_	_
 14	sanguineum	_	NOUN	_	_	_	_	_	_
 15	summo	_	ADJ	_	_	_	_	_	_
-16	ochrum	_	ADJ	_	_	_	_	_	_
+16	ochrum	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-741
 # text = thelyrrhizos cinerei coloris aut rufi candidis radicibus spectatur
 1	thelyrrhizos	_	NOUN	_	_	_	_	_	_
-2	cinerei	_	NOUN	_	_	_	_	_	_
+2	cinerei	_	ADJ	_	_	_	_	_	_
 3	coloris	_	NOUN	_	_	_	_	_	_
 4	aut	_	CCONJ	_	_	_	_	_	_
 5	rufi	_	NOUN	_	_	_	_	_	_
@@ -12382,7 +12382,7 @@
 7	pallidior	_	ADJ	_	_	_	_	_	_
 8	in	_	ADP	_	_	_	_	_	_
 9	tertio	_	ADJ	_	_	_	_	_	_
-10	guttis	_	NOUN	_	_	_	_	_	_
+10	guttis	_	VERB	_	_	_	_	_	_
 11	sanguineis	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-745
@@ -12402,7 +12402,7 @@
 
 # sent_id = PliNH37-R-ef-746
 # text = tecolithos oleae nucleus uidetur neque est ei gemmae honos sed lingentium calculos frangit pellit que
-1	tecolithos	_	ADJ	_	_	_	_	_	_
+1	tecolithos	_	NOUN	_	_	_	_	_	_
 2	oleae	_	NOUN	_	_	_	_	_	_
 3	nucleus	_	NOUN	_	_	_	_	_	_
 4	uidetur	_	VERB	_	_	_	_	_	_
@@ -12428,7 +12428,7 @@
 6	in	_	ADP	_	_	_	_	_	_
 7	se	_	PRON	_	_	_	_	_	_
 8	speciem	_	NOUN	_	_	_	_	_	_
-9	rufi	_	NOUN	_	_	_	_	_	_
+9	rufi	_	ADJ	_	_	_	_	_	_
 10	crinis	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-748
@@ -12443,7 +12443,7 @@
 8	materiam	_	NOUN	_	_	_	_	_	_
 9	distinguente	_	VERB	_	_	_	_	_	_
 10	limite	_	NOUN	_	_	_	_	_	_
-11	albo	_	VERB	_	_	_	_	_	_
+11	albo	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-749
 # text = zathenen in Media nasci Democritus tradit electri colore et si quis terat in uino palmeo et croco cerae modo lentescere odore magnae suauitatis
@@ -12461,7 +12461,7 @@
 12	terat	_	VERB	_	_	_	_	_	_
 13	in	_	ADP	_	_	_	_	_	_
 14	uino	_	NOUN	_	_	_	_	_	_
-15	palmeo	_	ADJ	_	_	_	_	_	_
+15	palmeo	_	NOUN	_	_	_	_	_	_
 16	et	_	CCONJ	_	_	_	_	_	_
 17	croco	_	NOUN	_	_	_	_	_	_
 18	cerae	_	NOUN	_	_	_	_	_	_
@@ -12495,7 +12495,7 @@
 7	narratur	_	VERB	_	_	_	_	_	_
 8	neque	_	CCONJ	_	_	_	_	_	_
 9	aliud	_	DET	_	_	_	_	_	_
-10	amplius	_	ADJ	_	_	_	_	_	_
+10	amplius	_	ADV	_	_	_	_	_	_
 11	de	_	ADP	_	_	_	_	_	_
 12	ea	_	PRON	_	_	_	_	_	_
 
@@ -12528,7 +12528,7 @@
 4	steatitis	_	VERB	_	_	_	_	_	_
 5	singulorum	_	ADJ	_	_	_	_	_	_
 6	animalium	_	NOUN	_	_	_	_	_	_
-7	adipe	_	VERB	_	_	_	_	_	_
+7	adipe	_	NOUN	_	_	_	_	_	_
 8	numerosa	_	ADJ	_	_	_	_	_	_
 9	adadu	_	NOUN	_	_	_	_	_	_
 10	nephros	_	NOUN	_	_	_	_	_	_
@@ -12542,7 +12542,7 @@
 # text = deus et hic colitur a Syris
 1	deus	_	NOUN	_	_	_	_	_	_
 2	et	_	ADV	_	_	_	_	_	_
-3	hic	_	DET	_	_	_	_	_	_
+3	hic	_	ADV	_	_	_	_	_	_
 4	colitur	_	VERB	_	_	_	_	_	_
 5	a	_	ADP	_	_	_	_	_	_
 6	Syris	_	PROPN	_	_	_	_	_	_
@@ -12569,11 +12569,11 @@
 # text = carcinias marini cancri colore echitis uiperae scorpitis scorpionis aut colore aut effigie scaritis scari piscis triglitis mulli aegophthalmos caprino oculo item alia suillo et a gruis collo geranitis hieracitis ab accipitris aetitis a colore aquilae candicante cauda
 1	carcinias	_	NOUN	_	_	_	_	_	_
 2	marini	_	ADJ	_	_	_	_	_	_
-3	cancri	_	ADJ	_	_	_	_	_	_
+3	cancri	_	NOUN	_	_	_	_	_	_
 4	colore	_	NOUN	_	_	_	_	_	_
 5	echitis	_	NOUN	_	_	_	_	_	_
-6	uiperae	_	ADJ	_	_	_	_	_	_
-7	scorpitis	_	NOUN	_	_	_	_	_	_
+6	uiperae	_	NOUN	_	_	_	_	_	_
+7	scorpitis	_	VERB	_	_	_	_	_	_
 8	scorpionis	_	NOUN	_	_	_	_	_	_
 9	aut	_	CCONJ	_	_	_	_	_	_
 10	colore	_	NOUN	_	_	_	_	_	_
@@ -12583,7 +12583,7 @@
 14	scari	_	NOUN	_	_	_	_	_	_
 15	piscis	_	NOUN	_	_	_	_	_	_
 16	triglitis	_	NOUN	_	_	_	_	_	_
-17	mulli	_	ADJ	_	_	_	_	_	_
+17	mulli	_	NOUN	_	_	_	_	_	_
 18	aegophthalmos	_	NOUN	_	_	_	_	_	_
 19	caprino	_	ADJ	_	_	_	_	_	_
 20	oculo	_	NOUN	_	_	_	_	_	_
@@ -12592,10 +12592,10 @@
 23	suillo	_	NOUN	_	_	_	_	_	_
 24	et	_	CCONJ	_	_	_	_	_	_
 25	a	_	ADP	_	_	_	_	_	_
-26	gruis	_	NOUN	_	_	_	_	_	_
+26	gruis	_	ADJ	_	_	_	_	_	_
 27	collo	_	NOUN	_	_	_	_	_	_
-28	geranitis	_	ADJ	_	_	_	_	_	_
-29	hieracitis	_	VERB	_	_	_	_	_	_
+28	geranitis	_	NOUN	_	_	_	_	_	_
+29	hieracitis	_	NOUN	_	_	_	_	_	_
 30	ab	_	ADP	_	_	_	_	_	_
 31	accipitris	_	NOUN	_	_	_	_	_	_
 32	aetitis	_	VERB	_	_	_	_	_	_
@@ -12607,9 +12607,9 @@
 
 # sent_id = PliNH37-R-ef-758
 # text = myrmecitis innatam formicae repentis effigiem habet scarabaeorum cantharias
-1	myrmecitis	_	VERB	_	_	_	_	_	_
+1	myrmecitis	_	NOUN	_	_	_	_	_	_
 2	innatam	_	ADJ	_	_	_	_	_	_
-3	formicae	_	NOUN	_	_	_	_	_	_
+3	formicae	_	ADJ	_	_	_	_	_	_
 4	repentis	_	NOUN	_	_	_	_	_	_
 5	effigiem	_	NOUN	_	_	_	_	_	_
 6	habet	_	VERB	_	_	_	_	_	_
@@ -12622,14 +12622,14 @@
 2	quattuor	_	NUM	_	_	_	_	_	_
 3	colorum	_	NOUN	_	_	_	_	_	_
 4	est	_	AUX	_	_	_	_	_	_
-5	rutila	_	ADJ	_	_	_	_	_	_
+5	rutila	_	NOUN	_	_	_	_	_	_
 6	sanguinea	_	ADJ	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-760
 # text = media nigrum candido cingit ut luporum oculi
 1	media	_	ADJ	_	_	_	_	_	_
-2	nigrum	_	ADJ	_	_	_	_	_	_
-3	candido	_	ADJ	_	_	_	_	_	_
+2	nigrum	_	NOUN	_	_	_	_	_	_
+3	candido	_	NOUN	_	_	_	_	_	_
 4	cingit	_	VERB	_	_	_	_	_	_
 5	ut	_	SCONJ	_	_	_	_	_	_
 6	luporum	_	NOUN	_	_	_	_	_	_
@@ -12647,7 +12647,7 @@
 8	quam	_	SCONJ	_	_	_	_	_	_
 9	uocari	_	VERB	_	_	_	_	_	_
 10	timictoniam	_	NOUN	_	_	_	_	_	_
-11	inuenio	_	VERB	_	_	_	_	_	_
+11	inuenio	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-762
 # text = rerum similitudo est in ammochryso uelut auro harenis mixto cenchrite sparsis milii granis dryite truncis arborum
@@ -12682,13 +12682,13 @@
 2	in	_	ADP	_	_	_	_	_	_
 3	candido	_	NOUN	_	_	_	_	_	_
 4	perlucet	_	VERB	_	_	_	_	_	_
-5	hederae	_	ADJ	_	_	_	_	_	_
+5	hederae	_	NOUN	_	_	_	_	_	_
 6	foliis	_	NOUN	_	_	_	_	_	_
 7	quae	_	PRON	_	_	_	_	_	_
 8	totam	_	DET	_	_	_	_	_	_
 9	tenent	_	VERB	_	_	_	_	_	_
 10	narcissitim	_	ADV	_	_	_	_	_	_
-11	uenis	_	VERB	_	_	_	_	_	_
+11	uenis	_	NOUN	_	_	_	_	_	_
 12	etiam	_	ADV	_	_	_	_	_	_
 13	cetera	_	NOUN	_	_	_	_	_	_
 14	distinctam	_	VERB	_	_	_	_	_	_
@@ -12747,7 +12747,7 @@
 13	ignes	_	NOUN	_	_	_	_	_	_
 14	etiam	_	ADV	_	_	_	_	_	_
 15	additae	_	VERB	_	_	_	_	_	_
-16	manere	_	NOUN	_	_	_	_	_	_
+16	manere	_	VERB	_	_	_	_	_	_
 17	suum	_	DET	_	_	_	_	_	_
 18	frigus	_	NOUN	_	_	_	_	_	_
 
@@ -12814,14 +12814,14 @@
 7	ut	_	SCONJ	_	_	_	_	_	_
 8	in	_	ADP	_	_	_	_	_	_
 9	ouis	_	NOUN	_	_	_	_	_	_
-10	liquor	_	NOUN	_	_	_	_	_	_
+10	liquor	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-775
 # text = polythrix in uiridi capillaturam ostendit sed defluuia comarum facere dicitur
 1	polythrix	_	NOUN	_	_	_	_	_	_
 2	in	_	ADP	_	_	_	_	_	_
-3	uiridi	_	ADJ	_	_	_	_	_	_
-4	capillaturam	_	NOUN	_	_	_	_	_	_
+3	uiridi	_	NOUN	_	_	_	_	_	_
+4	capillaturam	_	VERB	_	_	_	_	_	_
 5	ostendit	_	VERB	_	_	_	_	_	_
 6	sed	_	CCONJ	_	_	_	_	_	_
 7	defluuia	_	NOUN	_	_	_	_	_	_
@@ -12847,8 +12847,8 @@
 2	appellauit	_	VERB	_	_	_	_	_	_
 3	drosolithum	_	NOUN	_	_	_	_	_	_
 4	herbaceus	_	ADJ	_	_	_	_	_	_
-5	melichrum	_	ADJ	_	_	_	_	_	_
-6	melleus	_	NOUN	_	_	_	_	_	_
+5	melichrum	_	NOUN	_	_	_	_	_	_
+6	melleus	_	ADJ	_	_	_	_	_	_
 7	cuius	_	PRON	_	_	_	_	_	_
 8	plura	_	ADJ	_	_	_	_	_	_
 9	genera	_	NOUN	_	_	_	_	_	_
@@ -12857,10 +12857,10 @@
 12	parte	_	NOUN	_	_	_	_	_	_
 13	flauus	_	ADJ	_	_	_	_	_	_
 14	parte	_	NOUN	_	_	_	_	_	_
-15	melleus	_	NOUN	_	_	_	_	_	_
+15	melleus	_	ADJ	_	_	_	_	_	_
 16	crocian	_	ADJ	_	_	_	_	_	_
 17	croci	_	NOUN	_	_	_	_	_	_
-18	polian	_	NOUN	_	_	_	_	_	_
+18	polian	_	ADJ	_	_	_	_	_	_
 19	canitiei	_	NOUN	_	_	_	_	_	_
 20	similitudinem	_	NOUN	_	_	_	_	_	_
 21	quandam	_	DET	_	_	_	_	_	_
@@ -12872,7 +12872,7 @@
 
 # sent_id = PliNH37-R-ef-778
 # text = rhoditis rosae est melitis mali coloris chalcitis aeris sycitis fici bostrychitis in nigro ramosa candidis uel sanguineis frondibus chernitis uelut in petra candidis manibus inter se complexis
-1	rhoditis	_	NOUN	_	_	_	_	_	_
+1	rhoditis	_	VERB	_	_	_	_	_	_
 2	rosae	_	NOUN	_	_	_	_	_	_
 3	est	_	AUX	_	_	_	_	_	_
 4	melitis	_	NOUN	_	_	_	_	_	_
@@ -12885,7 +12885,7 @@
 11	bostrychitis	_	NOUN	_	_	_	_	_	_
 12	in	_	ADP	_	_	_	_	_	_
 13	nigro	_	NOUN	_	_	_	_	_	_
-14	ramosa	_	ADJ	_	_	_	_	_	_
+14	ramosa	_	NOUN	_	_	_	_	_	_
 15	candidis	_	NOUN	_	_	_	_	_	_
 16	uel	_	CCONJ	_	_	_	_	_	_
 17	sanguineis	_	NOUN	_	_	_	_	_	_
@@ -12894,7 +12894,7 @@
 20	uelut	_	SCONJ	_	_	_	_	_	_
 21	in	_	ADP	_	_	_	_	_	_
 22	petra	_	NOUN	_	_	_	_	_	_
-23	candidis	_	ADJ	_	_	_	_	_	_
+23	candidis	_	NOUN	_	_	_	_	_	_
 24	manibus	_	NOUN	_	_	_	_	_	_
 25	inter	_	ADP	_	_	_	_	_	_
 26	se	_	PRON	_	_	_	_	_	_
@@ -12921,7 +12921,7 @@
 17	arbore	_	NOUN	_	_	_	_	_	_
 18	quae	_	PRON	_	_	_	_	_	_
 19	caedatur	_	VERB	_	_	_	_	_	_
-20	securium	_	ADJ	_	_	_	_	_	_
+20	securium	_	NOUN	_	_	_	_	_	_
 21	aciem	_	NOUN	_	_	_	_	_	_
 22	non	_	PART	_	_	_	_	_	_
 23	hebetari	_	VERB	_	_	_	_	_	_
@@ -13002,7 +13002,7 @@
 12	ingentibus	_	ADJ	_	_	_	_	_	_
 13	glaebis	_	NOUN	_	_	_	_	_	_
 14	quae	_	PRON	_	_	_	_	_	_
-15	melle	_	ADV	_	_	_	_	_	_
+15	melle	_	VERB	_	_	_	_	_	_
 16	excoqui	_	VERB	_	_	_	_	_	_
 17	tradunt	_	VERB	_	_	_	_	_	_
 18	septenis	_	ADJ	_	_	_	_	_	_
@@ -13060,7 +13060,7 @@
 2	alias	_	DET	_	_	_	_	_	_
 3	omnes	_	DET	_	_	_	_	_	_
 4	gemmae	_	NOUN	_	_	_	_	_	_
-5	mellis	_	ADJ	_	_	_	_	_	_
+5	mellis	_	NOUN	_	_	_	_	_	_
 6	decoctu	_	NOUN	_	_	_	_	_	_
 7	nitescunt	_	VERB	_	_	_	_	_	_
 8	praecipue	_	ADV	_	_	_	_	_	_
@@ -13086,7 +13086,7 @@
 10	contingit	_	VERB	_	_	_	_	_	_
 11	ut	_	SCONJ	_	_	_	_	_	_
 12	que	_	CCONJ	_	_	_	_	_	_
-13	eaedem	_	PRON	_	_	_	_	_	_
+13	eaedem	_	ADV	_	_	_	_	_	_
 14	nomen	_	NOUN	_	_	_	_	_	_
 15	usitatum	_	NOUN	_	_	_	_	_	_
 16	non	_	PART	_	_	_	_	_	_
@@ -13124,7 +13124,7 @@
 19	uero	_	CCONJ	_	_	_	_	_	_
 20	etiam	_	ADV	_	_	_	_	_	_
 21	plebeis	_	NOUN	_	_	_	_	_	_
-22	rariorum	_	ADJ	_	_	_	_	_	_
+22	rariorum	_	NOUN	_	_	_	_	_	_
 23	genera	_	NOUN	_	_	_	_	_	_
 24	digna	_	ADJ	_	_	_	_	_	_
 25	dictu	_	NOUN	_	_	_	_	_	_
@@ -13174,7 +13174,7 @@
 
 # sent_id = PliNH37-R-ef-790
 # text = cauae aut extuberantes uiliores uidentur aequalibus
-1	cauae	_	ADJ	_	_	_	_	_	_
+1	cauae	_	NOUN	_	_	_	_	_	_
 2	aut	_	CCONJ	_	_	_	_	_	_
 3	extuberantes	_	VERB	_	_	_	_	_	_
 4	uiliores	_	ADJ	_	_	_	_	_	_
@@ -13213,7 +13213,7 @@
 9	inuentum	_	VERB	_	_	_	_	_	_
 10	sit	_	AUX	_	_	_	_	_	_
 11	ex	_	ADP	_	_	_	_	_	_
-12	ueris	_	ADJ	_	_	_	_	_	_
+12	ueris	_	NOUN	_	_	_	_	_	_
 13	generis	_	NOUN	_	_	_	_	_	_
 14	alterius	_	DET	_	_	_	_	_	_
 15	in	_	ADP	_	_	_	_	_	_
@@ -13263,7 +13263,7 @@
 14	crystallo	_	NOUN	_	_	_	_	_	_
 15	smaragdum	_	NOUN	_	_	_	_	_	_
 16	tinguant	_	VERB	_	_	_	_	_	_
-17	alias	_	DET	_	_	_	_	_	_
+17	alias	_	ADV	_	_	_	_	_	_
 18	que	_	CCONJ	_	_	_	_	_	_
 19	tralucentes	_	VERB	_	_	_	_	_	_
 20	sardonychem	_	NOUN	_	_	_	_	_	_
@@ -13290,7 +13290,7 @@
 2	contra	_	ADP	_	_	_	_	_	_
 3	rationem	_	NOUN	_	_	_	_	_	_
 4	deprendendi	_	VERB	_	_	_	_	_	_
-5	falsas	_	ADJ	_	_	_	_	_	_
+5	falsas	_	NOUN	_	_	_	_	_	_
 6	demonstrabimus	_	VERB	_	_	_	_	_	_
 7	quando	_	SCONJ	_	_	_	_	_	_
 8	etiam	_	ADV	_	_	_	_	_	_
@@ -13313,7 +13313,7 @@
 9	priuatim	_	ADV	_	_	_	_	_	_
 10	diximus	_	VERB	_	_	_	_	_	_
 11	tralucentes	_	VERB	_	_	_	_	_	_
-12	matutino	_	NOUN	_	_	_	_	_	_
+12	matutino	_	ADV	_	_	_	_	_	_
 13	probari	_	VERB	_	_	_	_	_	_
 14	censent	_	VERB	_	_	_	_	_	_
 15	aut	_	CCONJ	_	_	_	_	_	_
@@ -13331,25 +13331,25 @@
 
 # sent_id = PliNH37-R-ef-798
 # text = experimenta pluribus modis constant
-1	experimenta	_	NOUN	_	_	_	_	_	_
+1	experimenta	_	VERB	_	_	_	_	_	_
 2	pluribus	_	ADJ	_	_	_	_	_	_
 3	modis	_	NOUN	_	_	_	_	_	_
 4	constant	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-799
 # text = primum pondere grauiores enim sunt uerae
-1	primum	_	ADJ	_	_	_	_	_	_
+1	primum	_	ADV	_	_	_	_	_	_
 2	pondere	_	NOUN	_	_	_	_	_	_
 3	grauiores	_	ADJ	_	_	_	_	_	_
 4	enim	_	PART	_	_	_	_	_	_
 5	sunt	_	AUX	_	_	_	_	_	_
-6	uerae	_	ADJ	_	_	_	_	_	_
+6	uerae	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-800
 # text = dein frigore eaedem namque in ore gelidiores sentiuntur
 1	dein	_	ADV	_	_	_	_	_	_
 2	frigore	_	NOUN	_	_	_	_	_	_
-3	eaedem	_	VERB	_	_	_	_	_	_
+3	eaedem	_	NOUN	_	_	_	_	_	_
 4	namque	_	PART	_	_	_	_	_	_
 5	in	_	ADP	_	_	_	_	_	_
 6	ore	_	NOUN	_	_	_	_	_	_
@@ -13365,7 +13365,7 @@
 # sent_id = PliNH37-R-ef-802
 # text = ficticiis pusula e profundo apparet scabritia in cute et capillamenta fulgoris inconstantia priusquam ad oculos perueniat desinens nitor
 1	ficticiis	_	NOUN	_	_	_	_	_	_
-2	pusula	_	NOUN	_	_	_	_	_	_
+2	pusula	_	ADJ	_	_	_	_	_	_
 3	e	_	ADP	_	_	_	_	_	_
 4	profundo	_	NOUN	_	_	_	_	_	_
 5	apparet	_	VERB	_	_	_	_	_	_
@@ -13440,16 +13440,16 @@
 # sent_id = PliNH37-R-ef-806
 # text = plurimum uero in iis terebrarum proficit feruor
 1	plurimum	_	ADJ	_	_	_	_	_	_
-2	uero	_	ADV	_	_	_	_	_	_
+2	uero	_	CCONJ	_	_	_	_	_	_
 3	in	_	ADP	_	_	_	_	_	_
 4	iis	_	PRON	_	_	_	_	_	_
 5	terebrarum	_	NOUN	_	_	_	_	_	_
 6	proficit	_	VERB	_	_	_	_	_	_
-7	feruor	_	ADJ	_	_	_	_	_	_
+7	feruor	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-807
 # text = gemmiferi amnes sunt Acesinus et Ganges terrarum autem omnium maxime India
-1	gemmiferi	_	ADJ	_	_	_	_	_	_
+1	gemmiferi	_	NOUN	_	_	_	_	_	_
 2	amnes	_	NOUN	_	_	_	_	_	_
 3	sunt	_	AUX	_	_	_	_	_	_
 4	Acesinus	_	PROPN	_	_	_	_	_	_
@@ -13483,7 +13483,7 @@
 2	in	_	ADP	_	_	_	_	_	_
 3	toto	_	DET	_	_	_	_	_	_
 4	orbe	_	NOUN	_	_	_	_	_	_
-5	quacumque	_	SCONJ	_	_	_	_	_	_
+5	quacumque	_	DET	_	_	_	_	_	_
 6	caeli	_	NOUN	_	_	_	_	_	_
 7	conuexitas	_	NOUN	_	_	_	_	_	_
 8	uergit	_	VERB	_	_	_	_	_	_
@@ -13493,13 +13493,13 @@
 12	iis	_	PRON	_	_	_	_	_	_
 13	rebus	_	NOUN	_	_	_	_	_	_
 14	quae	_	PRON	_	_	_	_	_	_
-15	merito	_	NOUN	_	_	_	_	_	_
+15	merito	_	ADV	_	_	_	_	_	_
 16	principatum	_	NOUN	_	_	_	_	_	_
 17	naturae	_	NOUN	_	_	_	_	_	_
 18	optinent	_	VERB	_	_	_	_	_	_
 19	Italia	_	PROPN	_	_	_	_	_	_
 20	rectrix	_	ADJ	_	_	_	_	_	_
-21	parens	_	NOUN	_	_	_	_	_	_
+21	parens	_	ADJ	_	_	_	_	_	_
 22	que	_	CCONJ	_	_	_	_	_	_
 23	mundi	_	NOUN	_	_	_	_	_	_
 24	altera	_	DET	_	_	_	_	_	_
@@ -13578,7 +13578,7 @@
 3	oleum	_	NOUN	_	_	_	_	_	_
 4	uellera	_	ADJ	_	_	_	_	_	_
 5	lina	_	NOUN	_	_	_	_	_	_
-6	uestes	_	NOUN	_	_	_	_	_	_
+6	uestes	_	VERB	_	_	_	_	_	_
 7	iuuenci	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-813
@@ -13587,7 +13587,7 @@
 2	equos	_	NOUN	_	_	_	_	_	_
 3	quidem	_	PART	_	_	_	_	_	_
 4	in	_	ADP	_	_	_	_	_	_
-5	trigariis	_	NOUN	_	_	_	_	_	_
+5	trigariis	_	ADJ	_	_	_	_	_	_
 6	ullos	_	DET	_	_	_	_	_	_
 7	uernaculis	_	NOUN	_	_	_	_	_	_
 8	praeferunt	_	VERB	_	_	_	_	_	_
@@ -13598,7 +13598,7 @@
 2	auri	_	NOUN	_	_	_	_	_	_
 3	argenti	_	NOUN	_	_	_	_	_	_
 4	aeris	_	NOUN	_	_	_	_	_	_
-5	ferri	_	VERB	_	_	_	_	_	_
+5	ferri	_	NOUN	_	_	_	_	_	_
 6	quamdiu	_	SCONJ	_	_	_	_	_	_
 7	licuit	_	VERB	_	_	_	_	_	_
 8	exercere	_	VERB	_	_	_	_	_	_
@@ -13613,7 +13613,7 @@
 17	pro	_	ADP	_	_	_	_	_	_
 18	omni	_	DET	_	_	_	_	_	_
 19	dote	_	NOUN	_	_	_	_	_	_
-20	uarios	_	ADJ	_	_	_	_	_	_
+20	uarios	_	NOUN	_	_	_	_	_	_
 21	sucos	_	NOUN	_	_	_	_	_	_
 22	et	_	CCONJ	_	_	_	_	_	_
 23	frugum	_	NOUN	_	_	_	_	_	_
@@ -13640,10 +13640,10 @@
 14	squalidam	_	ADJ	_	_	_	_	_	_
 15	ex	_	ADP	_	_	_	_	_	_
 16	parte	_	NOUN	_	_	_	_	_	_
-17	uerum	_	NOUN	_	_	_	_	_	_
+17	uerum	_	CCONJ	_	_	_	_	_	_
 18	ubi	_	SCONJ	_	_	_	_	_	_
 19	gignit	_	VERB	_	_	_	_	_	_
-20	feracem	_	ADJ	_	_	_	_	_	_
+20	feracem	_	NOUN	_	_	_	_	_	_
 21	frugum	_	NOUN	_	_	_	_	_	_
 22	olei	_	NOUN	_	_	_	_	_	_
 23	uini	_	NOUN	_	_	_	_	_	_
@@ -13698,10 +13698,10 @@
 # text = extra tellurem crystallis intra adamanti smaragdis gemmis myrrinis
 1	extra	_	ADP	_	_	_	_	_	_
 2	tellurem	_	NOUN	_	_	_	_	_	_
-3	crystallis	_	ADJ	_	_	_	_	_	_
+3	crystallis	_	NOUN	_	_	_	_	_	_
 4	intra	_	ADP	_	_	_	_	_	_
 5	adamanti	_	VERB	_	_	_	_	_	_
-6	smaragdis	_	ADJ	_	_	_	_	_	_
+6	smaragdis	_	NOUN	_	_	_	_	_	_
 7	gemmis	_	NOUN	_	_	_	_	_	_
 8	myrrinis	_	NOUN	_	_	_	_	_	_
 
@@ -13713,7 +13713,7 @@
 4	exeuntibus	_	VERB	_	_	_	_	_	_
 5	in	_	ADP	_	_	_	_	_	_
 6	cocco	_	NOUN	_	_	_	_	_	_
-7	lasere	_	NOUN	_	_	_	_	_	_
+7	lasere	_	VERB	_	_	_	_	_	_
 8	in	_	ADP	_	_	_	_	_	_
 9	fronde	_	NOUN	_	_	_	_	_	_
 10	nardo	_	NOUN	_	_	_	_	_	_
@@ -13724,7 +13724,7 @@
 15	citro	_	ADV	_	_	_	_	_	_
 16	in	_	ADP	_	_	_	_	_	_
 17	frutice	_	NOUN	_	_	_	_	_	_
-18	cinnamo	_	ADJ	_	_	_	_	_	_
+18	cinnamo	_	NOUN	_	_	_	_	_	_
 19	casia	_	NOUN	_	_	_	_	_	_
 20	amomo	_	NOUN	_	_	_	_	_	_
 21	arboris	_	NOUN	_	_	_	_	_	_
@@ -13733,8 +13733,8 @@
 24	suco	_	NOUN	_	_	_	_	_	_
 25	in	_	ADP	_	_	_	_	_	_
 26	sucino	_	NOUN	_	_	_	_	_	_
-27	opobalsamo	_	NOUN	_	_	_	_	_	_
-28	murra	_	NOUN	_	_	_	_	_	_
+27	opobalsamo	_	ADJ	_	_	_	_	_	_
+28	murra	_	ADJ	_	_	_	_	_	_
 29	ture	_	NOUN	_	_	_	_	_	_
 30	in	_	ADP	_	_	_	_	_	_
 31	radicibus	_	NOUN	_	_	_	_	_	_
@@ -13751,12 +13751,12 @@
 7	in	_	ADP	_	_	_	_	_	_
 8	terra	_	NOUN	_	_	_	_	_	_
 9	maximum	_	ADJ	_	_	_	_	_	_
-10	dentibus	_	NOUN	_	_	_	_	_	_
+10	dentibus	_	VERB	_	_	_	_	_	_
 11	elephantorum	_	NOUN	_	_	_	_	_	_
 12	in	_	ADP	_	_	_	_	_	_
 13	mari	_	NOUN	_	_	_	_	_	_
 14	testudinum	_	NOUN	_	_	_	_	_	_
-15	cortici	_	VERB	_	_	_	_	_	_
+15	cortici	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-821
 # text = in tergore pellibus quas Seres inficiunt et Arabiae caprarum uillo quod ladanum uocauimus
@@ -13770,8 +13770,8 @@
 8	Arabiae	_	PROPN	_	_	_	_	_	_
 9	caprarum	_	NOUN	_	_	_	_	_	_
 10	uillo	_	NOUN	_	_	_	_	_	_
-11	quod	_	SCONJ	_	_	_	_	_	_
-12	ladanum	_	NOUN	_	_	_	_	_	_
+11	quod	_	PRON	_	_	_	_	_	_
+12	ladanum	_	VERB	_	_	_	_	_	_
 13	uocauimus	_	VERB	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-822
@@ -13783,7 +13783,7 @@
 5	et	_	CCONJ	_	_	_	_	_	_
 6	maris	_	NOUN	_	_	_	_	_	_
 7	conchyliis	_	NOUN	_	_	_	_	_	_
-8	purpurae	_	ADJ	_	_	_	_	_	_
+8	purpurae	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-823
 # text = uolucrum naturae praeter conos bellicos et Commagenum anserum adipem nullum adnotatur insigne
@@ -13794,11 +13794,11 @@
 5	bellicos	_	ADJ	_	_	_	_	_	_
 6	et	_	CCONJ	_	_	_	_	_	_
 7	Commagenum	_	PROPN	_	_	_	_	_	_
-8	anserum	_	ADJ	_	_	_	_	_	_
-9	adipem	_	ADJ	_	_	_	_	_	_
+8	anserum	_	NOUN	_	_	_	_	_	_
+9	adipem	_	NOUN	_	_	_	_	_	_
 10	nullum	_	DET	_	_	_	_	_	_
 11	adnotatur	_	VERB	_	_	_	_	_	_
-12	insigne	_	ADJ	_	_	_	_	_	_
+12	insigne	_	NOUN	_	_	_	_	_	_
 
 # sent_id = PliNH37-R-ef-824
 # text = non praetereundum est auro circa quod omnes mortales insaniunt decumum uix esse in pretio locum argento uero quo aurum emitur paene uicensimum
@@ -13811,7 +13811,7 @@
 7	omnes	_	DET	_	_	_	_	_	_
 8	mortales	_	NOUN	_	_	_	_	_	_
 9	insaniunt	_	VERB	_	_	_	_	_	_
-10	decumum	_	ADJ	_	_	_	_	_	_
+10	decumum	_	NOUN	_	_	_	_	_	_
 11	uix	_	ADV	_	_	_	_	_	_
 12	esse	_	AUX	_	_	_	_	_	_
 13	in	_	ADP	_	_	_	_	_	_

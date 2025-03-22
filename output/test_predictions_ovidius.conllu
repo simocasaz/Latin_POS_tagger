@@ -20,7 +20,7 @@
 17	redimitus	_	VERB	_	_	_	_	_	_
 18	harundine	_	NOUN	_	_	_	_	_	_
 19	crines	_	NOUN	_	_	_	_	_	_
-20	triste	_	ADV	_	_	_	_	_	_
+20	triste	_	ADJ	_	_	_	_	_	_
 21	petis	_	VERB	_	_	_	_	_	_
 22	munus	_	NOUN	_	_	_	_	_	_
 
@@ -33,7 +33,7 @@
 5	uictus	_	VERB	_	_	_	_	_	_
 6	commemorare	_	VERB	_	_	_	_	_	_
 7	uelit	_	VERB	_	_	_	_	_	_
-8	referam	_	VERB	_	_	_	_	_	_
+8	referam	_	ADJ	_	_	_	_	_	_
 9	tamen	_	ADV	_	_	_	_	_	_
 10	ordine	_	NOUN	_	_	_	_	_	_
 11	nec	_	CCONJ	_	_	_	_	_	_
@@ -70,7 +70,7 @@
 12	pulcherrima	_	ADJ	_	_	_	_	_	_
 13	uirgo	_	NOUN	_	_	_	_	_	_
 14-15	multorumque	_	_	_	_	_	_	_	_
-14	multorum	_	ADJ	_	_	_	_	_	_
+14	multorum	_	NOUN	_	_	_	_	_	_
 15	que	_	CCONJ	_	_	_	_	_	_
 16	fuit	_	AUX	_	_	_	_	_	_
 17	spes	_	NOUN	_	_	_	_	_	_
@@ -82,7 +82,7 @@
 1	cum	_	ADP	_	_	_	_	_	_
 2	quibus	_	PRON	_	_	_	_	_	_
 3	ut	_	SCONJ	_	_	_	_	_	_
-4	soceri	_	NOUN	_	_	_	_	_	_
+4	soceri	_	ADJ	_	_	_	_	_	_
 5	domus	_	NOUN	_	_	_	_	_	_
 6	est	_	AUX	_	_	_	_	_	_
 7	intrata	_	VERB	_	_	_	_	_	_
@@ -94,7 +94,7 @@
 13	Parthaone	_	PROPN	_	_	_	_	_	_
 14	nate	_	VERB	_	_	_	_	_	_
 15	dixit	_	VERB	_	_	_	_	_	_
-16	et	_	ADV	_	_	_	_	_	_
+16	et	_	CCONJ	_	_	_	_	_	_
 17	Alcides	_	PROPN	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-393
@@ -161,13 +161,13 @@
 12	et	_	CCONJ	_	_	_	_	_	_
 13	rerum	_	NOUN	_	_	_	_	_	_
 14	pars	_	NOUN	_	_	_	_	_	_
-15	una	_	ADV	_	_	_	_	_	_
+15	una	_	NUM	_	_	_	_	_	_
 16	tuarum	_	DET	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-397
 # text = tantum ne noceat quod me nec regia Iuno odit et omnis abest iussorum poena laborum
 1	tantum	_	ADV	_	_	_	_	_	_
-2	ne	_	PART	_	_	_	_	_	_
+2	ne	_	SCONJ	_	_	_	_	_	_
 3	noceat	_	VERB	_	_	_	_	_	_
 4	quod	_	SCONJ	_	_	_	_	_	_
 5	me	_	PRON	_	_	_	_	_	_
@@ -248,7 +248,7 @@
 # text = dummodo pugnando superem tu uince loquendo congrediturque ferox
 1	dummodo	_	ADV	_	_	_	_	_	_
 2	pugnando	_	VERB	_	_	_	_	_	_
-3	superem	_	VERB	_	_	_	_	_	_
+3	superem	_	ADV	_	_	_	_	_	_
 4	tu	_	PRON	_	_	_	_	_	_
 5	uince	_	NOUN	_	_	_	_	_	_
 6	loquendo	_	VERB	_	_	_	_	_	_
@@ -265,7 +265,7 @@
 4	locutum	_	NOUN	_	_	_	_	_	_
 5	cedere	_	VERB	_	_	_	_	_	_
 6	reieci	_	VERB	_	_	_	_	_	_
-7	uiridem	_	ADJ	_	_	_	_	_	_
+7	uiridem	_	NOUN	_	_	_	_	_	_
 8	de	_	ADP	_	_	_	_	_	_
 9	corpore	_	NOUN	_	_	_	_	_	_
 10	uestem	_	NOUN	_	_	_	_	_	_
@@ -278,7 +278,7 @@
 15	que	_	CCONJ	_	_	_	_	_	_
 16	a	_	ADP	_	_	_	_	_	_
 17	pectore	_	NOUN	_	_	_	_	_	_
-18	uaras	_	ADJ	_	_	_	_	_	_
+18	uaras	_	VERB	_	_	_	_	_	_
 19	in	_	ADP	_	_	_	_	_	_
 20	statione	_	NOUN	_	_	_	_	_	_
 21	manus	_	NOUN	_	_	_	_	_	_
@@ -291,7 +291,7 @@
 # text = ille cauis hausto spargit me puluere palmis inque uicem fuluae tactu flauescit harenae
 1	ille	_	DET	_	_	_	_	_	_
 2	cauis	_	NOUN	_	_	_	_	_	_
-3	hausto	_	NOUN	_	_	_	_	_	_
+3	hausto	_	VERB	_	_	_	_	_	_
 4	spargit	_	VERB	_	_	_	_	_	_
 5	me	_	PRON	_	_	_	_	_	_
 6	puluere	_	NOUN	_	_	_	_	_	_
@@ -313,7 +313,7 @@
 4	modo	_	ADV	_	_	_	_	_	_
 5	crura	_	NOUN	_	_	_	_	_	_
 6	modo	_	ADV	_	_	_	_	_	_
-7	ilia	_	DET	_	_	_	_	_	_
+7	ilia	_	PRON	_	_	_	_	_	_
 8	captat	_	VERB	_	_	_	_	_	_
 9	aut	_	CCONJ	_	_	_	_	_	_
 10	captare	_	VERB	_	_	_	_	_	_
@@ -367,14 +367,14 @@
 8	in	_	ADP	_	_	_	_	_	_
 9	que	_	CCONJ	_	_	_	_	_	_
 10	gradu	_	NOUN	_	_	_	_	_	_
-11	stetimus	_	VERB	_	_	_	_	_	_
+11	stetimus	_	ADJ	_	_	_	_	_	_
 12	certi	_	ADJ	_	_	_	_	_	_
 13	non	_	PART	_	_	_	_	_	_
 14	cedere	_	VERB	_	_	_	_	_	_
 15-16	eratque	_	_	_	_	_	_	_	_
 15	erat	_	AUX	_	_	_	_	_	_
 16	que	_	CCONJ	_	_	_	_	_	_
-17	cum	_	ADP	_	_	_	_	_	_
+17	cum	_	SCONJ	_	_	_	_	_	_
 18	pede	_	NOUN	_	_	_	_	_	_
 19	pes	_	NOUN	_	_	_	_	_	_
 20	iunctus	_	VERB	_	_	_	_	_	_
@@ -385,7 +385,7 @@
 24	pectore	_	NOUN	_	_	_	_	_	_
 25	pronus	_	ADJ	_	_	_	_	_	_
 26	et	_	CCONJ	_	_	_	_	_	_
-27	digitos	_	NOUN	_	_	_	_	_	_
+27	digitos	_	ADJ	_	_	_	_	_	_
 28	digitis	_	NOUN	_	_	_	_	_	_
 29	et	_	CCONJ	_	_	_	_	_	_
 30	frontem	_	NOUN	_	_	_	_	_	_
@@ -422,11 +422,11 @@
 
 # sent_id = OvMETAM071114-M-ET-409
 # text = ter sine profectu uoluit nitentia contra reicere Alcides a se mea pectora quarto excutit amplexus adductaque bracchia soluit inpulsumque manu certum est mihi uera fateri protinus auertit tergoque onerosus inhaesit
-1	ter	_	ADJ	_	_	_	_	_	_
+1	ter	_	ADV	_	_	_	_	_	_
 2	sine	_	ADP	_	_	_	_	_	_
 3	profectu	_	NOUN	_	_	_	_	_	_
 4	uoluit	_	VERB	_	_	_	_	_	_
-5	nitentia	_	VERB	_	_	_	_	_	_
+5	nitentia	_	NOUN	_	_	_	_	_	_
 6	contra	_	ADV	_	_	_	_	_	_
 7	reicere	_	VERB	_	_	_	_	_	_
 8	Alcides	_	PROPN	_	_	_	_	_	_
@@ -449,7 +449,7 @@
 23	certum	_	ADJ	_	_	_	_	_	_
 24	est	_	AUX	_	_	_	_	_	_
 25	mihi	_	PRON	_	_	_	_	_	_
-26	uera	_	NOUN	_	_	_	_	_	_
+26	uera	_	ADJ	_	_	_	_	_	_
 27	fateri	_	NOUN	_	_	_	_	_	_
 28	protinus	_	ADV	_	_	_	_	_	_
 29	auertit	_	VERB	_	_	_	_	_	_
@@ -479,19 +479,19 @@
 
 # sent_id = OvMETAM071114-M-ET-411
 # text = uix tamen inserui sudore fluentia multo bracchia uix solui duros a corpore nexus
-1	uix	_	ADV	_	_	_	_	_	_
+1	uix	_	CCONJ	_	_	_	_	_	_
 2	tamen	_	ADV	_	_	_	_	_	_
 3	inserui	_	VERB	_	_	_	_	_	_
 4	sudore	_	NOUN	_	_	_	_	_	_
-5	fluentia	_	VERB	_	_	_	_	_	_
+5	fluentia	_	NOUN	_	_	_	_	_	_
 6	multo	_	ADV	_	_	_	_	_	_
 7	bracchia	_	NOUN	_	_	_	_	_	_
-8	uix	_	ADV	_	_	_	_	_	_
+8	uix	_	CCONJ	_	_	_	_	_	_
 9	solui	_	VERB	_	_	_	_	_	_
 10	duros	_	ADJ	_	_	_	_	_	_
 11	a	_	ADP	_	_	_	_	_	_
 12	corpore	_	NOUN	_	_	_	_	_	_
-13	nexus	_	NOUN	_	_	_	_	_	_
+13	nexus	_	VERB	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-412
 # text = instat anhelanti prohibetque resumere uires et ceruice mea potitur
@@ -596,7 +596,7 @@
 53	inpune	_	ADV	_	_	_	_	_	_
 54	recisum	_	VERB	_	_	_	_	_	_
 55	quin	_	SCONJ	_	_	_	_	_	_
-56	gemino	_	ADJ	_	_	_	_	_	_
+56	gemino	_	NOUN	_	_	_	_	_	_
 57	ceruix	_	NOUN	_	_	_	_	_	_
 58	herede	_	NOUN	_	_	_	_	_	_
 59	ualentior	_	ADJ	_	_	_	_	_	_
@@ -615,9 +615,9 @@
 8	crescentem	_	VERB	_	_	_	_	_	_
 9	que	_	CCONJ	_	_	_	_	_	_
 10	malo	_	NOUN	_	_	_	_	_	_
-11	domui	_	VERB	_	_	_	_	_	_
+11	domui	_	NOUN	_	_	_	_	_	_
 12-13	domitamque	_	_	_	_	_	_	_	_
-12	domitam	_	VERB	_	_	_	_	_	_
+12	domitam	_	NOUN	_	_	_	_	_	_
 13	que	_	CCONJ	_	_	_	_	_	_
 14	reclusi	_	VERB	_	_	_	_	_	_
 
@@ -651,8 +651,8 @@
 7	inicit	_	VERB	_	_	_	_	_	_
 8	angebar	_	VERB	_	_	_	_	_	_
 9	ceu	_	NOUN	_	_	_	_	_	_
-10	guttura	_	NOUN	_	_	_	_	_	_
-11	forcipe	_	ADJ	_	_	_	_	_	_
+10	guttura	_	VERB	_	_	_	_	_	_
+11	forcipe	_	ADV	_	_	_	_	_	_
 12	pressus	_	VERB	_	_	_	_	_	_
 13-14	pollicibusque	_	_	_	_	_	_	_	_
 13	pollicibus	_	NOUN	_	_	_	_	_	_
@@ -715,7 +715,7 @@
 3	hoc	_	DET	_	_	_	_	_	_
 4	fuerat	_	AUX	_	_	_	_	_	_
 5	rigidum	_	ADJ	_	_	_	_	_	_
-6	fera	_	ADJ	_	_	_	_	_	_
+6	fera	_	NOUN	_	_	_	_	_	_
 7	dextera	_	ADJ	_	_	_	_	_	_
 8	cornu	_	NOUN	_	_	_	_	_	_
 9	dum	_	SCONJ	_	_	_	_	_	_
@@ -730,7 +730,7 @@
 
 # sent_id = OvMETAM071114-M-ET-423
 # text = naides hoc pomis et odoro flore repletum sacrarunt diuesque meo Bona Copia cornu est
-1	naides	_	NOUN	_	_	_	_	_	_
+1	naides	_	VERB	_	_	_	_	_	_
 2	hoc	_	DET	_	_	_	_	_	_
 3	pomis	_	NOUN	_	_	_	_	_	_
 4	et	_	CCONJ	_	_	_	_	_	_
@@ -755,14 +755,14 @@
 4	ritu	_	NOUN	_	_	_	_	_	_
 5	succincta	_	VERB	_	_	_	_	_	_
 6	Dianae	_	PROPN	_	_	_	_	_	_
-7	una	_	ADV	_	_	_	_	_	_
+7	una	_	NUM	_	_	_	_	_	_
 8	ministrarum	_	NOUN	_	_	_	_	_	_
 9	fusis	_	VERB	_	_	_	_	_	_
 10	utrimque	_	ADV	_	_	_	_	_	_
 11	capillis	_	NOUN	_	_	_	_	_	_
 12	incessit	_	VERB	_	_	_	_	_	_
 13-14	totumque	_	_	_	_	_	_	_	_
-13	totum	_	NOUN	_	_	_	_	_	_
+13	totum	_	DET	_	_	_	_	_	_
 14	que	_	CCONJ	_	_	_	_	_	_
 15	tulit	_	VERB	_	_	_	_	_	_
 16	praediuite	_	VERB	_	_	_	_	_	_
@@ -791,11 +791,11 @@
 13	flumina	_	NOUN	_	_	_	_	_	_
 14	pacem	_	NOUN	_	_	_	_	_	_
 15	et	_	CCONJ	_	_	_	_	_	_
-16	placidos	_	NOUN	_	_	_	_	_	_
+16	placidos	_	ADJ	_	_	_	_	_	_
 17	habeant	_	VERB	_	_	_	_	_	_
 18	lapsus	_	NOUN	_	_	_	_	_	_
 19-20	totaeque	_	_	_	_	_	_	_	_
-19	totae	_	NOUN	_	_	_	_	_	_
+19	totae	_	DET	_	_	_	_	_	_
 20	que	_	CCONJ	_	_	_	_	_	_
 21	residant	_	VERB	_	_	_	_	_	_
 22	opperiuntur	_	VERB	_	_	_	_	_	_
@@ -822,7 +822,7 @@
 4	doluit	_	VERB	_	_	_	_	_	_
 5	iactura	_	NOUN	_	_	_	_	_	_
 6	decoris	_	NOUN	_	_	_	_	_	_
-7	cetera	_	NOUN	_	_	_	_	_	_
+7	cetera	_	ADJ	_	_	_	_	_	_
 8	sospes	_	NOUN	_	_	_	_	_	_
 9	habet	_	VERB	_	_	_	_	_	_
 
@@ -833,7 +833,7 @@
 3	fronde	_	NOUN	_	_	_	_	_	_
 4	saligna	_	ADJ	_	_	_	_	_	_
 5	aut	_	CCONJ	_	_	_	_	_	_
-6	superinposita	_	VERB	_	_	_	_	_	_
+6	superinposita	_	ADJ	_	_	_	_	_	_
 7	celatur	_	VERB	_	_	_	_	_	_
 8	harundine	_	NOUN	_	_	_	_	_	_
 9	damnum	_	NOUN	_	_	_	_	_	_
@@ -849,7 +849,7 @@
 7	ardor	_	NOUN	_	_	_	_	_	_
 8	perdiderat	_	VERB	_	_	_	_	_	_
 9	uolucri	_	NOUN	_	_	_	_	_	_
-10	traiectum	_	NOUN	_	_	_	_	_	_
+10	traiectum	_	VERB	_	_	_	_	_	_
 11	terga	_	NOUN	_	_	_	_	_	_
 12	sagitta	_	NOUN	_	_	_	_	_	_
 
@@ -883,7 +883,7 @@
 8	frequens	_	ADJ	_	_	_	_	_	_
 9	erat	_	AUX	_	_	_	_	_	_
 10	atque	_	CCONJ	_	_	_	_	_	_
-11	inperuius	_	ADJ	_	_	_	_	_	_
+11	inperuius	_	ADV	_	_	_	_	_	_
 12	amnis	_	NOUN	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-432
@@ -902,7 +902,7 @@
 11	que	_	CCONJ	_	_	_	_	_	_
 12	ualens	_	ADJ	_	_	_	_	_	_
 13-14	scitusque	_	_	_	_	_	_	_	_
-13	scitus	_	ADJ	_	_	_	_	_	_
+13	scitus	_	VERB	_	_	_	_	_	_
 14	que	_	CCONJ	_	_	_	_	_	_
 15	uadorum	_	NOUN	_	_	_	_	_	_
 16-17	officioque	_	_	_	_	_	_	_	_
@@ -921,7 +921,7 @@
 # text = tu uiribus utere nando
 1	tu	_	PRON	_	_	_	_	_	_
 2	uiribus	_	NOUN	_	_	_	_	_	_
-3	utere	_	ADJ	_	_	_	_	_	_
+3	utere	_	ADV	_	_	_	_	_	_
 4	nando	_	VERB	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-434
@@ -939,7 +939,7 @@
 8	timentem	_	VERB	_	_	_	_	_	_
 9	tradidit	_	VERB	_	_	_	_	_	_
 10	Aonius	_	PROPN	_	_	_	_	_	_
-11	pauidam	_	ADJ	_	_	_	_	_	_
+11	pauidam	_	NOUN	_	_	_	_	_	_
 12	Calydonida	_	PROPN	_	_	_	_	_	_
 13	Nesso	_	PROPN	_	_	_	_	_	_
 
@@ -1035,9 +1035,9 @@
 5	reuerentia	_	NOUN	_	_	_	_	_	_
 6	mouit	_	VERB	_	_	_	_	_	_
 7	at	_	CCONJ	_	_	_	_	_	_
-8	orbes	_	NOUN	_	_	_	_	_	_
+8	orbes	_	ADJ	_	_	_	_	_	_
 9	concubitus	_	NOUN	_	_	_	_	_	_
-10	uetitos	_	ADJ	_	_	_	_	_	_
+10	uetitos	_	NOUN	_	_	_	_	_	_
 11	poterant	_	VERB	_	_	_	_	_	_
 12	inhibere	_	VERB	_	_	_	_	_	_
 13	paterni	_	ADJ	_	_	_	_	_	_
@@ -1065,7 +1065,7 @@
 4	probat	_	VERB	_	_	_	_	_	_
 5	et	_	CCONJ	_	_	_	_	_	_
 6	missa	_	VERB	_	_	_	_	_	_
-7	fugientia	_	VERB	_	_	_	_	_	_
+7	fugientia	_	NOUN	_	_	_	_	_	_
 8	terga	_	NOUN	_	_	_	_	_	_
 9	sagitta	_	NOUN	_	_	_	_	_	_
 10	traicit	_	VERB	_	_	_	_	_	_
@@ -1076,11 +1076,11 @@
 2	ferrum	_	NOUN	_	_	_	_	_	_
 3	de	_	ADP	_	_	_	_	_	_
 4	pectore	_	NOUN	_	_	_	_	_	_
-5	aduncum	_	ADJ	_	_	_	_	_	_
+5	aduncum	_	VERB	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-442
 # text = quod simul euulsum est sanguis per utrumque foramen emicuit mixtus Lernaei tabe ueneni
-1	quod	_	SCONJ	_	_	_	_	_	_
+1	quod	_	PRON	_	_	_	_	_	_
 2	simul	_	ADV	_	_	_	_	_	_
 3	euulsum	_	VERB	_	_	_	_	_	_
 4	est	_	AUX	_	_	_	_	_	_
@@ -1142,15 +1142,15 @@
 # text = uictor ab Oechalia Cenaeo sacra parabat uota Ioui cum Fama loquax praecessit ad aures Deianira tuas quae ueris addere falsa gaudet et e minimo sua per mendacia crescit Amphitryoniaden Ioles ardore teneri
 1	uictor	_	NOUN	_	_	_	_	_	_
 2	ab	_	ADP	_	_	_	_	_	_
-3	Oechalia	_	ADJ	_	_	_	_	_	_
+3	Oechalia	_	PROPN	_	_	_	_	_	_
 4	Cenaeo	_	PROPN	_	_	_	_	_	_
 5	sacra	_	NOUN	_	_	_	_	_	_
 6	parabat	_	VERB	_	_	_	_	_	_
 7	uota	_	NOUN	_	_	_	_	_	_
 8	Ioui	_	PROPN	_	_	_	_	_	_
-9	cum	_	ADP	_	_	_	_	_	_
+9	cum	_	SCONJ	_	_	_	_	_	_
 10	Fama	_	PROPN	_	_	_	_	_	_
-11	loquax	_	ADJ	_	_	_	_	_	_
+11	loquax	_	NOUN	_	_	_	_	_	_
 12	praecessit	_	VERB	_	_	_	_	_	_
 13	ad	_	ADP	_	_	_	_	_	_
 14	aures	_	NOUN	_	_	_	_	_	_
@@ -1164,7 +1164,7 @@
 22	et	_	CCONJ	_	_	_	_	_	_
 23	e	_	ADP	_	_	_	_	_	_
 24	minimo	_	NOUN	_	_	_	_	_	_
-25	sua	_	NOUN	_	_	_	_	_	_
+25	sua	_	DET	_	_	_	_	_	_
 26	per	_	ADP	_	_	_	_	_	_
 27	mendacia	_	NOUN	_	_	_	_	_	_
 28	crescit	_	VERB	_	_	_	_	_	_
@@ -1176,7 +1176,7 @@
 # sent_id = OvMETAM071114-M-ET-446
 # text = credit amans uenerisque nouae perterrita fama indulsit primo lacrimis flendoque dolorem diffudit miseranda suum
 1	credit	_	VERB	_	_	_	_	_	_
-2	amans	_	ADJ	_	_	_	_	_	_
+2	amans	_	VERB	_	_	_	_	_	_
 3-4	uenerisque	_	_	_	_	_	_	_	_
 3	ueneris	_	NOUN	_	_	_	_	_	_
 4	que	_	CCONJ	_	_	_	_	_	_
@@ -1220,7 +1220,7 @@
 8	est	_	AUX	_	_	_	_	_	_
 9	dum	_	SCONJ	_	_	_	_	_	_
 10	licet	_	VERB	_	_	_	_	_	_
-11	et	_	ADV	_	_	_	_	_	_
+11	et	_	CCONJ	_	_	_	_	_	_
 12	nondum	_	ADV	_	_	_	_	_	_
 13	thalamos	_	NOUN	_	_	_	_	_	_
 14	tenet	_	VERB	_	_	_	_	_	_
@@ -1236,13 +1236,13 @@
 5	Calydona	_	PROPN	_	_	_	_	_	_
 6-7	morerne	_	_	_	_	_	_	_	_
 6	morer	_	VERB	_	_	_	_	_	_
-7	ne	_	PART	_	_	_	_	_	_
+7	ne	_	SCONJ	_	_	_	_	_	_
 8	excedam	_	VERB	_	_	_	_	_	_
 9	tectis	_	NOUN	_	_	_	_	_	_
 10	an	_	PART	_	_	_	_	_	_
 11	si	_	SCONJ	_	_	_	_	_	_
 12	nihil	_	PRON	_	_	_	_	_	_
-13	amplius	_	ADJ	_	_	_	_	_	_
+13	amplius	_	ADV	_	_	_	_	_	_
 14	obstem	_	VERB	_	_	_	_	_	_
 15	quid	_	PRON	_	_	_	_	_	_
 16	si	_	SCONJ	_	_	_	_	_	_
@@ -1256,7 +1256,7 @@
 24	paro	_	VERB	_	_	_	_	_	_
 25	facinus	_	NOUN	_	_	_	_	_	_
 26-27	quantumque	_	_	_	_	_	_	_	_
-26	quantum	_	SCONJ	_	_	_	_	_	_
+26	quantum	_	PRON	_	_	_	_	_	_
 27	que	_	CCONJ	_	_	_	_	_	_
 28	iniuria	_	NOUN	_	_	_	_	_	_
 29	possit	_	VERB	_	_	_	_	_	_
@@ -1282,7 +1282,7 @@
 2	illis	_	DET	_	_	_	_	_	_
 3	praetulit	_	VERB	_	_	_	_	_	_
 4	inbutam	_	ADJ	_	_	_	_	_	_
-5	Nesseo	_	PROPN	_	_	_	_	_	_
+5	Nesseo	_	ADJ	_	_	_	_	_	_
 6	sanguine	_	NOUN	_	_	_	_	_	_
 7	uestem	_	NOUN	_	_	_	_	_	_
 8	mittere	_	VERB	_	_	_	_	_	_
@@ -1316,12 +1316,12 @@
 # sent_id = OvMETAM071114-M-ET-452
 # text = capit inscius heros induiturque umeris Lernaeae uirus echidnae
 1	capit	_	VERB	_	_	_	_	_	_
-2	inscius	_	ADV	_	_	_	_	_	_
-3	heros	_	NOUN	_	_	_	_	_	_
+2	inscius	_	ADJ	_	_	_	_	_	_
+3	heros	_	PRON	_	_	_	_	_	_
 4-5	induiturque	_	_	_	_	_	_	_	_
 4	induitur	_	VERB	_	_	_	_	_	_
 5	que	_	CCONJ	_	_	_	_	_	_
-6	umeris	_	NOUN	_	_	_	_	_	_
+6	umeris	_	ADJ	_	_	_	_	_	_
 7	Lernaeae	_	PROPN	_	_	_	_	_	_
 8	uirus	_	NOUN	_	_	_	_	_	_
 9	echidnae	_	NOUN	_	_	_	_	_	_
@@ -1338,8 +1338,8 @@
 8-9	uinaque	_	_	_	_	_	_	_	_
 8	uina	_	NOUN	_	_	_	_	_	_
 9	que	_	CCONJ	_	_	_	_	_	_
-10	marmoreas	_	ADJ	_	_	_	_	_	_
-11	patera	_	NOUN	_	_	_	_	_	_
+10	marmoreas	_	NOUN	_	_	_	_	_	_
+11	patera	_	VERB	_	_	_	_	_	_
 12	fundebat	_	VERB	_	_	_	_	_	_
 13	in	_	ADP	_	_	_	_	_	_
 14	aras	_	NOUN	_	_	_	_	_	_
@@ -1388,11 +1388,11 @@
 # text = nec mora letiferam conatur scindere uestem qua trahitur trahit illa cutem foedumque relatu aut haeret membris frustra temptata reuelli aut laceros artus et grandia detegit ossa
 1	nec	_	CCONJ	_	_	_	_	_	_
 2	mora	_	NOUN	_	_	_	_	_	_
-3	letiferam	_	NOUN	_	_	_	_	_	_
+3	letiferam	_	ADJ	_	_	_	_	_	_
 4	conatur	_	VERB	_	_	_	_	_	_
 5	scindere	_	VERB	_	_	_	_	_	_
-6	uestem	_	NOUN	_	_	_	_	_	_
-7	qua	_	SCONJ	_	_	_	_	_	_
+6	uestem	_	DET	_	_	_	_	_	_
+7	qua	_	PRON	_	_	_	_	_	_
 8	trahitur	_	VERB	_	_	_	_	_	_
 9	trahit	_	VERB	_	_	_	_	_	_
 10	illa	_	DET	_	_	_	_	_	_
@@ -1423,8 +1423,8 @@
 4	ceu	_	NOUN	_	_	_	_	_	_
 5	quondam	_	ADV	_	_	_	_	_	_
 6	lammina	_	NOUN	_	_	_	_	_	_
-7	candens	_	ADJ	_	_	_	_	_	_
-8	tincta	_	VERB	_	_	_	_	_	_
+7	candens	_	VERB	_	_	_	_	_	_
+8	tincta	_	NOUN	_	_	_	_	_	_
 9	lacu	_	NOUN	_	_	_	_	_	_
 10	stridit	_	VERB	_	_	_	_	_	_
 11-12	coquiturque	_	_	_	_	_	_	_	_
@@ -1451,7 +1451,7 @@
 13	corpore	_	NOUN	_	_	_	_	_	_
 14	sudor	_	NOUN	_	_	_	_	_	_
 15-16	ambustique	_	_	_	_	_	_	_	_
-15	ambusti	_	NOUN	_	_	_	_	_	_
+15	ambusti	_	ADJ	_	_	_	_	_	_
 16	que	_	CCONJ	_	_	_	_	_	_
 17	sonant	_	VERB	_	_	_	_	_	_
 18	nerui	_	NOUN	_	_	_	_	_	_
@@ -1460,7 +1460,7 @@
 20	que	_	CCONJ	_	_	_	_	_	_
 21	medullis	_	NOUN	_	_	_	_	_	_
 22	tabe	_	NOUN	_	_	_	_	_	_
-23	liquefactis	_	VERB	_	_	_	_	_	_
+23	liquefactis	_	NOUN	_	_	_	_	_	_
 24	tollens	_	VERB	_	_	_	_	_	_
 25	ad	_	ADP	_	_	_	_	_	_
 26	sidera	_	NOUN	_	_	_	_	_	_
@@ -1481,14 +1481,14 @@
 41-42	corque	_	_	_	_	_	_	_	_
 41	cor	_	NOUN	_	_	_	_	_	_
 42	que	_	CCONJ	_	_	_	_	_	_
-43	ferum	_	ADJ	_	_	_	_	_	_
-44	satia	_	ADJ	_	_	_	_	_	_
+43	ferum	_	ADV	_	_	_	_	_	_
+44	satia	_	NOUN	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-459
 # text = uel si miserandus et hosti hoc est si tibi sum diris cruciatibus aegram inuisamque animam natamque laboribus aufer
-1	uel	_	ADV	_	_	_	_	_	_
+1	uel	_	CCONJ	_	_	_	_	_	_
 2	si	_	SCONJ	_	_	_	_	_	_
-3	miserandus	_	VERB	_	_	_	_	_	_
+3	miserandus	_	ADJ	_	_	_	_	_	_
 4	et	_	CCONJ	_	_	_	_	_	_
 5	hosti	_	NOUN	_	_	_	_	_	_
 6	hoc	_	DET	_	_	_	_	_	_
@@ -1526,7 +1526,7 @@
 1	ergo	_	CCONJ	_	_	_	_	_	_
 2	ego	_	PRON	_	_	_	_	_	_
 3	foedantem	_	VERB	_	_	_	_	_	_
-4	peregrino	_	ADJ	_	_	_	_	_	_
+4	peregrino	_	NOUN	_	_	_	_	_	_
 5	templa	_	NOUN	_	_	_	_	_	_
 6	cruore	_	NOUN	_	_	_	_	_	_
 7	Busirin	_	PROPN	_	_	_	_	_	_
@@ -1605,7 +1605,7 @@
 75	resumere	_	VERB	_	_	_	_	_	_
 76	uires	_	NOUN	_	_	_	_	_	_
 77	quid	_	PRON	_	_	_	_	_	_
-78	cum	_	ADP	_	_	_	_	_	_
+78	cum	_	SCONJ	_	_	_	_	_	_
 79	Thracis	_	PROPN	_	_	_	_	_	_
 80	equos	_	NOUN	_	_	_	_	_	_
 81	humano	_	ADJ	_	_	_	_	_	_
@@ -1615,7 +1615,7 @@
 84	plena	_	ADJ	_	_	_	_	_	_
 85	que	_	CCONJ	_	_	_	_	_	_
 86	corporibus	_	NOUN	_	_	_	_	_	_
-87	laceris	_	ADJ	_	_	_	_	_	_
+87	laceris	_	NOUN	_	_	_	_	_	_
 88	praesepia	_	VERB	_	_	_	_	_	_
 89	uidi	_	VERB	_	_	_	_	_	_
 90-91	uisaque	_	_	_	_	_	_	_	_
@@ -1634,7 +1634,7 @@
 100	iacet	_	VERB	_	_	_	_	_	_
 101	moles	_	NOUN	_	_	_	_	_	_
 102	Nemeaea	_	PROPN	_	_	_	_	_	_
-103	lacertis	_	NOUN	_	_	_	_	_	_
+103	lacertis	_	VERB	_	_	_	_	_	_
 104	hac	_	DET	_	_	_	_	_	_
 105	caelum	_	NOUN	_	_	_	_	_	_
 106	ceruice	_	NOUN	_	_	_	_	_	_
@@ -1642,12 +1642,12 @@
 
 # sent_id = OvMETAM071114-M-ET-462
 # text = defessa iubendo est saeua Iouis coniunx ego sum indefessus agendo
-1	defessa	_	ADJ	_	_	_	_	_	_
+1	defessa	_	VERB	_	_	_	_	_	_
 2	iubendo	_	VERB	_	_	_	_	_	_
 3	est	_	AUX	_	_	_	_	_	_
-4	saeua	_	ADJ	_	_	_	_	_	_
+4	saeua	_	NOUN	_	_	_	_	_	_
 5	Iouis	_	PROPN	_	_	_	_	_	_
-6	coniunx	_	ADJ	_	_	_	_	_	_
+6	coniunx	_	VERB	_	_	_	_	_	_
 7	ego	_	PRON	_	_	_	_	_	_
 8	sum	_	AUX	_	_	_	_	_	_
 9	indefessus	_	ADJ	_	_	_	_	_	_
@@ -1749,7 +1749,7 @@
 
 # sent_id = OvMETAM071114-M-ET-467
 # text = ecce Lichan trepidum latitantem rupe cauata aspicit utque dolor rabiem conlegerat omnem tune Licha dixit feralia dona dedisti tune meae necis auctor eris tremit ille pauetque pallidus et timide uerba excusantia dicit
-1	ecce	_	INTJ	_	_	_	_	_	_
+1	ecce	_	CCONJ	_	_	_	_	_	_
 2	Lichan	_	PROPN	_	_	_	_	_	_
 3	trepidum	_	ADJ	_	_	_	_	_	_
 4	latitantem	_	VERB	_	_	_	_	_	_
@@ -1765,7 +1765,7 @@
 13	omnem	_	DET	_	_	_	_	_	_
 14-15	tune	_	_	_	_	_	_	_	_
 14	tu	_	PRON	_	_	_	_	_	_
-15	ne	_	PART	_	_	_	_	_	_
+15	ne	_	SCONJ	_	_	_	_	_	_
 16	Licha	_	PROPN	_	_	_	_	_	_
 17	dixit	_	VERB	_	_	_	_	_	_
 18	feralia	_	ADJ	_	_	_	_	_	_
@@ -1775,7 +1775,7 @@
 21	tu	_	PRON	_	_	_	_	_	_
 22	ne	_	SCONJ	_	_	_	_	_	_
 23	meae	_	DET	_	_	_	_	_	_
-24	necis	_	VERB	_	_	_	_	_	_
+24	necis	_	NOUN	_	_	_	_	_	_
 25	auctor	_	NOUN	_	_	_	_	_	_
 26	eris	_	AUX	_	_	_	_	_	_
 27	tremit	_	VERB	_	_	_	_	_	_
@@ -1841,17 +1841,17 @@
 20	rotatis	_	VERB	_	_	_	_	_	_
 21	astringi	_	VERB	_	_	_	_	_	_
 22	et	_	CCONJ	_	_	_	_	_	_
-23	spissa	_	NOUN	_	_	_	_	_	_
+23	spissa	_	ADJ	_	_	_	_	_	_
 24	glomerari	_	VERB	_	_	_	_	_	_
 25	grandine	_	NOUN	_	_	_	_	_	_
 26	corpus	_	NOUN	_	_	_	_	_	_
 27	sic	_	ADV	_	_	_	_	_	_
 28	illum	_	DET	_	_	_	_	_	_
-29	ualidis	_	ADJ	_	_	_	_	_	_
+29	ualidis	_	NOUN	_	_	_	_	_	_
 30	iactum	_	VERB	_	_	_	_	_	_
 31	per	_	ADP	_	_	_	_	_	_
 32	inane	_	ADJ	_	_	_	_	_	_
-33	lacertis	_	ADJ	_	_	_	_	_	_
+33	lacertis	_	NOUN	_	_	_	_	_	_
 34-35	exsanguemque	_	_	_	_	_	_	_	_
 34	exsanguem	_	VERB	_	_	_	_	_	_
 35	que	_	CCONJ	_	_	_	_	_	_
@@ -1862,7 +1862,7 @@
 40	habentem	_	VERB	_	_	_	_	_	_
 41	in	_	ADP	_	_	_	_	_	_
 42	rigidos	_	NOUN	_	_	_	_	_	_
-43	uersum	_	NOUN	_	_	_	_	_	_
+43	uersum	_	VERB	_	_	_	_	_	_
 44	silices	_	NOUN	_	_	_	_	_	_
 45	prior	_	ADJ	_	_	_	_	_	_
 46	edidit	_	VERB	_	_	_	_	_	_
@@ -1900,12 +1900,12 @@
 1	at	_	CCONJ	_	_	_	_	_	_
 2	tu	_	PRON	_	_	_	_	_	_
 3	Iouis	_	PROPN	_	_	_	_	_	_
-4	inclita	_	ADJ	_	_	_	_	_	_
+4	inclita	_	VERB	_	_	_	_	_	_
 5	proles	_	NOUN	_	_	_	_	_	_
 6	arboribus	_	NOUN	_	_	_	_	_	_
 7	caesis	_	VERB	_	_	_	_	_	_
 8	quas	_	PRON	_	_	_	_	_	_
-9	ardua	_	ADJ	_	_	_	_	_	_
+9	ardua	_	NOUN	_	_	_	_	_	_
 10	gesserat	_	VERB	_	_	_	_	_	_
 11	Oete	_	PROPN	_	_	_	_	_	_
 12-13	inque	_	_	_	_	_	_	_	_
@@ -1939,7 +1939,7 @@
 1-2	dumque	_	_	_	_	_	_	_	_
 1	dum	_	SCONJ	_	_	_	_	_	_
 2	que	_	CCONJ	_	_	_	_	_	_
-3	auidis	_	ADJ	_	_	_	_	_	_
+3	auidis	_	NOUN	_	_	_	_	_	_
 4	comprenditur	_	VERB	_	_	_	_	_	_
 5	ignibus	_	NOUN	_	_	_	_	_	_
 6	agger	_	NOUN	_	_	_	_	_	_
@@ -1952,7 +1952,7 @@
 13	et	_	CCONJ	_	_	_	_	_	_
 14	inposita	_	VERB	_	_	_	_	_	_
 15	clauae	_	NOUN	_	_	_	_	_	_
-16	ceruice	_	NOUN	_	_	_	_	_	_
+16	ceruice	_	ADV	_	_	_	_	_	_
 17	recumbis	_	VERB	_	_	_	_	_	_
 18	haud	_	PART	_	_	_	_	_	_
 19	alio	_	DET	_	_	_	_	_	_
@@ -1960,9 +1960,9 @@
 21	quam	_	SCONJ	_	_	_	_	_	_
 22	si	_	SCONJ	_	_	_	_	_	_
 23	conuiua	_	NOUN	_	_	_	_	_	_
-24	iaceres	_	ADJ	_	_	_	_	_	_
+24	iaceres	_	VERB	_	_	_	_	_	_
 25	inter	_	ADP	_	_	_	_	_	_
-26	plena	_	NOUN	_	_	_	_	_	_
+26	plena	_	ADJ	_	_	_	_	_	_
 27	meri	_	NOUN	_	_	_	_	_	_
 28	redimitus	_	VERB	_	_	_	_	_	_
 29	pocula	_	NOUN	_	_	_	_	_	_
@@ -1994,7 +1994,7 @@
 # sent_id = OvMETAM071114-M-ET-474
 # text = timuere dei pro uindice terrae
 1	timuere	_	VERB	_	_	_	_	_	_
-2	dei	_	NOUN	_	_	_	_	_	_
+2	dei	_	PRON	_	_	_	_	_	_
 3	pro	_	ADP	_	_	_	_	_	_
 4	uindice	_	NOUN	_	_	_	_	_	_
 5	terrae	_	NOUN	_	_	_	_	_	_
@@ -2018,13 +2018,13 @@
 15	o	_	INTJ	_	_	_	_	_	_
 16	superi	_	ADJ	_	_	_	_	_	_
 17-18	totoque	_	_	_	_	_	_	_	_
-17	toto	_	NOUN	_	_	_	_	_	_
+17	toto	_	DET	_	_	_	_	_	_
 18	que	_	CCONJ	_	_	_	_	_	_
 19	libens	_	ADJ	_	_	_	_	_	_
 20	mihi	_	PRON	_	_	_	_	_	_
 21	pectore	_	NOUN	_	_	_	_	_	_
-22	grator	_	NOUN	_	_	_	_	_	_
-23	quod	_	SCONJ	_	_	_	_	_	_
+22	grator	_	ADJ	_	_	_	_	_	_
+23	quod	_	PRON	_	_	_	_	_	_
 24	memoris	_	ADJ	_	_	_	_	_	_
 25	populi	_	NOUN	_	_	_	_	_	_
 26	dicor	_	VERB	_	_	_	_	_	_
@@ -2099,9 +2099,9 @@
 5	quod	_	PRON	_	_	_	_	_	_
 6	traxit	_	VERB	_	_	_	_	_	_
 7	et	_	CCONJ	_	_	_	_	_	_
-8	expers	_	ADJ	_	_	_	_	_	_
+8	expers	_	VERB	_	_	_	_	_	_
 9	atque	_	CCONJ	_	_	_	_	_	_
-10	inmune	_	ADJ	_	_	_	_	_	_
+10	inmune	_	ADV	_	_	_	_	_	_
 11	necis	_	VERB	_	_	_	_	_	_
 12-13	nullaque	_	_	_	_	_	_	_	_
 12	nulla	_	DET	_	_	_	_	_	_
@@ -2156,20 +2156,20 @@
 
 # sent_id = OvMETAM071114-M-ET-483
 # text = adsensere dei
-1	adsensere	_	ADJ	_	_	_	_	_	_
+1	adsensere	_	NOUN	_	_	_	_	_	_
 2	dei	_	NOUN	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-484
 # text = coniunx quoque regia uisa est cetera non duro duro tamen ultima uultu dicta tulisse Iouis seque indoluisse notatam
-1	coniunx	_	NOUN	_	_	_	_	_	_
+1	coniunx	_	VERB	_	_	_	_	_	_
 2	quoque	_	ADV	_	_	_	_	_	_
-3	regia	_	ADJ	_	_	_	_	_	_
+3	regia	_	NOUN	_	_	_	_	_	_
 4	uisa	_	VERB	_	_	_	_	_	_
 5	est	_	AUX	_	_	_	_	_	_
-6	cetera	_	ADJ	_	_	_	_	_	_
+6	cetera	_	NOUN	_	_	_	_	_	_
 7	non	_	PART	_	_	_	_	_	_
-8	duro	_	NOUN	_	_	_	_	_	_
-9	duro	_	NOUN	_	_	_	_	_	_
+8	duro	_	ADJ	_	_	_	_	_	_
+9	duro	_	ADJ	_	_	_	_	_	_
 10	tamen	_	ADV	_	_	_	_	_	_
 11	ultima	_	ADJ	_	_	_	_	_	_
 12	uultu	_	NOUN	_	_	_	_	_	_
@@ -2204,7 +2204,7 @@
 18	matris	_	NOUN	_	_	_	_	_	_
 19	habet	_	VERB	_	_	_	_	_	_
 20-21	tantumque	_	_	_	_	_	_	_	_
-20	tantum	_	DET	_	_	_	_	_	_
+20	tantum	_	ADV	_	_	_	_	_	_
 21	que	_	CCONJ	_	_	_	_	_	_
 22	Iouis	_	PROPN	_	_	_	_	_	_
 23	uestigia	_	NOUN	_	_	_	_	_	_
@@ -2235,7 +2235,7 @@
 19	exuit	_	VERB	_	_	_	_	_	_
 20	artus	_	NOUN	_	_	_	_	_	_
 21	parte	_	NOUN	_	_	_	_	_	_
-22	sui	_	PRON	_	_	_	_	_	_
+22	sui	_	DET	_	_	_	_	_	_
 23	meliore	_	ADJ	_	_	_	_	_	_
 24	uiget	_	VERB	_	_	_	_	_	_
 25-26	maiorque	_	_	_	_	_	_	_	_
@@ -2244,7 +2244,7 @@
 27	uideri	_	VERB	_	_	_	_	_	_
 28	coepit	_	VERB	_	_	_	_	_	_
 29	et	_	CCONJ	_	_	_	_	_	_
-30	augusta	_	NOUN	_	_	_	_	_	_
+30	augusta	_	ADJ	_	_	_	_	_	_
 31	fieri	_	VERB	_	_	_	_	_	_
 32	grauitate	_	NOUN	_	_	_	_	_	_
 33	uerendus	_	VERB	_	_	_	_	_	_
@@ -2268,7 +2268,7 @@
 # text = sensit atlas pondus
 1	sensit	_	VERB	_	_	_	_	_	_
 2	atlas	_	NOUN	_	_	_	_	_	_
-3	pondus	_	ADJ	_	_	_	_	_	_
+3	pondus	_	VERB	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-489
 # text = neque adhuc Stheneleius iras soluerat Eurystheus odiumque in prole paternum exercebat atrox
@@ -2381,7 +2381,7 @@
 17	quod	_	PRON	_	_	_	_	_	_
 18	que	_	CCONJ	_	_	_	_	_	_
 19	ferebam	_	VERB	_	_	_	_	_	_
-20	tantum	_	DET	_	_	_	_	_	_
+20	tantum	_	ADV	_	_	_	_	_	_
 21	erat	_	AUX	_	_	_	_	_	_
 22	ut	_	SCONJ	_	_	_	_	_	_
 23	posses	_	VERB	_	_	_	_	_	_
@@ -2473,7 +2473,7 @@
 6	subsedit	_	VERB	_	_	_	_	_	_
 7	in	_	ADP	_	_	_	_	_	_
 8	illa	_	DET	_	_	_	_	_	_
-9	ante	_	ADP	_	_	_	_	_	_
+9	ante	_	ADV	_	_	_	_	_	_
 10	fores	_	NOUN	_	_	_	_	_	_
 11	ara	_	NOUN	_	_	_	_	_	_
 12-13	dextroque	_	_	_	_	_	_	_	_
@@ -2481,7 +2481,7 @@
 13	que	_	CCONJ	_	_	_	_	_	_
 14	a	_	ADP	_	_	_	_	_	_
 15	poplite	_	NOUN	_	_	_	_	_	_
-16	laeuum	_	ADJ	_	_	_	_	_	_
+16	laeuum	_	NOUN	_	_	_	_	_	_
 17	pressa	_	VERB	_	_	_	_	_	_
 18	genu	_	NOUN	_	_	_	_	_	_
 19	et	_	CCONJ	_	_	_	_	_	_
@@ -2495,7 +2495,7 @@
 
 # sent_id = OvMETAM071114-M-ET-498
 # text = tacita quoque carmina uoce dixit et inceptos tenuerunt carmina partus
-1	tacita	_	ADJ	_	_	_	_	_	_
+1	tacita	_	VERB	_	_	_	_	_	_
 2	quoque	_	ADV	_	_	_	_	_	_
 3	carmina	_	NOUN	_	_	_	_	_	_
 4	uoce	_	NOUN	_	_	_	_	_	_
@@ -2504,7 +2504,7 @@
 7	inceptos	_	VERB	_	_	_	_	_	_
 8	tenuerunt	_	VERB	_	_	_	_	_	_
 9	carmina	_	NOUN	_	_	_	_	_	_
-10	partus	_	VERB	_	_	_	_	_	_
+10	partus	_	NOUN	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-499
 # text = nitor et ingrato facio conuicia demens uana Ioui cupioque mori moturaque duros uerba queror silices
@@ -2517,13 +2517,13 @@
 7	uana	_	NOUN	_	_	_	_	_	_
 8	Ioui	_	PROPN	_	_	_	_	_	_
 9-10	cupioque	_	_	_	_	_	_	_	_
-9	cupios	_	VERB	_	_	_	_	_	_
+9	cupios	_	NOUN	_	_	_	_	_	_
 10	que	_	CCONJ	_	_	_	_	_	_
 11	mori	_	VERB	_	_	_	_	_	_
 12-13	moturaque	_	_	_	_	_	_	_	_
 12	motura	_	VERB	_	_	_	_	_	_
 13	que	_	CCONJ	_	_	_	_	_	_
-14	duros	_	VERB	_	_	_	_	_	_
+14	duros	_	NOUN	_	_	_	_	_	_
 15	uerba	_	NOUN	_	_	_	_	_	_
 16	queror	_	VERB	_	_	_	_	_	_
 17	silices	_	NOUN	_	_	_	_	_	_
@@ -2540,7 +2540,7 @@
 7-8	exhortanturque	_	_	_	_	_	_	_	_
 7	exhortantur	_	VERB	_	_	_	_	_	_
 8	que	_	CCONJ	_	_	_	_	_	_
-9	dolentem	_	ADJ	_	_	_	_	_	_
+9	dolentem	_	VERB	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-501
 # text = una ministrarum media de plebe Galanthis flaua comas aderat faciendis strenua iussis officiis dilecta suis
@@ -2555,7 +2555,7 @@
 9	aderat	_	VERB	_	_	_	_	_	_
 10	faciendis	_	VERB	_	_	_	_	_	_
 11	strenua	_	ADJ	_	_	_	_	_	_
-12	iussis	_	NOUN	_	_	_	_	_	_
+12	iussis	_	VERB	_	_	_	_	_	_
 13	officiis	_	NOUN	_	_	_	_	_	_
 14	dilecta	_	VERB	_	_	_	_	_	_
 15	suis	_	DET	_	_	_	_	_	_
@@ -2605,7 +2605,7 @@
 5-6	potiturque	_	_	_	_	_	_	_	_
 5	potitur	_	VERB	_	_	_	_	_	_
 6	que	_	CCONJ	_	_	_	_	_	_
-7	puerpera	_	NOUN	_	_	_	_	_	_
+7	puerpera	_	ADJ	_	_	_	_	_	_
 8	uoto	_	NOUN	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-504
@@ -2617,8 +2617,8 @@
 4	manus	_	NOUN	_	_	_	_	_	_
 5	pauefacta	_	VERB	_	_	_	_	_	_
 6	remisit	_	VERB	_	_	_	_	_	_
-7	diua	_	NOUN	_	_	_	_	_	_
-8	potens	_	ADJ	_	_	_	_	_	_
+7	diua	_	ADJ	_	_	_	_	_	_
+8	potens	_	VERB	_	_	_	_	_	_
 9	uteri	_	ADJ	_	_	_	_	_	_
 10	uinclis	_	NOUN	_	_	_	_	_	_
 11	leuor	_	ADJ	_	_	_	_	_	_
@@ -2680,7 +2680,7 @@
 1	quae	_	PRON	_	_	_	_	_	_
 2	quia	_	SCONJ	_	_	_	_	_	_
 3	mendaci	_	NOUN	_	_	_	_	_	_
-4	parientem	_	ADJ	_	_	_	_	_	_
+4	parientem	_	VERB	_	_	_	_	_	_
 5	iuuerat	_	VERB	_	_	_	_	_	_
 6	ore	_	NOUN	_	_	_	_	_	_
 7	ore	_	NOUN	_	_	_	_	_	_
@@ -2699,19 +2699,19 @@
 1	dixit	_	VERB	_	_	_	_	_	_
 2	et	_	CCONJ	_	_	_	_	_	_
 3	admonitu	_	NOUN	_	_	_	_	_	_
-4	ueteris	_	ADJ	_	_	_	_	_	_
+4	ueteris	_	DET	_	_	_	_	_	_
 5	commota	_	VERB	_	_	_	_	_	_
 6	ministrae	_	NOUN	_	_	_	_	_	_
 7	ingemuit	_	VERB	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-510
 # text = quam sic nurus est affata dolentem te tamen o genetrix alienae sanguine nostro rapta mouet facies
-1	quam	_	ADV	_	_	_	_	_	_
+1	quam	_	PRON	_	_	_	_	_	_
 2	sic	_	ADV	_	_	_	_	_	_
-3	nurus	_	ADJ	_	_	_	_	_	_
+3	nurus	_	NOUN	_	_	_	_	_	_
 4	est	_	AUX	_	_	_	_	_	_
 5	affata	_	VERB	_	_	_	_	_	_
-6	dolentem	_	ADJ	_	_	_	_	_	_
+6	dolentem	_	VERB	_	_	_	_	_	_
 7	te	_	PRON	_	_	_	_	_	_
 8	tamen	_	ADV	_	_	_	_	_	_
 9	o	_	INTJ	_	_	_	_	_	_
@@ -2719,7 +2719,7 @@
 11	alienae	_	ADJ	_	_	_	_	_	_
 12	sanguine	_	NOUN	_	_	_	_	_	_
 13	nostro	_	DET	_	_	_	_	_	_
-14	rapta	_	NOUN	_	_	_	_	_	_
+14	rapta	_	VERB	_	_	_	_	_	_
 15	mouet	_	VERB	_	_	_	_	_	_
 16	facies	_	NOUN	_	_	_	_	_	_
 
@@ -2728,7 +2728,7 @@
 1	quid	_	PRON	_	_	_	_	_	_
 2	si	_	SCONJ	_	_	_	_	_	_
 3	tibi	_	PRON	_	_	_	_	_	_
-4	mira	_	NOUN	_	_	_	_	_	_
+4	mira	_	ADJ	_	_	_	_	_	_
 5	sororis	_	NOUN	_	_	_	_	_	_
 6	fata	_	NOUN	_	_	_	_	_	_
 7	meae	_	DET	_	_	_	_	_	_
@@ -2749,7 +2749,7 @@
 # sent_id = OvMETAM071114-M-ET-512
 # text = fuit unica matri me pater ex alia genuit notissima forma Oechalidum Dryope
 1	fuit	_	AUX	_	_	_	_	_	_
-2	unica	_	ADJ	_	_	_	_	_	_
+2	unica	_	DET	_	_	_	_	_	_
 3	matri	_	NOUN	_	_	_	_	_	_
 4	me	_	PRON	_	_	_	_	_	_
 5	pater	_	NOUN	_	_	_	_	_	_
@@ -2787,7 +2787,7 @@
 # text = est lacus adcliuis deuexo margine formam litoris efficiens summum myrteta coronant
 1	est	_	AUX	_	_	_	_	_	_
 2	lacus	_	NOUN	_	_	_	_	_	_
-3	adcliuis	_	ADJ	_	_	_	_	_	_
+3	adcliuis	_	NOUN	_	_	_	_	_	_
 4	deuexo	_	ADJ	_	_	_	_	_	_
 5	margine	_	NOUN	_	_	_	_	_	_
 6	formam	_	NOUN	_	_	_	_	_	_
@@ -2805,7 +2805,7 @@
 4	fatorum	_	NOUN	_	_	_	_	_	_
 5	nescia	_	ADJ	_	_	_	_	_	_
 6-7	quoque	_	_	_	_	_	_	_	_
-6	quo	_	SCONJ	_	_	_	_	_	_
+6	quo	_	ADV	_	_	_	_	_	_
 7	que	_	CCONJ	_	_	_	_	_	_
 8	indignere	_	VERB	_	_	_	_	_	_
 9	magis	_	ADV	_	_	_	_	_	_
@@ -2828,7 +2828,7 @@
 24	tepidi	_	ADJ	_	_	_	_	_	_
 25	que	_	CCONJ	_	_	_	_	_	_
 26	ope	_	NOUN	_	_	_	_	_	_
-27	lactis	_	NOUN	_	_	_	_	_	_
+27	lactis	_	VERB	_	_	_	_	_	_
 28	alebat	_	VERB	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-516
@@ -2854,12 +2854,12 @@
 3	Dryope	_	PROPN	_	_	_	_	_	_
 4	quos	_	PRON	_	_	_	_	_	_
 5	oblectamina	_	NOUN	_	_	_	_	_	_
-6	nato	_	VERB	_	_	_	_	_	_
+6	nato	_	NOUN	_	_	_	_	_	_
 7	porrigeret	_	VERB	_	_	_	_	_	_
 8	flores	_	NOUN	_	_	_	_	_	_
 9	et	_	CCONJ	_	_	_	_	_	_
 10	idem	_	DET	_	_	_	_	_	_
-11	factura	_	VERB	_	_	_	_	_	_
+11	factura	_	NOUN	_	_	_	_	_	_
 12	uidebar	_	VERB	_	_	_	_	_	_
 13	namque	_	PART	_	_	_	_	_	_
 14	aderam	_	VERB	_	_	_	_	_	_
@@ -2880,7 +2880,7 @@
 1	scilicet	_	CCONJ	_	_	_	_	_	_
 2	ut	_	SCONJ	_	_	_	_	_	_
 3	referunt	_	VERB	_	_	_	_	_	_
-4	tardi	_	ADJ	_	_	_	_	_	_
+4	tardi	_	ADV	_	_	_	_	_	_
 5	nunc	_	ADV	_	_	_	_	_	_
 6	denique	_	ADV	_	_	_	_	_	_
 7	agrestes	_	ADJ	_	_	_	_	_	_
@@ -2916,7 +2916,7 @@
 9	discedere	_	VERB	_	_	_	_	_	_
 10	nymphis	_	NOUN	_	_	_	_	_	_
 11	haeserunt	_	VERB	_	_	_	_	_	_
-12	radice	_	NOUN	_	_	_	_	_	_
+12	radice	_	ADV	_	_	_	_	_	_
 13	pedes	_	NOUN	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-521
@@ -2940,7 +2940,7 @@
 6	paulatim	_	ADV	_	_	_	_	_	_
 7	lentus	_	NOUN	_	_	_	_	_	_
 8	premit	_	VERB	_	_	_	_	_	_
-9	inguina	_	NOUN	_	_	_	_	_	_
+9	inguina	_	ADJ	_	_	_	_	_	_
 10	cortex	_	NOUN	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-523
@@ -2974,16 +2974,16 @@
 11	materna	_	ADJ	_	_	_	_	_	_
 12	rigescere	_	VERB	_	_	_	_	_	_
 13	sentit	_	VERB	_	_	_	_	_	_
-14	ubera	_	NOUN	_	_	_	_	_	_
+14	ubera	_	ADJ	_	_	_	_	_	_
 15	nec	_	CCONJ	_	_	_	_	_	_
 16	sequitur	_	VERB	_	_	_	_	_	_
 17	ducentem	_	VERB	_	_	_	_	_	_
-18	lacteus	_	NOUN	_	_	_	_	_	_
+18	lacteus	_	ADJ	_	_	_	_	_	_
 19	umor	_	NOUN	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-525
 # text = spectatrix aderam fati crudelis opemque non poteram tibi ferre soror quantumque ualebam crescentem truncum ramosque amplexa morabar et fateor uolui sub eodem cortice condi
-1	spectatrix	_	NOUN	_	_	_	_	_	_
+1	spectatrix	_	VERB	_	_	_	_	_	_
 2	aderam	_	VERB	_	_	_	_	_	_
 3	fati	_	NOUN	_	_	_	_	_	_
 4	crudelis	_	ADJ	_	_	_	_	_	_
@@ -2994,9 +2994,9 @@
 8	poteram	_	VERB	_	_	_	_	_	_
 9	tibi	_	PRON	_	_	_	_	_	_
 10	ferre	_	VERB	_	_	_	_	_	_
-11	soror	_	VERB	_	_	_	_	_	_
+11	soror	_	NOUN	_	_	_	_	_	_
 12-13	quantumque	_	_	_	_	_	_	_	_
-12	quantum	_	SCONJ	_	_	_	_	_	_
+12	quantum	_	PRON	_	_	_	_	_	_
 13	que	_	CCONJ	_	_	_	_	_	_
 14	ualebam	_	VERB	_	_	_	_	_	_
 15	crescentem	_	VERB	_	_	_	_	_	_
@@ -3004,7 +3004,7 @@
 17-18	ramosque	_	_	_	_	_	_	_	_
 17	ramos	_	NOUN	_	_	_	_	_	_
 18	que	_	CCONJ	_	_	_	_	_	_
-19	amplexa	_	VERB	_	_	_	_	_	_
+19	amplexa	_	ADJ	_	_	_	_	_	_
 20	morabar	_	VERB	_	_	_	_	_	_
 21	et	_	CCONJ	_	_	_	_	_	_
 22	fateor	_	VERB	_	_	_	_	_	_
@@ -3016,7 +3016,7 @@
 
 # sent_id = OvMETAM071114-M-ET-526
 # text = ecce uir Andraemon genitorque miserrimus adsunt et quaerunt Dryopen Dryopen quaerentibus illis ostendi loton
-1	ecce	_	INTJ	_	_	_	_	_	_
+1	ecce	_	ADV	_	_	_	_	_	_
 2	uir	_	NOUN	_	_	_	_	_	_
 3	Andraemon	_	PROPN	_	_	_	_	_	_
 4-5	genitorque	_	_	_	_	_	_	_	_
@@ -3049,11 +3049,11 @@
 
 # sent_id = OvMETAM071114-M-ET-528
 # text = nil nisi iam faciem quod non foret arbor habebat cara soror lacrimae misero de corpore factis inrorant foliis ac dum licet oraque praestant uocis iter tales effundit in aera questus si qua fides miseris hoc me per numina iuro non meruisse nefas
-1	nil	_	ADV	_	_	_	_	_	_
+1	nil	_	DET	_	_	_	_	_	_
 2	nisi	_	SCONJ	_	_	_	_	_	_
 3	iam	_	ADV	_	_	_	_	_	_
 4	faciem	_	NOUN	_	_	_	_	_	_
-5	quod	_	SCONJ	_	_	_	_	_	_
+5	quod	_	PRON	_	_	_	_	_	_
 6	non	_	PART	_	_	_	_	_	_
 7	foret	_	AUX	_	_	_	_	_	_
 8	arbor	_	NOUN	_	_	_	_	_	_
@@ -3080,16 +3080,16 @@
 28	effundit	_	VERB	_	_	_	_	_	_
 29	in	_	ADP	_	_	_	_	_	_
 30	aera	_	NOUN	_	_	_	_	_	_
-31	questus	_	NOUN	_	_	_	_	_	_
+31	questus	_	VERB	_	_	_	_	_	_
 32	si	_	SCONJ	_	_	_	_	_	_
 33	qua	_	PRON	_	_	_	_	_	_
 34	fides	_	NOUN	_	_	_	_	_	_
-35	miseris	_	VERB	_	_	_	_	_	_
+35	miseris	_	ADJ	_	_	_	_	_	_
 36	hoc	_	DET	_	_	_	_	_	_
 37	me	_	PRON	_	_	_	_	_	_
 38	per	_	ADP	_	_	_	_	_	_
 39	numina	_	NOUN	_	_	_	_	_	_
-40	iuro	_	VERB	_	_	_	_	_	_
+40	iuro	_	NOUN	_	_	_	_	_	_
 41	non	_	PART	_	_	_	_	_	_
 42	meruisse	_	VERB	_	_	_	_	_	_
 43	nefas	_	NOUN	_	_	_	_	_	_
@@ -3118,7 +3118,7 @@
 8	et	_	CCONJ	_	_	_	_	_	_
 9	caesa	_	VERB	_	_	_	_	_	_
 10	securibus	_	NOUN	_	_	_	_	_	_
-11	urar	_	NOUN	_	_	_	_	_	_
+11	urar	_	VERB	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-532
 # text = hunc tamen infantem maternis demite ramis et date nutrici nostraque sub arbore saepe lac facitote bibat nostraque sub arbore ludat
@@ -3188,7 +3188,7 @@
 # text = care uale coniunx et tu germana paterque
 1	care	_	DET	_	_	_	_	_	_
 2	uale	_	VERB	_	_	_	_	_	_
-3	coniunx	_	ADJ	_	_	_	_	_	_
+3	coniunx	_	VERB	_	_	_	_	_	_
 4	et	_	CCONJ	_	_	_	_	_	_
 5	tu	_	PRON	_	_	_	_	_	_
 6	germana	_	NOUN	_	_	_	_	_	_
@@ -3240,7 +3240,7 @@
 21	paruum	_	ADJ	_	_	_	_	_	_
 22	que	_	CCONJ	_	_	_	_	_	_
 23	attollite	_	VERB	_	_	_	_	_	_
-24	natum	_	ADJ	_	_	_	_	_	_
+24	natum	_	NOUN	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-538
 # text = plura loqui nequeo
@@ -3256,7 +3256,7 @@
 4	candida	_	NOUN	_	_	_	_	_	_
 5	mollis	_	ADJ	_	_	_	_	_	_
 6	colla	_	NOUN	_	_	_	_	_	_
-7	liber	_	NOUN	_	_	_	_	_	_
+7	liber	_	ADJ	_	_	_	_	_	_
 8	serpit	_	VERB	_	_	_	_	_	_
 9-10	summoque	_	_	_	_	_	_	_	_
 9	summo	_	ADJ	_	_	_	_	_	_
@@ -3278,7 +3278,7 @@
 3	uestro	_	DET	_	_	_	_	_	_
 4	contegat	_	VERB	_	_	_	_	_	_
 5	inductus	_	VERB	_	_	_	_	_	_
-6	morientia	_	VERB	_	_	_	_	_	_
+6	morientia	_	ADJ	_	_	_	_	_	_
 7	lumina	_	NOUN	_	_	_	_	_	_
 8	cortex	_	NOUN	_	_	_	_	_	_
 
@@ -3299,7 +3299,7 @@
 3	corpore	_	NOUN	_	_	_	_	_	_
 4	mutato	_	VERB	_	_	_	_	_	_
 5	rami	_	NOUN	_	_	_	_	_	_
-6	caluere	_	NOUN	_	_	_	_	_	_
+6	caluere	_	VERB	_	_	_	_	_	_
 7	recentes	_	ADJ	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-544
@@ -3341,7 +3341,7 @@
 7-8	dubiaque	_	_	_	_	_	_	_	_
 7	dubia	_	ADJ	_	_	_	_	_	_
 8	que	_	CCONJ	_	_	_	_	_	_
-9	tegens	_	VERB	_	_	_	_	_	_
+9	tegens	_	NOUN	_	_	_	_	_	_
 10	lanugine	_	NOUN	_	_	_	_	_	_
 11	malas	_	NOUN	_	_	_	_	_	_
 12	ora	_	NOUN	_	_	_	_	_	_
@@ -3416,11 +3416,11 @@
 46-47	ultusque	_	_	_	_	_	_	_	_
 46	ultus	_	ADJ	_	_	_	_	_	_
 47	que	_	CCONJ	_	_	_	_	_	_
-48	parente	_	NOUN	_	_	_	_	_	_
+48	parente	_	VERB	_	_	_	_	_	_
 49	parentem	_	NOUN	_	_	_	_	_	_
 50	natus	_	VERB	_	_	_	_	_	_
 51	erit	_	AUX	_	_	_	_	_	_
-52	facto	_	NOUN	_	_	_	_	_	_
+52	facto	_	VERB	_	_	_	_	_	_
 53	pius	_	ADJ	_	_	_	_	_	_
 54	et	_	CCONJ	_	_	_	_	_	_
 55	sceleratus	_	ADJ	_	_	_	_	_	_
@@ -3446,13 +3446,13 @@
 71	donec	_	SCONJ	_	_	_	_	_	_
 72	eum	_	PRON	_	_	_	_	_	_
 73	coniunx	_	NOUN	_	_	_	_	_	_
-74	fatale	_	ADV	_	_	_	_	_	_
+74	fatale	_	ADJ	_	_	_	_	_	_
 75	poposcerit	_	VERB	_	_	_	_	_	_
 76	aurum	_	NOUN	_	_	_	_	_	_
 77-78	cognatumque	_	_	_	_	_	_	_	_
 77	cognatum	_	NOUN	_	_	_	_	_	_
 78	que	_	CCONJ	_	_	_	_	_	_
-79	latus	_	ADJ	_	_	_	_	_	_
+79	latus	_	NOUN	_	_	_	_	_	_
 80	Phegeius	_	PROPN	_	_	_	_	_	_
 81	hauserit	_	VERB	_	_	_	_	_	_
 82	ensis	_	VERB	_	_	_	_	_	_
@@ -3465,7 +3465,7 @@
 4	petet	_	VERB	_	_	_	_	_	_
 5	hos	_	DET	_	_	_	_	_	_
 6	Acheloia	_	PROPN	_	_	_	_	_	_
-7	supplex	_	ADJ	_	_	_	_	_	_
+7	supplex	_	VERB	_	_	_	_	_	_
 8	ab	_	ADP	_	_	_	_	_	_
 9	Ioue	_	PROPN	_	_	_	_	_	_
 10	Calliroe	_	PROPN	_	_	_	_	_	_
@@ -3473,7 +3473,7 @@
 12	infantibus	_	NOUN	_	_	_	_	_	_
 13	annos	_	NOUN	_	_	_	_	_	_
 14	addat	_	VERB	_	_	_	_	_	_
-15	neue	_	CCONJ	_	_	_	_	_	_
+15	neue	_	ADJ	_	_	_	_	_	_
 16	necem	_	NOUN	_	_	_	_	_	_
 17	sinat	_	VERB	_	_	_	_	_	_
 18	esse	_	AUX	_	_	_	_	_	_
@@ -3502,7 +3502,7 @@
 # text = haec ubi faticano uenturi praescia dixit ore Themis uario superi sermone fremebant et cur non aliis eadem dare dona liceret murmur erat
 1	haec	_	DET	_	_	_	_	_	_
 2	ubi	_	SCONJ	_	_	_	_	_	_
-3	faticano	_	ADJ	_	_	_	_	_	_
+3	faticano	_	ADV	_	_	_	_	_	_
 4	uenturi	_	VERB	_	_	_	_	_	_
 5	praescia	_	NOUN	_	_	_	_	_	_
 6	dixit	_	VERB	_	_	_	_	_	_
@@ -3531,7 +3531,7 @@
 4	annos	_	NOUN	_	_	_	_	_	_
 5	coniugis	_	NOUN	_	_	_	_	_	_
 6	esse	_	AUX	_	_	_	_	_	_
-7	sui	_	PRON	_	_	_	_	_	_
+7	sui	_	DET	_	_	_	_	_	_
 8	queritur	_	VERB	_	_	_	_	_	_
 9	canescere	_	VERB	_	_	_	_	_	_
 10	mitis	_	ADJ	_	_	_	_	_	_
@@ -3545,7 +3545,7 @@
 18	Uenerem	_	PROPN	_	_	_	_	_	_
 19	quoque	_	ADV	_	_	_	_	_	_
 20	cura	_	NOUN	_	_	_	_	_	_
-21	futuri	_	NOUN	_	_	_	_	_	_
+21	futuri	_	AUX	_	_	_	_	_	_
 22	tangit	_	VERB	_	_	_	_	_	_
 23	et	_	CCONJ	_	_	_	_	_	_
 24	Anchisae	_	PROPN	_	_	_	_	_	_
@@ -3636,7 +3636,7 @@
 4	ualerem	_	VERB	_	_	_	_	_	_
 5	nec	_	CCONJ	_	_	_	_	_	_
 6	nostrum	_	PRON	_	_	_	_	_	_
-7	seri	_	NOUN	_	_	_	_	_	_
+7	seri	_	VERB	_	_	_	_	_	_
 8	curuarent	_	VERB	_	_	_	_	_	_
 9	Aeacon	_	PROPN	_	_	_	_	_	_
 10	anni	_	NOUN	_	_	_	_	_	_
@@ -3653,18 +3653,18 @@
 20	qui	_	PRON	_	_	_	_	_	_
 21	propter	_	ADP	_	_	_	_	_	_
 22	amara	_	ADJ	_	_	_	_	_	_
-23	senectae	_	ADJ	_	_	_	_	_	_
+23	senectae	_	NOUN	_	_	_	_	_	_
 24	pondera	_	NOUN	_	_	_	_	_	_
 25	despicitur	_	VERB	_	_	_	_	_	_
 26	nec	_	CCONJ	_	_	_	_	_	_
-27	quo	_	SCONJ	_	_	_	_	_	_
+27	quo	_	PRON	_	_	_	_	_	_
 28	prius	_	ADV	_	_	_	_	_	_
 29	ordine	_	NOUN	_	_	_	_	_	_
 30	regnat	_	VERB	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-556
 # text = dicta Iouis mouere deos nec sustinet ullus cum uideat fessos Rhadamanthon et Aeacon annis et Minoa queri
-1	dicta	_	NOUN	_	_	_	_	_	_
+1	dicta	_	VERB	_	_	_	_	_	_
 2	Iouis	_	PROPN	_	_	_	_	_	_
 3	mouere	_	VERB	_	_	_	_	_	_
 4	deos	_	NOUN	_	_	_	_	_	_
@@ -3716,7 +3716,7 @@
 27	suis	_	DET	_	_	_	_	_	_
 28	insurgere	_	VERB	_	_	_	_	_	_
 29	regnis	_	NOUN	_	_	_	_	_	_
-30	haut	_	ADV	_	_	_	_	_	_
+30	haut	_	VERB	_	_	_	_	_	_
 31	tamen	_	ADV	_	_	_	_	_	_
 32	est	_	AUX	_	_	_	_	_	_
 33	patriis	_	NOUN	_	_	_	_	_	_
@@ -3726,7 +3726,7 @@
 
 # sent_id = OvMETAM071114-M-ET-558
 # text = sponte fugis milete tua celerique carina Aegaeas metiris aquas et in Aside terra moenia constituis positoris habentia nomen
-1	sponte	_	NOUN	_	_	_	_	_	_
+1	sponte	_	ADV	_	_	_	_	_	_
 2	fugis	_	NOUN	_	_	_	_	_	_
 3	milete	_	VERB	_	_	_	_	_	_
 4	tua	_	DET	_	_	_	_	_	_
@@ -3735,7 +3735,7 @@
 6	que	_	CCONJ	_	_	_	_	_	_
 7	carina	_	NOUN	_	_	_	_	_	_
 8	Aegaeas	_	PROPN	_	_	_	_	_	_
-9	metiris	_	ADJ	_	_	_	_	_	_
+9	metiris	_	VERB	_	_	_	_	_	_
 10	aquas	_	NOUN	_	_	_	_	_	_
 11	et	_	CCONJ	_	_	_	_	_	_
 12	in	_	ADP	_	_	_	_	_	_
@@ -3749,7 +3749,7 @@
 
 # sent_id = OvMETAM071114-M-ET-559
 # text = hic tibi dum sequitur patriae curuamina ripae filia Maeandri totiens redeuntis eodem cognita Cyanee praestanti corpora forma Byblida cum Cauno prolem est enixa gemellam
-1	hic	_	ADV	_	_	_	_	_	_
+1	hic	_	DET	_	_	_	_	_	_
 2	tibi	_	PRON	_	_	_	_	_	_
 3	dum	_	SCONJ	_	_	_	_	_	_
 4	sequitur	_	VERB	_	_	_	_	_	_
@@ -3766,10 +3766,10 @@
 15	praestanti	_	ADJ	_	_	_	_	_	_
 16	corpora	_	NOUN	_	_	_	_	_	_
 17	forma	_	NOUN	_	_	_	_	_	_
-18	Byblida	_	ADJ	_	_	_	_	_	_
+18	Byblida	_	PROPN	_	_	_	_	_	_
 19	cum	_	ADP	_	_	_	_	_	_
 20	Cauno	_	PROPN	_	_	_	_	_	_
-21	prolem	_	ADJ	_	_	_	_	_	_
+21	prolem	_	NOUN	_	_	_	_	_	_
 22	est	_	AUX	_	_	_	_	_	_
 23	enixa	_	VERB	_	_	_	_	_	_
 24	gemellam	_	NOUN	_	_	_	_	_	_
@@ -3782,7 +3782,7 @@
 4	est	_	AUX	_	_	_	_	_	_
 5	ut	_	SCONJ	_	_	_	_	_	_
 6	ament	_	VERB	_	_	_	_	_	_
-7	concessa	_	NOUN	_	_	_	_	_	_
+7	concessa	_	VERB	_	_	_	_	_	_
 8	puellae	_	NOUN	_	_	_	_	_	_
 9	Byblis	_	PROPN	_	_	_	_	_	_
 10	Apollinei	_	PROPN	_	_	_	_	_	_
@@ -3836,7 +3836,7 @@
 4	uisura	_	NOUN	_	_	_	_	_	_
 5	que	_	CCONJ	_	_	_	_	_	_
 6	fratrem	_	NOUN	_	_	_	_	_	_
-7	culta	_	ADJ	_	_	_	_	_	_
+7	culta	_	VERB	_	_	_	_	_	_
 8	uenit	_	VERB	_	_	_	_	_	_
 9-10	nimiumque	_	_	_	_	_	_	_	_
 9	nimium	_	ADV	_	_	_	_	_	_
@@ -3857,7 +3857,7 @@
 # text = sed nondum manifesta sibi est nullumque sub illo igne facit uotum uerumtamen aestuat intus
 1	sed	_	CCONJ	_	_	_	_	_	_
 2	nondum	_	ADV	_	_	_	_	_	_
-3	manifesta	_	ADJ	_	_	_	_	_	_
+3	manifesta	_	VERB	_	_	_	_	_	_
 4	sibi	_	PRON	_	_	_	_	_	_
 5	est	_	AUX	_	_	_	_	_	_
 6-7	nullumque	_	_	_	_	_	_	_	_
@@ -3868,7 +3868,7 @@
 10	igne	_	NOUN	_	_	_	_	_	_
 11	facit	_	VERB	_	_	_	_	_	_
 12	uotum	_	NOUN	_	_	_	_	_	_
-13	uerumtamen	_	NOUN	_	_	_	_	_	_
+13	uerumtamen	_	ADV	_	_	_	_	_	_
 14	aestuat	_	VERB	_	_	_	_	_	_
 15	intus	_	ADV	_	_	_	_	_	_
 
@@ -3884,7 +3884,7 @@
 8	Byblida	_	PROPN	_	_	_	_	_	_
 9	iam	_	ADV	_	_	_	_	_	_
 10	mauult	_	VERB	_	_	_	_	_	_
-11	quam	_	ADV	_	_	_	_	_	_
+11	quam	_	SCONJ	_	_	_	_	_	_
 12	se	_	PRON	_	_	_	_	_	_
 13	uocet	_	VERB	_	_	_	_	_	_
 14	ille	_	DET	_	_	_	_	_	_
@@ -3904,7 +3904,7 @@
 10	uigilans	_	VERB	_	_	_	_	_	_
 11	placida	_	ADJ	_	_	_	_	_	_
 12	resoluta	_	VERB	_	_	_	_	_	_
-13	quiete	_	ADV	_	_	_	_	_	_
+13	quiete	_	NOUN	_	_	_	_	_	_
 14	saepe	_	ADV	_	_	_	_	_	_
 15	uidet	_	VERB	_	_	_	_	_	_
 16	quod	_	PRON	_	_	_	_	_	_
@@ -3943,7 +3943,7 @@
 16	profatur	_	VERB	_	_	_	_	_	_
 17	me	_	PRON	_	_	_	_	_	_
 18	miseram	_	ADJ	_	_	_	_	_	_
-19	tacitae	_	ADJ	_	_	_	_	_	_
+19	tacitae	_	NOUN	_	_	_	_	_	_
 20	quid	_	PRON	_	_	_	_	_	_
 21	uult	_	VERB	_	_	_	_	_	_
 22	sibi	_	PRON	_	_	_	_	_	_
@@ -3974,7 +3974,7 @@
 47	sit	_	AUX	_	_	_	_	_	_
 48	frater	_	NOUN	_	_	_	_	_	_
 49	amare	_	VERB	_	_	_	_	_	_
-50	et	_	ADV	_	_	_	_	_	_
+50	et	_	CCONJ	_	_	_	_	_	_
 51	me	_	PRON	_	_	_	_	_	_
 52	dignus	_	ADJ	_	_	_	_	_	_
 53	erat	_	AUX	_	_	_	_	_	_
@@ -4018,14 +4018,14 @@
 2	Uenus	_	PROPN	_	_	_	_	_	_
 3	et	_	CCONJ	_	_	_	_	_	_
 4	tenera	_	ADJ	_	_	_	_	_	_
-5	uolucer	_	VERB	_	_	_	_	_	_
+5	uolucer	_	NOUN	_	_	_	_	_	_
 6	cum	_	ADP	_	_	_	_	_	_
 7	matre	_	NOUN	_	_	_	_	_	_
 8	Cupido	_	PROPN	_	_	_	_	_	_
 9	gaudia	_	NOUN	_	_	_	_	_	_
 10	quanta	_	DET	_	_	_	_	_	_
-11	tuli	_	VERB	_	_	_	_	_	_
-12	quam	_	ADV	_	_	_	_	_	_
+11	tuli	_	NOUN	_	_	_	_	_	_
+12	quam	_	PRON	_	_	_	_	_	_
 13	me	_	PRON	_	_	_	_	_	_
 14	manifesta	_	ADJ	_	_	_	_	_	_
 15	libido	_	NOUN	_	_	_	_	_	_
@@ -4102,7 +4102,7 @@
 
 # sent_id = OvMETAM071114-M-ET-575
 # text = nescioquam facies igitur pulcherrime matrem at mihi quae male sum quos tu sortita parentes nil nisi frater eris
-1	nescioquam	_	VERB	_	_	_	_	_	_
+1	nescioquam	_	ADV	_	_	_	_	_	_
 2	facies	_	VERB	_	_	_	_	_	_
 3	igitur	_	CCONJ	_	_	_	_	_	_
 4	pulcherrime	_	ADV	_	_	_	_	_	_
@@ -4116,7 +4116,7 @@
 12	tu	_	PRON	_	_	_	_	_	_
 13	sortita	_	VERB	_	_	_	_	_	_
 14	parentes	_	NOUN	_	_	_	_	_	_
-15	nil	_	DET	_	_	_	_	_	_
+15	nil	_	ADV	_	_	_	_	_	_
 16	nisi	_	SCONJ	_	_	_	_	_	_
 17	frater	_	NOUN	_	_	_	_	_	_
 18	eris	_	AUX	_	_	_	_	_	_
@@ -4136,7 +4136,7 @@
 3	significant	_	VERB	_	_	_	_	_	_
 4	ergo	_	CCONJ	_	_	_	_	_	_
 5	mea	_	DET	_	_	_	_	_	_
-6	uisa	_	VERB	_	_	_	_	_	_
+6	uisa	_	NOUN	_	_	_	_	_	_
 7	quod	_	SCONJ	_	_	_	_	_	_
 8	autem	_	CCONJ	_	_	_	_	_	_
 9	somnia	_	NOUN	_	_	_	_	_	_
@@ -4148,7 +4148,7 @@
 15	somnia	_	NOUN	_	_	_	_	_	_
 16	pondus	_	NOUN	_	_	_	_	_	_
 17	di	_	NOUN	_	_	_	_	_	_
-18	melius	_	ADV	_	_	_	_	_	_
+18	melius	_	ADJ	_	_	_	_	_	_
 19	di	_	NOUN	_	_	_	_	_	_
 20	nempe	_	ADV	_	_	_	_	_	_
 21	suas	_	DET	_	_	_	_	_	_
@@ -4181,7 +4181,7 @@
 7	caelestia	_	NOUN	_	_	_	_	_	_
 8	ritus	_	NOUN	_	_	_	_	_	_
 9	exigere	_	VERB	_	_	_	_	_	_
-10	humanos	_	ADJ	_	_	_	_	_	_
+10	humanos	_	NOUN	_	_	_	_	_	_
 11-12	diuersaque	_	_	_	_	_	_	_	_
 11	diuersa	_	ADJ	_	_	_	_	_	_
 12	que	_	CCONJ	_	_	_	_	_	_
@@ -4189,7 +4189,7 @@
 14	tempto	_	VERB	_	_	_	_	_	_
 15	aut	_	CCONJ	_	_	_	_	_	_
 16	nostro	_	DET	_	_	_	_	_	_
-17	uetitus	_	NOUN	_	_	_	_	_	_
+17	uetitus	_	ADJ	_	_	_	_	_	_
 18	de	_	ADP	_	_	_	_	_	_
 19	corde	_	NOUN	_	_	_	_	_	_
 20	fugabitur	_	VERB	_	_	_	_	_	_
@@ -4252,9 +4252,9 @@
 6	haec	_	DET	_	_	_	_	_	_
 7	exempla	_	NOUN	_	_	_	_	_	_
 8	paraui	_	VERB	_	_	_	_	_	_
-9	quo	_	SCONJ	_	_	_	_	_	_
-10	feror	_	VERB	_	_	_	_	_	_
-11	obscenae	_	ADJ	_	_	_	_	_	_
+9	quo	_	PRON	_	_	_	_	_	_
+10	feror	_	NOUN	_	_	_	_	_	_
+11	obscenae	_	NOUN	_	_	_	_	_	_
 12	procul	_	ADV	_	_	_	_	_	_
 13	hinc	_	ADV	_	_	_	_	_	_
 14	discedite	_	VERB	_	_	_	_	_	_
@@ -4306,13 +4306,13 @@
 16	coget	_	VERB	_	_	_	_	_	_
 17	amor	_	NOUN	_	_	_	_	_	_
 18	potero	_	VERB	_	_	_	_	_	_
-19	uel	_	ADV	_	_	_	_	_	_
+19	uel	_	CCONJ	_	_	_	_	_	_
 20	si	_	SCONJ	_	_	_	_	_	_
 21	pudor	_	NOUN	_	_	_	_	_	_
 22	ora	_	NOUN	_	_	_	_	_	_
 23	tenebit	_	VERB	_	_	_	_	_	_
 24	littera	_	NOUN	_	_	_	_	_	_
-25	celatos	_	ADJ	_	_	_	_	_	_
+25	celatos	_	VERB	_	_	_	_	_	_
 26	arcana	_	NOUN	_	_	_	_	_	_
 27	fatebitur	_	VERB	_	_	_	_	_	_
 28	ignes	_	NOUN	_	_	_	_	_	_
@@ -4333,10 +4333,10 @@
 2	latus	_	NOUN	_	_	_	_	_	_
 3	erigitur	_	VERB	_	_	_	_	_	_
 4-5	cubitoque	_	_	_	_	_	_	_	_
-4	cubito	_	NOUN	_	_	_	_	_	_
+4	cubito	_	ADV	_	_	_	_	_	_
 5	que	_	CCONJ	_	_	_	_	_	_
 6	innixa	_	VERB	_	_	_	_	_	_
-7	sinistro	_	ADV	_	_	_	_	_	_
+7	sinistro	_	NOUN	_	_	_	_	_	_
 8	uiderit	_	VERB	_	_	_	_	_	_
 9	insanos	_	ADJ	_	_	_	_	_	_
 10	inquit	_	VERB	_	_	_	_	_	_
@@ -4353,7 +4353,7 @@
 6	mens	_	NOUN	_	_	_	_	_	_
 7	mea	_	DET	_	_	_	_	_	_
 8	concipit	_	VERB	_	_	_	_	_	_
-9	ignem	_	VERB	_	_	_	_	_	_
+9	ignem	_	NOUN	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-589
 # text = et meditata manu componit uerba trementi
@@ -4362,7 +4362,7 @@
 3	manu	_	NOUN	_	_	_	_	_	_
 4	componit	_	VERB	_	_	_	_	_	_
 5	uerba	_	NOUN	_	_	_	_	_	_
-6	trementi	_	NOUN	_	_	_	_	_	_
+6	trementi	_	VERB	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-590
 # text = dextra tenet ferrum uacuam tenet altera ceram
@@ -4372,7 +4372,7 @@
 4	uacuam	_	ADJ	_	_	_	_	_	_
 5	tenet	_	VERB	_	_	_	_	_	_
 6	altera	_	DET	_	_	_	_	_	_
-7	ceram	_	ADJ	_	_	_	_	_	_
+7	ceram	_	NOUN	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-591
 # text = incipit et dubitat scribit damnatque tabellas et notat et delet mutat culpatque probatque inque uicem sumptas ponit positasque resumit
@@ -4399,7 +4399,7 @@
 17	in	_	ADP	_	_	_	_	_	_
 18	que	_	CCONJ	_	_	_	_	_	_
 19	uicem	_	NOUN	_	_	_	_	_	_
-20	sumptas	_	VERB	_	_	_	_	_	_
+20	sumptas	_	NOUN	_	_	_	_	_	_
 21	ponit	_	VERB	_	_	_	_	_	_
 22-23	positasque	_	_	_	_	_	_	_	_
 22	positas	_	NOUN	_	_	_	_	_	_
@@ -4422,7 +4422,7 @@
 2	uultu	_	NOUN	_	_	_	_	_	_
 3	est	_	AUX	_	_	_	_	_	_
 4	audacia	_	NOUN	_	_	_	_	_	_
-5	mixta	_	VERB	_	_	_	_	_	_
+5	mixta	_	ADJ	_	_	_	_	_	_
 6	pudori	_	NOUN	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-594
@@ -4504,11 +4504,11 @@
 18	nec	_	CCONJ	_	_	_	_	_	_
 19	causa	_	NOUN	_	_	_	_	_	_
 20	suspiria	_	NOUN	_	_	_	_	_	_
-21	mota	_	VERB	_	_	_	_	_	_
+21	mota	_	ADJ	_	_	_	_	_	_
 22	patenti	_	ADJ	_	_	_	_	_	_
 23	et	_	CCONJ	_	_	_	_	_	_
 24	crebri	_	ADJ	_	_	_	_	_	_
-25	amplexus	_	VERB	_	_	_	_	_	_
+25	amplexus	_	ADJ	_	_	_	_	_	_
 26	et	_	CCONJ	_	_	_	_	_	_
 27	quae	_	PRON	_	_	_	_	_	_
 28	si	_	SCONJ	_	_	_	_	_	_
@@ -4531,10 +4531,10 @@
 6	uulnus	_	NOUN	_	_	_	_	_	_
 7	habebam	_	VERB	_	_	_	_	_	_
 8	quamuis	_	SCONJ	_	_	_	_	_	_
-9	intus	_	ADJ	_	_	_	_	_	_
+9	intus	_	ADV	_	_	_	_	_	_
 10	erat	_	AUX	_	_	_	_	_	_
 11	furor	_	NOUN	_	_	_	_	_	_
-12	igneus	_	ADJ	_	_	_	_	_	_
+12	igneus	_	NOUN	_	_	_	_	_	_
 13	omnia	_	DET	_	_	_	_	_	_
 14	feci	_	VERB	_	_	_	_	_	_
 15	sunt	_	AUX	_	_	_	_	_	_
@@ -4555,21 +4555,21 @@
 29	effugere	_	VERB	_	_	_	_	_	_
 30	infelix	_	ADJ	_	_	_	_	_	_
 31	et	_	CCONJ	_	_	_	_	_	_
-32	plus	_	ADV	_	_	_	_	_	_
+32	plus	_	ADJ	_	_	_	_	_	_
 33	quam	_	SCONJ	_	_	_	_	_	_
 34	ferre	_	VERB	_	_	_	_	_	_
 35	puellam	_	NOUN	_	_	_	_	_	_
 36	posse	_	VERB	_	_	_	_	_	_
 37	putes	_	VERB	_	_	_	_	_	_
 38	ego	_	PRON	_	_	_	_	_	_
-39	dura	_	NOUN	_	_	_	_	_	_
+39	dura	_	ADJ	_	_	_	_	_	_
 40	tuli	_	VERB	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-597
 # text = superata fateri cogor opemque tuam timidis exposcere uotis
 1	superata	_	VERB	_	_	_	_	_	_
 2	fateri	_	NOUN	_	_	_	_	_	_
-3	cogor	_	VERB	_	_	_	_	_	_
+3	cogor	_	NOUN	_	_	_	_	_	_
 4-5	opemque	_	_	_	_	_	_	_	_
 4	opem	_	NOUN	_	_	_	_	_	_
 5	que	_	CCONJ	_	_	_	_	_	_
@@ -4588,13 +4588,13 @@
 6	solus	_	DET	_	_	_	_	_	_
 7	amantem	_	NOUN	_	_	_	_	_	_
 8	elige	_	VERB	_	_	_	_	_	_
-9	utrum	_	DET	_	_	_	_	_	_
+9	utrum	_	ADV	_	_	_	_	_	_
 10	facias	_	VERB	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-599
 # text = non hoc inimica precatur sed quae cum tibi sit iunctissima iunctior esse expetit et uinclo tecum propiore ligari
 1	non	_	PART	_	_	_	_	_	_
-2	hoc	_	DET	_	_	_	_	_	_
+2	hoc	_	ADV	_	_	_	_	_	_
 3	inimica	_	NOUN	_	_	_	_	_	_
 4	precatur	_	VERB	_	_	_	_	_	_
 5	sed	_	CCONJ	_	_	_	_	_	_
@@ -4602,7 +4602,7 @@
 7	cum	_	SCONJ	_	_	_	_	_	_
 8	tibi	_	PRON	_	_	_	_	_	_
 9	sit	_	AUX	_	_	_	_	_	_
-10	iunctissima	_	ADJ	_	_	_	_	_	_
+10	iunctissima	_	VERB	_	_	_	_	_	_
 11	iunctior	_	ADJ	_	_	_	_	_	_
 12	esse	_	AUX	_	_	_	_	_	_
 13	expetit	_	VERB	_	_	_	_	_	_
@@ -4611,7 +4611,7 @@
 16-17	tecum	_	_	_	_	_	_	_	_
 16	te	_	PRON	_	_	_	_	_	_
 17	cum	_	ADP	_	_	_	_	_	_
-18	propiore	_	ADJ	_	_	_	_	_	_
+18	propiore	_	NOUN	_	_	_	_	_	_
 19	ligari	_	VERB	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-600
@@ -4644,7 +4644,7 @@
 2	Uenus	_	PROPN	_	_	_	_	_	_
 3	est	_	AUX	_	_	_	_	_	_
 4	annis	_	NOUN	_	_	_	_	_	_
-5	temeraria	_	ADJ	_	_	_	_	_	_
+5	temeraria	_	NOUN	_	_	_	_	_	_
 6	nostris	_	DET	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-602
@@ -4676,7 +4676,7 @@
 9	aut	_	CCONJ	_	_	_	_	_	_
 10	timor	_	NOUN	_	_	_	_	_	_
 11	impediet	_	VERB	_	_	_	_	_	_
-12	tantum	_	DET	_	_	_	_	_	_
+12	tantum	_	PRON	_	_	_	_	_	_
 13	sit	_	AUX	_	_	_	_	_	_
 14	causa	_	NOUN	_	_	_	_	_	_
 15	timendi	_	VERB	_	_	_	_	_	_
@@ -4703,25 +4703,25 @@
 11	et	_	CCONJ	_	_	_	_	_	_
 12	iungimus	_	VERB	_	_	_	_	_	_
 13	oscula	_	NOUN	_	_	_	_	_	_
-14	coram	_	ADP	_	_	_	_	_	_
+14	coram	_	ADV	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-605
 # text = quantum est quod desit miserere fatentis amorem et non fassurae nisi cogeret ultimus ardor neue merere meo subscribi causa sepulchro
 1	quantum	_	DET	_	_	_	_	_	_
 2	est	_	AUX	_	_	_	_	_	_
-3	quod	_	SCONJ	_	_	_	_	_	_
+3	quod	_	PRON	_	_	_	_	_	_
 4	desit	_	VERB	_	_	_	_	_	_
 5	miserere	_	VERB	_	_	_	_	_	_
 6	fatentis	_	VERB	_	_	_	_	_	_
 7	amorem	_	NOUN	_	_	_	_	_	_
 8	et	_	CCONJ	_	_	_	_	_	_
 9	non	_	PART	_	_	_	_	_	_
-10	fassurae	_	NOUN	_	_	_	_	_	_
+10	fassurae	_	VERB	_	_	_	_	_	_
 11	nisi	_	SCONJ	_	_	_	_	_	_
 12	cogeret	_	VERB	_	_	_	_	_	_
 13	ultimus	_	ADJ	_	_	_	_	_	_
 14	ardor	_	NOUN	_	_	_	_	_	_
-15	neue	_	SCONJ	_	_	_	_	_	_
+15	neue	_	VERB	_	_	_	_	_	_
 16	merere	_	VERB	_	_	_	_	_	_
 17	meo	_	DET	_	_	_	_	_	_
 18	subscribi	_	VERB	_	_	_	_	_	_
@@ -4742,7 +4742,7 @@
 9	que	_	CCONJ	_	_	_	_	_	_
 10	in	_	ADP	_	_	_	_	_	_
 11	margine	_	NOUN	_	_	_	_	_	_
-12	uersus	_	NOUN	_	_	_	_	_	_
+12	uersus	_	VERB	_	_	_	_	_	_
 13	adhaesit	_	VERB	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-607
@@ -4768,7 +4768,7 @@
 18	pudibunda	_	ADJ	_	_	_	_	_	_
 19	uocauit	_	VERB	_	_	_	_	_	_
 20	et	_	CCONJ	_	_	_	_	_	_
-21	pauidum	_	ADJ	_	_	_	_	_	_
+21	pauidum	_	ADV	_	_	_	_	_	_
 22	blandita	_	ADJ	_	_	_	_	_	_
 23	fer	_	NOUN	_	_	_	_	_	_
 24	has	_	DET	_	_	_	_	_	_
@@ -4786,7 +4786,7 @@
 # text = cum daret elapsae manibus cecidere tabellae
 1	cum	_	SCONJ	_	_	_	_	_	_
 2	daret	_	VERB	_	_	_	_	_	_
-3	elapsae	_	ADJ	_	_	_	_	_	_
+3	elapsae	_	VERB	_	_	_	_	_	_
 4	manibus	_	NOUN	_	_	_	_	_	_
 5	cecidere	_	VERB	_	_	_	_	_	_
 6	tabellae	_	NOUN	_	_	_	_	_	_
@@ -4794,7 +4794,7 @@
 # sent_id = OvMETAM071114-M-ET-609
 # text = omine turbata est misit tamen
 1	omine	_	NOUN	_	_	_	_	_	_
-2	turbata	_	ADJ	_	_	_	_	_	_
+2	turbata	_	VERB	_	_	_	_	_	_
 3	est	_	AUX	_	_	_	_	_	_
 4	misit	_	VERB	_	_	_	_	_	_
 5	tamen	_	ADV	_	_	_	_	_	_
@@ -4814,7 +4814,7 @@
 
 # sent_id = OvMETAM071114-M-ET-611
 # text = attonitus subita iuuenis Maeandrius ira proicit acceptas lecta sibi parte tabellas uixque manus retinens trepidantis ab ore ministri dum licet o uetitae scelerate libidinis auctor effuge ait qui si nostrum tua fata pudorem non traherent secum poenas mihi morte dedisses
-1	attonitus	_	ADJ	_	_	_	_	_	_
+1	attonitus	_	VERB	_	_	_	_	_	_
 2	subita	_	ADJ	_	_	_	_	_	_
 3	iuuenis	_	NOUN	_	_	_	_	_	_
 4	Maeandrius	_	PROPN	_	_	_	_	_	_
@@ -4841,7 +4841,7 @@
 24	scelerate	_	ADJ	_	_	_	_	_	_
 25	libidinis	_	NOUN	_	_	_	_	_	_
 26	auctor	_	NOUN	_	_	_	_	_	_
-27	effuge	_	NOUN	_	_	_	_	_	_
+27	effuge	_	ADV	_	_	_	_	_	_
 28	ait	_	VERB	_	_	_	_	_	_
 29	qui	_	PRON	_	_	_	_	_	_
 30	si	_	SCONJ	_	_	_	_	_	_
@@ -4869,7 +4869,7 @@
 5	que	_	CCONJ	_	_	_	_	_	_
 6	ferocia	_	NOUN	_	_	_	_	_	_
 7	Cauni	_	PROPN	_	_	_	_	_	_
-8	dicta	_	NOUN	_	_	_	_	_	_
+8	dicta	_	VERB	_	_	_	_	_	_
 9	refert	_	VERB	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-613
@@ -4904,7 +4904,7 @@
 14	aere	_	NOUN	_	_	_	_	_	_
 15	uoces	_	NOUN	_	_	_	_	_	_
 16	et	_	CCONJ	_	_	_	_	_	_
-17	merito	_	NOUN	_	_	_	_	_	_
+17	merito	_	ADV	_	_	_	_	_	_
 18	quid	_	PRON	_	_	_	_	_	_
 19	enim	_	PART	_	_	_	_	_	_
 20	temeraria	_	ADJ	_	_	_	_	_	_
@@ -4927,7 +4927,7 @@
 37	ambiguis	_	ADJ	_	_	_	_	_	_
 38	animi	_	NOUN	_	_	_	_	_	_
 39	sententia	_	NOUN	_	_	_	_	_	_
-40	dictis	_	NOUN	_	_	_	_	_	_
+40	dictis	_	VERB	_	_	_	_	_	_
 41	praetemptanda	_	VERB	_	_	_	_	_	_
 42	mihi	_	PRON	_	_	_	_	_	_
 
@@ -4946,7 +4946,7 @@
 11	notare	_	VERB	_	_	_	_	_	_
 12	debueram	_	VERB	_	_	_	_	_	_
 13-14	tutoque	_	_	_	_	_	_	_	_
-13	tuto	_	ADJ	_	_	_	_	_	_
+13	tuto	_	DET	_	_	_	_	_	_
 14	que	_	CCONJ	_	_	_	_	_	_
 15	mari	_	NOUN	_	_	_	_	_	_
 16	decurrere	_	VERB	_	_	_	_	_	_
@@ -4956,7 +4956,7 @@
 20	exploratis	_	VERB	_	_	_	_	_	_
 21	inpleui	_	ADJ	_	_	_	_	_	_
 22	lintea	_	NOUN	_	_	_	_	_	_
-23	uentis	_	NOUN	_	_	_	_	_	_
+23	uentis	_	VERB	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-616
 # text = auferor in scopulos igitur subuersaque toto obruor oceano neque habent mea uela recursus
@@ -4997,8 +4997,8 @@
 17	fecit	_	VERB	_	_	_	_	_	_
 18	spes	_	NOUN	_	_	_	_	_	_
 19	nostras	_	DET	_	_	_	_	_	_
-20	cera	_	ADJ	_	_	_	_	_	_
-21	caducas	_	ADJ	_	_	_	_	_	_
+20	cera	_	NOUN	_	_	_	_	_	_
+21	caducas	_	VERB	_	_	_	_	_	_
 22-23	nonne	_	_	_	_	_	_	_	_
 22	non	_	PART	_	_	_	_	_	_
 23	ne	_	SCONJ	_	_	_	_	_	_
@@ -5090,13 +5090,13 @@
 3	quorum	_	PRON	_	_	_	_	_	_
 4	si	_	SCONJ	_	_	_	_	_	_
 5	singula	_	ADJ	_	_	_	_	_	_
-6	duram	_	ADJ	_	_	_	_	_	_
+6	duram	_	NOUN	_	_	_	_	_	_
 7	flectere	_	VERB	_	_	_	_	_	_
 8	non	_	PART	_	_	_	_	_	_
 9	poterant	_	VERB	_	_	_	_	_	_
 10	potuissent	_	VERB	_	_	_	_	_	_
 11	omnia	_	DET	_	_	_	_	_	_
-12	mentem	_	VERB	_	_	_	_	_	_
+12	mentem	_	NOUN	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-622
 # text = forsitan et missi sit quaedam culpa ministri non adiit apte nec legit idonea credo tempora nec petiit horamque animumque uacantem
@@ -5128,7 +5128,7 @@
 # sent_id = OvMETAM071114-M-ET-623
 # text = haec nocuere mihi
 1	haec	_	DET	_	_	_	_	_	_
-2	nocuere	_	ADV	_	_	_	_	_	_
+2	nocuere	_	VERB	_	_	_	_	_	_
 3	mihi	_	PRON	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-624
@@ -5143,7 +5143,7 @@
 8	rigidas	_	ADJ	_	_	_	_	_	_
 9	silices	_	NOUN	_	_	_	_	_	_
 10-11	solidumue	_	_	_	_	_	_	_	_
-10	solidum	_	ADJ	_	_	_	_	_	_
+10	solidum	_	NOUN	_	_	_	_	_	_
 11	ue	_	CCONJ	_	_	_	_	_	_
 12	in	_	ADP	_	_	_	_	_	_
 13	pectore	_	NOUN	_	_	_	_	_	_
@@ -5244,7 +5244,7 @@
 30	denique	_	ADV	_	_	_	_	_	_
 31	iam	_	ADV	_	_	_	_	_	_
 32	nequeo	_	VERB	_	_	_	_	_	_
-33	nil	_	PRON	_	_	_	_	_	_
+33	nil	_	ADV	_	_	_	_	_	_
 34	commisisse	_	VERB	_	_	_	_	_	_
 35	nefandum	_	ADJ	_	_	_	_	_	_
 
@@ -5276,13 +5276,13 @@
 6	uota	_	NOUN	_	_	_	_	_	_
 7	in	_	ADP	_	_	_	_	_	_
 8	crimina	_	NOUN	_	_	_	_	_	_
-9	paruum	_	ADJ	_	_	_	_	_	_
+9	paruum	_	NOUN	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-631
 # text = dixit et incertae tanta est discordia mentis cum pigeat temptasse libet temptare
 1	dixit	_	VERB	_	_	_	_	_	_
 2	et	_	ADV	_	_	_	_	_	_
-3	incertae	_	NOUN	_	_	_	_	_	_
+3	incertae	_	ADJ	_	_	_	_	_	_
 4	tanta	_	DET	_	_	_	_	_	_
 5	est	_	AUX	_	_	_	_	_	_
 6	discordia	_	NOUN	_	_	_	_	_	_
@@ -5329,15 +5329,15 @@
 # sent_id = OvMETAM071114-M-ET-634
 # text = tum uero maestam tota Miletida mente defecisse ferunt tum uero a pectore uestem diripuit planxitque suos furibunda lacertos iamque palam est demens inconcessaeque fatetur spem ueneris siquidem patriam inuisosque penates deserit et profugi sequitur uestigia fratris
 1	tum	_	ADV	_	_	_	_	_	_
-2	uero	_	ADV	_	_	_	_	_	_
-3	maestam	_	ADJ	_	_	_	_	_	_
+2	uero	_	CCONJ	_	_	_	_	_	_
+3	maestam	_	NOUN	_	_	_	_	_	_
 4	tota	_	DET	_	_	_	_	_	_
 5	Miletida	_	PROPN	_	_	_	_	_	_
 6	mente	_	NOUN	_	_	_	_	_	_
 7	defecisse	_	VERB	_	_	_	_	_	_
 8	ferunt	_	VERB	_	_	_	_	_	_
 9	tum	_	ADV	_	_	_	_	_	_
-10	uero	_	ADV	_	_	_	_	_	_
+10	uero	_	CCONJ	_	_	_	_	_	_
 11	a	_	ADP	_	_	_	_	_	_
 12	pectore	_	NOUN	_	_	_	_	_	_
 13	uestem	_	NOUN	_	_	_	_	_	_
@@ -5345,7 +5345,7 @@
 15-16	planxitque	_	_	_	_	_	_	_	_
 15	planxit	_	VERB	_	_	_	_	_	_
 16	que	_	CCONJ	_	_	_	_	_	_
-17	suos	_	DET	_	_	_	_	_	_
+17	suos	_	NOUN	_	_	_	_	_	_
 18	furibunda	_	ADJ	_	_	_	_	_	_
 19	lacertos	_	NOUN	_	_	_	_	_	_
 20-21	iamque	_	_	_	_	_	_	_	_
@@ -5355,11 +5355,11 @@
 23	est	_	AUX	_	_	_	_	_	_
 24	demens	_	ADJ	_	_	_	_	_	_
 25-26	inconcessaeque	_	_	_	_	_	_	_	_
-25	inconcessae	_	ADJ	_	_	_	_	_	_
+25	inconcessae	_	NOUN	_	_	_	_	_	_
 26	que	_	CCONJ	_	_	_	_	_	_
 27	fatetur	_	VERB	_	_	_	_	_	_
 28	spem	_	NOUN	_	_	_	_	_	_
-29	ueneris	_	VERB	_	_	_	_	_	_
+29	ueneris	_	ADJ	_	_	_	_	_	_
 30-31	siquidem	_	_	_	_	_	_	_	_
 30	si	_	SCONJ	_	_	_	_	_	_
 31	quidem	_	PART	_	_	_	_	_	_
@@ -5367,7 +5367,7 @@
 33-34	inuisosque	_	_	_	_	_	_	_	_
 33	inuisos	_	ADJ	_	_	_	_	_	_
 34	que	_	CCONJ	_	_	_	_	_	_
-35	penates	_	ADJ	_	_	_	_	_	_
+35	penates	_	NOUN	_	_	_	_	_	_
 36	deserit	_	VERB	_	_	_	_	_	_
 37	et	_	CCONJ	_	_	_	_	_	_
 38	profugi	_	ADJ	_	_	_	_	_	_
@@ -5393,7 +5393,7 @@
 13	Byblida	_	PROPN	_	_	_	_	_	_
 14	non	_	PART	_	_	_	_	_	_
 15	aliter	_	ADV	_	_	_	_	_	_
-16	latos	_	ADJ	_	_	_	_	_	_
+16	latos	_	NOUN	_	_	_	_	_	_
 17	ululasse	_	VERB	_	_	_	_	_	_
 18	per	_	ADP	_	_	_	_	_	_
 19	agros	_	NOUN	_	_	_	_	_	_
@@ -5427,7 +5427,7 @@
 7	reliquerat	_	VERB	_	_	_	_	_	_
 8	undas	_	NOUN	_	_	_	_	_	_
 9-10	quoque	_	_	_	_	_	_	_	_
-9	quo	_	SCONJ	_	_	_	_	_	_
+9	quo	_	PRON	_	_	_	_	_	_
 10	que	_	CCONJ	_	_	_	_	_	_
 11	Chimaera	_	PROPN	_	_	_	_	_	_
 12	iugo	_	NOUN	_	_	_	_	_	_
@@ -5453,7 +5453,7 @@
 6	sequendo	_	VERB	_	_	_	_	_	_
 7	concidis	_	VERB	_	_	_	_	_	_
 8	et	_	CCONJ	_	_	_	_	_	_
-9	dura	_	NOUN	_	_	_	_	_	_
+9	dura	_	ADJ	_	_	_	_	_	_
 10	positis	_	VERB	_	_	_	_	_	_
 11	tellure	_	NOUN	_	_	_	_	_	_
 12	capillis	_	NOUN	_	_	_	_	_	_
@@ -5528,8 +5528,8 @@
 5	habebant	_	VERB	_	_	_	_	_	_
 6	protinus	_	ADV	_	_	_	_	_	_
 7	ut	_	SCONJ	_	_	_	_	_	_
-8	secto	_	NOUN	_	_	_	_	_	_
-9	piceae	_	ADJ	_	_	_	_	_	_
+8	secto	_	VERB	_	_	_	_	_	_
+9	piceae	_	NOUN	_	_	_	_	_	_
 10	de	_	ADP	_	_	_	_	_	_
 11	cortice	_	NOUN	_	_	_	_	_	_
 12	guttae	_	NOUN	_	_	_	_	_	_
@@ -5573,7 +5573,7 @@
 48	habet	_	VERB	_	_	_	_	_	_
 49	dominae	_	NOUN	_	_	_	_	_	_
 50-51	nigraque	_	_	_	_	_	_	_	_
-50	nigra	_	NOUN	_	_	_	_	_	_
+50	nigra	_	ADJ	_	_	_	_	_	_
 51	que	_	CCONJ	_	_	_	_	_	_
 52	sub	_	ADP	_	_	_	_	_	_
 53	ilice	_	NOUN	_	_	_	_	_	_
@@ -5582,7 +5582,7 @@
 # sent_id = OvMETAM071114-M-ET-643
 # text = fama noui centum Cretaeas forsitan urbes implesset monstri si non miracula nuper Iphide mutata Crete propiora tulisset
 1	fama	_	NOUN	_	_	_	_	_	_
-2	noui	_	ADJ	_	_	_	_	_	_
+2	noui	_	NUM	_	_	_	_	_	_
 3	centum	_	NUM	_	_	_	_	_	_
 4	Cretaeas	_	ADJ	_	_	_	_	_	_
 5	forsitan	_	ADV	_	_	_	_	_	_
@@ -5635,7 +5635,7 @@
 # text = grauidae qui coniugis aures uocibus his monuit cum iam prope partus adesset
 1	grauidae	_	ADJ	_	_	_	_	_	_
 2	qui	_	PRON	_	_	_	_	_	_
-3	coniugis	_	ADJ	_	_	_	_	_	_
+3	coniugis	_	NOUN	_	_	_	_	_	_
 4	aures	_	NOUN	_	_	_	_	_	_
 5	uocibus	_	NOUN	_	_	_	_	_	_
 6	his	_	DET	_	_	_	_	_	_
@@ -5659,7 +5659,7 @@
 9-10	utque	_	_	_	_	_	_	_	_
 9	ut	_	SCONJ	_	_	_	_	_	_
 10	que	_	CCONJ	_	_	_	_	_	_
-11	marem	_	VERB	_	_	_	_	_	_
+11	marem	_	NOUN	_	_	_	_	_	_
 12	parias	_	VERB	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-647
@@ -5678,7 +5678,7 @@
 1	quod	_	PRON	_	_	_	_	_	_
 2	abominor	_	VERB	_	_	_	_	_	_
 3	ergo	_	CCONJ	_	_	_	_	_	_
-4	edita	_	NOUN	_	_	_	_	_	_
+4	edita	_	VERB	_	_	_	_	_	_
 5	forte	_	ADV	_	_	_	_	_	_
 6	tuo	_	DET	_	_	_	_	_	_
 7	fuerit	_	AUX	_	_	_	_	_	_
@@ -5713,7 +5713,7 @@
 2	tamen	_	ADV	_	_	_	_	_	_
 3	usque	_	ADV	_	_	_	_	_	_
 4	suum	_	DET	_	_	_	_	_	_
-5	uanis	_	ADJ	_	_	_	_	_	_
+5	uanis	_	NOUN	_	_	_	_	_	_
 6	Telethusa	_	PROPN	_	_	_	_	_	_
 7	maritum	_	NOUN	_	_	_	_	_	_
 8	sollicitat	_	VERB	_	_	_	_	_	_
@@ -5757,8 +5757,8 @@
 19	ante	_	ADP	_	_	_	_	_	_
 20	torum	_	NOUN	_	_	_	_	_	_
 21	pompa	_	NOUN	_	_	_	_	_	_
-22	comitata	_	VERB	_	_	_	_	_	_
-23	sacrorum	_	NOUN	_	_	_	_	_	_
+22	comitata	_	NOUN	_	_	_	_	_	_
+23	sacrorum	_	ADJ	_	_	_	_	_	_
 24	aut	_	CCONJ	_	_	_	_	_	_
 25	stetit	_	VERB	_	_	_	_	_	_
 26	aut	_	CCONJ	_	_	_	_	_	_
@@ -5815,7 +5815,7 @@
 40-41	plenaque	_	_	_	_	_	_	_	_
 40	plena	_	ADJ	_	_	_	_	_	_
 41	que	_	CCONJ	_	_	_	_	_	_
-42	somniferis	_	ADJ	_	_	_	_	_	_
+42	somniferis	_	NOUN	_	_	_	_	_	_
 43	serpens	_	NOUN	_	_	_	_	_	_
 44	peregrina	_	ADJ	_	_	_	_	_	_
 45	uenenis	_	NOUN	_	_	_	_	_	_
@@ -5824,7 +5824,7 @@
 # text = tum uelut excussam somno et manifesta uidentem sic adfata dea est pars o Telethusa mearum pone graues curas mandataque falle mariti
 1	tum	_	ADV	_	_	_	_	_	_
 2	uelut	_	SCONJ	_	_	_	_	_	_
-3	excussam	_	ADJ	_	_	_	_	_	_
+3	excussam	_	VERB	_	_	_	_	_	_
 4	somno	_	NOUN	_	_	_	_	_	_
 5	et	_	CCONJ	_	_	_	_	_	_
 6	manifesta	_	ADJ	_	_	_	_	_	_
@@ -5924,7 +5924,7 @@
 15	femina	_	NOUN	_	_	_	_	_	_
 16	patre	_	NOUN	_	_	_	_	_	_
 17	iussit	_	VERB	_	_	_	_	_	_
-18	ali	_	VERB	_	_	_	_	_	_
+18	ali	_	DET	_	_	_	_	_	_
 19	mater	_	NOUN	_	_	_	_	_	_
 20	puerum	_	NOUN	_	_	_	_	_	_
 21	mentita	_	VERB	_	_	_	_	_	_
@@ -5974,7 +5974,7 @@
 # sent_id = OvMETAM071114-M-ET-663
 # text = inde incepta pia mendacia fraude latebant
 1	inde	_	ADV	_	_	_	_	_	_
-2	incepta	_	NOUN	_	_	_	_	_	_
+2	incepta	_	VERB	_	_	_	_	_	_
 3	pia	_	ADJ	_	_	_	_	_	_
 4	mendacia	_	NOUN	_	_	_	_	_	_
 5	fraude	_	NOUN	_	_	_	_	_	_
@@ -5986,11 +5986,11 @@
 2	erat	_	AUX	_	_	_	_	_	_
 3	pueri	_	NOUN	_	_	_	_	_	_
 4	facies	_	NOUN	_	_	_	_	_	_
-5	quam	_	PRON	_	_	_	_	_	_
+5	quam	_	SCONJ	_	_	_	_	_	_
 6	siue	_	CCONJ	_	_	_	_	_	_
 7	puellae	_	NOUN	_	_	_	_	_	_
 8	siue	_	CCONJ	_	_	_	_	_	_
-9	dares	_	VERB	_	_	_	_	_	_
+9	dares	_	NOUN	_	_	_	_	_	_
 10	puero	_	NOUN	_	_	_	_	_	_
 11	fuerat	_	AUX	_	_	_	_	_	_
 12	formosus	_	ADJ	_	_	_	_	_	_
@@ -6065,7 +6065,7 @@
 20	tempora	_	NOUN	_	_	_	_	_	_
 21	taedae	_	ADJ	_	_	_	_	_	_
 22-23	quamque	_	_	_	_	_	_	_	_
-22	quam	_	SCONJ	_	_	_	_	_	_
+22	quam	_	PRON	_	_	_	_	_	_
 23	que	_	CCONJ	_	_	_	_	_	_
 24	uirum	_	NOUN	_	_	_	_	_	_
 25	putat	_	VERB	_	_	_	_	_	_
@@ -6104,7 +6104,7 @@
 56	cognita	_	VERB	_	_	_	_	_	_
 57	quam	_	SCONJ	_	_	_	_	_	_
 58	nulli	_	DET	_	_	_	_	_	_
-59	quam	_	ADV	_	_	_	_	_	_
+59	quam	_	SCONJ	_	_	_	_	_	_
 60	prodigiosa	_	ADJ	_	_	_	_	_	_
 61-62	nouaeque	_	_	_	_	_	_	_	_
 61	nouae	_	ADJ	_	_	_	_	_	_
@@ -6121,13 +6121,13 @@
 72	debuerant	_	VERB	_	_	_	_	_	_
 73	si	_	SCONJ	_	_	_	_	_	_
 74	non	_	PART	_	_	_	_	_	_
-75	et	_	ADV	_	_	_	_	_	_
+75	et	_	CCONJ	_	_	_	_	_	_
 76	perdere	_	VERB	_	_	_	_	_	_
 77	uellent	_	VERB	_	_	_	_	_	_
 78	naturale	_	ADJ	_	_	_	_	_	_
 79	malum	_	NOUN	_	_	_	_	_	_
 80	saltem	_	ADV	_	_	_	_	_	_
-81	et	_	ADV	_	_	_	_	_	_
+81	et	_	CCONJ	_	_	_	_	_	_
 82	de	_	ADP	_	_	_	_	_	_
 83	more	_	NOUN	_	_	_	_	_	_
 84	dedissent	_	VERB	_	_	_	_	_	_
@@ -6135,7 +6135,7 @@
 # sent_id = OvMETAM071114-M-ET-668
 # text = nec uaccam uaccae nec equas amor urit equarum urit oues aries sequitur sua femina ceruum
 1	nec	_	CCONJ	_	_	_	_	_	_
-2	uaccam	_	NOUN	_	_	_	_	_	_
+2	uaccam	_	VERB	_	_	_	_	_	_
 3	uaccae	_	NOUN	_	_	_	_	_	_
 4	nec	_	CCONJ	_	_	_	_	_	_
 5	equas	_	NOUN	_	_	_	_	_	_
@@ -6172,7 +6172,7 @@
 # text = uellem nulla forem ne non tamen omnia Crete monstra ferat taurum dilexit filia Solis femina nempe marem
 1	uellem	_	VERB	_	_	_	_	_	_
 2	nulla	_	DET	_	_	_	_	_	_
-3	forem	_	AUX	_	_	_	_	_	_
+3	forem	_	ADV	_	_	_	_	_	_
 4	ne	_	SCONJ	_	_	_	_	_	_
 5	non	_	PART	_	_	_	_	_	_
 6	tamen	_	ADV	_	_	_	_	_	_
@@ -6195,7 +6195,7 @@
 3	furiosior	_	ADJ	_	_	_	_	_	_
 4	illo	_	DET	_	_	_	_	_	_
 5	si	_	SCONJ	_	_	_	_	_	_
-6	uerum	_	ADJ	_	_	_	_	_	_
+6	uerum	_	ADV	_	_	_	_	_	_
 7	profitemur	_	VERB	_	_	_	_	_	_
 8	amor	_	NOUN	_	_	_	_	_	_
 
@@ -6227,7 +6227,7 @@
 1	huc	_	ADV	_	_	_	_	_	_
 2	licet	_	VERB	_	_	_	_	_	_
 3	ex	_	ADP	_	_	_	_	_	_
-4	toto	_	NOUN	_	_	_	_	_	_
+4	toto	_	DET	_	_	_	_	_	_
 5	sollertia	_	NOUN	_	_	_	_	_	_
 6	confluat	_	VERB	_	_	_	_	_	_
 7	orbe	_	NOUN	_	_	_	_	_	_
@@ -6236,7 +6236,7 @@
 10	reuolet	_	VERB	_	_	_	_	_	_
 11	ceratis	_	NOUN	_	_	_	_	_	_
 12	Daedalus	_	PROPN	_	_	_	_	_	_
-13	alis	_	NOUN	_	_	_	_	_	_
+13	alis	_	DET	_	_	_	_	_	_
 14	quid	_	PRON	_	_	_	_	_	_
 15	faciet	_	VERB	_	_	_	_	_	_
 16	num	_	PART	_	_	_	_	_	_
@@ -6357,7 +6357,7 @@
 4	nulla	_	DET	_	_	_	_	_	_
 5	est	_	AUX	_	_	_	_	_	_
 6	pars	_	NOUN	_	_	_	_	_	_
-7	uana	_	ADJ	_	_	_	_	_	_
+7	uana	_	NOUN	_	_	_	_	_	_
 8	meorum	_	DET	_	_	_	_	_	_
 9-10	dique	_	_	_	_	_	_	_	_
 9	di	_	NOUN	_	_	_	_	_	_
@@ -6397,7 +6397,7 @@
 # sent_id = OvMETAM071114-M-ET-679
 # text = uenit ecce optabile tempus luxque iugalis adest et iam mea fiet Ianthe nec mihi continget mediis sitiemus in undis
 1	uenit	_	VERB	_	_	_	_	_	_
-2	ecce	_	INTJ	_	_	_	_	_	_
+2	ecce	_	ADV	_	_	_	_	_	_
 3	optabile	_	ADJ	_	_	_	_	_	_
 4	tempus	_	NOUN	_	_	_	_	_	_
 5-6	luxque	_	_	_	_	_	_	_	_
@@ -6414,7 +6414,7 @@
 15	mihi	_	PRON	_	_	_	_	_	_
 16	continget	_	VERB	_	_	_	_	_	_
 17	mediis	_	ADJ	_	_	_	_	_	_
-18	sitiemus	_	VERB	_	_	_	_	_	_
+18	sitiemus	_	AUX	_	_	_	_	_	_
 19	in	_	ADP	_	_	_	_	_	_
 20	undis	_	NOUN	_	_	_	_	_	_
 
@@ -6433,8 +6433,8 @@
 11	qui	_	PRON	_	_	_	_	_	_
 12	ducat	_	VERB	_	_	_	_	_	_
 13	abest	_	VERB	_	_	_	_	_	_
-14	ubi	_	SCONJ	_	_	_	_	_	_
-15	nubimus	_	VERB	_	_	_	_	_	_
+14	ubi	_	ADV	_	_	_	_	_	_
+15	nubimus	_	NOUN	_	_	_	_	_	_
 16	ambae	_	DET	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-681
@@ -6507,7 +6507,7 @@
 2	illa	_	DET	_	_	_	_	_	_
 3	crinalem	_	NOUN	_	_	_	_	_	_
 4	capiti	_	NOUN	_	_	_	_	_	_
-5	uittam	_	ADJ	_	_	_	_	_	_
+5	uittam	_	NOUN	_	_	_	_	_	_
 6-7	nataeque	_	_	_	_	_	_	_	_
 6	natae	_	VERB	_	_	_	_	_	_
 7	que	_	CCONJ	_	_	_	_	_	_
@@ -6565,7 +6565,7 @@
 12	cognoui	_	VERB	_	_	_	_	_	_
 13	sonitum	_	NOUN	_	_	_	_	_	_
 14-15	comitantiaque	_	_	_	_	_	_	_	_
-14	comitantia	_	NOUN	_	_	_	_	_	_
+14	comitantia	_	VERB	_	_	_	_	_	_
 15	que	_	CCONJ	_	_	_	_	_	_
 16	aera	_	NOUN	_	_	_	_	_	_
 17	sistrorum	_	NOUN	_	_	_	_	_	_
@@ -6574,7 +6574,7 @@
 19	que	_	CCONJ	_	_	_	_	_	_
 20	animo	_	NOUN	_	_	_	_	_	_
 21	tua	_	DET	_	_	_	_	_	_
-22	iussa	_	NOUN	_	_	_	_	_	_
+22	iussa	_	VERB	_	_	_	_	_	_
 23	notaui	_	VERB	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-687
@@ -6587,7 +6587,7 @@
 6	non	_	PART	_	_	_	_	_	_
 7	ego	_	PRON	_	_	_	_	_	_
 8	punior	_	ADJ	_	_	_	_	_	_
-9	ecce	_	INTJ	_	_	_	_	_	_
+9	ecce	_	ADV	_	_	_	_	_	_
 10	consilium	_	NOUN	_	_	_	_	_	_
 11-12	munusque	_	_	_	_	_	_	_	_
 11	munus	_	NOUN	_	_	_	_	_	_
@@ -6602,7 +6602,7 @@
 3-4	auxilioque	_	_	_	_	_	_	_	_
 3	auxilio	_	NOUN	_	_	_	_	_	_
 4	que	_	CCONJ	_	_	_	_	_	_
-5	iuua	_	VERB	_	_	_	_	_	_
+5	iuua	_	NOUN	_	_	_	_	_	_
 6	lacrimae	_	NOUN	_	_	_	_	_	_
 7	sunt	_	AUX	_	_	_	_	_	_
 8	uerba	_	NOUN	_	_	_	_	_	_
@@ -6765,7 +6765,7 @@
 14	tendit	_	VERB	_	_	_	_	_	_
 15	et	_	CCONJ	_	_	_	_	_	_
 16	Orphea	_	PROPN	_	_	_	_	_	_
-17	nequiquam	_	ADJ	_	_	_	_	_	_
+17	nequiquam	_	ADV	_	_	_	_	_	_
 18	uoce	_	NOUN	_	_	_	_	_	_
 19	uocatur	_	VERB	_	_	_	_	_	_
 
@@ -6788,9 +6788,9 @@
 
 # sent_id = OvMETAM071114-M-ET-696
 # text = fax quoque quam tenuit lacrimoso stridula fumo usque fuit nullosque inuenit motibus ignes
-1	fax	_	NOUN	_	_	_	_	_	_
+1	fax	_	VERB	_	_	_	_	_	_
 2	quoque	_	ADV	_	_	_	_	_	_
-3	quam	_	ADV	_	_	_	_	_	_
+3	quam	_	SCONJ	_	_	_	_	_	_
 4	tenuit	_	VERB	_	_	_	_	_	_
 5	lacrimoso	_	ADJ	_	_	_	_	_	_
 6	stridula	_	NOUN	_	_	_	_	_	_
@@ -6817,7 +6817,7 @@
 9	noua	_	ADJ	_	_	_	_	_	_
 10	Naiadum	_	PROPN	_	_	_	_	_	_
 11	turba	_	NOUN	_	_	_	_	_	_
-12	comitata	_	VERB	_	_	_	_	_	_
+12	comitata	_	NOUN	_	_	_	_	_	_
 13	uagatur	_	VERB	_	_	_	_	_	_
 14	occidit	_	VERB	_	_	_	_	_	_
 15	in	_	ADP	_	_	_	_	_	_
@@ -6829,7 +6829,7 @@
 # sent_id = OvMETAM071114-M-ET-698
 # text = quam satis ad superas postquam Rhodopeius auras defleuit uates ne non temptaret et umbras ad Styga Taenaria est ausus descendere porta perque leues populos simulacraque functa sepulcro Persephonen adiit inamoenaque regna tenentem umbrarum dominum pulsisque ad carmina neruis sic ait o positi sub terra numina mundi in quem reccidimus quicquid mortale creamur si licet et falsi positis ambagibus oris uera loqui sinitis non huc ut opaca uiderem Tartara descendi nec uti uillosa colubris terna Medusaei uincirem guttura monstri causa uiae est coniunx in quam calcata uenenum uipera diffudit crescentesque abstulit annos
 1	quam	_	ADV	_	_	_	_	_	_
-2	satis	_	ADJ	_	_	_	_	_	_
+2	satis	_	ADV	_	_	_	_	_	_
 3	ad	_	ADP	_	_	_	_	_	_
 4	superas	_	NOUN	_	_	_	_	_	_
 5	postquam	_	SCONJ	_	_	_	_	_	_
@@ -6844,7 +6844,7 @@
 14	umbras	_	NOUN	_	_	_	_	_	_
 15	ad	_	ADP	_	_	_	_	_	_
 16	Styga	_	PROPN	_	_	_	_	_	_
-17	Taenaria	_	ADJ	_	_	_	_	_	_
+17	Taenaria	_	PROPN	_	_	_	_	_	_
 18	est	_	AUX	_	_	_	_	_	_
 19	ausus	_	VERB	_	_	_	_	_	_
 20	descendere	_	VERB	_	_	_	_	_	_
@@ -6890,10 +6890,10 @@
 56	creamur	_	VERB	_	_	_	_	_	_
 57	si	_	SCONJ	_	_	_	_	_	_
 58	licet	_	VERB	_	_	_	_	_	_
-59	et	_	ADV	_	_	_	_	_	_
+59	et	_	CCONJ	_	_	_	_	_	_
 60	falsi	_	NOUN	_	_	_	_	_	_
 61	positis	_	VERB	_	_	_	_	_	_
-62	ambagibus	_	NOUN	_	_	_	_	_	_
+62	ambagibus	_	ADJ	_	_	_	_	_	_
 63	oris	_	NOUN	_	_	_	_	_	_
 64	uera	_	ADJ	_	_	_	_	_	_
 65	loqui	_	VERB	_	_	_	_	_	_
@@ -6909,15 +6909,15 @@
 75	uti	_	SCONJ	_	_	_	_	_	_
 76	uillosa	_	ADJ	_	_	_	_	_	_
 77	colubris	_	NOUN	_	_	_	_	_	_
-78	terna	_	NOUN	_	_	_	_	_	_
+78	terna	_	ADJ	_	_	_	_	_	_
 79	Medusaei	_	PROPN	_	_	_	_	_	_
-80	uincirem	_	VERB	_	_	_	_	_	_
+80	uincirem	_	NOUN	_	_	_	_	_	_
 81	guttura	_	VERB	_	_	_	_	_	_
 82	monstri	_	NOUN	_	_	_	_	_	_
 83	causa	_	NOUN	_	_	_	_	_	_
 84	uiae	_	NOUN	_	_	_	_	_	_
 85	est	_	AUX	_	_	_	_	_	_
-86	coniunx	_	ADJ	_	_	_	_	_	_
+86	coniunx	_	NOUN	_	_	_	_	_	_
 87	in	_	ADP	_	_	_	_	_	_
 88	quam	_	PRON	_	_	_	_	_	_
 89	calcata	_	VERB	_	_	_	_	_	_
@@ -6958,10 +6958,10 @@
 12	hic	_	DET	_	_	_	_	_	_
 13	dubito	_	VERB	_	_	_	_	_	_
 14	sed	_	CCONJ	_	_	_	_	_	_
-15	et	_	ADV	_	_	_	_	_	_
+15	et	_	CCONJ	_	_	_	_	_	_
 16	hic	_	DET	_	_	_	_	_	_
 17	tamen	_	ADV	_	_	_	_	_	_
-18	auguror	_	NOUN	_	_	_	_	_	_
+18	auguror	_	VERB	_	_	_	_	_	_
 19	esse	_	AUX	_	_	_	_	_	_
 20-21	famaque	_	_	_	_	_	_	_	_
 20	fama	_	NOUN	_	_	_	_	_	_
@@ -6994,8 +6994,8 @@
 12	que	_	CCONJ	_	_	_	_	_	_
 13	silentia	_	NOUN	_	_	_	_	_	_
 14	regni	_	NOUN	_	_	_	_	_	_
-15	Eurydices	_	PROPN	_	_	_	_	_	_
-16	oro	_	VERB	_	_	_	_	_	_
+15	Eurydices	_	ADJ	_	_	_	_	_	_
+16	oro	_	NOUN	_	_	_	_	_	_
 17	properata	_	VERB	_	_	_	_	_	_
 18	retexite	_	VERB	_	_	_	_	_	_
 19	fata	_	NOUN	_	_	_	_	_	_
@@ -7092,7 +7092,7 @@
 19	orbis	_	NOUN	_	_	_	_	_	_
 20	nec	_	CCONJ	_	_	_	_	_	_
 21	carpsere	_	NOUN	_	_	_	_	_	_
-22	iecur	_	ADJ	_	_	_	_	_	_
+22	iecur	_	NOUN	_	_	_	_	_	_
 23	uolucres	_	NOUN	_	_	_	_	_	_
 24-25	urnisque	_	_	_	_	_	_	_	_
 24	urnis	_	NOUN	_	_	_	_	_	_
@@ -7102,7 +7102,7 @@
 28-29	inque	_	_	_	_	_	_	_	_
 28	in	_	ADP	_	_	_	_	_	_
 29	que	_	CCONJ	_	_	_	_	_	_
-30	tuo	_	NOUN	_	_	_	_	_	_
+30	tuo	_	DET	_	_	_	_	_	_
 31	sedisti	_	VERB	_	_	_	_	_	_
 32	Sisyphe	_	PROPN	_	_	_	_	_	_
 33	saxo	_	NOUN	_	_	_	_	_	_
@@ -7127,7 +7127,7 @@
 16	nec	_	CCONJ	_	_	_	_	_	_
 17	qui	_	PRON	_	_	_	_	_	_
 18	regit	_	VERB	_	_	_	_	_	_
-19	ima	_	ADJ	_	_	_	_	_	_
+19	ima	_	NOUN	_	_	_	_	_	_
 20	negare	_	VERB	_	_	_	_	_	_
 21-22	Eurydicenque	_	_	_	_	_	_	_	_
 21	Eurydicen	_	PROPN	_	_	_	_	_	_
@@ -7154,15 +7154,15 @@
 5	Rhodopeius	_	PROPN	_	_	_	_	_	_
 6	accipit	_	VERB	_	_	_	_	_	_
 7	heros	_	NOUN	_	_	_	_	_	_
-8	ne	_	PART	_	_	_	_	_	_
+8	ne	_	SCONJ	_	_	_	_	_	_
 9	flectat	_	VERB	_	_	_	_	_	_
-10	retro	_	ADP	_	_	_	_	_	_
+10	retro	_	ADV	_	_	_	_	_	_
 11	sua	_	DET	_	_	_	_	_	_
 12	lumina	_	NOUN	_	_	_	_	_	_
 13	donec	_	SCONJ	_	_	_	_	_	_
 14	Auernas	_	PROPN	_	_	_	_	_	_
 15	exierit	_	VERB	_	_	_	_	_	_
-16	ualles	_	ADJ	_	_	_	_	_	_
+16	ualles	_	NOUN	_	_	_	_	_	_
 17	aut	_	CCONJ	_	_	_	_	_	_
 18	inrita	_	ADJ	_	_	_	_	_	_
 19	dona	_	NOUN	_	_	_	_	_	_
@@ -7171,7 +7171,7 @@
 # sent_id = OvMETAM071114-M-ET-708
 # text = carpitur adcliuis per muta silentia trames arduus obscurus caligine densus opaca nec procul afuerunt telluris margine summae hic ne deficeret metuens auidusque uidendi flexit amans oculos et protinus illa relapsa est bracchiaque intendens prendique et prendere certans nil nisi cedentes infelix arripit auras
 1	carpitur	_	VERB	_	_	_	_	_	_
-2	adcliuis	_	ADJ	_	_	_	_	_	_
+2	adcliuis	_	NOUN	_	_	_	_	_	_
 3	per	_	ADP	_	_	_	_	_	_
 4	muta	_	ADJ	_	_	_	_	_	_
 5	silentia	_	NOUN	_	_	_	_	_	_
@@ -7187,7 +7187,7 @@
 15	telluris	_	NOUN	_	_	_	_	_	_
 16	margine	_	NOUN	_	_	_	_	_	_
 17	summae	_	ADJ	_	_	_	_	_	_
-18	hic	_	ADV	_	_	_	_	_	_
+18	hic	_	DET	_	_	_	_	_	_
 19	ne	_	SCONJ	_	_	_	_	_	_
 20	deficeret	_	VERB	_	_	_	_	_	_
 21	metuens	_	VERB	_	_	_	_	_	_
@@ -7213,7 +7213,7 @@
 38	et	_	CCONJ	_	_	_	_	_	_
 39	prendere	_	VERB	_	_	_	_	_	_
 40	certans	_	VERB	_	_	_	_	_	_
-41	nil	_	PRON	_	_	_	_	_	_
+41	nil	_	DET	_	_	_	_	_	_
 42	nisi	_	SCONJ	_	_	_	_	_	_
 43	cedentes	_	VERB	_	_	_	_	_	_
 44	infelix	_	ADJ	_	_	_	_	_	_
@@ -7243,7 +7243,7 @@
 18-19	supremumque	_	_	_	_	_	_	_	_
 18	supremum	_	ADJ	_	_	_	_	_	_
 19	que	_	CCONJ	_	_	_	_	_	_
-20	uale	_	VERB	_	_	_	_	_	_
+20	uale	_	ADJ	_	_	_	_	_	_
 21	quod	_	PRON	_	_	_	_	_	_
 22	iam	_	ADV	_	_	_	_	_	_
 23	uix	_	ADV	_	_	_	_	_	_
@@ -7307,7 +7307,7 @@
 42	tu	_	PRON	_	_	_	_	_	_
 43	que	_	CCONJ	_	_	_	_	_	_
 44	o	_	INTJ	_	_	_	_	_	_
-45	confisa	_	VERB	_	_	_	_	_	_
+45	confisa	_	ADJ	_	_	_	_	_	_
 46	figurae	_	NOUN	_	_	_	_	_	_
 47	infelix	_	ADJ	_	_	_	_	_	_
 48	Lethaea	_	PROPN	_	_	_	_	_	_
@@ -7330,7 +7330,7 @@
 3	que	_	CCONJ	_	_	_	_	_	_
 4	iterum	_	ADV	_	_	_	_	_	_
 5	transire	_	VERB	_	_	_	_	_	_
-6	uolentem	_	ADJ	_	_	_	_	_	_
+6	uolentem	_	VERB	_	_	_	_	_	_
 7	portitor	_	NOUN	_	_	_	_	_	_
 8	arcuerat	_	VERB	_	_	_	_	_	_
 9	septem	_	NUM	_	_	_	_	_	_
@@ -7390,7 +7390,7 @@
 12	femineam	_	NOUN	_	_	_	_	_	_
 13	Uenerem	_	PROPN	_	_	_	_	_	_
 14	seu	_	CCONJ	_	_	_	_	_	_
-15	quod	_	PRON	_	_	_	_	_	_
+15	quod	_	SCONJ	_	_	_	_	_	_
 16	male	_	ADV	_	_	_	_	_	_
 17	cesserat	_	VERB	_	_	_	_	_	_
 18	illi	_	DET	_	_	_	_	_	_
@@ -7406,7 +7406,7 @@
 28	uati	_	NOUN	_	_	_	_	_	_
 29	multae	_	ADJ	_	_	_	_	_	_
 30	doluere	_	VERB	_	_	_	_	_	_
-31	repulsae	_	VERB	_	_	_	_	_	_
+31	repulsae	_	NOUN	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-714
 # text = ille etiam Thracum populis fuit auctor amorem in teneros transferre mares citraque iuuentam aetatis breue uer et primos carpere flores
@@ -7445,7 +7445,7 @@
 7	campi	_	NOUN	_	_	_	_	_	_
 8	area	_	NOUN	_	_	_	_	_	_
 9	quam	_	PRON	_	_	_	_	_	_
-10	uiridem	_	ADJ	_	_	_	_	_	_
+10	uiridem	_	NOUN	_	_	_	_	_	_
 11	faciebant	_	VERB	_	_	_	_	_	_
 12	graminis	_	NOUN	_	_	_	_	_	_
 13	herbae	_	NOUN	_	_	_	_	_	_
@@ -7476,10 +7476,10 @@
 38	non	_	PART	_	_	_	_	_	_
 39	frondibus	_	NOUN	_	_	_	_	_	_
 40	aesculus	_	NOUN	_	_	_	_	_	_
-41	altis	_	ADJ	_	_	_	_	_	_
+41	altis	_	NOUN	_	_	_	_	_	_
 42	nec	_	CCONJ	_	_	_	_	_	_
 43	tiliae	_	NOUN	_	_	_	_	_	_
-44	molles	_	ADJ	_	_	_	_	_	_
+44	molles	_	NOUN	_	_	_	_	_	_
 45	nec	_	CCONJ	_	_	_	_	_	_
 46	fagus	_	NOUN	_	_	_	_	_	_
 47	et	_	CCONJ	_	_	_	_	_	_
@@ -7489,7 +7489,7 @@
 51	coryli	_	NOUN	_	_	_	_	_	_
 52	fragiles	_	ADJ	_	_	_	_	_	_
 53	et	_	CCONJ	_	_	_	_	_	_
-54	fraxinus	_	NOUN	_	_	_	_	_	_
+54	fraxinus	_	ADJ	_	_	_	_	_	_
 55	utilis	_	ADJ	_	_	_	_	_	_
 56	hastis	_	NOUN	_	_	_	_	_	_
 57-58	enodisque	_	_	_	_	_	_	_	_
@@ -7518,12 +7518,12 @@
 76	aquatica	_	NOUN	_	_	_	_	_	_
 77	lotos	_	ADJ	_	_	_	_	_	_
 78-79	perpetuoque	_	_	_	_	_	_	_	_
-78	perpetuo	_	ADJ	_	_	_	_	_	_
+78	perpetuo	_	ADV	_	_	_	_	_	_
 79	que	_	CCONJ	_	_	_	_	_	_
-80	uirens	_	ADJ	_	_	_	_	_	_
+80	uirens	_	VERB	_	_	_	_	_	_
 81	buxum	_	NOUN	_	_	_	_	_	_
 82-83	tenuesque	_	_	_	_	_	_	_	_
-82	tenues	_	ADJ	_	_	_	_	_	_
+82	tenues	_	VERB	_	_	_	_	_	_
 83	que	_	CCONJ	_	_	_	_	_	_
 84	myricae	_	NOUN	_	_	_	_	_	_
 85	et	_	CCONJ	_	_	_	_	_	_
@@ -7532,7 +7532,7 @@
 88	et	_	CCONJ	_	_	_	_	_	_
 89	bacis	_	NOUN	_	_	_	_	_	_
 90	caerula	_	NOUN	_	_	_	_	_	_
-91	tinus	_	ADJ	_	_	_	_	_	_
+91	tinus	_	NOUN	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-716
 # text = uos quoque flexipedes hederae uenistis et una pampineae uites et amictae uitibus ulmi ornique et piceae pomoque onerata rubenti arbutus et lentae uictoris praemia palmae et succincta comas hirsutaque uertice pinus grata deum matri siquidem Cybeleius Attis exuit hac hominem truncoque induruit illo
@@ -7542,15 +7542,15 @@
 4	hederae	_	NOUN	_	_	_	_	_	_
 5	uenistis	_	VERB	_	_	_	_	_	_
 6	et	_	CCONJ	_	_	_	_	_	_
-7	una	_	ADV	_	_	_	_	_	_
-8	pampineae	_	ADJ	_	_	_	_	_	_
+7	una	_	NUM	_	_	_	_	_	_
+8	pampineae	_	NOUN	_	_	_	_	_	_
 9	uites	_	NOUN	_	_	_	_	_	_
 10	et	_	CCONJ	_	_	_	_	_	_
 11	amictae	_	VERB	_	_	_	_	_	_
 12	uitibus	_	NOUN	_	_	_	_	_	_
 13	ulmi	_	NOUN	_	_	_	_	_	_
 14-15	ornique	_	_	_	_	_	_	_	_
-14	orni	_	ADJ	_	_	_	_	_	_
+14	orni	_	NOUN	_	_	_	_	_	_
 15	que	_	CCONJ	_	_	_	_	_	_
 16	et	_	CCONJ	_	_	_	_	_	_
 17	piceae	_	NOUN	_	_	_	_	_	_
@@ -7585,7 +7585,7 @@
 43	hac	_	DET	_	_	_	_	_	_
 44	hominem	_	NOUN	_	_	_	_	_	_
 45-46	truncoque	_	_	_	_	_	_	_	_
-45	trunco	_	ADJ	_	_	_	_	_	_
+45	trunco	_	NOUN	_	_	_	_	_	_
 46	que	_	CCONJ	_	_	_	_	_	_
 47	induruit	_	VERB	_	_	_	_	_	_
 48	illo	_	DET	_	_	_	_	_	_
@@ -7601,7 +7601,7 @@
 7	nunc	_	ADV	_	_	_	_	_	_
 8	arbor	_	NOUN	_	_	_	_	_	_
 9	puer	_	NOUN	_	_	_	_	_	_
-10	ante	_	ADP	_	_	_	_	_	_
+10	ante	_	ADV	_	_	_	_	_	_
 11	deo	_	NOUN	_	_	_	_	_	_
 12	dilectus	_	NOUN	_	_	_	_	_	_
 13	ab	_	ADP	_	_	_	_	_	_
@@ -7629,7 +7629,7 @@
 10	late	_	ADV	_	_	_	_	_	_
 11	que	_	CCONJ	_	_	_	_	_	_
 12	patentibus	_	VERB	_	_	_	_	_	_
-13	altas	_	ADJ	_	_	_	_	_	_
+13	altas	_	NOUN	_	_	_	_	_	_
 14	ipse	_	DET	_	_	_	_	_	_
 15	suo	_	DET	_	_	_	_	_	_
 16	capiti	_	NOUN	_	_	_	_	_	_
@@ -7648,7 +7648,7 @@
 6	in	_	ADP	_	_	_	_	_	_
 7	armos	_	NOUN	_	_	_	_	_	_
 8	pendebant	_	VERB	_	_	_	_	_	_
-9	tereti	_	NOUN	_	_	_	_	_	_
+9	tereti	_	VERB	_	_	_	_	_	_
 10	gemmata	_	NOUN	_	_	_	_	_	_
 11	monilia	_	ADJ	_	_	_	_	_	_
 12	collo	_	NOUN	_	_	_	_	_	_
@@ -7717,7 +7717,7 @@
 15	ad	_	ADP	_	_	_	_	_	_
 16	noua	_	ADJ	_	_	_	_	_	_
 17	tu	_	PRON	_	_	_	_	_	_
-18	liquidi	_	ADJ	_	_	_	_	_	_
+18	liquidi	_	NOUN	_	_	_	_	_	_
 19	ducebas	_	VERB	_	_	_	_	_	_
 20	fontis	_	NOUN	_	_	_	_	_	_
 21	ad	_	ADP	_	_	_	_	_	_
@@ -7739,7 +7739,7 @@
 37	et	_	CCONJ	_	_	_	_	_	_
 38	illuc	_	ADV	_	_	_	_	_	_
 39	mollia	_	ADJ	_	_	_	_	_	_
-40	purpureis	_	ADJ	_	_	_	_	_	_
+40	purpureis	_	NOUN	_	_	_	_	_	_
 41	frenabas	_	VERB	_	_	_	_	_	_
 42	ora	_	NOUN	_	_	_	_	_	_
 43	capistris	_	NOUN	_	_	_	_	_	_
@@ -7787,7 +7787,7 @@
 7	fixit	_	VERB	_	_	_	_	_	_
 8	et	_	CCONJ	_	_	_	_	_	_
 9	ut	_	SCONJ	_	_	_	_	_	_
-10	saeuo	_	ADJ	_	_	_	_	_	_
+10	saeuo	_	NOUN	_	_	_	_	_	_
 11	morientem	_	VERB	_	_	_	_	_	_
 12	uulnere	_	VERB	_	_	_	_	_	_
 13	uidit	_	VERB	_	_	_	_	_	_
@@ -7821,7 +7821,7 @@
 20	hoc	_	DET	_	_	_	_	_	_
 21	petit	_	VERB	_	_	_	_	_	_
 22	a	_	ADP	_	_	_	_	_	_
-23	superis	_	ADJ	_	_	_	_	_	_
+23	superis	_	NOUN	_	_	_	_	_	_
 24	ut	_	SCONJ	_	_	_	_	_	_
 25	tempore	_	NOUN	_	_	_	_	_	_
 26	lugeat	_	VERB	_	_	_	_	_	_
@@ -7839,12 +7839,12 @@
 7	fletus	_	NOUN	_	_	_	_	_	_
 8	in	_	ADP	_	_	_	_	_	_
 9	uiridem	_	NOUN	_	_	_	_	_	_
-10	uerti	_	NOUN	_	_	_	_	_	_
+10	uerti	_	VERB	_	_	_	_	_	_
 11	coeperunt	_	VERB	_	_	_	_	_	_
 12	membra	_	NOUN	_	_	_	_	_	_
 13	colorem	_	NOUN	_	_	_	_	_	_
 14	et	_	CCONJ	_	_	_	_	_	_
-15	modo	_	NOUN	_	_	_	_	_	_
+15	modo	_	ADV	_	_	_	_	_	_
 16	qui	_	PRON	_	_	_	_	_	_
 17	niuea	_	NOUN	_	_	_	_	_	_
 18	pendebant	_	VERB	_	_	_	_	_	_
@@ -7877,7 +7877,7 @@
 8	que	_	CCONJ	_	_	_	_	_	_
 9	alios	_	DET	_	_	_	_	_	_
 10-11	aderisque	_	_	_	_	_	_	_	_
-10	aderis	_	VERB	_	_	_	_	_	_
+10	aderis	_	NOUN	_	_	_	_	_	_
 11	que	_	CCONJ	_	_	_	_	_	_
 12	dolentibus	_	ADJ	_	_	_	_	_	_
 13	inquit	_	VERB	_	_	_	_	_	_
@@ -7885,7 +7885,7 @@
 # sent_id = OvMETAM071114-M-ET-727
 # text = tale nemus uates attraxerat inque ferarum concilio medius turbae uolucrumque sedebat
 1	tale	_	DET	_	_	_	_	_	_
-2	nemus	_	NOUN	_	_	_	_	_	_
+2	nemus	_	PRON	_	_	_	_	_	_
 3	uates	_	NOUN	_	_	_	_	_	_
 4	attraxerat	_	VERB	_	_	_	_	_	_
 5-6	inque	_	_	_	_	_	_	_	_
@@ -7904,13 +7904,13 @@
 # text = ut satis inpulsas temptauit pollice chordas et sensit uarios quamuis diuersa sonarent concordare modos hoc uocem carmine mouit ab Ioue Musa parens cedunt Iouis omnia regno carmina nostra moue Iouis est mihi saepe potestas dicta prius cecini plectro grauiore Gigantas sparsaque Phlegraeis uictricia fulmina campis
 1	ut	_	SCONJ	_	_	_	_	_	_
 2	satis	_	ADV	_	_	_	_	_	_
-3	inpulsas	_	VERB	_	_	_	_	_	_
+3	inpulsas	_	ADJ	_	_	_	_	_	_
 4	temptauit	_	VERB	_	_	_	_	_	_
 5	pollice	_	ADV	_	_	_	_	_	_
 6	chordas	_	NOUN	_	_	_	_	_	_
 7	et	_	CCONJ	_	_	_	_	_	_
 8	sensit	_	VERB	_	_	_	_	_	_
-9	uarios	_	ADJ	_	_	_	_	_	_
+9	uarios	_	NOUN	_	_	_	_	_	_
 10	quamuis	_	SCONJ	_	_	_	_	_	_
 11	diuersa	_	NOUN	_	_	_	_	_	_
 12	sonarent	_	VERB	_	_	_	_	_	_
@@ -7962,9 +7962,9 @@
 7	que	_	CCONJ	_	_	_	_	_	_
 8	canamus	_	VERB	_	_	_	_	_	_
 9	dilectos	_	NOUN	_	_	_	_	_	_
-10	superis	_	VERB	_	_	_	_	_	_
+10	superis	_	NOUN	_	_	_	_	_	_
 11-12	inconcessisque	_	_	_	_	_	_	_	_
-11	inconcessis	_	ADJ	_	_	_	_	_	_
+11	inconcessis	_	NOUN	_	_	_	_	_	_
 12	que	_	CCONJ	_	_	_	_	_	_
 13	puellas	_	NOUN	_	_	_	_	_	_
 14	ignibus	_	NOUN	_	_	_	_	_	_
@@ -8021,10 +8021,10 @@
 9	qui	_	PRON	_	_	_	_	_	_
 10	nunc	_	ADV	_	_	_	_	_	_
 11	quoque	_	ADV	_	_	_	_	_	_
-12	pocula	_	ADJ	_	_	_	_	_	_
+12	pocula	_	NOUN	_	_	_	_	_	_
 13	miscet	_	VERB	_	_	_	_	_	_
 14-15	inuitaque	_	_	_	_	_	_	_	_
-14	inuita	_	VERB	_	_	_	_	_	_
+14	inuita	_	ADJ	_	_	_	_	_	_
 15	que	_	CCONJ	_	_	_	_	_	_
 16	Ioui	_	PROPN	_	_	_	_	_	_
 17	nectar	_	NOUN	_	_	_	_	_	_
@@ -8070,7 +8070,7 @@
 17	totiens	_	ADV	_	_	_	_	_	_
 18	oreris	_	VERB	_	_	_	_	_	_
 19-20	uiridique	_	_	_	_	_	_	_	_
-19	uiridi	_	ADJ	_	_	_	_	_	_
+19	uiridi	_	VERB	_	_	_	_	_	_
 20	que	_	CCONJ	_	_	_	_	_	_
 21	in	_	ADP	_	_	_	_	_	_
 22	caespite	_	NOUN	_	_	_	_	_	_
@@ -8155,7 +8155,7 @@
 18	leuant	_	VERB	_	_	_	_	_	_
 19	et	_	CCONJ	_	_	_	_	_	_
 20	suco	_	NOUN	_	_	_	_	_	_
-21	pinguis	_	ADJ	_	_	_	_	_	_
+21	pinguis	_	NOUN	_	_	_	_	_	_
 22	oliui	_	NOUN	_	_	_	_	_	_
 23	splendescunt	_	VERB	_	_	_	_	_	_
 24-25	latique	_	_	_	_	_	_	_	_
@@ -8211,7 +8211,7 @@
 11	at	_	CCONJ	_	_	_	_	_	_
 12	illum	_	DET	_	_	_	_	_	_
 13	dura	_	NOUN	_	_	_	_	_	_
-14	repercusso	_	VERB	_	_	_	_	_	_
+14	repercusso	_	NOUN	_	_	_	_	_	_
 15	subiecit	_	VERB	_	_	_	_	_	_
 16	uerbere	_	VERB	_	_	_	_	_	_
 17	tellus	_	NOUN	_	_	_	_	_	_
@@ -8281,7 +8281,7 @@
 18	subito	_	ADV	_	_	_	_	_	_
 19	caput	_	NOUN	_	_	_	_	_	_
 20	illa	_	DET	_	_	_	_	_	_
-21	uietum	_	NOUN	_	_	_	_	_	_
+21	uietum	_	VERB	_	_	_	_	_	_
 22	nec	_	CCONJ	_	_	_	_	_	_
 23	se	_	PRON	_	_	_	_	_	_
 24	sustineant	_	VERB	_	_	_	_	_	_
@@ -8317,7 +8317,7 @@
 6	Phoebus	_	PROPN	_	_	_	_	_	_
 7	ait	_	VERB	_	_	_	_	_	_
 8-9	uideoque	_	_	_	_	_	_	_	_
-8	uideos	_	VERB	_	_	_	_	_	_
+8	uideos	_	NOUN	_	_	_	_	_	_
 9	que	_	CCONJ	_	_	_	_	_	_
 10	tuum	_	DET	_	_	_	_	_	_
 11	mea	_	DET	_	_	_	_	_	_
@@ -8334,7 +8334,7 @@
 5	que	_	CCONJ	_	_	_	_	_	_
 6	meum	_	DET	_	_	_	_	_	_
 7	mea	_	DET	_	_	_	_	_	_
-8	dextera	_	NOUN	_	_	_	_	_	_
+8	dextera	_	ADJ	_	_	_	_	_	_
 9	leto	_	NOUN	_	_	_	_	_	_
 10	inscribenda	_	VERB	_	_	_	_	_	_
 11	tuo	_	DET	_	_	_	_	_	_
@@ -8371,7 +8371,7 @@
 19-20	tecum	_	_	_	_	_	_	_	_
 19	te	_	PRON	_	_	_	_	_	_
 20	cum	_	ADP	_	_	_	_	_	_
-21	mori	_	VERB	_	_	_	_	_	_
+21	mori	_	NOUN	_	_	_	_	_	_
 22-23	uitamque	_	_	_	_	_	_	_	_
 22	uitam	_	NOUN	_	_	_	_	_	_
 23	que	_	CCONJ	_	_	_	_	_	_
@@ -8416,7 +8416,7 @@
 # sent_id = OvMETAM071114-M-ET-747
 # text = tempus et illud erit quo se fortissimus heros addat in hunc florem folioque legatur eodem
 1	tempus	_	NOUN	_	_	_	_	_	_
-2	et	_	ADV	_	_	_	_	_	_
+2	et	_	CCONJ	_	_	_	_	_	_
 3	illud	_	DET	_	_	_	_	_	_
 4	erit	_	AUX	_	_	_	_	_	_
 5	quo	_	PRON	_	_	_	_	_	_
@@ -8437,11 +8437,11 @@
 # text = talia dum uero memorantur Apollinis ore ecce cruor qui fusus humo signauerat herbas desinit esse cruor Tyrioque nitentior ostro flos oritur formamque capit quam lilia si non purpureus color his argenteus esset in illis
 1	talia	_	DET	_	_	_	_	_	_
 2	dum	_	SCONJ	_	_	_	_	_	_
-3	uero	_	ADV	_	_	_	_	_	_
+3	uero	_	CCONJ	_	_	_	_	_	_
 4	memorantur	_	VERB	_	_	_	_	_	_
 5	Apollinis	_	PROPN	_	_	_	_	_	_
 6	ore	_	NOUN	_	_	_	_	_	_
-7	ecce	_	INTJ	_	_	_	_	_	_
+7	ecce	_	ADV	_	_	_	_	_	_
 8	cruor	_	NOUN	_	_	_	_	_	_
 9	qui	_	PRON	_	_	_	_	_	_
 10	fusus	_	VERB	_	_	_	_	_	_
@@ -8477,7 +8477,7 @@
 # sent_id = OvMETAM071114-M-ET-749
 # text = non satis hoc Phoebo est is enim fuit auctor honoris ipse suos gemitus foliis inscribit et ai ai flos habet inscriptum funestaque littera ducta est
 1	non	_	PART	_	_	_	_	_	_
-2	satis	_	ADJ	_	_	_	_	_	_
+2	satis	_	ADV	_	_	_	_	_	_
 3	hoc	_	DET	_	_	_	_	_	_
 4	Phoebo	_	PROPN	_	_	_	_	_	_
 5	est	_	AUX	_	_	_	_	_	_
@@ -8526,7 +8526,7 @@
 16	annua	_	NOUN	_	_	_	_	_	_
 17	praelata	_	VERB	_	_	_	_	_	_
 18	redeunt	_	VERB	_	_	_	_	_	_
-19	Hyacinthia	_	ADJ	_	_	_	_	_	_
+19	Hyacinthia	_	PROPN	_	_	_	_	_	_
 20	pompa	_	NOUN	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-751
@@ -8561,7 +8561,7 @@
 
 # sent_id = OvMETAM071114-M-ET-752
 # text = ante fores horum stabat Iouis Hospitis ara ignarus sceleris quam si quis sanguine tinctam aduena uidisset mactatos crederet illic lactantes uitulos Amathusiacasque bidentes hospes erat caesus sacris offensa nefandis ipsa suas urbes Ophiusiaque arua parabat deserere alma Uenus
-1	ante	_	ADP	_	_	_	_	_	_
+1	ante	_	ADV	_	_	_	_	_	_
 2	fores	_	NOUN	_	_	_	_	_	_
 3	horum	_	DET	_	_	_	_	_	_
 4	stabat	_	VERB	_	_	_	_	_	_
@@ -8591,7 +8591,7 @@
 27	caesus	_	VERB	_	_	_	_	_	_
 28	sacris	_	NOUN	_	_	_	_	_	_
 29	offensa	_	NOUN	_	_	_	_	_	_
-30	nefandis	_	ADJ	_	_	_	_	_	_
+30	nefandis	_	VERB	_	_	_	_	_	_
 31	ipsa	_	DET	_	_	_	_	_	_
 32	suas	_	DET	_	_	_	_	_	_
 33	urbes	_	NOUN	_	_	_	_	_	_
@@ -8626,7 +8626,7 @@
 18	inpia	_	ADJ	_	_	_	_	_	_
 19	pendat	_	VERB	_	_	_	_	_	_
 20	uel	_	CCONJ	_	_	_	_	_	_
-21	nece	_	NOUN	_	_	_	_	_	_
+21	nece	_	ADJ	_	_	_	_	_	_
 22	uel	_	CCONJ	_	_	_	_	_	_
 23	si	_	SCONJ	_	_	_	_	_	_
 24	quid	_	PRON	_	_	_	_	_	_
@@ -8656,7 +8656,7 @@
 # text = dum dubitat quo mutet eos ad cornua uultum flexit et admonita est haec illis posse relinqui grandiaque in toruos transformat membra iuuencos
 1	dum	_	SCONJ	_	_	_	_	_	_
 2	dubitat	_	VERB	_	_	_	_	_	_
-3	quo	_	SCONJ	_	_	_	_	_	_
+3	quo	_	ADV	_	_	_	_	_	_
 4	mutet	_	VERB	_	_	_	_	_	_
 5	eos	_	PRON	_	_	_	_	_	_
 6	ad	_	ADP	_	_	_	_	_	_
@@ -8683,7 +8683,7 @@
 # text = sunt tamen obscenae Uenerem Propoetides ausae esse negare deam pro quo sua numinis ira corpora cum fama primae uulgasse feruntur utque pudor cessit sanguisque induruit oris in rigidum paruo silicem discrimine uersae
 1	sunt	_	AUX	_	_	_	_	_	_
 2	tamen	_	ADV	_	_	_	_	_	_
-3	obscenae	_	ADJ	_	_	_	_	_	_
+3	obscenae	_	NOUN	_	_	_	_	_	_
 4	Uenerem	_	PROPN	_	_	_	_	_	_
 5	Propoetides	_	PROPN	_	_	_	_	_	_
 6	ausae	_	VERB	_	_	_	_	_	_
@@ -8696,7 +8696,7 @@
 13	numinis	_	NOUN	_	_	_	_	_	_
 14	ira	_	NOUN	_	_	_	_	_	_
 15	corpora	_	NOUN	_	_	_	_	_	_
-16	cum	_	ADP	_	_	_	_	_	_
+16	cum	_	SCONJ	_	_	_	_	_	_
 17	fama	_	NOUN	_	_	_	_	_	_
 18	primae	_	ADJ	_	_	_	_	_	_
 19	uulgasse	_	VERB	_	_	_	_	_	_
@@ -8723,28 +8723,28 @@
 1	quas	_	PRON	_	_	_	_	_	_
 2	quia	_	SCONJ	_	_	_	_	_	_
 3	Pygmalion	_	PROPN	_	_	_	_	_	_
-4	aeuum	_	ADJ	_	_	_	_	_	_
+4	aeuum	_	NOUN	_	_	_	_	_	_
 5	per	_	ADP	_	_	_	_	_	_
 6	crimen	_	NOUN	_	_	_	_	_	_
 7	agentis	_	VERB	_	_	_	_	_	_
 8	uiderat	_	VERB	_	_	_	_	_	_
-9	offensus	_	VERB	_	_	_	_	_	_
+9	offensus	_	NOUN	_	_	_	_	_	_
 10	uitiis	_	NOUN	_	_	_	_	_	_
 11	quae	_	PRON	_	_	_	_	_	_
 12	plurima	_	ADJ	_	_	_	_	_	_
 13	menti	_	NOUN	_	_	_	_	_	_
-14	femineae	_	ADJ	_	_	_	_	_	_
+14	femineae	_	NOUN	_	_	_	_	_	_
 15	natura	_	NOUN	_	_	_	_	_	_
 16	dedit	_	VERB	_	_	_	_	_	_
 17	sine	_	ADP	_	_	_	_	_	_
 18	coniuge	_	NOUN	_	_	_	_	_	_
-19	caelebs	_	ADJ	_	_	_	_	_	_
+19	caelebs	_	NOUN	_	_	_	_	_	_
 20	uiuebat	_	VERB	_	_	_	_	_	_
 21-22	thalamique	_	_	_	_	_	_	_	_
 21	thalami	_	NOUN	_	_	_	_	_	_
 22	que	_	CCONJ	_	_	_	_	_	_
 23	diu	_	ADV	_	_	_	_	_	_
-24	consorte	_	ADV	_	_	_	_	_	_
+24	consorte	_	NOUN	_	_	_	_	_	_
 25	carebat	_	VERB	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-758
@@ -8854,7 +8854,7 @@
 23	artus	_	NOUN	_	_	_	_	_	_
 24	et	_	CCONJ	_	_	_	_	_	_
 25	modo	_	ADV	_	_	_	_	_	_
-26	blanditias	_	ADJ	_	_	_	_	_	_
+26	blanditias	_	NOUN	_	_	_	_	_	_
 27	adhibet	_	VERB	_	_	_	_	_	_
 28	modo	_	ADV	_	_	_	_	_	_
 29	grata	_	ADJ	_	_	_	_	_	_
@@ -8862,9 +8862,9 @@
 31	munera	_	NOUN	_	_	_	_	_	_
 32	fert	_	VERB	_	_	_	_	_	_
 33	illi	_	DET	_	_	_	_	_	_
-34	conchas	_	ADJ	_	_	_	_	_	_
+34	conchas	_	NOUN	_	_	_	_	_	_
 35-36	teretesque	_	_	_	_	_	_	_	_
-35	teretes	_	NOUN	_	_	_	_	_	_
+35	teretes	_	ADJ	_	_	_	_	_	_
 36	que	_	CCONJ	_	_	_	_	_	_
 37	lapillos	_	NOUN	_	_	_	_	_	_
 38	et	_	CCONJ	_	_	_	_	_	_
@@ -8916,7 +8916,7 @@
 # text = conlocat hanc stratis concha Sidonide tinctis adpellatque tori sociam adclinataque colla mollibus in plumis tamquam sensura reponit
 1	conlocat	_	VERB	_	_	_	_	_	_
 2	hanc	_	DET	_	_	_	_	_	_
-3	stratis	_	VERB	_	_	_	_	_	_
+3	stratis	_	NOUN	_	_	_	_	_	_
 4	concha	_	NOUN	_	_	_	_	_	_
 5	Sidonide	_	PROPN	_	_	_	_	_	_
 6	tinctis	_	VERB	_	_	_	_	_	_
@@ -8959,7 +8959,7 @@
 18	tura	_	NOUN	_	_	_	_	_	_
 19	que	_	CCONJ	_	_	_	_	_	_
 20	fumabant	_	VERB	_	_	_	_	_	_
-21	cum	_	ADP	_	_	_	_	_	_
+21	cum	_	SCONJ	_	_	_	_	_	_
 22	munere	_	NOUN	_	_	_	_	_	_
 23	functus	_	VERB	_	_	_	_	_	_
 24	ad	_	ADP	_	_	_	_	_	_
@@ -8971,9 +8971,9 @@
 30	di	_	NOUN	_	_	_	_	_	_
 31	dare	_	VERB	_	_	_	_	_	_
 32	cuncta	_	DET	_	_	_	_	_	_
-33	potestis	_	VERB	_	_	_	_	_	_
+33	potestis	_	NOUN	_	_	_	_	_	_
 34	sit	_	AUX	_	_	_	_	_	_
-35	coniunx	_	ADJ	_	_	_	_	_	_
+35	coniunx	_	NOUN	_	_	_	_	_	_
 36	opto	_	VERB	_	_	_	_	_	_
 37	non	_	PART	_	_	_	_	_	_
 38	ausus	_	VERB	_	_	_	_	_	_
@@ -8994,8 +8994,8 @@
 4	suis	_	DET	_	_	_	_	_	_
 5	aderat	_	VERB	_	_	_	_	_	_
 6	Uenus	_	PROPN	_	_	_	_	_	_
-7	aurea	_	NOUN	_	_	_	_	_	_
-8	festis	_	NOUN	_	_	_	_	_	_
+7	aurea	_	ADJ	_	_	_	_	_	_
+8	festis	_	ADJ	_	_	_	_	_	_
 9	uota	_	NOUN	_	_	_	_	_	_
 10	quid	_	PRON	_	_	_	_	_	_
 11	illa	_	DET	_	_	_	_	_	_
@@ -9009,7 +9009,7 @@
 19	accensa	_	VERB	_	_	_	_	_	_
 20	est	_	AUX	_	_	_	_	_	_
 21-22	apicemque	_	_	_	_	_	_	_	_
-21	apicem	_	ADJ	_	_	_	_	_	_
+21	apicem	_	NOUN	_	_	_	_	_	_
 22	que	_	CCONJ	_	_	_	_	_	_
 23	per	_	ADP	_	_	_	_	_	_
 24	aera	_	NOUN	_	_	_	_	_	_
@@ -9040,7 +9040,7 @@
 20	quoque	_	ADV	_	_	_	_	_	_
 21	pectora	_	NOUN	_	_	_	_	_	_
 22	temptat	_	VERB	_	_	_	_	_	_
-23	temptatum	_	VERB	_	_	_	_	_	_
+23	temptatum	_	NOUN	_	_	_	_	_	_
 24	mollescit	_	VERB	_	_	_	_	_	_
 25	ebur	_	NOUN	_	_	_	_	_	_
 26-27	positoque	_	_	_	_	_	_	_	_
@@ -9099,13 +9099,13 @@
 2	erat	_	AUX	_	_	_	_	_	_
 3	saliunt	_	VERB	_	_	_	_	_	_
 4	temptatae	_	VERB	_	_	_	_	_	_
-5	pollice	_	NOUN	_	_	_	_	_	_
+5	pollice	_	ADV	_	_	_	_	_	_
 6	uenae	_	NOUN	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-769
 # text = tum uero Paphius plenissima concipit heros uerba quibus Ueneri grates agat oraque tandem ore suo non falsa premit dataque oscula uirgo sensit et erubuit timidumque ad lumina lumen attollens pariter cum caelo uidit amantem
 1	tum	_	ADV	_	_	_	_	_	_
-2	uero	_	ADV	_	_	_	_	_	_
+2	uero	_	CCONJ	_	_	_	_	_	_
 3	Paphius	_	PROPN	_	_	_	_	_	_
 4	plenissima	_	ADJ	_	_	_	_	_	_
 5	concipit	_	VERB	_	_	_	_	_	_
@@ -9234,12 +9234,12 @@
 8	gratulor	_	VERB	_	_	_	_	_	_
 9	huic	_	DET	_	_	_	_	_	_
 10	terrae	_	NOUN	_	_	_	_	_	_
-11	quod	_	SCONJ	_	_	_	_	_	_
+11	quod	_	PRON	_	_	_	_	_	_
 12	abest	_	VERB	_	_	_	_	_	_
 13	regionibus	_	NOUN	_	_	_	_	_	_
 14	illis	_	DET	_	_	_	_	_	_
 15	quae	_	PRON	_	_	_	_	_	_
-16	tantum	_	DET	_	_	_	_	_	_
+16	tantum	_	ADV	_	_	_	_	_	_
 17	genuere	_	VERB	_	_	_	_	_	_
 18	nefas	_	NOUN	_	_	_	_	_	_
 19	sit	_	AUX	_	_	_	_	_	_
@@ -9338,7 +9338,7 @@
 18	Myrrha	_	PROPN	_	_	_	_	_	_
 19	uirum	_	NOUN	_	_	_	_	_	_
 20	dum	_	SCONJ	_	_	_	_	_	_
-21	ne	_	PART	_	_	_	_	_	_
+21	ne	_	SCONJ	_	_	_	_	_	_
 22	sit	_	AUX	_	_	_	_	_	_
 23	in	_	ADP	_	_	_	_	_	_
 24	omnibus	_	DET	_	_	_	_	_	_
@@ -9403,7 +9403,7 @@
 12	dilectu	_	NOUN	_	_	_	_	_	_
 13	nec	_	CCONJ	_	_	_	_	_	_
 14	habetur	_	VERB	_	_	_	_	_	_
-15	turpe	_	ADV	_	_	_	_	_	_
+15	turpe	_	ADJ	_	_	_	_	_	_
 16	iuuencae	_	NOUN	_	_	_	_	_	_
 17	ferre	_	VERB	_	_	_	_	_	_
 18	patrem	_	NOUN	_	_	_	_	_	_
@@ -9438,13 +9438,13 @@
 2	quibus	_	PRON	_	_	_	_	_	_
 3	ista	_	DET	_	_	_	_	_	_
 4	licent	_	VERB	_	_	_	_	_	_
-5	humana	_	NOUN	_	_	_	_	_	_
-6	malignas	_	NOUN	_	_	_	_	_	_
+5	humana	_	ADJ	_	_	_	_	_	_
+6	malignas	_	ADJ	_	_	_	_	_	_
 7	cura	_	NOUN	_	_	_	_	_	_
 8	dedit	_	VERB	_	_	_	_	_	_
 9	leges	_	NOUN	_	_	_	_	_	_
 10	et	_	CCONJ	_	_	_	_	_	_
-11	quod	_	SCONJ	_	_	_	_	_	_
+11	quod	_	PRON	_	_	_	_	_	_
 12	natura	_	NOUN	_	_	_	_	_	_
 13	remittit	_	VERB	_	_	_	_	_	_
 14	inuida	_	ADJ	_	_	_	_	_	_
@@ -9463,7 +9463,7 @@
 8	nato	_	VERB	_	_	_	_	_	_
 9	genetrix	_	NOUN	_	_	_	_	_	_
 10	et	_	CCONJ	_	_	_	_	_	_
-11	nata	_	NOUN	_	_	_	_	_	_
+11	nata	_	VERB	_	_	_	_	_	_
 12	parenti	_	NOUN	_	_	_	_	_	_
 13	iungitur	_	VERB	_	_	_	_	_	_
 14	et	_	CCONJ	_	_	_	_	_	_
@@ -9475,7 +9475,7 @@
 # sent_id = OvMETAM071114-M-ET-780
 # text = me miseram quod non nasci mihi contigit illic fortunaque loci laedor quid in ista reuoluor spes interdictae discedite dignus amari ille sed ut pater est
 1	me	_	PRON	_	_	_	_	_	_
-2	miseram	_	ADJ	_	_	_	_	_	_
+2	miseram	_	VERB	_	_	_	_	_	_
 3	quod	_	SCONJ	_	_	_	_	_	_
 4	non	_	PART	_	_	_	_	_	_
 5	nasci	_	VERB	_	_	_	_	_	_
@@ -9493,7 +9493,7 @@
 16	reuoluor	_	VERB	_	_	_	_	_	_
 17	spes	_	NOUN	_	_	_	_	_	_
 18	interdictae	_	VERB	_	_	_	_	_	_
-19	discedite	_	VERB	_	_	_	_	_	_
+19	discedite	_	NOUN	_	_	_	_	_	_
 20	dignus	_	ADJ	_	_	_	_	_	_
 21	amari	_	VERB	_	_	_	_	_	_
 22	ille	_	DET	_	_	_	_	_	_
@@ -9566,7 +9566,7 @@
 25	que	_	CCONJ	_	_	_	_	_	_
 26	admoueam	_	VERB	_	_	_	_	_	_
 27	si	_	SCONJ	_	_	_	_	_	_
-28	nil	_	PRON	_	_	_	_	_	_
+28	nil	_	DET	_	_	_	_	_	_
 29	conceditur	_	VERB	_	_	_	_	_	_
 30	ultra	_	ADV	_	_	_	_	_	_
 
@@ -9589,7 +9589,7 @@
 15	sentis	_	VERB	_	_	_	_	_	_
 16-17	tune	_	_	_	_	_	_	_	_
 16	tu	_	PRON	_	_	_	_	_	_
-17	ne	_	PART	_	_	_	_	_	_
+17	ne	_	SCONJ	_	_	_	_	_	_
 18	eris	_	AUX	_	_	_	_	_	_
 19	et	_	CCONJ	_	_	_	_	_	_
 20	matris	_	NOUN	_	_	_	_	_	_
@@ -9599,7 +9599,7 @@
 24	patris	_	NOUN	_	_	_	_	_	_
 25-26	tune	_	_	_	_	_	_	_	_
 25	tu	_	PRON	_	_	_	_	_	_
-26	ne	_	PART	_	_	_	_	_	_
+26	ne	_	SCONJ	_	_	_	_	_	_
 27	soror	_	NOUN	_	_	_	_	_	_
 28	nati	_	NOUN	_	_	_	_	_	_
 29-30	genetrixque	_	_	_	_	_	_	_	_
@@ -9632,15 +9632,15 @@
 55	passa	_	VERB	_	_	_	_	_	_
 56	nefas	_	NOUN	_	_	_	_	_	_
 57	animo	_	NOUN	_	_	_	_	_	_
-58	ne	_	PART	_	_	_	_	_	_
+58	ne	_	SCONJ	_	_	_	_	_	_
 59	concipe	_	VERB	_	_	_	_	_	_
-60	neue	_	SCONJ	_	_	_	_	_	_
+60	neue	_	VERB	_	_	_	_	_	_
 61	potentis	_	ADJ	_	_	_	_	_	_
 62	concubitu	_	NOUN	_	_	_	_	_	_
 63	uetito	_	ADJ	_	_	_	_	_	_
 64	naturae	_	NOUN	_	_	_	_	_	_
 65	pollue	_	VERB	_	_	_	_	_	_
-66	foedus	_	ADJ	_	_	_	_	_	_
+66	foedus	_	NOUN	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-784
 # text = uelle puta res ipsa uetat pius ille memorque est moris et o uellem similis furor esset in illo
@@ -9691,7 +9691,7 @@
 22	silet	_	VERB	_	_	_	_	_	_
 23	primo	_	ADV	_	_	_	_	_	_
 24-25	patriisque	_	_	_	_	_	_	_	_
-24	patriis	_	NOUN	_	_	_	_	_	_
+24	patriis	_	ADJ	_	_	_	_	_	_
 25	que	_	CCONJ	_	_	_	_	_	_
 26	in	_	ADP	_	_	_	_	_	_
 27	uultibus	_	NOUN	_	_	_	_	_	_
@@ -9725,7 +9725,7 @@
 17	nimium	_	ADV	_	_	_	_	_	_
 18	gaudet	_	VERB	_	_	_	_	_	_
 19-20	consultaque	_	_	_	_	_	_	_	_
-19	consulta	_	NOUN	_	_	_	_	_	_
+19	consulta	_	VERB	_	_	_	_	_	_
 20	que	_	CCONJ	_	_	_	_	_	_
 21	qualem	_	DET	_	_	_	_	_	_
 22	optet	_	VERB	_	_	_	_	_	_
@@ -9763,7 +9763,7 @@
 # text = noctis erat medium curasque et corpora somnus soluerat at uirgo Cinyreia peruigil igni carpitur indomito furiosaque uota retractat et modo desperat modo uult temptare pudetque et cupit et quid agat non inuenit utque securi saucia trabs ingens ubi plaga nouissima restat quo cadat in dubio est omnique a parte timetur sic animus uario labefactus uulnere nutat huc leuis atque illuc momentaque sumit utroque nec modus et requies nisi mors reperitur amoris
 1	noctis	_	NOUN	_	_	_	_	_	_
 2	erat	_	AUX	_	_	_	_	_	_
-3	medium	_	NOUN	_	_	_	_	_	_
+3	medium	_	ADJ	_	_	_	_	_	_
 4-5	curasque	_	_	_	_	_	_	_	_
 4	curas	_	NOUN	_	_	_	_	_	_
 5	que	_	CCONJ	_	_	_	_	_	_
@@ -9802,7 +9802,7 @@
 36-37	utque	_	_	_	_	_	_	_	_
 36	ut	_	SCONJ	_	_	_	_	_	_
 37	que	_	CCONJ	_	_	_	_	_	_
-38	securi	_	NOUN	_	_	_	_	_	_
+38	securi	_	ADJ	_	_	_	_	_	_
 39	saucia	_	ADJ	_	_	_	_	_	_
 40	trabs	_	NOUN	_	_	_	_	_	_
 41	ingens	_	ADJ	_	_	_	_	_	_
@@ -9823,7 +9823,7 @@
 55	timetur	_	VERB	_	_	_	_	_	_
 56	sic	_	ADV	_	_	_	_	_	_
 57	animus	_	NOUN	_	_	_	_	_	_
-58	uario	_	ADJ	_	_	_	_	_	_
+58	uario	_	NOUN	_	_	_	_	_	_
 59	labefactus	_	VERB	_	_	_	_	_	_
 60	uulnere	_	NOUN	_	_	_	_	_	_
 61	nutat	_	VERB	_	_	_	_	_	_
@@ -9866,7 +9866,7 @@
 11	poste	_	NOUN	_	_	_	_	_	_
 12	reuincta	_	VERB	_	_	_	_	_	_
 13	care	_	VERB	_	_	_	_	_	_
-14	uale	_	VERB	_	_	_	_	_	_
+14	uale	_	ADJ	_	_	_	_	_	_
 15	Cinyra	_	PROPN	_	_	_	_	_	_
 16-17	causamque	_	_	_	_	_	_	_	_
 16	causam	_	NOUN	_	_	_	_	_	_
@@ -9934,7 +9934,7 @@
 28	uacauit	_	VERB	_	_	_	_	_	_
 29	tum	_	ADV	_	_	_	_	_	_
 30	dare	_	VERB	_	_	_	_	_	_
-31	conplexus	_	NOUN	_	_	_	_	_	_
+31	conplexus	_	VERB	_	_	_	_	_	_
 32-33	laqueique	_	_	_	_	_	_	_	_
 32	laquei	_	NOUN	_	_	_	_	_	_
 33	que	_	CCONJ	_	_	_	_	_	_
@@ -9968,7 +9968,7 @@
 5	suos	_	DET	_	_	_	_	_	_
 6	et	_	CCONJ	_	_	_	_	_	_
 7	inania	_	ADJ	_	_	_	_	_	_
-8	nudans	_	ADJ	_	_	_	_	_	_
+8	nudans	_	VERB	_	_	_	_	_	_
 9	ubera	_	NOUN	_	_	_	_	_	_
 10	per	_	ADP	_	_	_	_	_	_
 11	cunas	_	NOUN	_	_	_	_	_	_
@@ -10043,8 +10043,8 @@
 # sent_id = OvMETAM071114-M-ET-799
 # text = quid rear ulterius certe fortuna domusque sospes et in cursu est uiuunt genetrixque paterque
 1	quid	_	PRON	_	_	_	_	_	_
-2	rear	_	NOUN	_	_	_	_	_	_
-3	ulterius	_	ADJ	_	_	_	_	_	_
+2	rear	_	VERB	_	_	_	_	_	_
+3	ulterius	_	ADV	_	_	_	_	_	_
 4	certe	_	ADV	_	_	_	_	_	_
 5	fortuna	_	NOUN	_	_	_	_	_	_
 6-7	domusque	_	_	_	_	_	_	_	_
@@ -10071,7 +10071,7 @@
 4	suspiria	_	NOUN	_	_	_	_	_	_
 5	duxit	_	VERB	_	_	_	_	_	_
 6	ab	_	ADP	_	_	_	_	_	_
-7	imo	_	NOUN	_	_	_	_	_	_
+7	imo	_	ADJ	_	_	_	_	_	_
 8	pectore	_	NOUN	_	_	_	_	_	_
 9	nec	_	CCONJ	_	_	_	_	_	_
 10	nutrix	_	NOUN	_	_	_	_	_	_
@@ -10098,13 +10098,13 @@
 29	indicet	_	VERB	_	_	_	_	_	_
 30	et	_	CCONJ	_	_	_	_	_	_
 31	gremio	_	NOUN	_	_	_	_	_	_
-32	lacrimantem	_	ADJ	_	_	_	_	_	_
+32	lacrimantem	_	VERB	_	_	_	_	_	_
 33	tollit	_	VERB	_	_	_	_	_	_
 34	anili	_	NOUN	_	_	_	_	_	_
 35	atque	_	CCONJ	_	_	_	_	_	_
 36	ita	_	ADV	_	_	_	_	_	_
 37	conplectens	_	VERB	_	_	_	_	_	_
-38	infirmis	_	ADJ	_	_	_	_	_	_
+38	infirmis	_	NOUN	_	_	_	_	_	_
 39	membra	_	NOUN	_	_	_	_	_	_
 40	lacertis	_	NOUN	_	_	_	_	_	_
 41	sensimus	_	VERB	_	_	_	_	_	_
@@ -10142,12 +10142,12 @@
 10	misero	_	ADJ	_	_	_	_	_	_
 11	que	_	CCONJ	_	_	_	_	_	_
 12	pudori	_	NOUN	_	_	_	_	_	_
-13	parce	_	ADV	_	_	_	_	_	_
+13	parce	_	VERB	_	_	_	_	_	_
 14	ait	_	VERB	_	_	_	_	_	_
 15	instanti	_	VERB	_	_	_	_	_	_
 16	discede	_	VERB	_	_	_	_	_	_
 17	aut	_	CCONJ	_	_	_	_	_	_
-18	desine	_	ADV	_	_	_	_	_	_
+18	desine	_	VERB	_	_	_	_	_	_
 19	dixit	_	VERB	_	_	_	_	_	_
 20	quaerere	_	VERB	_	_	_	_	_	_
 21	quid	_	PRON	_	_	_	_	_	_
@@ -10163,7 +10163,7 @@
 1	horret	_	VERB	_	_	_	_	_	_
 2	anus	_	NOUN	_	_	_	_	_	_
 3-4	tremulasque	_	_	_	_	_	_	_	_
-3	tremulas	_	NOUN	_	_	_	_	_	_
+3	tremulas	_	ADJ	_	_	_	_	_	_
 4	que	_	CCONJ	_	_	_	_	_	_
 5	manus	_	NOUN	_	_	_	_	_	_
 6-7	annisque	_	_	_	_	_	_	_	_
@@ -10255,7 +10255,7 @@
 9	penetrat	_	VERB	_	_	_	_	_	_
 10	tremor	_	NOUN	_	_	_	_	_	_
 11-12	albaque	_	_	_	_	_	_	_	_
-11	alba	_	NOUN	_	_	_	_	_	_
+11	alba	_	ADJ	_	_	_	_	_	_
 12	que	_	CCONJ	_	_	_	_	_	_
 13	toto	_	DET	_	_	_	_	_	_
 14	uertice	_	NOUN	_	_	_	_	_	_
@@ -10265,7 +10265,7 @@
 18	hirta	_	NOUN	_	_	_	_	_	_
 19	capillis	_	NOUN	_	_	_	_	_	_
 20-21	multaque	_	_	_	_	_	_	_	_
-20	multa	_	NOUN	_	_	_	_	_	_
+20	multa	_	ADJ	_	_	_	_	_	_
 21	que	_	CCONJ	_	_	_	_	_	_
 22	ut	_	SCONJ	_	_	_	_	_	_
 23	excuteret	_	VERB	_	_	_	_	_	_
@@ -10298,8 +10298,8 @@
 1	uiue	_	ADV	_	_	_	_	_	_
 2	ait	_	VERB	_	_	_	_	_	_
 3	haec	_	DET	_	_	_	_	_	_
-4	potiere	_	VERB	_	_	_	_	_	_
-5	tuo	_	NOUN	_	_	_	_	_	_
+4	potiere	_	NOUN	_	_	_	_	_	_
+5	tuo	_	DET	_	_	_	_	_	_
 6	et	_	CCONJ	_	_	_	_	_	_
 7	non	_	PART	_	_	_	_	_	_
 8	ausa	_	VERB	_	_	_	_	_	_
@@ -10318,7 +10318,7 @@
 2	piae	_	ADJ	_	_	_	_	_	_
 3	Cereris	_	PROPN	_	_	_	_	_	_
 4	celebrabant	_	VERB	_	_	_	_	_	_
-5	annua	_	ADJ	_	_	_	_	_	_
+5	annua	_	NOUN	_	_	_	_	_	_
 6	matres	_	NOUN	_	_	_	_	_	_
 7	illa	_	DET	_	_	_	_	_	_
 8	quibus	_	PRON	_	_	_	_	_	_
@@ -10331,7 +10331,7 @@
 15	dant	_	VERB	_	_	_	_	_	_
 16	spicea	_	NOUN	_	_	_	_	_	_
 17	serta	_	ADJ	_	_	_	_	_	_
-18	suarum	_	ADJ	_	_	_	_	_	_
+18	suarum	_	DET	_	_	_	_	_	_
 19-20	perque	_	_	_	_	_	_	_	_
 19	per	_	ADP	_	_	_	_	_	_
 20	que	_	CCONJ	_	_	_	_	_	_
@@ -10353,7 +10353,7 @@
 35	adest	_	VERB	_	_	_	_	_	_
 36	coniunx	_	NOUN	_	_	_	_	_	_
 37-38	arcanaque	_	_	_	_	_	_	_	_
-37	arcana	_	NOUN	_	_	_	_	_	_
+37	arcana	_	ADJ	_	_	_	_	_	_
 38	que	_	CCONJ	_	_	_	_	_	_
 39	sacra	_	NOUN	_	_	_	_	_	_
 40	frequentat	_	VERB	_	_	_	_	_	_
@@ -10361,7 +10361,7 @@
 # sent_id = OvMETAM071114-M-ET-809
 # text = ergo legitima uacuus dum coniuge lectus nacta grauem uino Cinyran male sedula nutrix nomine mentito ueros exponit amores et faciem laudat quaesitis uirginis annis par ait est Myrrhae
 1	ergo	_	CCONJ	_	_	_	_	_	_
-2	legitima	_	NOUN	_	_	_	_	_	_
+2	legitima	_	ADJ	_	_	_	_	_	_
 3	uacuus	_	ADJ	_	_	_	_	_	_
 4	dum	_	SCONJ	_	_	_	_	_	_
 5	coniuge	_	NOUN	_	_	_	_	_	_
@@ -10375,14 +10375,14 @@
 13	nutrix	_	NOUN	_	_	_	_	_	_
 14	nomine	_	NOUN	_	_	_	_	_	_
 15	mentito	_	VERB	_	_	_	_	_	_
-16	ueros	_	ADJ	_	_	_	_	_	_
+16	ueros	_	NOUN	_	_	_	_	_	_
 17	exponit	_	VERB	_	_	_	_	_	_
 18	amores	_	NOUN	_	_	_	_	_	_
 19	et	_	CCONJ	_	_	_	_	_	_
 20	faciem	_	NOUN	_	_	_	_	_	_
 21	laudat	_	VERB	_	_	_	_	_	_
 22	quaesitis	_	VERB	_	_	_	_	_	_
-23	uirginis	_	NOUN	_	_	_	_	_	_
+23	uirginis	_	ADJ	_	_	_	_	_	_
 24	annis	_	NOUN	_	_	_	_	_	_
 25	par	_	ADJ	_	_	_	_	_	_
 26	ait	_	VERB	_	_	_	_	_	_
@@ -10420,7 +10420,7 @@
 25	maerent	_	VERB	_	_	_	_	_	_
 26	sed	_	CCONJ	_	_	_	_	_	_
 27	tamen	_	ADV	_	_	_	_	_	_
-28	et	_	ADV	_	_	_	_	_	_
+28	et	_	CCONJ	_	_	_	_	_	_
 29	gaudet	_	VERB	_	_	_	_	_	_
 30	tanta	_	DET	_	_	_	_	_	_
 31	est	_	AUX	_	_	_	_	_	_
@@ -10453,8 +10453,8 @@
 21	caelo	_	NOUN	_	_	_	_	_	_
 22	luna	_	NOUN	_	_	_	_	_	_
 23	tegunt	_	VERB	_	_	_	_	_	_
-24	nigrae	_	NOUN	_	_	_	_	_	_
-25	latitantia	_	NOUN	_	_	_	_	_	_
+24	nigrae	_	ADJ	_	_	_	_	_	_
+25	latitantia	_	VERB	_	_	_	_	_	_
 26	sidera	_	NOUN	_	_	_	_	_	_
 27	nubes	_	NOUN	_	_	_	_	_	_
 28	nox	_	NOUN	_	_	_	_	_	_
@@ -10475,13 +10475,13 @@
 
 # sent_id = OvMETAM071114-M-ET-812
 # text = ter pedis offensi signo est reuocata ter omen funereus bubo letali carmine fecit it tamen et tenebrae minuunt noxque atra pudorem nutricisque manum laeua tenet altera motu caecum iter explorat
-1	ter	_	ADJ	_	_	_	_	_	_
+1	ter	_	ADV	_	_	_	_	_	_
 2	pedis	_	NOUN	_	_	_	_	_	_
 3	offensi	_	NOUN	_	_	_	_	_	_
 4	signo	_	NOUN	_	_	_	_	_	_
 5	est	_	AUX	_	_	_	_	_	_
 6	reuocata	_	VERB	_	_	_	_	_	_
-7	ter	_	ADJ	_	_	_	_	_	_
+7	ter	_	ADV	_	_	_	_	_	_
 8	omen	_	NOUN	_	_	_	_	_	_
 9	funereus	_	ADJ	_	_	_	_	_	_
 10	bubo	_	NOUN	_	_	_	_	_	_
@@ -10526,7 +10526,7 @@
 11	intus	_	ADV	_	_	_	_	_	_
 12	at	_	CCONJ	_	_	_	_	_	_
 13	illi	_	DET	_	_	_	_	_	_
-14	poplite	_	NOUN	_	_	_	_	_	_
+14	poplite	_	VERB	_	_	_	_	_	_
 15	succiduo	_	NOUN	_	_	_	_	_	_
 16	genua	_	NOUN	_	_	_	_	_	_
 17	intremuere	_	VERB	_	_	_	_	_	_
@@ -10555,7 +10555,7 @@
 7	magis	_	ADV	_	_	_	_	_	_
 8	horret	_	VERB	_	_	_	_	_	_
 9	et	_	CCONJ	_	_	_	_	_	_
-10	ausi	_	VERB	_	_	_	_	_	_
+10	ausi	_	NOUN	_	_	_	_	_	_
 11	paenitet	_	VERB	_	_	_	_	_	_
 12	et	_	CCONJ	_	_	_	_	_	_
 13	uellet	_	VERB	_	_	_	_	_	_
@@ -10573,7 +10573,7 @@
 5	et	_	CCONJ	_	_	_	_	_	_
 6	alto	_	NOUN	_	_	_	_	_	_
 7	admotam	_	VERB	_	_	_	_	_	_
-8	lecto	_	VERB	_	_	_	_	_	_
+8	lecto	_	NOUN	_	_	_	_	_	_
 9	cum	_	SCONJ	_	_	_	_	_	_
 10	traderet	_	VERB	_	_	_	_	_	_
 11	accipe	_	VERB	_	_	_	_	_	_
@@ -10591,7 +10591,7 @@
 # sent_id = OvMETAM071114-M-ET-816
 # text = accipit obsceno genitor sua uiscera lecto uirgineosque metus leuat hortaturque timentem
 1	accipit	_	VERB	_	_	_	_	_	_
-2	obsceno	_	ADJ	_	_	_	_	_	_
+2	obsceno	_	VERB	_	_	_	_	_	_
 3	genitor	_	NOUN	_	_	_	_	_	_
 4	sua	_	DET	_	_	_	_	_	_
 5	uiscera	_	NOUN	_	_	_	_	_	_
@@ -10626,7 +10626,7 @@
 # sent_id = OvMETAM071114-M-ET-818
 # text = plena patris thalamis excedit et inpia diro semina fert utero conceptaque crimina portat
 1	plena	_	ADJ	_	_	_	_	_	_
-2	patris	_	ADJ	_	_	_	_	_	_
+2	patris	_	NOUN	_	_	_	_	_	_
 3	thalamis	_	NOUN	_	_	_	_	_	_
 4	excedit	_	VERB	_	_	_	_	_	_
 5	et	_	CCONJ	_	_	_	_	_	_
@@ -10634,7 +10634,7 @@
 7	diro	_	NOUN	_	_	_	_	_	_
 8	semina	_	NOUN	_	_	_	_	_	_
 9	fert	_	VERB	_	_	_	_	_	_
-10	utero	_	NOUN	_	_	_	_	_	_
+10	utero	_	ADV	_	_	_	_	_	_
 11-12	conceptaque	_	_	_	_	_	_	_	_
 11	concepta	_	VERB	_	_	_	_	_	_
 12	que	_	CCONJ	_	_	_	_	_	_
@@ -10674,10 +10674,10 @@
 28	dolore	_	NOUN	_	_	_	_	_	_
 29	retentis	_	VERB	_	_	_	_	_	_
 30	pendenti	_	VERB	_	_	_	_	_	_
-31	nitidum	_	ADJ	_	_	_	_	_	_
+31	nitidum	_	ADV	_	_	_	_	_	_
 32	uagina	_	NOUN	_	_	_	_	_	_
 33	deripit	_	VERB	_	_	_	_	_	_
-34	ensem	_	ADJ	_	_	_	_	_	_
+34	ensem	_	NOUN	_	_	_	_	_	_
 35	Myrrha	_	PROPN	_	_	_	_	_	_
 36	fugit	_	VERB	_	_	_	_	_	_
 37-38	tenebrisque	_	_	_	_	_	_	_	_
@@ -10688,7 +10688,7 @@
 41	munere	_	NOUN	_	_	_	_	_	_
 42	noctis	_	NOUN	_	_	_	_	_	_
 43	intercepta	_	VERB	_	_	_	_	_	_
-44	neci	_	ADJ	_	_	_	_	_	_
+44	neci	_	NOUN	_	_	_	_	_	_
 45	est	_	AUX	_	_	_	_	_	_
 46-47	latosque	_	_	_	_	_	_	_	_
 46	latos	_	NOUN	_	_	_	_	_	_
@@ -10706,7 +10706,7 @@
 57-58	perque	_	_	_	_	_	_	_	_
 57	per	_	ADP	_	_	_	_	_	_
 58	que	_	CCONJ	_	_	_	_	_	_
-59	nouem	_	ADJ	_	_	_	_	_	_
+59	nouem	_	NUM	_	_	_	_	_	_
 60	errauit	_	VERB	_	_	_	_	_	_
 61	redeuntis	_	VERB	_	_	_	_	_	_
 62	cornua	_	NOUN	_	_	_	_	_	_
@@ -10716,7 +10716,7 @@
 66	terra	_	NOUN	_	_	_	_	_	_
 67	requieuit	_	VERB	_	_	_	_	_	_
 68	fessa	_	NOUN	_	_	_	_	_	_
-69	Sabaea	_	ADJ	_	_	_	_	_	_
+69	Sabaea	_	PROPN	_	_	_	_	_	_
 70-71	uixque	_	_	_	_	_	_	_	_
 70	uix	_	ADV	_	_	_	_	_	_
 71	que	_	CCONJ	_	_	_	_	_	_
@@ -10727,7 +10727,7 @@
 # sent_id = OvMETAM071114-M-ET-820
 # text = tum nescia uoti atque inter mortisque metus et taedia uitae est tales conplexa preces o si qua patetis numina confessis merui nec triste recuso supplicium sed ne uiolem uiuosque superstes mortuaque exstinctos ambobus pellite regnis mutataeque mihi uitamque necemque negate
 1	tum	_	ADV	_	_	_	_	_	_
-2	nescia	_	ADJ	_	_	_	_	_	_
+2	nescia	_	NOUN	_	_	_	_	_	_
 3	uoti	_	NOUN	_	_	_	_	_	_
 4	atque	_	CCONJ	_	_	_	_	_	_
 5	inter	_	ADP	_	_	_	_	_	_
@@ -10745,19 +10745,19 @@
 16	o	_	INTJ	_	_	_	_	_	_
 17	si	_	SCONJ	_	_	_	_	_	_
 18	qua	_	PRON	_	_	_	_	_	_
-19	patetis	_	VERB	_	_	_	_	_	_
+19	patetis	_	NOUN	_	_	_	_	_	_
 20	numina	_	NOUN	_	_	_	_	_	_
 21	confessis	_	VERB	_	_	_	_	_	_
 22	merui	_	VERB	_	_	_	_	_	_
 23	nec	_	CCONJ	_	_	_	_	_	_
-24	triste	_	ADV	_	_	_	_	_	_
+24	triste	_	ADJ	_	_	_	_	_	_
 25	recuso	_	VERB	_	_	_	_	_	_
 26	supplicium	_	NOUN	_	_	_	_	_	_
 27	sed	_	CCONJ	_	_	_	_	_	_
 28	ne	_	SCONJ	_	_	_	_	_	_
-29	uiolem	_	ADJ	_	_	_	_	_	_
+29	uiolem	_	VERB	_	_	_	_	_	_
 30-31	uiuosque	_	_	_	_	_	_	_	_
-30	uiuos	_	ADJ	_	_	_	_	_	_
+30	uiuos	_	NOUN	_	_	_	_	_	_
 31	que	_	CCONJ	_	_	_	_	_	_
 32	superstes	_	NOUN	_	_	_	_	_	_
 33-34	mortuaque	_	_	_	_	_	_	_	_
@@ -10765,7 +10765,7 @@
 34	que	_	CCONJ	_	_	_	_	_	_
 35	exstinctos	_	VERB	_	_	_	_	_	_
 36	ambobus	_	DET	_	_	_	_	_	_
-37	pellite	_	VERB	_	_	_	_	_	_
+37	pellite	_	NOUN	_	_	_	_	_	_
 38	regnis	_	NOUN	_	_	_	_	_	_
 39-40	mutataeque	_	_	_	_	_	_	_	_
 39	mutatae	_	VERB	_	_	_	_	_	_
@@ -10809,7 +10809,7 @@
 12	radix	_	NOUN	_	_	_	_	_	_
 13	longi	_	ADJ	_	_	_	_	_	_
 14	firmamina	_	NOUN	_	_	_	_	_	_
-15	trunci	_	NOUN	_	_	_	_	_	_
+15	trunci	_	ADJ	_	_	_	_	_	_
 16-17	ossaque	_	_	_	_	_	_	_	_
 16	ossa	_	NOUN	_	_	_	_	_	_
 17	que	_	CCONJ	_	_	_	_	_	_
@@ -10821,7 +10821,7 @@
 22	manente	_	VERB	_	_	_	_	_	_
 23	medulla	_	NOUN	_	_	_	_	_	_
 24	sanguis	_	NOUN	_	_	_	_	_	_
-25	it	_	VERB	_	_	_	_	_	_
+25	it	_	SCONJ	_	_	_	_	_	_
 26	in	_	ADP	_	_	_	_	_	_
 27	sucos	_	NOUN	_	_	_	_	_	_
 28	in	_	ADP	_	_	_	_	_	_
@@ -10883,8 +10883,8 @@
 7	sensus	_	NOUN	_	_	_	_	_	_
 8	flet	_	VERB	_	_	_	_	_	_
 9	tamen	_	ADV	_	_	_	_	_	_
-10	et	_	CCONJ	_	_	_	_	_	_
-11	tepidae	_	ADJ	_	_	_	_	_	_
+10	et	_	ADV	_	_	_	_	_	_
+11	tepidae	_	NOUN	_	_	_	_	_	_
 12	manant	_	VERB	_	_	_	_	_	_
 13	ex	_	ADP	_	_	_	_	_	_
 14	arbore	_	NOUN	_	_	_	_	_	_
@@ -10900,7 +10900,7 @@
 5	stillata	_	VERB	_	_	_	_	_	_
 6	que	_	CCONJ	_	_	_	_	_	_
 7	cortice	_	NOUN	_	_	_	_	_	_
-8	murra	_	NOUN	_	_	_	_	_	_
+8	murra	_	ADJ	_	_	_	_	_	_
 9	nomen	_	NOUN	_	_	_	_	_	_
 10	erile	_	ADJ	_	_	_	_	_	_
 11	tenet	_	VERB	_	_	_	_	_	_
@@ -10958,7 +10958,7 @@
 3	est	_	AUX	_	_	_	_	_	_
 4	similis	_	ADJ	_	_	_	_	_	_
 5-6	curuataque	_	_	_	_	_	_	_	_
-5	curuata	_	NOUN	_	_	_	_	_	_
+5	curuata	_	ADJ	_	_	_	_	_	_
 6	que	_	CCONJ	_	_	_	_	_	_
 7	crebros	_	ADJ	_	_	_	_	_	_
 8	dat	_	VERB	_	_	_	_	_	_
@@ -11034,7 +11034,7 @@
 22	leues	_	ADJ	_	_	_	_	_	_
 23	aut	_	CCONJ	_	_	_	_	_	_
 24	illis	_	DET	_	_	_	_	_	_
-25	deme	_	VERB	_	_	_	_	_	_
+25	deme	_	ADV	_	_	_	_	_	_
 26	pharetras	_	NOUN	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-831
@@ -11090,7 +11090,7 @@
 # sent_id = OvMETAM071114-M-ET-832
 # text = namque pharetratus dum dat puer oscula matri inscius exstanti destrinxit harundine pectus laesa manu natum dea reppulit altius actum uulnus erat specie primoque fefellerat ipsam
 1	namque	_	PART	_	_	_	_	_	_
-2	pharetratus	_	NOUN	_	_	_	_	_	_
+2	pharetratus	_	VERB	_	_	_	_	_	_
 3	dum	_	SCONJ	_	_	_	_	_	_
 4	dat	_	VERB	_	_	_	_	_	_
 5	puer	_	NOUN	_	_	_	_	_	_
@@ -11140,7 +11140,7 @@
 18-19	grauidamue	_	_	_	_	_	_	_	_
 18	grauidam	_	ADJ	_	_	_	_	_	_
 19	ue	_	CCONJ	_	_	_	_	_	_
-20	amathunta	_	VERB	_	_	_	_	_	_
+20	amathunta	_	ADJ	_	_	_	_	_	_
 21	metallis	_	NOUN	_	_	_	_	_	_
 22	abstinet	_	VERB	_	_	_	_	_	_
 23	et	_	CCONJ	_	_	_	_	_	_
@@ -11180,7 +11180,7 @@
 24	uagatur	_	VERB	_	_	_	_	_	_
 25	fine	_	NOUN	_	_	_	_	_	_
 26	genus	_	NOUN	_	_	_	_	_	_
-27	uestem	_	NOUN	_	_	_	_	_	_
+27	uestem	_	DET	_	_	_	_	_	_
 28	ritu	_	NOUN	_	_	_	_	_	_
 29	succincta	_	VERB	_	_	_	_	_	_
 30	Dianae	_	PROPN	_	_	_	_	_	_
@@ -11205,7 +11205,7 @@
 47	agitat	_	VERB	_	_	_	_	_	_
 48	dammas	_	NOUN	_	_	_	_	_	_
 49	a	_	ADP	_	_	_	_	_	_
-50	fortibus	_	ADJ	_	_	_	_	_	_
+50	fortibus	_	NOUN	_	_	_	_	_	_
 51	abstinet	_	VERB	_	_	_	_	_	_
 52	apris	_	NOUN	_	_	_	_	_	_
 53-54	raptoresque	_	_	_	_	_	_	_	_
@@ -11216,7 +11216,7 @@
 56	armatos	_	ADJ	_	_	_	_	_	_
 57	que	_	CCONJ	_	_	_	_	_	_
 58	unguibus	_	NOUN	_	_	_	_	_	_
-59	ursos	_	NOUN	_	_	_	_	_	_
+59	ursos	_	ADJ	_	_	_	_	_	_
 60	uitat	_	VERB	_	_	_	_	_	_
 61	et	_	CCONJ	_	_	_	_	_	_
 62	armenti	_	NOUN	_	_	_	_	_	_
@@ -11245,7 +11245,7 @@
 16	esto	_	AUX	_	_	_	_	_	_
 17	inquit	_	VERB	_	_	_	_	_	_
 18	in	_	ADP	_	_	_	_	_	_
-19	audaces	_	ADJ	_	_	_	_	_	_
+19	audaces	_	NOUN	_	_	_	_	_	_
 20	non	_	PART	_	_	_	_	_	_
 21	est	_	AUX	_	_	_	_	_	_
 22	audacia	_	NOUN	_	_	_	_	_	_
@@ -11260,7 +11260,7 @@
 5	esse	_	AUX	_	_	_	_	_	_
 6	periclo	_	VERB	_	_	_	_	_	_
 7	neue	_	SCONJ	_	_	_	_	_	_
-8	feras	_	VERB	_	_	_	_	_	_
+8	feras	_	NOUN	_	_	_	_	_	_
 9	quibus	_	PRON	_	_	_	_	_	_
 10	arma	_	NOUN	_	_	_	_	_	_
 11	dedit	_	VERB	_	_	_	_	_	_
@@ -11268,7 +11268,7 @@
 13	lacesse	_	VERB	_	_	_	_	_	_
 14	stet	_	VERB	_	_	_	_	_	_
 15	mihi	_	PRON	_	_	_	_	_	_
-16	ne	_	PART	_	_	_	_	_	_
+16	ne	_	SCONJ	_	_	_	_	_	_
 17	magno	_	ADJ	_	_	_	_	_	_
 18	tua	_	DET	_	_	_	_	_	_
 19	gloria	_	NOUN	_	_	_	_	_	_
@@ -11310,7 +11310,7 @@
 9	est	_	AUX	_	_	_	_	_	_
 10	fuluis	_	NOUN	_	_	_	_	_	_
 11	et	_	CCONJ	_	_	_	_	_	_
-12	uasta	_	NOUN	_	_	_	_	_	_
+12	uasta	_	ADJ	_	_	_	_	_	_
 13	leonibus	_	NOUN	_	_	_	_	_	_
 14	ira	_	NOUN	_	_	_	_	_	_
 15-16	inuisumque	_	_	_	_	_	_	_	_
@@ -11342,8 +11342,8 @@
 5	me	_	PRON	_	_	_	_	_	_
 6	lassauit	_	VERB	_	_	_	_	_	_
 7	et	_	CCONJ	_	_	_	_	_	_
-8	ecce	_	INTJ	_	_	_	_	_	_
-9	opportuna	_	NOUN	_	_	_	_	_	_
+8	ecce	_	ADV	_	_	_	_	_	_
+9	opportuna	_	ADJ	_	_	_	_	_	_
 10	sua	_	DET	_	_	_	_	_	_
 11	blanditur	_	VERB	_	_	_	_	_	_
 12	populus	_	NOUN	_	_	_	_	_	_
@@ -11389,7 +11389,7 @@
 48	aliquam	_	PRON	_	_	_	_	_	_
 49	certamine	_	NOUN	_	_	_	_	_	_
 50	cursus	_	NOUN	_	_	_	_	_	_
-51	ueloces	_	ADJ	_	_	_	_	_	_
+51	ueloces	_	NOUN	_	_	_	_	_	_
 52	superasse	_	VERB	_	_	_	_	_	_
 53	uiros	_	NOUN	_	_	_	_	_	_
 54	non	_	PART	_	_	_	_	_	_
@@ -11441,7 +11441,7 @@
 4	te	_	PRON	_	_	_	_	_	_
 5	que	_	CCONJ	_	_	_	_	_	_
 6	ipsa	_	DET	_	_	_	_	_	_
-7	uiua	_	ADJ	_	_	_	_	_	_
+7	uiua	_	NOUN	_	_	_	_	_	_
 8	carebis	_	VERB	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-844
@@ -11451,11 +11451,11 @@
 3	dei	_	NOUN	_	_	_	_	_	_
 4	per	_	ADP	_	_	_	_	_	_
 5	opacas	_	ADJ	_	_	_	_	_	_
-6	innuba	_	NOUN	_	_	_	_	_	_
+6	innuba	_	ADJ	_	_	_	_	_	_
 7	siluas	_	NOUN	_	_	_	_	_	_
 8	uiuit	_	VERB	_	_	_	_	_	_
 9	et	_	CCONJ	_	_	_	_	_	_
-10	instantem	_	ADJ	_	_	_	_	_	_
+10	instantem	_	VERB	_	_	_	_	_	_
 11	turbam	_	NOUN	_	_	_	_	_	_
 12	uiolenta	_	ADJ	_	_	_	_	_	_
 13	procorum	_	NOUN	_	_	_	_	_	_
@@ -11478,8 +11478,8 @@
 3	me	_	PRON	_	_	_	_	_	_
 4	cum	_	ADP	_	_	_	_	_	_
 5	praemia	_	NOUN	_	_	_	_	_	_
-6	ueloci	_	VERB	_	_	_	_	_	_
-7	coniunx	_	VERB	_	_	_	_	_	_
+6	ueloci	_	NOUN	_	_	_	_	_	_
+7	coniunx	_	NOUN	_	_	_	_	_	_
 8-9	thalamique	_	_	_	_	_	_	_	_
 8	thalami	_	NOUN	_	_	_	_	_	_
 9	que	_	CCONJ	_	_	_	_	_	_
@@ -11496,7 +11496,7 @@
 # text = illa quidem inmitis sed tanta potentia formae est uenit ad hanc legem temeraria turba procorum
 1	illa	_	DET	_	_	_	_	_	_
 2	quidem	_	PART	_	_	_	_	_	_
-3	inmitis	_	VERB	_	_	_	_	_	_
+3	inmitis	_	ADJ	_	_	_	_	_	_
 4	sed	_	CCONJ	_	_	_	_	_	_
 5	tanta	_	DET	_	_	_	_	_	_
 6	potentia	_	NOUN	_	_	_	_	_	_
@@ -11523,7 +11523,7 @@
 9	per	_	ADP	_	_	_	_	_	_
 10	tanta	_	DET	_	_	_	_	_	_
 11	pericula	_	NOUN	_	_	_	_	_	_
-12	coniunx	_	ADJ	_	_	_	_	_	_
+12	coniunx	_	VERB	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-848
 # text = dixerat ac nimios iuuenum damnarat amores ut faciem et posito corpus uelamine uidit quale meum uel quale tuum si femina fias obstipuit tollensque manus ignoscite dixit quos modo culpaui nondum mihi praemia nota quae peteretis erant
@@ -11561,7 +11561,7 @@
 31	nondum	_	ADV	_	_	_	_	_	_
 32	mihi	_	PRON	_	_	_	_	_	_
 33	praemia	_	NOUN	_	_	_	_	_	_
-34	nota	_	VERB	_	_	_	_	_	_
+34	nota	_	ADJ	_	_	_	_	_	_
 35	quae	_	PRON	_	_	_	_	_	_
 36	peteretis	_	VERB	_	_	_	_	_	_
 37	erant	_	AUX	_	_	_	_	_	_
@@ -11594,7 +11594,7 @@
 7	fortuna	_	NOUN	_	_	_	_	_	_
 8	relinquitur	_	VERB	_	_	_	_	_	_
 9	inquit	_	VERB	_	_	_	_	_	_
-10	audentes	_	ADJ	_	_	_	_	_	_
+10	audentes	_	VERB	_	_	_	_	_	_
 11	deus	_	NOUN	_	_	_	_	_	_
 12	ipse	_	DET	_	_	_	_	_	_
 13	iuuat	_	VERB	_	_	_	_	_	_
@@ -11618,7 +11618,7 @@
 4	non	_	PART	_	_	_	_	_	_
 5	setius	_	ADV	_	_	_	_	_	_
 6	ire	_	VERB	_	_	_	_	_	_
-7	sagitta	_	VERB	_	_	_	_	_	_
+7	sagitta	_	NOUN	_	_	_	_	_	_
 8	Aonio	_	PROPN	_	_	_	_	_	_
 9	uisa	_	VERB	_	_	_	_	_	_
 10	est	_	AUX	_	_	_	_	_	_
@@ -11671,7 +11671,7 @@
 30	cum	_	SCONJ	_	_	_	_	_	_
 31	super	_	ADP	_	_	_	_	_	_
 32	atria	_	NOUN	_	_	_	_	_	_
-33	uelum	_	ADJ	_	_	_	_	_	_
+33	uelum	_	NOUN	_	_	_	_	_	_
 34	candida	_	NOUN	_	_	_	_	_	_
 35	purpureum	_	NOUN	_	_	_	_	_	_
 36	simulatas	_	VERB	_	_	_	_	_	_
@@ -11757,7 +11757,7 @@
 17	est	_	AUX	_	_	_	_	_	_
 18	Neptunus	_	PROPN	_	_	_	_	_	_
 19	auus	_	NOUN	_	_	_	_	_	_
-20	pronepos	_	ADJ	_	_	_	_	_	_
+20	pronepos	_	NOUN	_	_	_	_	_	_
 21	ego	_	PRON	_	_	_	_	_	_
 22	regis	_	NOUN	_	_	_	_	_	_
 23	aquarum	_	NOUN	_	_	_	_	_	_
@@ -11905,7 +11905,7 @@
 3	est	_	AUX	_	_	_	_	_	_
 4	mihi	_	PRON	_	_	_	_	_	_
 5	cura	_	NOUN	_	_	_	_	_	_
-6	tui	_	PRON	_	_	_	_	_	_
+6	tui	_	DET	_	_	_	_	_	_
 7	tot	_	DET	_	_	_	_	_	_
 8	iam	_	ADV	_	_	_	_	_	_
 9	ante	_	ADV	_	_	_	_	_	_
@@ -12024,7 +12024,7 @@
 3	que	_	CCONJ	_	_	_	_	_	_
 4	rudis	_	ADJ	_	_	_	_	_	_
 5-6	primoque	_	_	_	_	_	_	_	_
-5	primo	_	ADJ	_	_	_	_	_	_
+5	primo	_	ADV	_	_	_	_	_	_
 6	que	_	CCONJ	_	_	_	_	_	_
 7	cupidine	_	NOUN	_	_	_	_	_	_
 8	tacta	_	VERB	_	_	_	_	_	_
@@ -12049,7 +12049,7 @@
 7-8	paterque	_	_	_	_	_	_	_	_
 7	pater	_	NOUN	_	_	_	_	_	_
 8	que	_	CCONJ	_	_	_	_	_	_
-9	cum	_	ADP	_	_	_	_	_	_
+9	cum	_	SCONJ	_	_	_	_	_	_
 10	me	_	PRON	_	_	_	_	_	_
 11	sollicita	_	ADJ	_	_	_	_	_	_
 12	proles	_	NOUN	_	_	_	_	_	_
@@ -12085,7 +12085,7 @@
 9	mota	_	ADJ	_	_	_	_	_	_
 10	que	_	CCONJ	_	_	_	_	_	_
 11	sum	_	AUX	_	_	_	_	_	_
-12	fateor	_	VERB	_	_	_	_	_	_
+12	fateor	_	NOUN	_	_	_	_	_	_
 13	nec	_	CCONJ	_	_	_	_	_	_
 14	opis	_	NOUN	_	_	_	_	_	_
 15	mora	_	NOUN	_	_	_	_	_	_
@@ -12101,7 +12101,7 @@
 5	nomine	_	NOUN	_	_	_	_	_	_
 6	dicunt	_	VERB	_	_	_	_	_	_
 7	telluris	_	NOUN	_	_	_	_	_	_
-8	Cypriae	_	ADJ	_	_	_	_	_	_
+8	Cypriae	_	PROPN	_	_	_	_	_	_
 9	pars	_	NOUN	_	_	_	_	_	_
 10	optima	_	ADJ	_	_	_	_	_	_
 11	quem	_	PRON	_	_	_	_	_	_
@@ -12123,7 +12123,7 @@
 26	in	_	ADP	_	_	_	_	_	_
 27	aruo	_	NOUN	_	_	_	_	_	_
 28	fulua	_	NOUN	_	_	_	_	_	_
-29	comas	_	NOUN	_	_	_	_	_	_
+29	comas	_	ADV	_	_	_	_	_	_
 30	fuluo	_	NOUN	_	_	_	_	_	_
 31	ramis	_	NOUN	_	_	_	_	_	_
 32	crepitantibus	_	VERB	_	_	_	_	_	_
@@ -12145,7 +12145,7 @@
 47	nisi	_	SCONJ	_	_	_	_	_	_
 48	ipsi	_	DET	_	_	_	_	_	_
 49	Hippomenen	_	PROPN	_	_	_	_	_	_
-50	adii	_	VERB	_	_	_	_	_	_
+50	adii	_	NOUN	_	_	_	_	_	_
 51-52	docuique	_	_	_	_	_	_	_	_
 51	docui	_	ADJ	_	_	_	_	_	_
 52	que	_	CCONJ	_	_	_	_	_	_
@@ -12159,13 +12159,13 @@
 1	signa	_	NOUN	_	_	_	_	_	_
 2	tubae	_	NOUN	_	_	_	_	_	_
 3	dederant	_	VERB	_	_	_	_	_	_
-4	cum	_	ADP	_	_	_	_	_	_
+4	cum	_	SCONJ	_	_	_	_	_	_
 5	carcere	_	NOUN	_	_	_	_	_	_
 6	pronus	_	ADJ	_	_	_	_	_	_
 7	uterque	_	DET	_	_	_	_	_	_
 8	emicat	_	VERB	_	_	_	_	_	_
 9	et	_	CCONJ	_	_	_	_	_	_
-10	summam	_	ADJ	_	_	_	_	_	_
+10	summam	_	NOUN	_	_	_	_	_	_
 11	celeri	_	ADJ	_	_	_	_	_	_
 12	pede	_	NOUN	_	_	_	_	_	_
 13	libat	_	VERB	_	_	_	_	_	_
@@ -12173,8 +12173,8 @@
 15	posse	_	VERB	_	_	_	_	_	_
 16	putes	_	VERB	_	_	_	_	_	_
 17	illos	_	DET	_	_	_	_	_	_
-18	sicco	_	NOUN	_	_	_	_	_	_
-19	freta	_	ADJ	_	_	_	_	_	_
+18	sicco	_	ADJ	_	_	_	_	_	_
+19	freta	_	NOUN	_	_	_	_	_	_
 20	radere	_	VERB	_	_	_	_	_	_
 21	passu	_	NOUN	_	_	_	_	_	_
 22	et	_	CCONJ	_	_	_	_	_	_
@@ -12210,20 +12210,20 @@
 2	propera	_	ADJ	_	_	_	_	_	_
 3	nunc	_	ADV	_	_	_	_	_	_
 4	uiribus	_	NOUN	_	_	_	_	_	_
-5	utere	_	DET	_	_	_	_	_	_
+5	utere	_	VERB	_	_	_	_	_	_
 6	totis	_	DET	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-875
 # text = pelle moram uinces dubium Megareius heros gaudeat an uirgo magis his Schoeneia dictis
 1	pelle	_	NOUN	_	_	_	_	_	_
-2	moram	_	VERB	_	_	_	_	_	_
+2	moram	_	NOUN	_	_	_	_	_	_
 3	uinces	_	VERB	_	_	_	_	_	_
 4	dubium	_	ADJ	_	_	_	_	_	_
 5	Megareius	_	PROPN	_	_	_	_	_	_
 6	heros	_	NOUN	_	_	_	_	_	_
 7	gaudeat	_	VERB	_	_	_	_	_	_
 8	an	_	PART	_	_	_	_	_	_
-9	uirgo	_	ADV	_	_	_	_	_	_
+9	uirgo	_	NOUN	_	_	_	_	_	_
 10	magis	_	ADV	_	_	_	_	_	_
 11	his	_	DET	_	_	_	_	_	_
 12	Schoeneia	_	PROPN	_	_	_	_	_	_
@@ -12253,7 +12253,7 @@
 2	e	_	ADP	_	_	_	_	_	_
 3	lasso	_	NOUN	_	_	_	_	_	_
 4	ueniebat	_	VERB	_	_	_	_	_	_
-5	anhelitus	_	NOUN	_	_	_	_	_	_
+5	anhelitus	_	ADJ	_	_	_	_	_	_
 6	ore	_	NOUN	_	_	_	_	_	_
 7-8	metaque	_	_	_	_	_	_	_	_
 7	meta	_	NOUN	_	_	_	_	_	_
@@ -12265,7 +12265,7 @@
 13	de	_	ADP	_	_	_	_	_	_
 14	tribus	_	NUM	_	_	_	_	_	_
 15	unum	_	NUM	_	_	_	_	_	_
-16	fetibus	_	NOUN	_	_	_	_	_	_
+16	fetibus	_	VERB	_	_	_	_	_	_
 17	arboreis	_	NOUN	_	_	_	_	_	_
 18	proles	_	NOUN	_	_	_	_	_	_
 19	Neptunia	_	ADJ	_	_	_	_	_	_
@@ -12307,7 +12307,7 @@
 9	atque	_	CCONJ	_	_	_	_	_	_
 10	iterum	_	ADV	_	_	_	_	_	_
 11	iuuenem	_	NOUN	_	_	_	_	_	_
-12	post	_	ADP	_	_	_	_	_	_
+12	post	_	ADV	_	_	_	_	_	_
 13	terga	_	NOUN	_	_	_	_	_	_
 14	relinquit	_	VERB	_	_	_	_	_	_
 15	et	_	CCONJ	_	_	_	_	_	_
@@ -12377,7 +12377,7 @@
 19-20	moraque	_	_	_	_	_	_	_	_
 19	mora	_	NOUN	_	_	_	_	_	_
 20	que	_	CCONJ	_	_	_	_	_	_
-21	neue	_	SCONJ	_	_	_	_	_	_
+21	neue	_	NOUN	_	_	_	_	_	_
 22	meus	_	DET	_	_	_	_	_	_
 23	sermo	_	NOUN	_	_	_	_	_	_
 24	cursu	_	NOUN	_	_	_	_	_	_
@@ -12398,7 +12398,7 @@
 1	digna	_	ADJ	_	_	_	_	_	_
 2	ne	_	SCONJ	_	_	_	_	_	_
 3	cui	_	PRON	_	_	_	_	_	_
-4	grates	_	ADJ	_	_	_	_	_	_
+4	grates	_	NOUN	_	_	_	_	_	_
 5	ageret	_	VERB	_	_	_	_	_	_
 6	cui	_	PRON	_	_	_	_	_	_
 7	turis	_	NOUN	_	_	_	_	_	_
@@ -12407,7 +12407,7 @@
 10	Adoni	_	PROPN	_	_	_	_	_	_
 11	fui	_	AUX	_	_	_	_	_	_
 12	nec	_	CCONJ	_	_	_	_	_	_
-13	grates	_	ADJ	_	_	_	_	_	_
+13	grates	_	NOUN	_	_	_	_	_	_
 14	inmemor	_	ADJ	_	_	_	_	_	_
 15	egit	_	VERB	_	_	_	_	_	_
 16	nec	_	CCONJ	_	_	_	_	_	_
@@ -12428,9 +12428,9 @@
 8	ne	_	SCONJ	_	_	_	_	_	_
 9	sim	_	AUX	_	_	_	_	_	_
 10	spernenda	_	VERB	_	_	_	_	_	_
-11	futuris	_	NOUN	_	_	_	_	_	_
+11	futuris	_	AUX	_	_	_	_	_	_
 12	exemplo	_	NOUN	_	_	_	_	_	_
-13	caueo	_	VERB	_	_	_	_	_	_
+13	caueo	_	NOUN	_	_	_	_	_	_
 14-15	meque	_	_	_	_	_	_	_	_
 14	me	_	PRON	_	_	_	_	_	_
 15	que	_	CCONJ	_	_	_	_	_	_
@@ -12458,7 +12458,7 @@
 37	requiescere	_	VERB	_	_	_	_	_	_
 38	suasit	_	VERB	_	_	_	_	_	_
 39	illic	_	ADV	_	_	_	_	_	_
-40	concubitus	_	NOUN	_	_	_	_	_	_
+40	concubitus	_	VERB	_	_	_	_	_	_
 41	intempestiua	_	ADJ	_	_	_	_	_	_
 42	cupido	_	NOUN	_	_	_	_	_	_
 43	occupat	_	VERB	_	_	_	_	_	_
@@ -12473,9 +12473,9 @@
 1	luminis	_	NOUN	_	_	_	_	_	_
 2	exigui	_	ADJ	_	_	_	_	_	_
 3	fuerat	_	AUX	_	_	_	_	_	_
-4	prope	_	ADP	_	_	_	_	_	_
+4	prope	_	ADV	_	_	_	_	_	_
 5	templa	_	NOUN	_	_	_	_	_	_
-6	recessus	_	VERB	_	_	_	_	_	_
+6	recessus	_	NOUN	_	_	_	_	_	_
 7	speluncae	_	NOUN	_	_	_	_	_	_
 8	similis	_	ADJ	_	_	_	_	_	_
 9	natiuo	_	ADJ	_	_	_	_	_	_
@@ -12489,15 +12489,15 @@
 17	sacerdos	_	NOUN	_	_	_	_	_	_
 18	lignea	_	NOUN	_	_	_	_	_	_
 19	contulerat	_	VERB	_	_	_	_	_	_
-20	ueterum	_	NOUN	_	_	_	_	_	_
+20	ueterum	_	ADJ	_	_	_	_	_	_
 21	simulacra	_	NOUN	_	_	_	_	_	_
 22	deorum	_	NOUN	_	_	_	_	_	_
 23	hunc	_	DET	_	_	_	_	_	_
 24	init	_	VERB	_	_	_	_	_	_
 25	et	_	CCONJ	_	_	_	_	_	_
-26	uetito	_	VERB	_	_	_	_	_	_
+26	uetito	_	ADV	_	_	_	_	_	_
 27	temerat	_	VERB	_	_	_	_	_	_
-28	sacraria	_	ADJ	_	_	_	_	_	_
+28	sacraria	_	NOUN	_	_	_	_	_	_
 29	probro	_	NOUN	_	_	_	_	_	_
 
 # sent_id = OvMETAM071114-M-ET-886
@@ -12506,7 +12506,7 @@
 2	retorserunt	_	VERB	_	_	_	_	_	_
 3	oculos	_	NOUN	_	_	_	_	_	_
 4-5	turritaque	_	_	_	_	_	_	_	_
-4	turrita	_	NOUN	_	_	_	_	_	_
+4	turrita	_	VERB	_	_	_	_	_	_
 5	que	_	CCONJ	_	_	_	_	_	_
 6	Mater	_	PROPN	_	_	_	_	_	_
 7	an	_	PART	_	_	_	_	_	_
@@ -12539,7 +12539,7 @@
 34	totum	_	DET	_	_	_	_	_	_
 35	pondus	_	NOUN	_	_	_	_	_	_
 36	abit	_	VERB	_	_	_	_	_	_
-37	summae	_	ADJ	_	_	_	_	_	_
+37	summae	_	NOUN	_	_	_	_	_	_
 38	cauda	_	NOUN	_	_	_	_	_	_
 39	uerruntur	_	VERB	_	_	_	_	_	_
 40	harenae	_	NOUN	_	_	_	_	_	_
@@ -12558,10 +12558,10 @@
 52	aliis	_	DET	_	_	_	_	_	_
 53	que	_	CCONJ	_	_	_	_	_	_
 54	timendi	_	VERB	_	_	_	_	_	_
-55	dente	_	NOUN	_	_	_	_	_	_
+55	dente	_	VERB	_	_	_	_	_	_
 56	premunt	_	VERB	_	_	_	_	_	_
-57	domito	_	NOUN	_	_	_	_	_	_
-58	Cybeleia	_	ADJ	_	_	_	_	_	_
+57	domito	_	VERB	_	_	_	_	_	_
+58	Cybeleia	_	PROPN	_	_	_	_	_	_
 59	frena	_	NOUN	_	_	_	_	_	_
 60	leones	_	NOUN	_	_	_	_	_	_
 
@@ -12645,10 +12645,10 @@
 26	trepidum	_	ADJ	_	_	_	_	_	_
 27	que	_	CCONJ	_	_	_	_	_	_
 28	et	_	CCONJ	_	_	_	_	_	_
-29	tuta	_	NOUN	_	_	_	_	_	_
+29	tuta	_	ADJ	_	_	_	_	_	_
 30	petentem	_	VERB	_	_	_	_	_	_
 31	trux	_	NOUN	_	_	_	_	_	_
-32	aper	_	VERB	_	_	_	_	_	_
+32	aper	_	ADV	_	_	_	_	_	_
 33	insequitur	_	VERB	_	_	_	_	_	_
 34-35	totosque	_	_	_	_	_	_	_	_
 34	totos	_	DET	_	_	_	_	_	_
@@ -12676,11 +12676,11 @@
 9	olorinis	_	NOUN	_	_	_	_	_	_
 10	nondum	_	ADV	_	_	_	_	_	_
 11	peruenerat	_	VERB	_	_	_	_	_	_
-12	alis	_	NOUN	_	_	_	_	_	_
+12	alis	_	DET	_	_	_	_	_	_
 13	agnouit	_	VERB	_	_	_	_	_	_
 14	longe	_	ADV	_	_	_	_	_	_
 15	gemitum	_	NOUN	_	_	_	_	_	_
-16	morientis	_	VERB	_	_	_	_	_	_
+16	morientis	_	NOUN	_	_	_	_	_	_
 17	et	_	CCONJ	_	_	_	_	_	_
 18	albas	_	NOUN	_	_	_	_	_	_
 19	flexit	_	VERB	_	_	_	_	_	_
@@ -12689,7 +12689,7 @@
 22-23	utque	_	_	_	_	_	_	_	_
 22	ut	_	SCONJ	_	_	_	_	_	_
 23	que	_	CCONJ	_	_	_	_	_	_
-24	aethere	_	VERB	_	_	_	_	_	_
+24	aethere	_	NOUN	_	_	_	_	_	_
 25	uidit	_	VERB	_	_	_	_	_	_
 26	ab	_	ADP	_	_	_	_	_	_
 27	alto	_	NOUN	_	_	_	_	_	_
@@ -12803,11 +12803,11 @@
 45	flos	_	NOUN	_	_	_	_	_	_
 46	de	_	ADP	_	_	_	_	_	_
 47	sanguine	_	NOUN	_	_	_	_	_	_
-48	concolor	_	VERB	_	_	_	_	_	_
-49	ortus	_	VERB	_	_	_	_	_	_
+48	concolor	_	ADJ	_	_	_	_	_	_
+49	ortus	_	NOUN	_	_	_	_	_	_
 50	qualem	_	DET	_	_	_	_	_	_
 51	quae	_	PRON	_	_	_	_	_	_
-52	lento	_	NOUN	_	_	_	_	_	_
+52	lento	_	ADJ	_	_	_	_	_	_
 53	celant	_	VERB	_	_	_	_	_	_
 54	sub	_	ADP	_	_	_	_	_	_
 55	cortice	_	NOUN	_	_	_	_	_	_
@@ -12827,11 +12827,11 @@
 69	et	_	CCONJ	_	_	_	_	_	_
 70	nimia	_	ADJ	_	_	_	_	_	_
 71	leuitate	_	NOUN	_	_	_	_	_	_
-72	caducum	_	ADJ	_	_	_	_	_	_
+72	caducum	_	NOUN	_	_	_	_	_	_
 73	excutiunt	_	VERB	_	_	_	_	_	_
 74	idem	_	DET	_	_	_	_	_	_
 75	qui	_	PRON	_	_	_	_	_	_
 76	praestant	_	VERB	_	_	_	_	_	_
 77	nomina	_	NOUN	_	_	_	_	_	_
-78	uenti	_	NOUN	_	_	_	_	_	_
+78	uenti	_	ADJ	_	_	_	_	_	_
 

@@ -109,7 +109,7 @@
 81	iacuit	_	VERB	_	_	_	_	_	_
 82	ab	_	ADP	_	_	_	_	_	_
 83	omni	_	DET	_	_	_	_	_	_
-84	sorde	_	NOUN	_	_	_	_	_	_
+84	sorde	_	ADJ	_	_	_	_	_	_
 85-86	diraque	_	_	_	_	_	_	_	_
 85	dira	_	ADJ	_	_	_	_	_	_
 86	que	_	CCONJ	_	_	_	_	_	_
@@ -157,7 +157,7 @@
 35	quod	_	SCONJ	_	_	_	_	_	_
 36	romanum	_	ADJ	_	_	_	_	_	_
 37	decus	_	NOUN	_	_	_	_	_	_
-38	uetusto	_	NOUN	_	_	_	_	_	_
+38	uetusto	_	ADJ	_	_	_	_	_	_
 39	uindicare	_	VERB	_	_	_	_	_	_
 40	seruitio	_	NOUN	_	_	_	_	_	_
 41	sint	_	AUX	_	_	_	_	_	_
@@ -196,7 +196,7 @@
 18	linguae	_	NOUN	_	_	_	_	_	_
 19	reparatione	_	NOUN	_	_	_	_	_	_
 20	ueluti	_	VERB	_	_	_	_	_	_
-21	μελέτην	_	X	_	_	_	_	_	_
+21	μελέτην	_	NOUN	_	_	_	_	_	_
 22	quandam	_	DET	_	_	_	_	_	_
 23	καί	_	X	_	_	_	_	_	_
 24	αὐτήν	_	X	_	_	_	_	_	_
@@ -248,7 +248,7 @@
 12	disputationem	_	NOUN	_	_	_	_	_	_
 13	Benedicto	_	PROPN	_	_	_	_	_	_
 14	Prunulo	_	PROPN	_	_	_	_	_	_
-15	liniacensi	_	VERB	_	_	_	_	_	_
+15	liniacensi	_	NOUN	_	_	_	_	_	_
 16	et	_	CCONJ	_	_	_	_	_	_
 17	Baptistae	_	PROPN	_	_	_	_	_	_
 18	Guarini	_	PROPN	_	_	_	_	_	_
@@ -264,7 +264,7 @@
 28	dedimus	_	VERB	_	_	_	_	_	_
 29	interim	_	ADV	_	_	_	_	_	_
 30	si	_	SCONJ	_	_	_	_	_	_
-31	qua	_	SCONJ	_	_	_	_	_	_
+31	qua	_	PRON	_	_	_	_	_	_
 32	uisa	_	VERB	_	_	_	_	_	_
 33	fuerint	_	AUX	_	_	_	_	_	_
 34	aut	_	CCONJ	_	_	_	_	_	_
@@ -370,7 +370,7 @@
 53	clarissime	_	ADV	_	_	_	_	_	_
 54	legere	_	VERB	_	_	_	_	_	_
 55	incoeperis	_	VERB	_	_	_	_	_	_
-56	caetera	_	ADJ	_	_	_	_	_	_
+56	caetera	_	NOUN	_	_	_	_	_	_
 57	quod	_	PRON	_	_	_	_	_	_
 58	mihi	_	PRON	_	_	_	_	_	_
 59	uehementer	_	ADV	_	_	_	_	_	_
@@ -450,12 +450,12 @@
 13	solito	_	ADV	_	_	_	_	_	_
 14	occurrat	_	VERB	_	_	_	_	_	_
 15	ac	_	CCONJ	_	_	_	_	_	_
-16	quodammodo	_	DET	_	_	_	_	_	_
+16	quodammodo	_	ADV	_	_	_	_	_	_
 17	admirabilior	_	ADJ	_	_	_	_	_	_
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-17
 # text = Quod cum plerique alii sibi euenire aiunt tum Iuliarius hic noster quem uix hodie a prima luce ad tertiam diei horam a germanico emporio dum omnia Mercaria uia per ocium cupit explorare ad sublicii pontis bibliopolas traduxi ubi quia neque hortatione neque conuicio inde auelli potuit librorum indicibus haerentem a me relictum ad multam diem quod uix unquam euenturum putassem quum ex foro me ad priuatum hospitem reciperem eodem pene uestigio stantem sed adhuc magis occupatum offendi
-1	Quod	_	PRON	_	_	_	_	_	_
+1	Quod	_	SCONJ	_	_	_	_	_	_
 2	cum	_	SCONJ	_	_	_	_	_	_
 3	plerique	_	NOUN	_	_	_	_	_	_
 4	alii	_	DET	_	_	_	_	_	_
@@ -488,7 +488,7 @@
 31	cupit	_	VERB	_	_	_	_	_	_
 32	explorare	_	VERB	_	_	_	_	_	_
 33	ad	_	ADP	_	_	_	_	_	_
-34	sublicii	_	NOUN	_	_	_	_	_	_
+34	sublicii	_	ADJ	_	_	_	_	_	_
 35	pontis	_	NOUN	_	_	_	_	_	_
 36	bibliopolas	_	NOUN	_	_	_	_	_	_
 37	traduxi	_	VERB	_	_	_	_	_	_
@@ -524,7 +524,7 @@
 67	hospitem	_	NOUN	_	_	_	_	_	_
 68	reciperem	_	VERB	_	_	_	_	_	_
 69	eodem	_	DET	_	_	_	_	_	_
-70	pene	_	NOUN	_	_	_	_	_	_
+70	pene	_	ADV	_	_	_	_	_	_
 71	uestigio	_	NOUN	_	_	_	_	_	_
 72	stantem	_	VERB	_	_	_	_	_	_
 73	sed	_	CCONJ	_	_	_	_	_	_
@@ -545,7 +545,7 @@
 7	auget	_	VERB	_	_	_	_	_	_
 8	que	_	CCONJ	_	_	_	_	_	_
 9	non	_	PART	_	_	_	_	_	_
-10	parum	_	NOUN	_	_	_	_	_	_
+10	parum	_	ADV	_	_	_	_	_	_
 11	amplitudinem	_	NOUN	_	_	_	_	_	_
 12	et	_	CCONJ	_	_	_	_	_	_
 13	formam	_	NOUN	_	_	_	_	_	_
@@ -601,12 +601,12 @@
 30	lingua	_	NOUN	_	_	_	_	_	_
 31	aut	_	CCONJ	_	_	_	_	_	_
 32	emendatior	_	ADJ	_	_	_	_	_	_
-33	facta	_	NOUN	_	_	_	_	_	_
+33	facta	_	VERB	_	_	_	_	_	_
 34	uideatur	_	VERB	_	_	_	_	_	_
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-21
 # text = IULIARIUS Sunt non pauci ut dicis Sabellice qui alia atque alia uia romanas litteras nuperrime iuuere nam praeterquam quod omnia fere emendatiora occurrunt non desunt qui quotidie aliquid noui in communem usum proferant
-1	IULIARIUS	_	ADJ	_	_	_	_	_	_
+1	IULIARIUS	_	ADV	_	_	_	_	_	_
 2	Sunt	_	AUX	_	_	_	_	_	_
 3	non	_	PART	_	_	_	_	_	_
 4	pauci	_	ADJ	_	_	_	_	_	_
@@ -623,7 +623,7 @@
 15	nuperrime	_	ADV	_	_	_	_	_	_
 16	iuuere	_	VERB	_	_	_	_	_	_
 17	nam	_	PART	_	_	_	_	_	_
-18	praeterquam	_	VERB	_	_	_	_	_	_
+18	praeterquam	_	ADV	_	_	_	_	_	_
 19	quod	_	SCONJ	_	_	_	_	_	_
 20	omnia	_	DET	_	_	_	_	_	_
 21	fere	_	ADV	_	_	_	_	_	_
@@ -711,7 +711,7 @@
 13	umbram	_	NOUN	_	_	_	_	_	_
 14	tamen	_	ADV	_	_	_	_	_	_
 15	et	_	CCONJ	_	_	_	_	_	_
-16	uerum	_	ADJ	_	_	_	_	_	_
+16	uerum	_	NOUN	_	_	_	_	_	_
 17	latinitatis	_	NOUN	_	_	_	_	_	_
 18	adhuc	_	ADV	_	_	_	_	_	_
 19	nomen	_	NOUN	_	_	_	_	_	_
@@ -737,7 +737,7 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-26
 # text = Soleo iccirco me beatissimum putare ac naturae gratias agere quod hac potissimum tempestate nasci contigerit qua si non linguam ipsam florentem ut olim aut qualem aetas illa aurea qua tot uiri summi una claruere posteritati tradidit meliorem ac quodammodo omni ex parte instauratam uideremus
-1	Soleo	_	VERB	_	_	_	_	_	_
+1	Soleo	_	PROPN	_	_	_	_	_	_
 2	iccirco	_	ADV	_	_	_	_	_	_
 3	me	_	PRON	_	_	_	_	_	_
 4	beatissimum	_	ADJ	_	_	_	_	_	_
@@ -757,7 +757,7 @@
 18	non	_	PART	_	_	_	_	_	_
 19	linguam	_	NOUN	_	_	_	_	_	_
 20	ipsam	_	DET	_	_	_	_	_	_
-21	florentem	_	ADJ	_	_	_	_	_	_
+21	florentem	_	VERB	_	_	_	_	_	_
 22	ut	_	SCONJ	_	_	_	_	_	_
 23	olim	_	ADV	_	_	_	_	_	_
 24	aut	_	CCONJ	_	_	_	_	_	_
@@ -770,7 +770,7 @@
 31	uiri	_	NOUN	_	_	_	_	_	_
 32	summi	_	ADJ	_	_	_	_	_	_
 33	una	_	ADV	_	_	_	_	_	_
-34	claruere	_	VERB	_	_	_	_	_	_
+34	claruere	_	NOUN	_	_	_	_	_	_
 35	posteritati	_	NOUN	_	_	_	_	_	_
 36	tradidit	_	VERB	_	_	_	_	_	_
 37	meliorem	_	ADJ	_	_	_	_	_	_
@@ -798,7 +798,7 @@
 2	neque	_	CCONJ	_	_	_	_	_	_
 3	tu	_	PRON	_	_	_	_	_	_
 4	neque	_	CCONJ	_	_	_	_	_	_
-5	aequalium	_	ADJ	_	_	_	_	_	_
+5	aequalium	_	NOUN	_	_	_	_	_	_
 6	quisquam	_	PRON	_	_	_	_	_	_
 7	et	_	CCONJ	_	_	_	_	_	_
 8	ut	_	SCONJ	_	_	_	_	_	_
@@ -839,7 +839,7 @@
 6	sed	_	CCONJ	_	_	_	_	_	_
 7	quo	_	PRON	_	_	_	_	_	_
 8	nomine	_	NOUN	_	_	_	_	_	_
-9	successus	_	VERB	_	_	_	_	_	_
+9	successus	_	NOUN	_	_	_	_	_	_
 10	hic	_	DET	_	_	_	_	_	_
 11	litterarum	_	NOUN	_	_	_	_	_	_
 12	appellandus	_	VERB	_	_	_	_	_	_
@@ -974,7 +974,7 @@
 1	SABELLICUS	_	PROPN	_	_	_	_	_	_
 2	Callide	_	PROPN	_	_	_	_	_	_
 3	me	_	PRON	_	_	_	_	_	_
-4	hercule	_	INTJ	_	_	_	_	_	_
+4	hercule	_	DET	_	_	_	_	_	_
 5	ut	_	SCONJ	_	_	_	_	_	_
 6	solet	_	VERB	_	_	_	_	_	_
 7	Iuliarius	_	PROPN	_	_	_	_	_	_
@@ -990,7 +990,7 @@
 16	ne	_	SCONJ	_	_	_	_	_	_
 17	me	_	PRON	_	_	_	_	_	_
 18	in	_	ADP	_	_	_	_	_	_
-19	ridiculum	_	ADJ	_	_	_	_	_	_
+19	ridiculum	_	NOUN	_	_	_	_	_	_
 20	aliquod	_	PRON	_	_	_	_	_	_
 21	facinus	_	NOUN	_	_	_	_	_	_
 22	impellere	_	VERB	_	_	_	_	_	_
@@ -1008,7 +1008,7 @@
 34	scilicet	_	CCONJ	_	_	_	_	_	_
 35	ut	_	SCONJ	_	_	_	_	_	_
 36	quum	_	SCONJ	_	_	_	_	_	_
-37	multos	_	ADJ	_	_	_	_	_	_
+37	multos	_	NOUN	_	_	_	_	_	_
 38	uno	_	NUM	_	_	_	_	_	_
 39	tempore	_	NOUN	_	_	_	_	_	_
 40	in	_	ADP	_	_	_	_	_	_
@@ -1024,7 +1024,7 @@
 # text = IULIARIUS Quid multatum ais
 1	IULIARIUS	_	ADJ	_	_	_	_	_	_
 2	Quid	_	PRON	_	_	_	_	_	_
-3	multatum	_	ADJ	_	_	_	_	_	_
+3	multatum	_	VERB	_	_	_	_	_	_
 4	ais	_	VERB	_	_	_	_	_	_
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-39
@@ -1070,7 +1070,7 @@
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-40
 # text = SABELLICUS Immo ob id ipsum fortassis Graeci illi quorum mentionem fecisti plerosque sui temporis poetas silentio praeteriere ne maior ab illis postea maneret inuidia quod nostros quoque in quibusdam fecisse ex eorum scriptis facile intelligi potest
 1	SABELLICUS	_	PROPN	_	_	_	_	_	_
-2	Immo	_	PROPN	_	_	_	_	_	_
+2	Immo	_	ADV	_	_	_	_	_	_
 3	ob	_	ADP	_	_	_	_	_	_
 4	id	_	PRON	_	_	_	_	_	_
 5	ipsum	_	DET	_	_	_	_	_	_
@@ -1161,7 +1161,7 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-43
 # text = Nec Fabius minus prudenter qui scriptores suorum temporum phamam iubet expectare quod quum ita sit non est dum nostram ullam de ea re sententiam expectetis
-1	Nec	_	PROPN	_	_	_	_	_	_
+1	Nec	_	PART	_	_	_	_	_	_
 2	Fabius	_	PROPN	_	_	_	_	_	_
 3	minus	_	ADV	_	_	_	_	_	_
 4	prudenter	_	ADV	_	_	_	_	_	_
@@ -1173,7 +1173,7 @@
 10	iubet	_	VERB	_	_	_	_	_	_
 11	expectare	_	VERB	_	_	_	_	_	_
 12	quod	_	PRON	_	_	_	_	_	_
-13	quum	_	ADV	_	_	_	_	_	_
+13	quum	_	SCONJ	_	_	_	_	_	_
 14	ita	_	ADV	_	_	_	_	_	_
 15	sit	_	AUX	_	_	_	_	_	_
 16	non	_	PART	_	_	_	_	_	_
@@ -1214,8 +1214,8 @@
 23	illustres	_	ADJ	_	_	_	_	_	_
 24	hoc	_	DET	_	_	_	_	_	_
 25	anno	_	NOUN	_	_	_	_	_	_
-26	multis	_	ADJ	_	_	_	_	_	_
-27	praesentibus	_	VERB	_	_	_	_	_	_
+26	multis	_	NOUN	_	_	_	_	_	_
+27	praesentibus	_	ADJ	_	_	_	_	_	_
 28	in	_	ADP	_	_	_	_	_	_
 29	uestibulo	_	NOUN	_	_	_	_	_	_
 30	curiae	_	NOUN	_	_	_	_	_	_
@@ -1235,10 +1235,10 @@
 10	multi	_	NOUN	_	_	_	_	_	_
 11	nominis	_	NOUN	_	_	_	_	_	_
 12-13	uesterque	_	_	_	_	_	_	_	_
-12	uester	_	DET	_	_	_	_	_	_
+12	uester	_	ADJ	_	_	_	_	_	_
 13	que	_	CCONJ	_	_	_	_	_	_
 14	ni	_	PART	_	_	_	_	_	_
-15	fallor	_	VERB	_	_	_	_	_	_
+15	fallor	_	NOUN	_	_	_	_	_	_
 16	ciuis	_	NOUN	_	_	_	_	_	_
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-47
@@ -1322,8 +1322,8 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-50
 # text = Aderat et Benedictus Prunulus homo impense doctus qui trigesimo et amplius ab hinc anno publice in hac urbe est professus
-1	Aderat	_	PROPN	_	_	_	_	_	_
-2	et	_	CCONJ	_	_	_	_	_	_
+1	Aderat	_	VERB	_	_	_	_	_	_
+2	et	_	ADV	_	_	_	_	_	_
 3	Benedictus	_	PROPN	_	_	_	_	_	_
 4	Prunulus	_	PROPN	_	_	_	_	_	_
 5	homo	_	NOUN	_	_	_	_	_	_
@@ -1379,7 +1379,7 @@
 31	edidissent	_	VERB	_	_	_	_	_	_
 32	quum	_	SCONJ	_	_	_	_	_	_
 33	illis	_	DET	_	_	_	_	_	_
-34	et	_	CCONJ	_	_	_	_	_	_
+34	et	_	ADV	_	_	_	_	_	_
 35	ipse	_	DET	_	_	_	_	_	_
 36	diuersum	_	ADJ	_	_	_	_	_	_
 37	negocium	_	NOUN	_	_	_	_	_	_
@@ -1430,20 +1430,20 @@
 7	erat	_	AUX	_	_	_	_	_	_
 8	partes	_	NOUN	_	_	_	_	_	_
 9	unde	_	SCONJ	_	_	_	_	_	_
-10	uero	_	ADV	_	_	_	_	_	_
+10	uero	_	CCONJ	_	_	_	_	_	_
 11	sermo	_	NOUN	_	_	_	_	_	_
 12	esset	_	AUX	_	_	_	_	_	_
 13	ortus	_	VERB	_	_	_	_	_	_
 14	non	_	PART	_	_	_	_	_	_
 15	libuit	_	VERB	_	_	_	_	_	_
 16	requirere	_	VERB	_	_	_	_	_	_
-17	satis	_	ADJ	_	_	_	_	_	_
+17	satis	_	ADV	_	_	_	_	_	_
 18	habui	_	VERB	_	_	_	_	_	_
 19	quod	_	PRON	_	_	_	_	_	_
 20	illi	_	DET	_	_	_	_	_	_
 21	tum	_	ADV	_	_	_	_	_	_
 22	primum	_	ADV	_	_	_	_	_	_
-23	instituto	_	VERB	_	_	_	_	_	_
+23	instituto	_	NOUN	_	_	_	_	_	_
 24	opportune	_	ADV	_	_	_	_	_	_
 25	affuissem	_	VERB	_	_	_	_	_	_
 
@@ -1507,7 +1507,7 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-58
 # text = IULIARIUS Iam uero istud ipsum quale sit uehementer cupimus cognoscere Sabellice quum ob eorum qui illa disseruerunt praecipuam auctoritatem tum quia nisi tu probasses nullis adduci precibus potuisses ut relatu digna iudicares
-1	IULIARIUS	_	PROPN	_	_	_	_	_	_
+1	IULIARIUS	_	ADJ	_	_	_	_	_	_
 2	Iam	_	PROPN	_	_	_	_	_	_
 3	uero	_	CCONJ	_	_	_	_	_	_
 4	istud	_	DET	_	_	_	_	_	_
@@ -1518,7 +1518,7 @@
 9	cupimus	_	VERB	_	_	_	_	_	_
 10	cognoscere	_	VERB	_	_	_	_	_	_
 11	Sabellice	_	PROPN	_	_	_	_	_	_
-12	quum	_	ADV	_	_	_	_	_	_
+12	quum	_	SCONJ	_	_	_	_	_	_
 13	ob	_	ADP	_	_	_	_	_	_
 14	eorum	_	PRON	_	_	_	_	_	_
 15	qui	_	PRON	_	_	_	_	_	_
@@ -1584,7 +1584,7 @@
 1	SABELLICUS	_	PROPN	_	_	_	_	_	_
 2	Incipiam	_	VERB	_	_	_	_	_	_
 3	ego	_	PRON	_	_	_	_	_	_
-4	quando	_	SCONJ	_	_	_	_	_	_
+4	quando	_	ADV	_	_	_	_	_	_
 5	ita	_	ADV	_	_	_	_	_	_
 6	placet	_	VERB	_	_	_	_	_	_
 7	amicorum	_	NOUN	_	_	_	_	_	_
@@ -1600,7 +1600,7 @@
 17	in	_	ADP	_	_	_	_	_	_
 18	Prunulo	_	PROPN	_	_	_	_	_	_
 19	delectauit	_	VERB	_	_	_	_	_	_
-20	usum	_	VERB	_	_	_	_	_	_
+20	usum	_	NOUN	_	_	_	_	_	_
 21	fuisse	_	AUX	_	_	_	_	_	_
 22	uirum	_	NOUN	_	_	_	_	_	_
 23	illum	_	DET	_	_	_	_	_	_
@@ -1661,7 +1661,7 @@
 1	Disiectis	_	VERB	_	_	_	_	_	_
 2	inquit	_	VERB	_	_	_	_	_	_
 3	ad	_	ADP	_	_	_	_	_	_
-4	Aliam	_	ADJ	_	_	_	_	_	_
+4	Aliam	_	PROPN	_	_	_	_	_	_
 5	flumen	_	NOUN	_	_	_	_	_	_
 6	romanis	_	ADJ	_	_	_	_	_	_
 7	legionibus	_	NOUN	_	_	_	_	_	_
@@ -1689,7 +1689,7 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-63
 # text = Quin repente omnibus solutis nihil ex tanto nuper imperio praeter umbram nominis ac collem unum cum modico praesidio superfuit pauci seniorum qui ab superbo et irato uictore sunt in rostris reperti ferro occubuere
-1	Quin	_	PROPN	_	_	_	_	_	_
+1	Quin	_	ADV	_	_	_	_	_	_
 2	repente	_	ADV	_	_	_	_	_	_
 3	omnibus	_	DET	_	_	_	_	_	_
 4	solutis	_	VERB	_	_	_	_	_	_
@@ -1736,8 +1736,8 @@
 9	procul	_	ADV	_	_	_	_	_	_
 10	Penatibus	_	PROPN	_	_	_	_	_	_
 11	uagi	_	ADJ	_	_	_	_	_	_
-12	deuii	_	ADJ	_	_	_	_	_	_
-13	extorres	_	ADJ	_	_	_	_	_	_
+12	deuii	_	NOUN	_	_	_	_	_	_
+13	extorres	_	VERB	_	_	_	_	_	_
 14	sine	_	ADP	_	_	_	_	_	_
 15	cultu	_	NOUN	_	_	_	_	_	_
 16	sine	_	ADP	_	_	_	_	_	_
@@ -1746,7 +1746,7 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-65
 # text = Saeuire interim Galli tecta incendere parietes disturbare nihil sanctum nihil intactum relinquere minari romano nomini excidium ac simul intentare mutari iccirco rerum omnium facies nihil ex tam potenti nuper populo nisi nomen superesse barbari omnia publica omnia priuata praeter arcem possidere
-1	Saeuire	_	VERB	_	_	_	_	_	_
+1	Saeuire	_	PROPN	_	_	_	_	_	_
 2	interim	_	ADV	_	_	_	_	_	_
 3	Galli	_	PROPN	_	_	_	_	_	_
 4	tecta	_	NOUN	_	_	_	_	_	_
@@ -1791,7 +1791,7 @@
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-67
 # text = Deploratam uulgo crederes rem romanam nullam rempublicam nullum imperium in ea urbe amplius futurum
 1	Deploratam	_	VERB	_	_	_	_	_	_
-2	uulgo	_	ADV	_	_	_	_	_	_
+2	uulgo	_	VERB	_	_	_	_	_	_
 3	crederes	_	VERB	_	_	_	_	_	_
 4	rem	_	NOUN	_	_	_	_	_	_
 5	romanam	_	ADJ	_	_	_	_	_	_
@@ -1804,12 +1804,12 @@
 11	in	_	ADP	_	_	_	_	_	_
 12	ea	_	PRON	_	_	_	_	_	_
 13	urbe	_	NOUN	_	_	_	_	_	_
-14	amplius	_	ADJ	_	_	_	_	_	_
+14	amplius	_	ADV	_	_	_	_	_	_
 15	futurum	_	AUX	_	_	_	_	_	_
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-68
 # text = Instare dira barbaries Capitoliumque cum arce totis uiribus oppugnare fuissetque demum uoti compos nisi paucorum uirtute res propemodum perditae non solum suo retentae essent uestigio sed in pristinum etiam statum restitutae
-1	Instare	_	VERB	_	_	_	_	_	_
+1	Instare	_	PROPN	_	_	_	_	_	_
 2	dira	_	ADJ	_	_	_	_	_	_
 3	barbaries	_	NOUN	_	_	_	_	_	_
 4-5	Capitoliumque	_	_	_	_	_	_	_	_
@@ -1851,7 +1851,7 @@
 2	tum	_	ADV	_	_	_	_	_	_
 3	malis	_	NOUN	_	_	_	_	_	_
 4	Roma	_	PROPN	_	_	_	_	_	_
-5	defuncta	_	ADJ	_	_	_	_	_	_
+5	defuncta	_	VERB	_	_	_	_	_	_
 6	est	_	AUX	_	_	_	_	_	_
 7	sed	_	CCONJ	_	_	_	_	_	_
 8	longe	_	ADV	_	_	_	_	_	_
@@ -1872,7 +1872,7 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-70
 # text = Ibi tum publicae et priuatae fortunae periclitatae dicuntur hic caeteris amissis sermo quoque quo nihil Deus immortalis homini utilius dedit ad interitum perductus maior itaque recens casus atque tanto lugubrior quanto plures gentes quam uetus ille attigit enimuero unius tum populi fortuna lapsa est his uero diris temporibus quicquid Romanis ipsis cum Italia erat et multis gentibus commune fuit populus ille ferocissimus pluribus olim gentibus infestus multis perniciosus at sermo omnibus utilis ac iucundus atque ob id longe charissimus
-1	Ibi	_	PROPN	_	_	_	_	_	_
+1	Ibi	_	ADV	_	_	_	_	_	_
 2	tum	_	ADV	_	_	_	_	_	_
 3	publicae	_	ADJ	_	_	_	_	_	_
 4	et	_	CCONJ	_	_	_	_	_	_
@@ -1880,7 +1880,7 @@
 6	fortunae	_	NOUN	_	_	_	_	_	_
 7	periclitatae	_	VERB	_	_	_	_	_	_
 8	dicuntur	_	VERB	_	_	_	_	_	_
-9	hic	_	ADV	_	_	_	_	_	_
+9	hic	_	DET	_	_	_	_	_	_
 10	caeteris	_	ADJ	_	_	_	_	_	_
 11	amissis	_	VERB	_	_	_	_	_	_
 12	sermo	_	NOUN	_	_	_	_	_	_
@@ -1901,7 +1901,7 @@
 27	casus	_	NOUN	_	_	_	_	_	_
 28	atque	_	CCONJ	_	_	_	_	_	_
 29	tanto	_	ADV	_	_	_	_	_	_
-30	lugubrior	_	ADJ	_	_	_	_	_	_
+30	lugubrior	_	ADV	_	_	_	_	_	_
 31	quanto	_	SCONJ	_	_	_	_	_	_
 32	plures	_	ADJ	_	_	_	_	_	_
 33	gentes	_	NOUN	_	_	_	_	_	_
@@ -1925,7 +1925,7 @@
 50	quicquid	_	DET	_	_	_	_	_	_
 51	Romanis	_	PROPN	_	_	_	_	_	_
 52	ipsis	_	DET	_	_	_	_	_	_
-53	cum	_	ADP	_	_	_	_	_	_
+53	cum	_	SCONJ	_	_	_	_	_	_
 54	Italia	_	PROPN	_	_	_	_	_	_
 55	erat	_	AUX	_	_	_	_	_	_
 56	et	_	CCONJ	_	_	_	_	_	_
@@ -1940,7 +1940,7 @@
 65	olim	_	ADV	_	_	_	_	_	_
 66	gentibus	_	NOUN	_	_	_	_	_	_
 67	infestus	_	ADJ	_	_	_	_	_	_
-68	multis	_	ADJ	_	_	_	_	_	_
+68	multis	_	NOUN	_	_	_	_	_	_
 69	perniciosus	_	ADJ	_	_	_	_	_	_
 70	at	_	CCONJ	_	_	_	_	_	_
 71	sermo	_	NOUN	_	_	_	_	_	_
@@ -1998,15 +1998,15 @@
 6	id	_	PRON	_	_	_	_	_	_
 7	bonum	_	NOUN	_	_	_	_	_	_
 8	dixerim	_	VERB	_	_	_	_	_	_
-9	quod	_	PRON	_	_	_	_	_	_
+9	quod	_	SCONJ	_	_	_	_	_	_
 10	innumeris	_	ADJ	_	_	_	_	_	_
 11	populis	_	NOUN	_	_	_	_	_	_
 12	urbibus	_	NOUN	_	_	_	_	_	_
 13	terris	_	NOUN	_	_	_	_	_	_
 14	et	_	CCONJ	_	_	_	_	_	_
-15	sentientibus	_	ADJ	_	_	_	_	_	_
+15	sentientibus	_	VERB	_	_	_	_	_	_
 16	et	_	CCONJ	_	_	_	_	_	_
-17	dolentibus	_	ADJ	_	_	_	_	_	_
+17	dolentibus	_	VERB	_	_	_	_	_	_
 18	fuerit	_	AUX	_	_	_	_	_	_
 19	pene	_	ADV	_	_	_	_	_	_
 20	ademptum	_	VERB	_	_	_	_	_	_
@@ -2017,7 +2017,7 @@
 2	quibus	_	PRON	_	_	_	_	_	_
 3	coram	_	ADV	_	_	_	_	_	_
 4	et	_	CCONJ	_	_	_	_	_	_
-5	ubi	_	SCONJ	_	_	_	_	_	_
+5	ubi	_	ADV	_	_	_	_	_	_
 6	habeatur	_	VERB	_	_	_	_	_	_
 7	hic	_	DET	_	_	_	_	_	_
 8	sermo	_	NOUN	_	_	_	_	_	_
@@ -2053,7 +2053,7 @@
 38	non	_	PART	_	_	_	_	_	_
 39	potuit	_	VERB	_	_	_	_	_	_
 40	quod	_	PRON	_	_	_	_	_	_
-41	uero	_	ADV	_	_	_	_	_	_
+41	uero	_	CCONJ	_	_	_	_	_	_
 42	non	_	PART	_	_	_	_	_	_
 43	potuerit	_	VERB	_	_	_	_	_	_
 44	foelix	_	ADJ	_	_	_	_	_	_
@@ -2078,7 +2078,7 @@
 63	ut	_	SCONJ	_	_	_	_	_	_
 64	diuino	_	ADJ	_	_	_	_	_	_
 65	munere	_	NOUN	_	_	_	_	_	_
-66	perpetuo	_	ADJ	_	_	_	_	_	_
+66	perpetuo	_	ADV	_	_	_	_	_	_
 67	careremus	_	VERB	_	_	_	_	_	_
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-79
@@ -2102,7 +2102,7 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-80
 # text = Ademerat romanae urbi multum splendoris et dignitatis imperii sedes Bizantium translata secutae inde clades multae aliae post alias Gethae Hunni Langobardi pluribus locis Italiam foeda populatione uastarunt sed primae illae gentes dirae nimis romanoque nomini infestae quippe quae omnis diuini et humani iuris oblitae superbe et crudeliter uictoriam exercuere
-1	Ademerat	_	VERB	_	_	_	_	_	_
+1	Ademerat	_	PROPN	_	_	_	_	_	_
 2	romanae	_	ADJ	_	_	_	_	_	_
 3	urbi	_	NOUN	_	_	_	_	_	_
 4	multum	_	NOUN	_	_	_	_	_	_
@@ -2118,7 +2118,7 @@
 14	clades	_	NOUN	_	_	_	_	_	_
 15	multae	_	ADJ	_	_	_	_	_	_
 16	aliae	_	DET	_	_	_	_	_	_
-17	post	_	ADP	_	_	_	_	_	_
+17	post	_	ADV	_	_	_	_	_	_
 18	alias	_	DET	_	_	_	_	_	_
 19	Gethae	_	PROPN	_	_	_	_	_	_
 20	Hunni	_	PROPN	_	_	_	_	_	_
@@ -2166,7 +2166,7 @@
 8	ullo	_	DET	_	_	_	_	_	_
 9	loco	_	NOUN	_	_	_	_	_	_
 10	aut	_	CCONJ	_	_	_	_	_	_
-11	prophano	_	NOUN	_	_	_	_	_	_
+11	prophano	_	ADJ	_	_	_	_	_	_
 12	infandae	_	VERB	_	_	_	_	_	_
 13	manus	_	NOUN	_	_	_	_	_	_
 14	abstinuerunt	_	VERB	_	_	_	_	_	_
@@ -2183,7 +2183,7 @@
 25	in	_	ADP	_	_	_	_	_	_
 26	gremio	_	NOUN	_	_	_	_	_	_
 27	fortunae	_	NOUN	_	_	_	_	_	_
-28	sita	_	VERB	_	_	_	_	_	_
+28	sita	_	ADJ	_	_	_	_	_	_
 29	minus	_	ADV	_	_	_	_	_	_
 30	fortasse	_	ADV	_	_	_	_	_	_
 31	lugubria	_	ADJ	_	_	_	_	_	_
@@ -2220,7 +2220,7 @@
 61	una	_	NUM	_	_	_	_	_	_
 62	re	_	NOUN	_	_	_	_	_	_
 63	incolumi	_	ADJ	_	_	_	_	_	_
-64	caetera	_	ADJ	_	_	_	_	_	_
+64	caetera	_	NOUN	_	_	_	_	_	_
 65	suo	_	DET	_	_	_	_	_	_
 66	stare	_	VERB	_	_	_	_	_	_
 67	uestigio	_	NOUN	_	_	_	_	_	_
@@ -2279,7 +2279,7 @@
 3	illa	_	DET	_	_	_	_	_	_
 4	et	_	ADV	_	_	_	_	_	_
 5	si	_	SCONJ	_	_	_	_	_	_
-6	sero	_	VERB	_	_	_	_	_	_
+6	sero	_	ADV	_	_	_	_	_	_
 7	remisit	_	VERB	_	_	_	_	_	_
 8	tamen	_	ADV	_	_	_	_	_	_
 
@@ -2301,7 +2301,7 @@
 14	aliqua	_	PRON	_	_	_	_	_	_
 15	ex	_	ADP	_	_	_	_	_	_
 16	parte	_	NOUN	_	_	_	_	_	_
-17	Roma	_	PROPN	_	_	_	_	_	_
+17	Roma	_	ADJ	_	_	_	_	_	_
 18	suum	_	DET	_	_	_	_	_	_
 19	cultum	_	NOUN	_	_	_	_	_	_
 20	et	_	CCONJ	_	_	_	_	_	_
@@ -2311,7 +2311,7 @@
 24	non	_	PART	_	_	_	_	_	_
 25	recepit	_	VERB	_	_	_	_	_	_
 26	et	_	CCONJ	_	_	_	_	_	_
-27	breui	_	ADJ	_	_	_	_	_	_
+27	breui	_	ADV	_	_	_	_	_	_
 28	ubi	_	SCONJ	_	_	_	_	_	_
 29	semel	_	ADV	_	_	_	_	_	_
 30	foeda	_	ADJ	_	_	_	_	_	_
@@ -2367,7 +2367,7 @@
 31	annum	_	NOUN	_	_	_	_	_	_
 32	hinc	_	ADV	_	_	_	_	_	_
 33	circiter	_	ADV	_	_	_	_	_	_
-34	quinquagesimum	_	ADJ	_	_	_	_	_	_
+34	quinquagesimum	_	ADV	_	_	_	_	_	_
 35	romana	_	ADJ	_	_	_	_	_	_
 36	locutus	_	VERB	_	_	_	_	_	_
 37	lingua	_	NOUN	_	_	_	_	_	_
@@ -2413,7 +2413,7 @@
 14	omnium	_	DET	_	_	_	_	_	_
 15	illam	_	DET	_	_	_	_	_	_
 16	diu	_	ADV	_	_	_	_	_	_
-17	sepultam	_	VERB	_	_	_	_	_	_
+17	sepultam	_	NOUN	_	_	_	_	_	_
 18	suscitare	_	VERB	_	_	_	_	_	_
 19	adorti	_	VERB	_	_	_	_	_	_
 20	sint	_	AUX	_	_	_	_	_	_
@@ -2432,7 +2432,7 @@
 33	in	_	ADP	_	_	_	_	_	_
 34	me	_	PRON	_	_	_	_	_	_
 35	erit	_	AUX	_	_	_	_	_	_
-36	sua	_	NOUN	_	_	_	_	_	_
+36	sua	_	DET	_	_	_	_	_	_
 37	quisquam	_	PRON	_	_	_	_	_	_
 38	fraudabitur	_	VERB	_	_	_	_	_	_
 39	laude	_	NOUN	_	_	_	_	_	_
@@ -2441,7 +2441,7 @@
 42	forte	_	ADV	_	_	_	_	_	_
 43	cuiquam	_	PRON	_	_	_	_	_	_
 44	aut	_	CCONJ	_	_	_	_	_	_
-45	plus	_	ADV	_	_	_	_	_	_
+45	plus	_	ADJ	_	_	_	_	_	_
 46	quam	_	SCONJ	_	_	_	_	_	_
 47	aequum	_	ADJ	_	_	_	_	_	_
 48	sit	_	AUX	_	_	_	_	_	_
@@ -2493,7 +2493,7 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-95
 # text = Uerum quia me primas sermonis huius partes ferre uoluistis dicam breuiter quae sentio uos ita nostra accipite quasi cuique uestrum integrum relinquatur diuersa sentire si libeat ac quae senserit libere tueri sed iam satis superque exploratum habetis quo ad dicendum consilio uenerimus nunc ad ea quae dicere institueram reuertar
-1	Uerum	_	PROPN	_	_	_	_	_	_
+1	Uerum	_	CCONJ	_	_	_	_	_	_
 2	quia	_	SCONJ	_	_	_	_	_	_
 3	me	_	PRON	_	_	_	_	_	_
 4	primas	_	ADJ	_	_	_	_	_	_
@@ -2528,9 +2528,9 @@
 33	iam	_	ADV	_	_	_	_	_	_
 34	satis	_	ADV	_	_	_	_	_	_
 35-36	superque	_	_	_	_	_	_	_	_
-35	super	_	ADP	_	_	_	_	_	_
+35	super	_	ADV	_	_	_	_	_	_
 36	que	_	CCONJ	_	_	_	_	_	_
-37	exploratum	_	NOUN	_	_	_	_	_	_
+37	exploratum	_	VERB	_	_	_	_	_	_
 38	habetis	_	VERB	_	_	_	_	_	_
 39	quo	_	PRON	_	_	_	_	_	_
 40	ad	_	ADP	_	_	_	_	_	_
@@ -2568,7 +2568,7 @@
 18	in	_	ADP	_	_	_	_	_	_
 19	occulto	_	NOUN	_	_	_	_	_	_
 20	fuerant	_	AUX	_	_	_	_	_	_
-21	quum	_	ADV	_	_	_	_	_	_
+21	quum	_	SCONJ	_	_	_	_	_	_
 22	in	_	ADP	_	_	_	_	_	_
 23	cisalpina	_	ADJ	_	_	_	_	_	_
 24	Gallia	_	PROPN	_	_	_	_	_	_
@@ -2606,7 +2606,7 @@
 55	ut	_	SCONJ	_	_	_	_	_	_
 56	tam	_	ADV	_	_	_	_	_	_
 57	perniciosa	_	ADJ	_	_	_	_	_	_
-58	pestis	_	ADJ	_	_	_	_	_	_
+58	pestis	_	NOUN	_	_	_	_	_	_
 59	Italiae	_	PROPN	_	_	_	_	_	_
 60	finibus	_	NOUN	_	_	_	_	_	_
 61	pelleretur	_	VERB	_	_	_	_	_	_
@@ -2629,7 +2629,7 @@
 13	partu	_	NOUN	_	_	_	_	_	_
 14	illustris	_	ADJ	_	_	_	_	_	_
 15	Barzizam	_	PROPN	_	_	_	_	_	_
-16	uulgo	_	ADV	_	_	_	_	_	_
+16	uulgo	_	NOUN	_	_	_	_	_	_
 17	nominant	_	VERB	_	_	_	_	_	_
 18	hic	_	DET	_	_	_	_	_	_
 19	Gasparinus	_	PROPN	_	_	_	_	_	_
@@ -2668,7 +2668,7 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-103
 # text = Primus omnium ut audio ad ueteris eloquentiae umbram nam ex re tam nobili nil tum praeter id unum supererat oculos retorsit quum mille et amplius annos ex quo gethica illa tempestas terram Italiam inuaserat semper omnia in peius abiissent credo ea fiducia fretus quod in tris diuinos illos Marci Tullii ad Quintum fratrem libros quum diutissime non extitissent primus inciderat quos situ et uetustate consumptos diligenti cura et studio emendare adortus tantum intentiore lectione profecit ut opus non solum desideratum sed deploratum etiam in publicum exhibuerit multosque ad eloquentiae cultum exemplo et hortatione execitarit
-1	Primus	_	ADJ	_	_	_	_	_	_
+1	Primus	_	PROPN	_	_	_	_	_	_
 2	omnium	_	DET	_	_	_	_	_	_
 3	ut	_	SCONJ	_	_	_	_	_	_
 4	audio	_	VERB	_	_	_	_	_	_
@@ -2689,7 +2689,7 @@
 19	supererat	_	VERB	_	_	_	_	_	_
 20	oculos	_	NOUN	_	_	_	_	_	_
 21	retorsit	_	VERB	_	_	_	_	_	_
-22	quum	_	ADV	_	_	_	_	_	_
+22	quum	_	SCONJ	_	_	_	_	_	_
 23	mille	_	NUM	_	_	_	_	_	_
 24	et	_	CCONJ	_	_	_	_	_	_
 25	amplius	_	ADV	_	_	_	_	_	_
@@ -2722,7 +2722,7 @@
 52	Quintum	_	PROPN	_	_	_	_	_	_
 53	fratrem	_	NOUN	_	_	_	_	_	_
 54	libros	_	NOUN	_	_	_	_	_	_
-55	quum	_	DET	_	_	_	_	_	_
+55	quum	_	SCONJ	_	_	_	_	_	_
 56	diutissime	_	ADV	_	_	_	_	_	_
 57	non	_	PART	_	_	_	_	_	_
 58	extitissent	_	VERB	_	_	_	_	_	_
@@ -2755,7 +2755,7 @@
 85	publicum	_	NOUN	_	_	_	_	_	_
 86	exhibuerit	_	VERB	_	_	_	_	_	_
 87-88	multosque	_	_	_	_	_	_	_	_
-87	multos	_	ADJ	_	_	_	_	_	_
+87	multos	_	NOUN	_	_	_	_	_	_
 88	que	_	CCONJ	_	_	_	_	_	_
 89	ad	_	ADP	_	_	_	_	_	_
 90	eloquentiae	_	NOUN	_	_	_	_	_	_
@@ -2840,7 +2840,7 @@
 17	infirma	_	ADJ	_	_	_	_	_	_
 18	ut	_	SCONJ	_	_	_	_	_	_
 19	semper	_	ADV	_	_	_	_	_	_
-20	alias	_	DET	_	_	_	_	_	_
+20	alias	_	ADV	_	_	_	_	_	_
 21	tam	_	ADV	_	_	_	_	_	_
 22	audacis	_	ADJ	_	_	_	_	_	_
 23	conatus	_	NOUN	_	_	_	_	_	_
@@ -2862,13 +2862,13 @@
 39	in	_	ADP	_	_	_	_	_	_
 40	dies	_	NOUN	_	_	_	_	_	_
 41	accipiant	_	VERB	_	_	_	_	_	_
-42	incrementa	_	ADJ	_	_	_	_	_	_
+42	incrementa	_	NOUN	_	_	_	_	_	_
 43	ita	_	ADV	_	_	_	_	_	_
 44	accidit	_	VERB	_	_	_	_	_	_
 45	ut	_	SCONJ	_	_	_	_	_	_
 46	iam	_	ADV	_	_	_	_	_	_
 47	inde	_	ADV	_	_	_	_	_	_
-48	multis	_	ADJ	_	_	_	_	_	_
+48	multis	_	NOUN	_	_	_	_	_	_
 49	aliis	_	DET	_	_	_	_	_	_
 50	quidem	_	PART	_	_	_	_	_	_
 51	post	_	ADP	_	_	_	_	_	_
@@ -2878,7 +2878,7 @@
 55	consilium	_	NOUN	_	_	_	_	_	_
 56	iuuandum	_	VERB	_	_	_	_	_	_
 57	prodeuntibus	_	VERB	_	_	_	_	_	_
-58	breui	_	ADJ	_	_	_	_	_	_
+58	breui	_	ADV	_	_	_	_	_	_
 59	res	_	NOUN	_	_	_	_	_	_
 60	eo	_	ADV	_	_	_	_	_	_
 61	processerit	_	VERB	_	_	_	_	_	_
@@ -2904,7 +2904,7 @@
 6	tempus	_	NOUN	_	_	_	_	_	_
 7	extitere	_	VERB	_	_	_	_	_	_
 8	Leonardus	_	PROPN	_	_	_	_	_	_
-9	aretinus	_	VERB	_	_	_	_	_	_
+9	aretinus	_	ADJ	_	_	_	_	_	_
 10	praecipua	_	ADJ	_	_	_	_	_	_
 11	dignus	_	ADJ	_	_	_	_	_	_
 12	laude	_	NOUN	_	_	_	_	_	_
@@ -2981,7 +2981,7 @@
 28	illo	_	DET	_	_	_	_	_	_
 29	nescio	_	VERB	_	_	_	_	_	_
 30	quo	_	PRON	_	_	_	_	_	_
-31	antistite	_	ADV	_	_	_	_	_	_
+31	antistite	_	NOUN	_	_	_	_	_	_
 32	et	_	CCONJ	_	_	_	_	_	_
 33	in	_	ADP	_	_	_	_	_	_
 34	Xenophontis	_	PROPN	_	_	_	_	_	_
@@ -3007,7 +3007,7 @@
 54	in	_	ADP	_	_	_	_	_	_
 55	illo	_	DET	_	_	_	_	_	_
 56	uirtus	_	NOUN	_	_	_	_	_	_
-57	quam	_	SCONJ	_	_	_	_	_	_
+57	quam	_	PRON	_	_	_	_	_	_
 58	in	_	ADP	_	_	_	_	_	_
 59	hoc	_	DET	_	_	_	_	_	_
 60	aliquo	_	PRON	_	_	_	_	_	_
@@ -3023,8 +3023,8 @@
 70	figura	_	NOUN	_	_	_	_	_	_
 71	alioqui	_	ADV	_	_	_	_	_	_
 72	perstitit	_	VERB	_	_	_	_	_	_
-73	age	_	INTJ	_	_	_	_	_	_
-74	uero	_	ADV	_	_	_	_	_	_
+73	age	_	VERB	_	_	_	_	_	_
+74	uero	_	CCONJ	_	_	_	_	_	_
 75	quam	_	ADV	_	_	_	_	_	_
 76	diligenter	_	ADV	_	_	_	_	_	_
 77	et	_	CCONJ	_	_	_	_	_	_
@@ -3042,7 +3042,7 @@
 89	erudite	_	ADV	_	_	_	_	_	_
 90	in	_	ADP	_	_	_	_	_	_
 91	Oeconomicis	_	PROPN	_	_	_	_	_	_
-92	Politicis	_	PROPN	_	_	_	_	_	_
+92	Politicis	_	ADJ	_	_	_	_	_	_
 93-94	Ethicisque	_	_	_	_	_	_	_	_
 93	Ethicis	_	ADJ	_	_	_	_	_	_
 94	que	_	CCONJ	_	_	_	_	_	_
@@ -3065,7 +3065,7 @@
 9	alieno	_	ADJ	_	_	_	_	_	_
 10	libro	_	NOUN	_	_	_	_	_	_
 11	esse	_	AUX	_	_	_	_	_	_
-12	disertum	_	ADJ	_	_	_	_	_	_
+12	disertum	_	VERB	_	_	_	_	_	_
 13	sed	_	CCONJ	_	_	_	_	_	_
 14	in	_	ADP	_	_	_	_	_	_
 15	suo	_	DET	_	_	_	_	_	_
@@ -3112,11 +3112,11 @@
 37	caetera	_	ADJ	_	_	_	_	_	_
 38	eius	_	PRON	_	_	_	_	_	_
 39	opuscula	_	NOUN	_	_	_	_	_	_
-40	consulto	_	VERB	_	_	_	_	_	_
+40	consulto	_	NOUN	_	_	_	_	_	_
 41	praetereo	_	VERB	_	_	_	_	_	_
 42	si	_	SCONJ	_	_	_	_	_	_
 43	in	_	ADP	_	_	_	_	_	_
-44	uniuersum	_	NOUN	_	_	_	_	_	_
+44	uniuersum	_	ADJ	_	_	_	_	_	_
 45	iudicare	_	VERB	_	_	_	_	_	_
 46	uelimus	_	VERB	_	_	_	_	_	_
 47	possumus	_	VERB	_	_	_	_	_	_
@@ -3139,7 +3139,7 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-127
 # text = Multae praeterea uariaeque in illo uiro dicendi uirtutes quas si quis altius inspiciat adhuc tamen aliquid in elocutione requirat sed id temporum potius quam hominis uitium nec magis in eo accusandum quam in Pogio qui eadem floruit tempestate
-1	Multae	_	ADJ	_	_	_	_	_	_
+1	Multae	_	PROPN	_	_	_	_	_	_
 2	praeterea	_	ADV	_	_	_	_	_	_
 3-4	uariaeque	_	_	_	_	_	_	_	_
 3	uariae	_	ADJ	_	_	_	_	_	_
@@ -3190,7 +3190,7 @@
 6-7	mediaque	_	_	_	_	_	_	_	_
 6	media	_	ADJ	_	_	_	_	_	_
 7	que	_	CCONJ	_	_	_	_	_	_
-8	Florentia	_	ADJ	_	_	_	_	_	_
+8	Florentia	_	PROPN	_	_	_	_	_	_
 9	natus	_	VERB	_	_	_	_	_	_
 10	facundo	_	VERB	_	_	_	_	_	_
 11	ingenio	_	NOUN	_	_	_	_	_	_
@@ -3212,7 +3212,7 @@
 27	reliquit	_	VERB	_	_	_	_	_	_
 28	opus	_	NOUN	_	_	_	_	_	_
 29	ipsum	_	DET	_	_	_	_	_	_
-30	uulgo	_	ADV	_	_	_	_	_	_
+30	uulgo	_	NOUN	_	_	_	_	_	_
 31	legitur	_	VERB	_	_	_	_	_	_
 32-33	estque	_	_	_	_	_	_	_	_
 32	est	_	AUX	_	_	_	_	_	_
@@ -3241,7 +3241,7 @@
 # text = Diodorus quem latinum fecit uulgo legitur alia quae ex Graecis nostra reddidit ad manus non peruenere sed ut breuiter dicam omnia illius uenustate potius et copia probantur quam elegantia hinc certamina illa perpetuaeque altercationes aduersus laurentianas censuras ei subortae sed utcumque eius scripta accipienda sint dignus certe laude uel in primis quod quem elegantiorem sequeretur aut cuius exemplo scriberet praeter eum cum quo apertas exercuit simultates ea aetate habuit neminem sed quantuscumque fuit se propria uirtute effecit uerum non magis ea quae scripsit ad latina studia suscitanda quam in iis quos ueteri iniuria amiseramus conquirendis hominis studium et industria profuit
 1	Diodorus	_	PROPN	_	_	_	_	_	_
 2	quem	_	PRON	_	_	_	_	_	_
-3	latinum	_	ADJ	_	_	_	_	_	_
+3	latinum	_	NOUN	_	_	_	_	_	_
 4	fecit	_	VERB	_	_	_	_	_	_
 5	uulgo	_	ADV	_	_	_	_	_	_
 6	legitur	_	VERB	_	_	_	_	_	_
@@ -3276,7 +3276,7 @@
 34	que	_	CCONJ	_	_	_	_	_	_
 35	altercationes	_	NOUN	_	_	_	_	_	_
 36	aduersus	_	ADP	_	_	_	_	_	_
-37	laurentianas	_	ADJ	_	_	_	_	_	_
+37	laurentianas	_	NOUN	_	_	_	_	_	_
 38	censuras	_	NOUN	_	_	_	_	_	_
 39	ei	_	PRON	_	_	_	_	_	_
 40	subortae	_	VERB	_	_	_	_	_	_
@@ -3332,7 +3332,7 @@
 90	in	_	ADP	_	_	_	_	_	_
 91	iis	_	PRON	_	_	_	_	_	_
 92	quos	_	PRON	_	_	_	_	_	_
-93	ueteri	_	ADJ	_	_	_	_	_	_
+93	ueteri	_	NOUN	_	_	_	_	_	_
 94	iniuria	_	NOUN	_	_	_	_	_	_
 95	amiseramus	_	VERB	_	_	_	_	_	_
 96	conquirendis	_	VERB	_	_	_	_	_	_
@@ -3344,7 +3344,7 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-134
 # text = Constans phama est Fabium Quintilianum alterum latinae linguae lumen sub tempus constantiaci Conuentus ab eo ex Gallia Romam deportatum quem ignotum squalidum tetroque pedore carceris consumptum in apertum rettulit
-1	Constans	_	ADJ	_	_	_	_	_	_
+1	Constans	_	PROPN	_	_	_	_	_	_
 2	phama	_	NOUN	_	_	_	_	_	_
 3	est	_	AUX	_	_	_	_	_	_
 4	Fabium	_	PROPN	_	_	_	_	_	_
@@ -3405,7 +3405,7 @@
 3	Romae	_	PROPN	_	_	_	_	_	_
 4	nouissimis	_	ADJ	_	_	_	_	_	_
 5	temporibus	_	NOUN	_	_	_	_	_	_
-6	et	_	ADV	_	_	_	_	_	_
+6	et	_	CCONJ	_	_	_	_	_	_
 7	ipse	_	DET	_	_	_	_	_	_
 8	publico	_	ADJ	_	_	_	_	_	_
 9	decreto	_	NOUN	_	_	_	_	_	_
@@ -3493,7 +3493,7 @@
 2	uegianum	_	ADJ	_	_	_	_	_	_
 3	carmen	_	NOUN	_	_	_	_	_	_
 4	uelut	_	SCONJ	_	_	_	_	_	_
-5	appendicem	_	VERB	_	_	_	_	_	_
+5	appendicem	_	NOUN	_	_	_	_	_	_
 6	quandam	_	DET	_	_	_	_	_	_
 7	Uirgilio	_	PROPN	_	_	_	_	_	_
 8	annexum	_	VERB	_	_	_	_	_	_
@@ -3559,7 +3559,7 @@
 1	Fuit	_	AUX	_	_	_	_	_	_
 2	is	_	PRON	_	_	_	_	_	_
 3	Chrisolorae	_	PROPN	_	_	_	_	_	_
-4	costantinopolitani	_	NOUN	_	_	_	_	_	_
+4	costantinopolitani	_	ADJ	_	_	_	_	_	_
 5	auditor	_	NOUN	_	_	_	_	_	_
 6	cuius	_	PRON	_	_	_	_	_	_
 7	et	_	CCONJ	_	_	_	_	_	_
@@ -3606,7 +3606,7 @@
 48	inciperem	_	VERB	_	_	_	_	_	_
 49	ut	_	SCONJ	_	_	_	_	_	_
 50	in	_	ADP	_	_	_	_	_	_
-51	ueneti	_	VERB	_	_	_	_	_	_
+51	ueneti	_	ADJ	_	_	_	_	_	_
 52	nominis	_	NOUN	_	_	_	_	_	_
 53	uiros	_	NOUN	_	_	_	_	_	_
 54	celebrandos	_	VERB	_	_	_	_	_	_
@@ -3682,7 +3682,7 @@
 63	quamquam	_	SCONJ	_	_	_	_	_	_
 64	in	_	ADP	_	_	_	_	_	_
 65	eo	_	PRON	_	_	_	_	_	_
-66	quoque	_	DET	_	_	_	_	_	_
+66	quoque	_	ADV	_	_	_	_	_	_
 67	genere	_	NOUN	_	_	_	_	_	_
 68	non	_	PART	_	_	_	_	_	_
 69	mediocrem	_	ADJ	_	_	_	_	_	_
@@ -3737,7 +3737,7 @@
 43	fuit	_	AUX	_	_	_	_	_	_
 44	ab	_	ADP	_	_	_	_	_	_
 45	eo	_	PRON	_	_	_	_	_	_
-46	factum	_	VERB	_	_	_	_	_	_
+46	factum	_	NOUN	_	_	_	_	_	_
 47	nemo	_	PRON	_	_	_	_	_	_
 48	est	_	AUX	_	_	_	_	_	_
 49	qui	_	PRON	_	_	_	_	_	_
@@ -3766,7 +3766,7 @@
 19	facile	_	ADV	_	_	_	_	_	_
 20	declarant	_	VERB	_	_	_	_	_	_
 21	Strabonis	_	PROPN	_	_	_	_	_	_
-22	Europa	_	PROPN	_	_	_	_	_	_
+22	Europa	_	NOUN	_	_	_	_	_	_
 23	quam	_	PRON	_	_	_	_	_	_
 24	ille	_	DET	_	_	_	_	_	_
 25	nostram	_	DET	_	_	_	_	_	_
@@ -3781,8 +3781,8 @@
 34	et	_	CCONJ	_	_	_	_	_	_
 35	Aristotelis	_	PROPN	_	_	_	_	_	_
 36	est	_	AUX	_	_	_	_	_	_
-37	ingeniose	_	ADV	_	_	_	_	_	_
-38	commentus	_	VERB	_	_	_	_	_	_
+37	ingeniose	_	ADJ	_	_	_	_	_	_
+38	commentus	_	NOUN	_	_	_	_	_	_
 39	et	_	CCONJ	_	_	_	_	_	_
 40	ex	_	ADP	_	_	_	_	_	_
 41	Plutarcho	_	PROPN	_	_	_	_	_	_
@@ -3883,13 +3883,13 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-152
 # text = Quam uirtutem multi et in Uictorino feltrensi eius aequali aeque mirari dicuntur adeo ut nihil dubitare possis uerissima esse quae de amborum institutione uulgo feruntur utrumque ab ineunte adolescentia nescio quo rauennate uiro integerrimo dicendi magistro usum si quidem haud parui refert qualem a teneris quisque annis sit praeceptorem sortitus ut mores igitur ita studia pene paria par etiam et aetas uicinis inter se propinquisque urbibus nati propinquioribus professi Feltri hic ille Ueronae genitus hic Mantuae docuit ille Ferrariae uterque suo principi charus sua foelix uterque familia foelix uitae exitus alterius tamen phama aliquanto maior quanto uidelicet Feltro maior est Uerona
-1	Quam	_	PRON	_	_	_	_	_	_
+1	Quam	_	DET	_	_	_	_	_	_
 2	uirtutem	_	NOUN	_	_	_	_	_	_
 3	multi	_	NOUN	_	_	_	_	_	_
 4	et	_	CCONJ	_	_	_	_	_	_
 5	in	_	ADP	_	_	_	_	_	_
 6	Uictorino	_	PROPN	_	_	_	_	_	_
-7	feltrensi	_	VERB	_	_	_	_	_	_
+7	feltrensi	_	NOUN	_	_	_	_	_	_
 8	eius	_	PRON	_	_	_	_	_	_
 9	aequali	_	NOUN	_	_	_	_	_	_
 10	aeque	_	ADV	_	_	_	_	_	_
@@ -3944,7 +3944,7 @@
 59	etiam	_	ADV	_	_	_	_	_	_
 60	et	_	CCONJ	_	_	_	_	_	_
 61	aetas	_	NOUN	_	_	_	_	_	_
-62	uicinis	_	ADJ	_	_	_	_	_	_
+62	uicinis	_	NOUN	_	_	_	_	_	_
 63	inter	_	ADP	_	_	_	_	_	_
 64	se	_	PRON	_	_	_	_	_	_
 65-66	propinquisque	_	_	_	_	_	_	_	_
@@ -3981,7 +3981,7 @@
 95	aliquanto	_	ADV	_	_	_	_	_	_
 96	maior	_	ADJ	_	_	_	_	_	_
 97	quanto	_	SCONJ	_	_	_	_	_	_
-98	uidelicet	_	CCONJ	_	_	_	_	_	_
+98	uidelicet	_	VERB	_	_	_	_	_	_
 99	Feltro	_	PROPN	_	_	_	_	_	_
 100	maior	_	ADJ	_	_	_	_	_	_
 101	est	_	AUX	_	_	_	_	_	_
@@ -3996,14 +3996,14 @@
 5	laudis	_	NOUN	_	_	_	_	_	_
 6	docendo	_	VERB	_	_	_	_	_	_
 7	meruere	_	VERB	_	_	_	_	_	_
-8	tantum	_	PRON	_	_	_	_	_	_
+8	tantum	_	ADV	_	_	_	_	_	_
 9	fortassis	_	ADV	_	_	_	_	_	_
 10	forliuiensis	_	ADJ	_	_	_	_	_	_
 11	Blundus	_	PROPN	_	_	_	_	_	_
 12	eorum	_	PRON	_	_	_	_	_	_
 13	aequalis	_	NOUN	_	_	_	_	_	_
 14	scribendo	_	VERB	_	_	_	_	_	_
-15	meritus	_	VERB	_	_	_	_	_	_
+15	meritus	_	NOUN	_	_	_	_	_	_
 16	uideri	_	VERB	_	_	_	_	_	_
 17	potest	_	VERB	_	_	_	_	_	_
 18	quippe	_	PART	_	_	_	_	_	_
@@ -4060,7 +4060,7 @@
 38	tradidit	_	VERB	_	_	_	_	_	_
 39	quam	_	SCONJ	_	_	_	_	_	_
 40	euentu	_	NOUN	_	_	_	_	_	_
-41	utpote	_	ADV	_	_	_	_	_	_
+41	utpote	_	SCONJ	_	_	_	_	_	_
 42	is	_	PRON	_	_	_	_	_	_
 43	qui	_	PRON	_	_	_	_	_	_
 44	non	_	PART	_	_	_	_	_	_
@@ -4080,7 +4080,7 @@
 58	absurdum	_	ADJ	_	_	_	_	_	_
 59	est	_	AUX	_	_	_	_	_	_
 60	credere	_	VERB	_	_	_	_	_	_
-61	quum	_	ADV	_	_	_	_	_	_
+61	quum	_	SCONJ	_	_	_	_	_	_
 62	neque	_	CCONJ	_	_	_	_	_	_
 63	ex	_	ADP	_	_	_	_	_	_
 64	auctore	_	NOUN	_	_	_	_	_	_
@@ -4106,11 +4106,11 @@
 84	fauoris	_	NOUN	_	_	_	_	_	_
 85	conciliat	_	VERB	_	_	_	_	_	_
 86	nam	_	PART	_	_	_	_	_	_
-87	praeterquam	_	VERB	_	_	_	_	_	_
+87	praeterquam	_	ADV	_	_	_	_	_	_
 88	quod	_	SCONJ	_	_	_	_	_	_
 89	ubique	_	ADV	_	_	_	_	_	_
 90	fere	_	ADV	_	_	_	_	_	_
-91	lutulentus	_	ADJ	_	_	_	_	_	_
+91	lutulentus	_	NOUN	_	_	_	_	_	_
 92	fluit	_	VERB	_	_	_	_	_	_
 93	dum	_	SCONJ	_	_	_	_	_	_
 94	neruorum	_	NOUN	_	_	_	_	_	_
@@ -4135,7 +4135,7 @@
 112	quidem	_	PART	_	_	_	_	_	_
 113	potest	_	VERB	_	_	_	_	_	_
 114	delectare	_	VERB	_	_	_	_	_	_
-115	uero	_	ADV	_	_	_	_	_	_
+115	uero	_	CCONJ	_	_	_	_	_	_
 116	minime	_	ADV	_	_	_	_	_	_
 117	sed	_	CCONJ	_	_	_	_	_	_
 118	haec	_	DET	_	_	_	_	_	_
@@ -4160,7 +4160,7 @@
 8	scripta	_	NOUN	_	_	_	_	_	_
 9	aliquid	_	PRON	_	_	_	_	_	_
 10	certe	_	ADV	_	_	_	_	_	_
-11	commodi	_	NOUN	_	_	_	_	_	_
+11	commodi	_	ADJ	_	_	_	_	_	_
 12	latinis	_	ADJ	_	_	_	_	_	_
 13	studiis	_	NOUN	_	_	_	_	_	_
 14	attulerunt	_	VERB	_	_	_	_	_	_
@@ -4232,7 +4232,7 @@
 31	accuratius	_	ADV	_	_	_	_	_	_
 32	docuere	_	VERB	_	_	_	_	_	_
 33	et	_	CCONJ	_	_	_	_	_	_
-34	grammaticen	_	ADV	_	_	_	_	_	_
+34	grammaticen	_	NOUN	_	_	_	_	_	_
 35	et	_	CCONJ	_	_	_	_	_	_
 36	hoc	_	DET	_	_	_	_	_	_
 37	in	_	ADP	_	_	_	_	_	_
@@ -4306,8 +4306,8 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-168
 # text = Huic uidelicet a quo patrium sermonem maxime uindicari oportuit
-1	Huic	_	PROPN	_	_	_	_	_	_
-2	uidelicet	_	CCONJ	_	_	_	_	_	_
+1	Huic	_	ADV	_	_	_	_	_	_
+2	uidelicet	_	VERB	_	_	_	_	_	_
 3	a	_	ADP	_	_	_	_	_	_
 4	quo	_	PRON	_	_	_	_	_	_
 5	patrium	_	ADJ	_	_	_	_	_	_
@@ -4365,7 +4365,7 @@
 45	moenia	_	NOUN	_	_	_	_	_	_
 46	mox	_	ADV	_	_	_	_	_	_
 47	quod	_	PRON	_	_	_	_	_	_
-48	reliquum	_	ADJ	_	_	_	_	_	_
+48	reliquum	_	NOUN	_	_	_	_	_	_
 49	hostium	_	NOUN	_	_	_	_	_	_
 50	fuit	_	AUX	_	_	_	_	_	_
 51	ad	_	ADP	_	_	_	_	_	_
@@ -4379,11 +4379,11 @@
 59	hic	_	DET	_	_	_	_	_	_
 60	quoque	_	ADV	_	_	_	_	_	_
 61	Romae	_	PROPN	_	_	_	_	_	_
-62	primo	_	ADJ	_	_	_	_	_	_
+62	primo	_	ADV	_	_	_	_	_	_
 63	mox	_	ADV	_	_	_	_	_	_
 64	reliqua	_	ADJ	_	_	_	_	_	_
 65	Italia	_	PROPN	_	_	_	_	_	_
-66	inueteratum	_	VERB	_	_	_	_	_	_
+66	inueteratum	_	ADJ	_	_	_	_	_	_
 67	malum	_	NOUN	_	_	_	_	_	_
 68	oppressit	_	VERB	_	_	_	_	_	_
 69	restituit	_	VERB	_	_	_	_	_	_
@@ -4401,7 +4401,7 @@
 81	patriae	_	NOUN	_	_	_	_	_	_
 82	nominetur	_	VERB	_	_	_	_	_	_
 83	sed	_	CCONJ	_	_	_	_	_	_
-84	eo	_	PRON	_	_	_	_	_	_
+84	eo	_	ADV	_	_	_	_	_	_
 85	alter	_	DET	_	_	_	_	_	_
 86	dignior	_	ADJ	_	_	_	_	_	_
 87	quod	_	SCONJ	_	_	_	_	_	_
@@ -4460,7 +4460,7 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-172
 # text = Legite si placet Herodotum quem ille ciuitate donauit citentur ex Elisiis ut poetae dicunt campis ipsius Manes deturque latine scire num negabit sua esse illa quae uideat an potius caetera agnoscens et in primis eximium candorem tantum mirabitur Musas quibus opus inscripserat ionice desiisse loqui
-1	Legite	_	PROPN	_	_	_	_	_	_
+1	Legite	_	VERB	_	_	_	_	_	_
 2	si	_	SCONJ	_	_	_	_	_	_
 3	placet	_	VERB	_	_	_	_	_	_
 4	Herodotum	_	PROPN	_	_	_	_	_	_
@@ -4491,7 +4491,7 @@
 28	uideat	_	VERB	_	_	_	_	_	_
 29	an	_	PART	_	_	_	_	_	_
 30	potius	_	ADV	_	_	_	_	_	_
-31	caetera	_	ADJ	_	_	_	_	_	_
+31	caetera	_	NOUN	_	_	_	_	_	_
 32	agnoscens	_	VERB	_	_	_	_	_	_
 33	et	_	CCONJ	_	_	_	_	_	_
 34	in	_	ADP	_	_	_	_	_	_
@@ -4579,7 +4579,7 @@
 4	his	_	DET	_	_	_	_	_	_
 5	quoque	_	ADV	_	_	_	_	_	_
 6	eum	_	PRON	_	_	_	_	_	_
-7	duriusculum	_	ADJ	_	_	_	_	_	_
+7	duriusculum	_	NOUN	_	_	_	_	_	_
 8	existiment	_	VERB	_	_	_	_	_	_
 9	sed	_	CCONJ	_	_	_	_	_	_
 10	eruditio	_	NOUN	_	_	_	_	_	_
@@ -4669,7 +4669,7 @@
 77	nihil	_	PRON	_	_	_	_	_	_
 78	temere	_	ADV	_	_	_	_	_	_
 79	in	_	ADP	_	_	_	_	_	_
-80	apertum	_	ADJ	_	_	_	_	_	_
+80	apertum	_	NOUN	_	_	_	_	_	_
 81	referrent	_	VERB	_	_	_	_	_	_
 82	uerum	_	CCONJ	_	_	_	_	_	_
 83	sic	_	ADV	_	_	_	_	_	_
@@ -4715,7 +4715,7 @@
 123	si	_	SCONJ	_	_	_	_	_	_
 124	aliquo	_	PRON	_	_	_	_	_	_
 125	modo	_	NOUN	_	_	_	_	_	_
-126	contraria	_	ADJ	_	_	_	_	_	_
+126	contraria	_	NOUN	_	_	_	_	_	_
 127	uideantur	_	VERB	_	_	_	_	_	_
 128	amplius	_	ADV	_	_	_	_	_	_
 129	admittant	_	VERB	_	_	_	_	_	_
@@ -4871,7 +4871,7 @@
 38	dicam	_	VERB	_	_	_	_	_	_
 39	quod	_	SCONJ	_	_	_	_	_	_
 40	et	_	CCONJ	_	_	_	_	_	_
-41	multi	_	ADJ	_	_	_	_	_	_
+41	multi	_	NOUN	_	_	_	_	_	_
 42	fuisse	_	AUX	_	_	_	_	_	_
 43	in	_	ADP	_	_	_	_	_	_
 44	eo	_	PRON	_	_	_	_	_	_
@@ -4928,16 +4928,16 @@
 4	facetus	_	ADJ	_	_	_	_	_	_
 5	Panormita	_	PROPN	_	_	_	_	_	_
 6	sed	_	CCONJ	_	_	_	_	_	_
-7	lasciui	_	ADJ	_	_	_	_	_	_
+7	lasciui	_	NOUN	_	_	_	_	_	_
 8	carminis	_	NOUN	_	_	_	_	_	_
 9	amator	_	ADJ	_	_	_	_	_	_
 10	atque	_	CCONJ	_	_	_	_	_	_
 11	ob	_	ADP	_	_	_	_	_	_
 12	id	_	PRON	_	_	_	_	_	_
-13	probis	_	ADJ	_	_	_	_	_	_
+13	probis	_	NOUN	_	_	_	_	_	_
 14	uiris	_	NOUN	_	_	_	_	_	_
 15	minime	_	ADV	_	_	_	_	_	_
-16	legendus	_	VERB	_	_	_	_	_	_
+16	legendus	_	ADJ	_	_	_	_	_	_
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-196
 # text = Nec Pius pontifex mihi excidit Aeneas antea nominatus poeta quidem magnus sed orator adhuc maior quem etiam si inter nouos hystoricos reponas cui cedere debeat haud facile reperias
@@ -4960,7 +4960,7 @@
 17	etiam	_	ADV	_	_	_	_	_	_
 18	si	_	SCONJ	_	_	_	_	_	_
 19	inter	_	ADP	_	_	_	_	_	_
-20	nouos	_	ADJ	_	_	_	_	_	_
+20	nouos	_	NUM	_	_	_	_	_	_
 21	hystoricos	_	NOUN	_	_	_	_	_	_
 22	reponas	_	VERB	_	_	_	_	_	_
 23	cui	_	PRON	_	_	_	_	_	_
@@ -4986,7 +4986,7 @@
 11	quae	_	PRON	_	_	_	_	_	_
 12	Asia	_	PROPN	_	_	_	_	_	_
 13	inscribitur	_	VERB	_	_	_	_	_	_
-14	et	_	ADV	_	_	_	_	_	_
+14	et	_	CCONJ	_	_	_	_	_	_
 15	in	_	ADP	_	_	_	_	_	_
 16	Blundi	_	PROPN	_	_	_	_	_	_
 17	historias	_	NOUN	_	_	_	_	_	_
@@ -5036,7 +5036,7 @@
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-200
 # text = Nullus quod sciam nostra tempestate mathematicas artes elegantius tractauit
 1	Nullus	_	DET	_	_	_	_	_	_
-2	quod	_	SCONJ	_	_	_	_	_	_
+2	quod	_	PRON	_	_	_	_	_	_
 3	sciam	_	VERB	_	_	_	_	_	_
 4	nostra	_	DET	_	_	_	_	_	_
 5	tempestate	_	NOUN	_	_	_	_	_	_
@@ -5087,7 +5087,7 @@
 3	diuerso	_	ADJ	_	_	_	_	_	_
 4	genere	_	NOUN	_	_	_	_	_	_
 5	Bessario	_	PROPN	_	_	_	_	_	_
-6	nicenus	_	ADJ	_	_	_	_	_	_
+6	nicenus	_	NOUN	_	_	_	_	_	_
 7	antistes	_	NOUN	_	_	_	_	_	_
 8	et	_	CCONJ	_	_	_	_	_	_
 9	Georgius	_	PROPN	_	_	_	_	_	_
@@ -5129,7 +5129,7 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-205
 # text = Nec Gregorius tiphernas nihil meritus est qui Aphricam Strabonis et Asiam nostris studiis adiecit cognoscitur et eius carmen tam pium quam elegans
-1	Nec	_	PROPN	_	_	_	_	_	_
+1	Nec	_	PART	_	_	_	_	_	_
 2	Gregorius	_	PROPN	_	_	_	_	_	_
 3	tiphernas	_	NOUN	_	_	_	_	_	_
 4	nihil	_	PRON	_	_	_	_	_	_
@@ -5144,7 +5144,7 @@
 13	studiis	_	NOUN	_	_	_	_	_	_
 14	adiecit	_	VERB	_	_	_	_	_	_
 15	cognoscitur	_	VERB	_	_	_	_	_	_
-16	et	_	ADV	_	_	_	_	_	_
+16	et	_	CCONJ	_	_	_	_	_	_
 17	eius	_	PRON	_	_	_	_	_	_
 18	carmen	_	NOUN	_	_	_	_	_	_
 19	tam	_	ADV	_	_	_	_	_	_
@@ -5158,17 +5158,17 @@
 2	uero	_	CCONJ	_	_	_	_	_	_
 3	Perotus	_	PROPN	_	_	_	_	_	_
 4	sipontinus	_	ADJ	_	_	_	_	_	_
-5	antistes	_	ADJ	_	_	_	_	_	_
+5	antistes	_	NOUN	_	_	_	_	_	_
 6	post	_	ADP	_	_	_	_	_	_
 7	Laurentium	_	PROPN	_	_	_	_	_	_
 8	quem	_	PRON	_	_	_	_	_	_
 9	uelut	_	SCONJ	_	_	_	_	_	_
-10	homericum	_	ADJ	_	_	_	_	_	_
+10	homericum	_	NOUN	_	_	_	_	_	_
 11	illum	_	DET	_	_	_	_	_	_
 12	Achillem	_	PROPN	_	_	_	_	_	_
 13	semper	_	ADV	_	_	_	_	_	_
 14	excipiendum	_	VERB	_	_	_	_	_	_
-15	duxi	_	VERB	_	_	_	_	_	_
+15	duxi	_	NOUN	_	_	_	_	_	_
 16	omnium	_	DET	_	_	_	_	_	_
 17	quos	_	PRON	_	_	_	_	_	_
 18	diximus	_	VERB	_	_	_	_	_	_
@@ -5188,7 +5188,7 @@
 5	nihil	_	PRON	_	_	_	_	_	_
 6	minus	_	ADV	_	_	_	_	_	_
 7	elaboratum	_	ADJ	_	_	_	_	_	_
-8	quum	_	ADV	_	_	_	_	_	_
+8	quum	_	SCONJ	_	_	_	_	_	_
 9	elaboratissima	_	ADJ	_	_	_	_	_	_
 10	alioqui	_	ADV	_	_	_	_	_	_
 11	omnia	_	DET	_	_	_	_	_	_
@@ -5255,7 +5255,7 @@
 46	indigestam	_	ADJ	_	_	_	_	_	_
 47	sed	_	CCONJ	_	_	_	_	_	_
 48	quae	_	PRON	_	_	_	_	_	_
-49	plurimum	_	ADV	_	_	_	_	_	_
+49	plurimum	_	ADJ	_	_	_	_	_	_
 50	alioqui	_	ADV	_	_	_	_	_	_
 51	habeat	_	VERB	_	_	_	_	_	_
 52	eruditionis	_	NOUN	_	_	_	_	_	_
@@ -5307,7 +5307,7 @@
 6	filio	_	NOUN	_	_	_	_	_	_
 7	defuisse	_	VERB	_	_	_	_	_	_
 8	quum	_	SCONJ	_	_	_	_	_	_
-9	caetera	_	ADJ	_	_	_	_	_	_
+9	caetera	_	NOUN	_	_	_	_	_	_
 10	illius	_	DET	_	_	_	_	_	_
 11	scripta	_	NOUN	_	_	_	_	_	_
 12	tum	_	ADV	_	_	_	_	_	_
@@ -5387,7 +5387,7 @@
 2	accuratior	_	ADJ	_	_	_	_	_	_
 3	que	_	CCONJ	_	_	_	_	_	_
 4	Omnibonus	_	PROPN	_	_	_	_	_	_
-5	leonicenus	_	ADJ	_	_	_	_	_	_
+5	leonicenus	_	NOUN	_	_	_	_	_	_
 6	quamquam	_	SCONJ	_	_	_	_	_	_
 7	poeta	_	NOUN	_	_	_	_	_	_
 8	ille	_	DET	_	_	_	_	_	_
@@ -5400,10 +5400,10 @@
 15	conferas	_	VERB	_	_	_	_	_	_
 16	compositius	_	ADV	_	_	_	_	_	_
 17	hunc	_	DET	_	_	_	_	_	_
-18	soluta	_	VERB	_	_	_	_	_	_
+18	soluta	_	ADJ	_	_	_	_	_	_
 19	quam	_	SCONJ	_	_	_	_	_	_
 20	illum	_	DET	_	_	_	_	_	_
-21	frenata	_	VERB	_	_	_	_	_	_
+21	frenata	_	ADJ	_	_	_	_	_	_
 22	procedere	_	VERB	_	_	_	_	_	_
 23	oratione	_	NOUN	_	_	_	_	_	_
 24	dixeris	_	VERB	_	_	_	_	_	_
@@ -5422,7 +5422,7 @@
 10	pondus	_	NOUN	_	_	_	_	_	_
 11	et	_	CCONJ	_	_	_	_	_	_
 12	sententias	_	NOUN	_	_	_	_	_	_
-13	mirati	_	ADJ	_	_	_	_	_	_
+13	mirati	_	VERB	_	_	_	_	_	_
 14	inter	_	ADP	_	_	_	_	_	_
 15	recentium	_	ADJ	_	_	_	_	_	_
 16	oratorum	_	NOUN	_	_	_	_	_	_
@@ -5432,7 +5432,7 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-222
 # text = Eius libri de origine urbis huius nondum in lucem uenere sed ut in summa sint expectatione ea quae nouimus faciunt
-1	Eius	_	PROPN	_	_	_	_	_	_
+1	Eius	_	DET	_	_	_	_	_	_
 2	libri	_	NOUN	_	_	_	_	_	_
 3	de	_	ADP	_	_	_	_	_	_
 4	origine	_	NOUN	_	_	_	_	_	_
@@ -5530,7 +5530,7 @@
 20	Petro	_	PROPN	_	_	_	_	_	_
 21	Barotio	_	PROPN	_	_	_	_	_	_
 22	patauino	_	NOUN	_	_	_	_	_	_
-23	antistite	_	ADV	_	_	_	_	_	_
+23	antistite	_	NOUN	_	_	_	_	_	_
 24-25	eodemque	_	_	_	_	_	_	_	_
 24	eodem	_	DET	_	_	_	_	_	_
 25	que	_	CCONJ	_	_	_	_	_	_
@@ -5561,7 +5561,7 @@
 13	magis	_	ADV	_	_	_	_	_	_
 14	que	_	CCONJ	_	_	_	_	_	_
 15	religioni	_	NOUN	_	_	_	_	_	_
-16	accommodatum	_	VERB	_	_	_	_	_	_
+16	accommodatum	_	ADJ	_	_	_	_	_	_
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-227
 # text = Cupio uehementer uidere opus ab eo de optimo genere moriendi nuperrime absolutum in quo audio omnia diuine ab eo disposita
@@ -5617,11 +5617,11 @@
 26	ademptam	_	VERB	_	_	_	_	_	_
 27	ab	_	ADP	_	_	_	_	_	_
 28	illo	_	DET	_	_	_	_	_	_
-29	Graecis	_	PROPN	_	_	_	_	_	_
+29	Graecis	_	ADJ	_	_	_	_	_	_
 30	eloquentiae	_	NOUN	_	_	_	_	_	_
 31	laudem	_	NOUN	_	_	_	_	_	_
 32	nunc	_	ADV	_	_	_	_	_	_
-33	contra	_	ADP	_	_	_	_	_	_
+33	contra	_	ADV	_	_	_	_	_	_
 34	graii	_	ADJ	_	_	_	_	_	_
 35	sanguinis	_	NOUN	_	_	_	_	_	_
 36	hominem	_	NOUN	_	_	_	_	_	_
@@ -5637,7 +5637,7 @@
 5	nihil	_	PRON	_	_	_	_	_	_
 6	castius	_	ADJ	_	_	_	_	_	_
 7	nec	_	CCONJ	_	_	_	_	_	_
-8	uereor	_	VERB	_	_	_	_	_	_
+8	uereor	_	ADJ	_	_	_	_	_	_
 9	ne	_	SCONJ	_	_	_	_	_	_
 10	ambitione	_	NOUN	_	_	_	_	_	_
 11	id	_	PRON	_	_	_	_	_	_
@@ -5654,8 +5654,8 @@
 3	graecus	_	ADJ	_	_	_	_	_	_
 4	ut	_	SCONJ	_	_	_	_	_	_
 5	dixi	_	VERB	_	_	_	_	_	_
-6	uerum	_	ADJ	_	_	_	_	_	_
-7	quum	_	ADV	_	_	_	_	_	_
+6	uerum	_	CCONJ	_	_	_	_	_	_
+7	quum	_	SCONJ	_	_	_	_	_	_
 8	eius	_	PRON	_	_	_	_	_	_
 9	Theophrastum	_	PROPN	_	_	_	_	_	_
 10	lego	_	VERB	_	_	_	_	_	_
@@ -5676,7 +5676,7 @@
 25	desino	_	VERB	_	_	_	_	_	_
 26	ac	_	CCONJ	_	_	_	_	_	_
 27	dubitare	_	VERB	_	_	_	_	_	_
-28	utrum	_	DET	_	_	_	_	_	_
+28	utrum	_	ADV	_	_	_	_	_	_
 29	incredibilem	_	ADJ	_	_	_	_	_	_
 30	illam	_	DET	_	_	_	_	_	_
 31	uerborum	_	NOUN	_	_	_	_	_	_
@@ -5740,7 +5740,7 @@
 3	iudicio	_	NOUN	_	_	_	_	_	_
 4	quod	_	SCONJ	_	_	_	_	_	_
 5	post	_	ADP	_	_	_	_	_	_
-6	inclinatam	_	ADJ	_	_	_	_	_	_
+6	inclinatam	_	VERB	_	_	_	_	_	_
 7	eloquentiam	_	NOUN	_	_	_	_	_	_
 8	nemo	_	PRON	_	_	_	_	_	_
 9-10	ostenderuntque	_	_	_	_	_	_	_	_
@@ -5827,7 +5827,7 @@
 10	Heptaplo	_	PROPN	_	_	_	_	_	_
 11	uidimus	_	VERB	_	_	_	_	_	_
 12	aut	_	CCONJ	_	_	_	_	_	_
-13	cultius	_	ADJ	_	_	_	_	_	_
+13	cultius	_	ADV	_	_	_	_	_	_
 14	aut	_	CCONJ	_	_	_	_	_	_
 15	elegantius	_	ADJ	_	_	_	_	_	_
 
@@ -5851,7 +5851,7 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-238
 # text = Transeo altissimam eruditionem quae perspicue demonstrat uera esse quae ad nos de eius studii acrimonia iam pridem phama deferuntur contigisse illi adhuc uni quod et recentiorum nemini ut graeca et chaldaea studia romanis iunxerit
-1	Transeo	_	VERB	_	_	_	_	_	_
+1	Transeo	_	PROPN	_	_	_	_	_	_
 2	altissimam	_	ADJ	_	_	_	_	_	_
 3	eruditionem	_	NOUN	_	_	_	_	_	_
 4	quae	_	PRON	_	_	_	_	_	_
@@ -5908,7 +5908,7 @@
 17	et	_	CCONJ	_	_	_	_	_	_
 18	Platina	_	PROPN	_	_	_	_	_	_
 19	uterque	_	DET	_	_	_	_	_	_
-20	ni	_	PART	_	_	_	_	_	_
+20	ni	_	SCONJ	_	_	_	_	_	_
 21	fallor	_	NOUN	_	_	_	_	_	_
 22	Laurentii	_	PROPN	_	_	_	_	_	_
 23	Uallensis	_	PROPN	_	_	_	_	_	_
@@ -5937,10 +5937,10 @@
 19	Panthagatum	_	PROPN	_	_	_	_	_	_
 20	scripsit	_	VERB	_	_	_	_	_	_
 21	quamquam	_	SCONJ	_	_	_	_	_	_
-22	et	_	ADV	_	_	_	_	_	_
+22	et	_	CCONJ	_	_	_	_	_	_
 23	de	_	ADP	_	_	_	_	_	_
 24	arte	_	NOUN	_	_	_	_	_	_
-25	grammatica	_	NOUN	_	_	_	_	_	_
+25	grammatica	_	ADJ	_	_	_	_	_	_
 26	edidit	_	VERB	_	_	_	_	_	_
 27	praecepta	_	NOUN	_	_	_	_	_	_
 28	omnia	_	DET	_	_	_	_	_	_
@@ -5964,7 +5964,7 @@
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-244
 # text = Platinae Historia et quae De honesta uoluptate scripsit omnibus nota sunt extat et Elegantiarum libellus qui eius nomine circumfertur
 1	Platinae	_	PROPN	_	_	_	_	_	_
-2	Historia	_	PROPN	_	_	_	_	_	_
+2	Historia	_	NOUN	_	_	_	_	_	_
 3	et	_	CCONJ	_	_	_	_	_	_
 4	quae	_	PRON	_	_	_	_	_	_
 5	De	_	ADP	_	_	_	_	_	_
@@ -5975,7 +5975,7 @@
 10	nota	_	ADJ	_	_	_	_	_	_
 11	sunt	_	AUX	_	_	_	_	_	_
 12	extat	_	VERB	_	_	_	_	_	_
-13	et	_	ADV	_	_	_	_	_	_
+13	et	_	CCONJ	_	_	_	_	_	_
 14	Elegantiarum	_	PROPN	_	_	_	_	_	_
 15	libellus	_	NOUN	_	_	_	_	_	_
 16	qui	_	PRON	_	_	_	_	_	_
@@ -6012,7 +6012,7 @@
 5	eodem	_	DET	_	_	_	_	_	_
 6	genere	_	NOUN	_	_	_	_	_	_
 7	laudis	_	NOUN	_	_	_	_	_	_
-8	meriti	_	ADJ	_	_	_	_	_	_
+8	meriti	_	VERB	_	_	_	_	_	_
 9	uidentur	_	VERB	_	_	_	_	_	_
 10	Iohannes	_	PROPN	_	_	_	_	_	_
 11	calaber	_	NOUN	_	_	_	_	_	_
@@ -6033,8 +6033,8 @@
 3	Plutarchi	_	PROPN	_	_	_	_	_	_
 4	quaedam	_	DET	_	_	_	_	_	_
 5	in	_	ADP	_	_	_	_	_	_
-6	latinum	_	ADJ	_	_	_	_	_	_
-7	uersa	_	NOUN	_	_	_	_	_	_
+6	latinum	_	NOUN	_	_	_	_	_	_
+7	uersa	_	VERB	_	_	_	_	_	_
 8	gestorum	_	NOUN	_	_	_	_	_	_
 9	Caroli	_	PROPN	_	_	_	_	_	_
 10	qui	_	PRON	_	_	_	_	_	_
@@ -6079,7 +6079,7 @@
 # text = Exciderat mihi Campanus antistes quem siue elegantiam siue dicendi acumen requiras siue candorem potius aut uenustatem rectius uetustis scriptoribus quam recentibus annumeres
 1	Exciderat	_	VERB	_	_	_	_	_	_
 2	mihi	_	PRON	_	_	_	_	_	_
-3	Campanus	_	ADJ	_	_	_	_	_	_
+3	Campanus	_	PROPN	_	_	_	_	_	_
 4	antistes	_	NOUN	_	_	_	_	_	_
 5	quem	_	PRON	_	_	_	_	_	_
 6	siue	_	CCONJ	_	_	_	_	_	_
@@ -6102,7 +6102,7 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-252
 # text = Nec Galeotus narniensis nihil prestitisset si quae scripserat omnino stare contigisset
-1	Nec	_	PROPN	_	_	_	_	_	_
+1	Nec	_	CCONJ	_	_	_	_	_	_
 2	Galeotus	_	PROPN	_	_	_	_	_	_
 3	narniensis	_	ADJ	_	_	_	_	_	_
 4	nihil	_	PRON	_	_	_	_	_	_
@@ -6139,7 +6139,7 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-254
 # text = Caetera neque insulsa neque parum perspicua dixeris
-1	Caetera	_	ADJ	_	_	_	_	_	_
+1	Caetera	_	PROPN	_	_	_	_	_	_
 2	neque	_	CCONJ	_	_	_	_	_	_
 3	insulsa	_	ADJ	_	_	_	_	_	_
 4	neque	_	CCONJ	_	_	_	_	_	_
@@ -6161,7 +6161,7 @@
 10	in	_	ADP	_	_	_	_	_	_
 11	Pontificis	_	PROPN	_	_	_	_	_	_
 12	bibliotheca	_	NOUN	_	_	_	_	_	_
-13	repositum	_	VERB	_	_	_	_	_	_
+13	repositum	_	NOUN	_	_	_	_	_	_
 14	aiunt	_	VERB	_	_	_	_	_	_
 15	cogimur	_	VERB	_	_	_	_	_	_
 16	nondum	_	ADV	_	_	_	_	_	_
@@ -6182,7 +6182,7 @@
 30	opus	_	NOUN	_	_	_	_	_	_
 31	ut	_	SCONJ	_	_	_	_	_	_
 32	parum	_	ADV	_	_	_	_	_	_
-33	elaboratum	_	ADJ	_	_	_	_	_	_
+33	elaboratum	_	VERB	_	_	_	_	_	_
 34	maior	_	ADJ	_	_	_	_	_	_
 35	in	_	ADP	_	_	_	_	_	_
 36	commentando	_	VERB	_	_	_	_	_	_
@@ -6193,7 +6193,7 @@
 1	Nec	_	PROPN	_	_	_	_	_	_
 2	Coriolanus	_	PROPN	_	_	_	_	_	_
 3	Cipicus	_	PROPN	_	_	_	_	_	_
-4	parum	_	NOUN	_	_	_	_	_	_
+4	parum	_	ADV	_	_	_	_	_	_
 5	uno	_	NUM	_	_	_	_	_	_
 6	est	_	AUX	_	_	_	_	_	_
 7	libro	_	NOUN	_	_	_	_	_	_
@@ -6258,7 +6258,7 @@
 33	terra	_	NOUN	_	_	_	_	_	_
 34	litterae	_	NOUN	_	_	_	_	_	_
 35	in	_	ADP	_	_	_	_	_	_
-36	antiquum	_	ADJ	_	_	_	_	_	_
+36	antiquum	_	NOUN	_	_	_	_	_	_
 37	sunt	_	AUX	_	_	_	_	_	_
 38	statum	_	NOUN	_	_	_	_	_	_
 39	restitutae	_	VERB	_	_	_	_	_	_
@@ -6274,7 +6274,7 @@
 49	quippe	_	PART	_	_	_	_	_	_
 50	quem	_	PRON	_	_	_	_	_	_
 51	diu	_	ADV	_	_	_	_	_	_
-52	ante	_	ADP	_	_	_	_	_	_
+52	ante	_	ADV	_	_	_	_	_	_
 53	illius	_	DET	_	_	_	_	_	_
 54	in	_	ADP	_	_	_	_	_	_
 55	Dalmatiam	_	PROPN	_	_	_	_	_	_
@@ -6323,7 +6323,7 @@
 # text = Titi Strotii poemata praeter phamam ipsa pontificis bibliotheca in quam reponi meruerunt praecipue commendat coniecimus quandoque in eam lectionem oculos placuitque maxime elegia
 1	Titi	_	PROPN	_	_	_	_	_	_
 2	Strotii	_	PROPN	_	_	_	_	_	_
-3	poemata	_	VERB	_	_	_	_	_	_
+3	poemata	_	NOUN	_	_	_	_	_	_
 4	praeter	_	ADP	_	_	_	_	_	_
 5	phamam	_	NOUN	_	_	_	_	_	_
 6	ipsa	_	DET	_	_	_	_	_	_
@@ -6498,7 +6498,7 @@
 9	in	_	ADP	_	_	_	_	_	_
 10	forliuiensi	_	ADJ	_	_	_	_	_	_
 11	Fausto	_	PROPN	_	_	_	_	_	_
-12	uerum	_	ADJ	_	_	_	_	_	_
+12	uerum	_	CCONJ	_	_	_	_	_	_
 13	uterque	_	DET	_	_	_	_	_	_
 14	amorum	_	NOUN	_	_	_	_	_	_
 15	cantator	_	NOUN	_	_	_	_	_	_
@@ -6544,7 +6544,7 @@
 4	illa	_	DET	_	_	_	_	_	_
 5	officina	_	NOUN	_	_	_	_	_	_
 6	nihil	_	PRON	_	_	_	_	_	_
-7	depromptum	_	ADJ	_	_	_	_	_	_
+7	depromptum	_	VERB	_	_	_	_	_	_
 8	uidi	_	VERB	_	_	_	_	_	_
 9	ne	_	SCONJ	_	_	_	_	_	_
 10	quid	_	PRON	_	_	_	_	_	_
@@ -6585,7 +6585,7 @@
 4	quas	_	PRON	_	_	_	_	_	_
 5-6	secum	_	_	_	_	_	_	_	_
 5	se	_	PRON	_	_	_	_	_	_
-6	cum	_	ADP	_	_	_	_	_	_
+6	cum	_	SCONJ	_	_	_	_	_	_
 7	ex	_	ADP	_	_	_	_	_	_
 8	Sarmatia	_	PROPN	_	_	_	_	_	_
 9	attulit	_	VERB	_	_	_	_	_	_
@@ -6630,17 +6630,17 @@
 8	aretinum	_	NOUN	_	_	_	_	_	_
 9	et	_	CCONJ	_	_	_	_	_	_
 10	Iouinianum	_	PROPN	_	_	_	_	_	_
-11	parthenopeum	_	ADJ	_	_	_	_	_	_
+11	parthenopeum	_	NOUN	_	_	_	_	_	_
 12	iuuerunt	_	VERB	_	_	_	_	_	_
 13	illi	_	DET	_	_	_	_	_	_
 14	industria	_	NOUN	_	_	_	_	_	_
 15	uterque	_	DET	_	_	_	_	_	_
 16	sua	_	DET	_	_	_	_	_	_
 17	nec	_	CCONJ	_	_	_	_	_	_
-18	multum	_	ADJ	_	_	_	_	_	_
+18	multum	_	ADV	_	_	_	_	_	_
 19	inter	_	ADP	_	_	_	_	_	_
 20	se	_	PRON	_	_	_	_	_	_
-21	diuersa	_	NOUN	_	_	_	_	_	_
+21	diuersa	_	VERB	_	_	_	_	_	_
 22	uerborum	_	NOUN	_	_	_	_	_	_
 23	utriusque	_	DET	_	_	_	_	_	_
 24	linguae	_	NOUN	_	_	_	_	_	_
@@ -6758,18 +6758,18 @@
 34	quia	_	SCONJ	_	_	_	_	_	_
 35	illorum	_	DET	_	_	_	_	_	_
 36	quasi	_	SCONJ	_	_	_	_	_	_
-37	glossemata	_	NOUN	_	_	_	_	_	_
+37	glossemata	_	VERB	_	_	_	_	_	_
 38	quaedam	_	DET	_	_	_	_	_	_
 39	poetarum	_	NOUN	_	_	_	_	_	_
 40	carminibus	_	NOUN	_	_	_	_	_	_
-41	cohaerentia	_	VERB	_	_	_	_	_	_
+41	cohaerentia	_	NOUN	_	_	_	_	_	_
 42	quorum	_	PRON	_	_	_	_	_	_
 43	lectione	_	NOUN	_	_	_	_	_	_
 44	ob	_	ADP	_	_	_	_	_	_
 45	aetatem	_	NOUN	_	_	_	_	_	_
 46	iam	_	ADV	_	_	_	_	_	_
-47	ingrauescentem	_	ADJ	_	_	_	_	_	_
-48	consulto	_	VERB	_	_	_	_	_	_
+47	ingrauescentem	_	VERB	_	_	_	_	_	_
+48	consulto	_	NOUN	_	_	_	_	_	_
 49	abstineo	_	VERB	_	_	_	_	_	_
 50	non	_	PART	_	_	_	_	_	_
 51	habeo	_	VERB	_	_	_	_	_	_
@@ -6834,7 +6834,7 @@
 17	in	_	ADP	_	_	_	_	_	_
 18	ea	_	PRON	_	_	_	_	_	_
 19	materia	_	NOUN	_	_	_	_	_	_
-20	amplius	_	ADJ	_	_	_	_	_	_
+20	amplius	_	ADV	_	_	_	_	_	_
 21	expectare	_	VERB	_	_	_	_	_	_
 22	possitis	_	VERB	_	_	_	_	_	_
 23	est	_	AUX	_	_	_	_	_	_
@@ -6843,7 +6843,7 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-288
 # text = Accuratissimam Prunuli dissertationem incredibilis est assensus secutus laudare omnes in illo immo mirari potius non minus tot uariarum rerum memoriam quam constans et acre iudicium sed quum dicendi finem fecisset deiecissentque omnes in Baptistam Guarini filium oculos nemo non erat qui non aperte intelligeret aut eum unum prouinciam illam aditurum aut alium ex his qui aderant neminem
-1	Accuratissimam	_	PROPN	_	_	_	_	_	_
+1	Accuratissimam	_	ADJ	_	_	_	_	_	_
 2	Prunuli	_	PROPN	_	_	_	_	_	_
 3	dissertationem	_	NOUN	_	_	_	_	_	_
 4	incredibilis	_	ADJ	_	_	_	_	_	_
@@ -6869,7 +6869,7 @@
 24	acre	_	ADJ	_	_	_	_	_	_
 25	iudicium	_	NOUN	_	_	_	_	_	_
 26	sed	_	CCONJ	_	_	_	_	_	_
-27	quum	_	DET	_	_	_	_	_	_
+27	quum	_	SCONJ	_	_	_	_	_	_
 28	dicendi	_	VERB	_	_	_	_	_	_
 29	finem	_	NOUN	_	_	_	_	_	_
 30	fecisset	_	VERB	_	_	_	_	_	_
@@ -6894,7 +6894,7 @@
 48	unum	_	NUM	_	_	_	_	_	_
 49	prouinciam	_	NOUN	_	_	_	_	_	_
 50	illam	_	DET	_	_	_	_	_	_
-51	aditurum	_	VERB	_	_	_	_	_	_
+51	aditurum	_	NOUN	_	_	_	_	_	_
 52	aut	_	CCONJ	_	_	_	_	_	_
 53	alium	_	DET	_	_	_	_	_	_
 54	ex	_	ADP	_	_	_	_	_	_
@@ -6905,7 +6905,7 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-291
 # text = Tum Prunulus iterum orsus ego inquit Baptista uir clarissime non magis Oedipus sum quam terentianus ille Dauus uerum ab initio diuinare libuit fore ut nos duo hanc feruidam coenaremus ollam quandoquidem ad primam rei mentionem omnes in nos ambos ut Graeci olim Achille et aliis ducibus ad Troiam cessantibus in duos Aiaces oculos defixissent at quia nostrum quod in multis esset iudicium audiuere non est dubium quin iam et tuum in his quae restant cupidissime expectent tu uero quando non illis modo qui id tantopere cupiunt audire sed rem mihi etiam facturus sis gratissimam si quae de nouo hoc scribendi genere ad quod multi nostra tempestate omne suum studium adiecere sentias ordine disserueris da operam quaeso ne tot eruditorum hominum expectationem frustratus uideare nec est cur aliquid pares excusare quum ne moram quidem in te ullam ut uideo sint laturi
-1	Tum	_	PROPN	_	_	_	_	_	_
+1	Tum	_	ADV	_	_	_	_	_	_
 2	Prunulus	_	PROPN	_	_	_	_	_	_
 3	iterum	_	ADV	_	_	_	_	_	_
 4	orsus	_	VERB	_	_	_	_	_	_
@@ -6922,7 +6922,7 @@
 15	terentianus	_	ADJ	_	_	_	_	_	_
 16	ille	_	DET	_	_	_	_	_	_
 17	Dauus	_	PROPN	_	_	_	_	_	_
-18	uerum	_	ADJ	_	_	_	_	_	_
+18	uerum	_	CCONJ	_	_	_	_	_	_
 19	ab	_	ADP	_	_	_	_	_	_
 20	initio	_	NOUN	_	_	_	_	_	_
 21	diuinare	_	VERB	_	_	_	_	_	_
@@ -6932,7 +6932,7 @@
 25	nos	_	PRON	_	_	_	_	_	_
 26	duo	_	NUM	_	_	_	_	_	_
 27	hanc	_	DET	_	_	_	_	_	_
-28	feruidam	_	ADJ	_	_	_	_	_	_
+28	feruidam	_	NOUN	_	_	_	_	_	_
 29	coenaremus	_	VERB	_	_	_	_	_	_
 30	ollam	_	NOUN	_	_	_	_	_	_
 31-32	quandoquidem	_	_	_	_	_	_	_	_
@@ -6985,7 +6985,7 @@
 77	expectent	_	VERB	_	_	_	_	_	_
 78	tu	_	PRON	_	_	_	_	_	_
 79	uero	_	CCONJ	_	_	_	_	_	_
-80	quando	_	SCONJ	_	_	_	_	_	_
+80	quando	_	ADV	_	_	_	_	_	_
 81	non	_	PART	_	_	_	_	_	_
 82	illis	_	DET	_	_	_	_	_	_
 83	modo	_	ADV	_	_	_	_	_	_
@@ -7036,7 +7036,7 @@
 128	aliquid	_	PRON	_	_	_	_	_	_
 129	pares	_	ADJ	_	_	_	_	_	_
 130	excusare	_	VERB	_	_	_	_	_	_
-131	quum	_	ADJ	_	_	_	_	_	_
+131	quum	_	SCONJ	_	_	_	_	_	_
 132	ne	_	PART	_	_	_	_	_	_
 133	moram	_	NOUN	_	_	_	_	_	_
 134	quidem	_	PART	_	_	_	_	_	_
@@ -7050,7 +7050,7 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-295
 # text = Assentientibus cunctis hortantibusque ne grauate id praestaret tum ille Prunulum familiariter respiciens effecisti inquit hodie uir doctissime quod ne iniquus quidem fecissit lanista ut prius oplomachum in harenam compuleris quam ad pugnam satis idoneum cognoueris
-1	Assentientibus	_	VERB	_	_	_	_	_	_
+1	Assentientibus	_	PROPN	_	_	_	_	_	_
 2	cunctis	_	DET	_	_	_	_	_	_
 3-4	hortantibusque	_	_	_	_	_	_	_	_
 3	hortantibus	_	VERB	_	_	_	_	_	_
@@ -7068,7 +7068,7 @@
 15	inquit	_	VERB	_	_	_	_	_	_
 16	hodie	_	ADV	_	_	_	_	_	_
 17	uir	_	NOUN	_	_	_	_	_	_
-18	doctissime	_	ADJ	_	_	_	_	_	_
+18	doctissime	_	ADV	_	_	_	_	_	_
 19	quod	_	PRON	_	_	_	_	_	_
 20	ne	_	PART	_	_	_	_	_	_
 21	iniquus	_	ADJ	_	_	_	_	_	_
@@ -7124,7 +7124,7 @@
 32	me	_	PRON	_	_	_	_	_	_
 33	obire	_	VERB	_	_	_	_	_	_
 34	uoluisti	_	VERB	_	_	_	_	_	_
-35	satis	_	ADJ	_	_	_	_	_	_
+35	satis	_	ADV	_	_	_	_	_	_
 36	quidem	_	PART	_	_	_	_	_	_
 37	amice	_	NOUN	_	_	_	_	_	_
 38	sed	_	CCONJ	_	_	_	_	_	_
@@ -7153,7 +7153,7 @@
 61	ciuitate	_	NOUN	_	_	_	_	_	_
 62	esse	_	AUX	_	_	_	_	_	_
 63	ubi	_	SCONJ	_	_	_	_	_	_
-64	aequo	_	ADJ	_	_	_	_	_	_
+64	aequo	_	NOUN	_	_	_	_	_	_
 65	uiuitur	_	VERB	_	_	_	_	_	_
 66	iure	_	NOUN	_	_	_	_	_	_
 67-68	possemque	_	_	_	_	_	_	_	_
@@ -7170,7 +7170,7 @@
 77	ipsum	_	DET	_	_	_	_	_	_
 78	munus	_	NOUN	_	_	_	_	_	_
 79	detrectare	_	VERB	_	_	_	_	_	_
-80	uerum	_	ADJ	_	_	_	_	_	_
+80	uerum	_	CCONJ	_	_	_	_	_	_
 81	quia	_	SCONJ	_	_	_	_	_	_
 82	non	_	PART	_	_	_	_	_	_
 83	te	_	PRON	_	_	_	_	_	_
@@ -7220,7 +7220,7 @@
 # text = BAPTISTAE GUARINI DISSERTATIO
 1	BAPTISTAE	_	PROPN	_	_	_	_	_	_
 2	GUARINI	_	PROPN	_	_	_	_	_	_
-3	DISSERTATIO	_	PROPN	_	_	_	_	_	_
+3	DISSERTATIO	_	NOUN	_	_	_	_	_	_
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-300-bis
 # text = Primum itaque omnium illud quaerendum arbitror uiri amicissimi de quo inter doctos quaeri solere uideo fuerit ne operae precium id facere ut in ueteres poetas quod plerique praestitisse gloriantur commentarios ullos haberemus
@@ -7259,7 +7259,7 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-301
 # text = Nec desunt qui id non solum non laudent sed uituperent etiam maxime negentque in tanta librorum copia quantam paucis annis miranda haec succinctaque imprimendorum librorum ratio peperit curiosiore ulla commentatione studiosis hominibus opus fuisse quippe qui per se omnia si paululum adniti uoluissent rectius explorassent unde eo maior esset profectus secutus quo maiore fide et studio ueterum monumenta euoluere solemus quam recentiorum
-1	Nec	_	CCONJ	_	_	_	_	_	_
+1	Nec	_	PART	_	_	_	_	_	_
 2	desunt	_	VERB	_	_	_	_	_	_
 3	qui	_	PRON	_	_	_	_	_	_
 4	id	_	PRON	_	_	_	_	_	_
@@ -7284,7 +7284,7 @@
 22	miranda	_	VERB	_	_	_	_	_	_
 23	haec	_	DET	_	_	_	_	_	_
 24-25	succinctaque	_	_	_	_	_	_	_	_
-24	succincta	_	VERB	_	_	_	_	_	_
+24	succincta	_	ADJ	_	_	_	_	_	_
 25	que	_	CCONJ	_	_	_	_	_	_
 26	imprimendorum	_	VERB	_	_	_	_	_	_
 27	librorum	_	NOUN	_	_	_	_	_	_
@@ -7309,17 +7309,17 @@
 46	rectius	_	ADV	_	_	_	_	_	_
 47	explorassent	_	VERB	_	_	_	_	_	_
 48	unde	_	SCONJ	_	_	_	_	_	_
-49	eo	_	SCONJ	_	_	_	_	_	_
+49	eo	_	ADV	_	_	_	_	_	_
 50	maior	_	ADJ	_	_	_	_	_	_
 51	esset	_	AUX	_	_	_	_	_	_
-52	profectus	_	VERB	_	_	_	_	_	_
-53	secutus	_	NOUN	_	_	_	_	_	_
+52	profectus	_	NOUN	_	_	_	_	_	_
+53	secutus	_	VERB	_	_	_	_	_	_
 54	quo	_	SCONJ	_	_	_	_	_	_
 55	maiore	_	ADJ	_	_	_	_	_	_
 56	fide	_	NOUN	_	_	_	_	_	_
 57	et	_	CCONJ	_	_	_	_	_	_
 58	studio	_	NOUN	_	_	_	_	_	_
-59	ueterum	_	ADJ	_	_	_	_	_	_
+59	ueterum	_	NOUN	_	_	_	_	_	_
 60	monumenta	_	NOUN	_	_	_	_	_	_
 61	euoluere	_	VERB	_	_	_	_	_	_
 62	solemus	_	VERB	_	_	_	_	_	_
@@ -7347,7 +7347,7 @@
 17	fontibus	_	NOUN	_	_	_	_	_	_
 18	quam	_	SCONJ	_	_	_	_	_	_
 19	riuulis	_	NOUN	_	_	_	_	_	_
-20	hausta	_	ADJ	_	_	_	_	_	_
+20	hausta	_	VERB	_	_	_	_	_	_
 21	adiiciunt	_	VERB	_	_	_	_	_	_
 22	et	_	CCONJ	_	_	_	_	_	_
 23	illud	_	DET	_	_	_	_	_	_
@@ -7426,7 +7426,7 @@
 95	temere	_	ADV	_	_	_	_	_	_
 96	accedunt	_	VERB	_	_	_	_	_	_
 97	tum	_	ADV	_	_	_	_	_	_
-98	uero	_	ADV	_	_	_	_	_	_
+98	uero	_	CCONJ	_	_	_	_	_	_
 99	perdita	_	ADJ	_	_	_	_	_	_
 100	quadam	_	DET	_	_	_	_	_	_
 101	audacia	_	NOUN	_	_	_	_	_	_
@@ -7572,7 +7572,7 @@
 52	quoque	_	ADV	_	_	_	_	_	_
 53	parte	_	NOUN	_	_	_	_	_	_
 54	fuisset	_	AUX	_	_	_	_	_	_
-55	perditis	_	ADJ	_	_	_	_	_	_
+55	perditis	_	VERB	_	_	_	_	_	_
 56	rebus	_	NOUN	_	_	_	_	_	_
 57	opitulata	_	VERB	_	_	_	_	_	_
 58	in	_	ADP	_	_	_	_	_	_
@@ -7597,7 +7597,7 @@
 6	nullo	_	DET	_	_	_	_	_	_
 7	aut	_	CCONJ	_	_	_	_	_	_
 8	a	_	ADP	_	_	_	_	_	_
-9	quam	_	ADV	_	_	_	_	_	_
+9	quam	_	SCONJ	_	_	_	_	_	_
 10	paucissimis	_	ADJ	_	_	_	_	_	_
 11	intelligerentur	_	VERB	_	_	_	_	_	_
 12	quod	_	SCONJ	_	_	_	_	_	_
@@ -7650,7 +7650,7 @@
 15	receptos	_	VERB	_	_	_	_	_	_
 16	uidissemus	_	VERB	_	_	_	_	_	_
 17	nisi	_	SCONJ	_	_	_	_	_	_
-18	et	_	ADV	_	_	_	_	_	_
+18	et	_	CCONJ	_	_	_	_	_	_
 19	ciuitatis	_	NOUN	_	_	_	_	_	_
 20	iura	_	NOUN	_	_	_	_	_	_
 21	recepissent	_	VERB	_	_	_	_	_	_
@@ -7667,8 +7667,8 @@
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-319
 # text = Uerum quum multi sint quibus hoc nomine debere uelimus cui plus oporteat quam Domitio ueronensi meo municipi haud facile reperto quippe cui quemadmodum Prunulus modo laurentianis studiis emendatissimam hanc loquendi rationem ita praecipuam poetarum ueterumque scriptorum enarrationem audeo ascribere
 1	Uerum	_	PROPN	_	_	_	_	_	_
-2	quum	_	ADV	_	_	_	_	_	_
-3	multi	_	ADJ	_	_	_	_	_	_
+2	quum	_	SCONJ	_	_	_	_	_	_
+3	multi	_	NOUN	_	_	_	_	_	_
 4	sint	_	AUX	_	_	_	_	_	_
 5	quibus	_	PRON	_	_	_	_	_	_
 6	hoc	_	DET	_	_	_	_	_	_
@@ -7711,7 +7711,7 @@
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-320
 # text = Nam praeterquam quod multiplices et uarios edidit commentarios in Ualerium Martialem Papinii Syluas Iuuenalem Sappho Propertium Ibim iam et in Silium Italicum et in Ciceronis ad Atticum epistolas utpote iam paratos ut ipse in quadam testatur epistola edere maturabat coeperat ad haec Pausaniam in latinum uertere quum immatura est morte praeuentus et quod omnium maxime nostris studiis calamitosum fuit quartum Obseruationum librum habebat in manibus quod opus eius interitu interceptum in occulto adhuc est
 1	Nam	_	PART	_	_	_	_	_	_
-2	praeterquam	_	VERB	_	_	_	_	_	_
+2	praeterquam	_	ADV	_	_	_	_	_	_
 3	quod	_	SCONJ	_	_	_	_	_	_
 4	multiplices	_	ADJ	_	_	_	_	_	_
 5	et	_	CCONJ	_	_	_	_	_	_
@@ -7756,7 +7756,7 @@
 44	in	_	ADP	_	_	_	_	_	_
 45	latinum	_	NOUN	_	_	_	_	_	_
 46	uertere	_	VERB	_	_	_	_	_	_
-47	quum	_	ADV	_	_	_	_	_	_
+47	quum	_	SCONJ	_	_	_	_	_	_
 48	immatura	_	ADJ	_	_	_	_	_	_
 49	est	_	AUX	_	_	_	_	_	_
 50	morte	_	NOUN	_	_	_	_	_	_
@@ -7789,17 +7789,17 @@
 # text = Uidimus earum Obseruationum quasdam illius scriptis quasi flosculos inspersas quas ille ideo indice nobiles fecerat ut in maiorem suscepti operis expectationem studiosos erigeret sed quo maior fuit expectatio illa eo certe lugubrior frustratio desideriumque defuncti maius
 1	Uidimus	_	VERB	_	_	_	_	_	_
 2	earum	_	PRON	_	_	_	_	_	_
-3	Obseruationum	_	PROPN	_	_	_	_	_	_
+3	Obseruationum	_	NOUN	_	_	_	_	_	_
 4	quasdam	_	DET	_	_	_	_	_	_
 5	illius	_	DET	_	_	_	_	_	_
-6	scriptis	_	NOUN	_	_	_	_	_	_
+6	scriptis	_	VERB	_	_	_	_	_	_
 7	quasi	_	SCONJ	_	_	_	_	_	_
 8	flosculos	_	NOUN	_	_	_	_	_	_
 9	inspersas	_	VERB	_	_	_	_	_	_
 10	quas	_	PRON	_	_	_	_	_	_
 11	ille	_	DET	_	_	_	_	_	_
 12	ideo	_	ADV	_	_	_	_	_	_
-13	indice	_	VERB	_	_	_	_	_	_
+13	indice	_	NOUN	_	_	_	_	_	_
 14	nobiles	_	ADJ	_	_	_	_	_	_
 15	fecerat	_	VERB	_	_	_	_	_	_
 16	ut	_	SCONJ	_	_	_	_	_	_
@@ -7818,7 +7818,7 @@
 29	illa	_	DET	_	_	_	_	_	_
 30	eo	_	ADV	_	_	_	_	_	_
 31	certe	_	ADV	_	_	_	_	_	_
-32	lugubrior	_	ADJ	_	_	_	_	_	_
+32	lugubrior	_	ADV	_	_	_	_	_	_
 33	frustratio	_	NOUN	_	_	_	_	_	_
 34-35	desideriumque	_	_	_	_	_	_	_	_
 34	desiderium	_	NOUN	_	_	_	_	_	_
@@ -7983,7 +7983,7 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-327
 # text = Nec me fugit esse omnino aliqua in eius scriptis quae praecipitata potius uideri possint quam edita sed simultas et aemulatio duo acres stimuli illum ad eorum quae scribebantur immaturam compulerunt editionem
-1	Nec	_	CCONJ	_	_	_	_	_	_
+1	Nec	_	PART	_	_	_	_	_	_
 2	me	_	PRON	_	_	_	_	_	_
 3	fugit	_	VERB	_	_	_	_	_	_
 4	esse	_	AUX	_	_	_	_	_	_
@@ -8100,7 +8100,7 @@
 24	hac	_	DET	_	_	_	_	_	_
 25	urbe	_	NOUN	_	_	_	_	_	_
 26	nunc	_	ADV	_	_	_	_	_	_
-27	constans	_	ADJ	_	_	_	_	_	_
+27	constans	_	VERB	_	_	_	_	_	_
 28	phama	_	NOUN	_	_	_	_	_	_
 29	est	_	AUX	_	_	_	_	_	_
 30	animum	_	NOUN	_	_	_	_	_	_
@@ -8112,7 +8112,7 @@
 36	uidendae	_	VERB	_	_	_	_	_	_
 37	expectationem	_	NOUN	_	_	_	_	_	_
 38	iam	_	ADV	_	_	_	_	_	_
-39	multos	_	ADJ	_	_	_	_	_	_
+39	multos	_	NOUN	_	_	_	_	_	_
 40	frequentia	_	NOUN	_	_	_	_	_	_
 41	litterarum	_	NOUN	_	_	_	_	_	_
 42	ad	_	ADP	_	_	_	_	_	_
@@ -8126,10 +8126,10 @@
 3	num	_	PART	_	_	_	_	_	_
 4	et	_	ADV	_	_	_	_	_	_
 5	Paulus	_	PROPN	_	_	_	_	_	_
-6	piscinensis	_	NOUN	_	_	_	_	_	_
+6	piscinensis	_	ADJ	_	_	_	_	_	_
 7	cognomento	_	NOUN	_	_	_	_	_	_
 8	Marsus	_	PROPN	_	_	_	_	_	_
-9	parum	_	NOUN	_	_	_	_	_	_
+9	parum	_	ADV	_	_	_	_	_	_
 10	praestitisse	_	VERB	_	_	_	_	_	_
 11	uidetur	_	VERB	_	_	_	_	_	_
 12	qui	_	PRON	_	_	_	_	_	_
@@ -8147,11 +8147,11 @@
 # text = quid in poetices apparatum dici potest quod ille legentium oculis non subiecerit ut ausim propemodum affirmare plus illius lectionem quam Nasonis cuius se interpretem exhibuit ad eruditionem conferre
 1	quid	_	PRON	_	_	_	_	_	_
 2	in	_	ADP	_	_	_	_	_	_
-3	poetices	_	ADJ	_	_	_	_	_	_
+3	poetices	_	NOUN	_	_	_	_	_	_
 4	apparatum	_	NOUN	_	_	_	_	_	_
 5	dici	_	VERB	_	_	_	_	_	_
 6	potest	_	VERB	_	_	_	_	_	_
-7	quod	_	SCONJ	_	_	_	_	_	_
+7	quod	_	PRON	_	_	_	_	_	_
 8	ille	_	DET	_	_	_	_	_	_
 9	legentium	_	VERB	_	_	_	_	_	_
 10	oculis	_	NOUN	_	_	_	_	_	_
@@ -8161,7 +8161,7 @@
 14	ausim	_	VERB	_	_	_	_	_	_
 15	propemodum	_	ADV	_	_	_	_	_	_
 16	affirmare	_	VERB	_	_	_	_	_	_
-17	plus	_	ADV	_	_	_	_	_	_
+17	plus	_	ADJ	_	_	_	_	_	_
 18	illius	_	DET	_	_	_	_	_	_
 19	lectionem	_	NOUN	_	_	_	_	_	_
 20	quam	_	SCONJ	_	_	_	_	_	_
@@ -8186,12 +8186,12 @@
 8	maiore	_	ADJ	_	_	_	_	_	_
 9	admiratione	_	NOUN	_	_	_	_	_	_
 10	digna	_	ADJ	_	_	_	_	_	_
-11	quo	_	SCONJ	_	_	_	_	_	_
+11	quo	_	PRON	_	_	_	_	_	_
 12	natura	_	NOUN	_	_	_	_	_	_
 13	illa	_	DET	_	_	_	_	_	_
 14	ad	_	ADP	_	_	_	_	_	_
 15	carmen	_	NOUN	_	_	_	_	_	_
-16	multo	_	ADJ	_	_	_	_	_	_
+16	multo	_	ADV	_	_	_	_	_	_
 17	quam	_	SCONJ	_	_	_	_	_	_
 18	ad	_	ADP	_	_	_	_	_	_
 19	pedestrem	_	ADJ	_	_	_	_	_	_
@@ -8233,7 +8233,7 @@
 55	multo	_	ADV	_	_	_	_	_	_
 56	plura	_	ADJ	_	_	_	_	_	_
 57	eius	_	PRON	_	_	_	_	_	_
-58	conterraneus	_	ADJ	_	_	_	_	_	_
+58	conterraneus	_	NOUN	_	_	_	_	_	_
 59	Petrus	_	PROPN	_	_	_	_	_	_
 60	Marsus	_	PROPN	_	_	_	_	_	_
 61	cesensis	_	VERB	_	_	_	_	_	_
@@ -8265,7 +8265,7 @@
 6	commentarii	_	NOUN	_	_	_	_	_	_
 7	multa	_	ADJ	_	_	_	_	_	_
 8	eruditione	_	NOUN	_	_	_	_	_	_
-9	referti	_	ADJ	_	_	_	_	_	_
+9	referti	_	VERB	_	_	_	_	_	_
 10	sed	_	CCONJ	_	_	_	_	_	_
 11	longe	_	ADV	_	_	_	_	_	_
 12	utiliora	_	ADJ	_	_	_	_	_	_
@@ -8280,7 +8280,7 @@
 21	auditorem	_	NOUN	_	_	_	_	_	_
 22	agnoscas	_	VERB	_	_	_	_	_	_
 23	et	_	CCONJ	_	_	_	_	_	_
-24	quod	_	SCONJ	_	_	_	_	_	_
+24	quod	_	PRON	_	_	_	_	_	_
 25	plus	_	ADJ	_	_	_	_	_	_
 26	est	_	AUX	_	_	_	_	_	_
 27	propemodum	_	ADV	_	_	_	_	_	_
@@ -8324,7 +8324,7 @@
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-345
 # text = Pari pene laude nominandi sunt Cyllenius et Partenius ueronensis Catulli hic ille Tibulli interpres sed alter ciuica ut sic dicam corona pene dignus qui ciuem seruarit suum seruauit enim quem multis nodis uinctum soluerat
 1	Pari	_	PROPN	_	_	_	_	_	_
-2	pene	_	ADP	_	_	_	_	_	_
+2	pene	_	ADV	_	_	_	_	_	_
 3	laude	_	NOUN	_	_	_	_	_	_
 4	nominandi	_	VERB	_	_	_	_	_	_
 5	sunt	_	AUX	_	_	_	_	_	_
@@ -8336,7 +8336,7 @@
 11	hic	_	DET	_	_	_	_	_	_
 12	ille	_	DET	_	_	_	_	_	_
 13	Tibulli	_	PROPN	_	_	_	_	_	_
-14	interpres	_	NOUN	_	_	_	_	_	_
+14	interpres	_	VERB	_	_	_	_	_	_
 15	sed	_	CCONJ	_	_	_	_	_	_
 16	alter	_	DET	_	_	_	_	_	_
 17	ciuica	_	ADJ	_	_	_	_	_	_
@@ -8395,7 +8395,7 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-348
 # text = Nec excidit mihi florentinae Academiae decus maximum Christophorus Landinus cuius dicendi copia uulgo ut uideo probatur accusatur tamen in quibusdam ut parum diligens tanquam plane constet ea illum non praestare quae aut incuria aut consulto praeteriit uelles ad haec beatissimam illam dicendi facultatem ad maiorem usum comparatam quam ut imperitae multitudini seruire uoluisset
-1	Nec	_	CCONJ	_	_	_	_	_	_
+1	Nec	_	PART	_	_	_	_	_	_
 2	excidit	_	VERB	_	_	_	_	_	_
 3	mihi	_	PRON	_	_	_	_	_	_
 4	florentinae	_	ADJ	_	_	_	_	_	_
@@ -8581,7 +8581,7 @@
 81	est	_	AUX	_	_	_	_	_	_
 82	ea	_	PRON	_	_	_	_	_	_
 83	natura	_	NOUN	_	_	_	_	_	_
-84	uberius	_	ADJ	_	_	_	_	_	_
+84	uberius	_	ADV	_	_	_	_	_	_
 85	nihil	_	PRON	_	_	_	_	_	_
 86	ad	_	ADP	_	_	_	_	_	_
 87	omnes	_	DET	_	_	_	_	_	_
@@ -8593,7 +8593,7 @@
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-357
 # text = Fontius et ipse non parum in Persio meruit sed illius orationes maiore quodam fauore excipiuntur
 1	Fontius	_	PROPN	_	_	_	_	_	_
-2	et	_	CCONJ	_	_	_	_	_	_
+2	et	_	ADV	_	_	_	_	_	_
 3	ipse	_	DET	_	_	_	_	_	_
 4	non	_	PART	_	_	_	_	_	_
 5	parum	_	ADV	_	_	_	_	_	_
@@ -8641,7 +8641,7 @@
 28	tractauerit	_	VERB	_	_	_	_	_	_
 29	uelles	_	VERB	_	_	_	_	_	_
 30	et	_	CCONJ	_	_	_	_	_	_
-31	poeticae	_	ADJ	_	_	_	_	_	_
+31	poeticae	_	NOUN	_	_	_	_	_	_
 32	uacasse	_	VERB	_	_	_	_	_	_
 33	nihil	_	PRON	_	_	_	_	_	_
 34	eius	_	PRON	_	_	_	_	_	_
@@ -8696,7 +8696,7 @@
 44	dicendi	_	VERB	_	_	_	_	_	_
 45	uirtutes	_	NOUN	_	_	_	_	_	_
 46	parum	_	ADV	_	_	_	_	_	_
-47	intellectae	_	VERB	_	_	_	_	_	_
+47	intellectae	_	ADJ	_	_	_	_	_	_
 48	quae	_	PRON	_	_	_	_	_	_
 49	res	_	NOUN	_	_	_	_	_	_
 50	in	_	ADP	_	_	_	_	_	_
@@ -8717,11 +8717,11 @@
 65	at	_	CCONJ	_	_	_	_	_	_
 66	nunc	_	ADV	_	_	_	_	_	_
 67	communis	_	ADJ	_	_	_	_	_	_
-68	facta	_	NOUN	_	_	_	_	_	_
+68	facta	_	VERB	_	_	_	_	_	_
 69	et	_	CCONJ	_	_	_	_	_	_
 70	in	_	ADP	_	_	_	_	_	_
 71	qua	_	PRON	_	_	_	_	_	_
-72	adolescentes	_	NOUN	_	_	_	_	_	_
+72	adolescentes	_	VERB	_	_	_	_	_	_
 73	uelut	_	SCONJ	_	_	_	_	_	_
 74	in	_	ADP	_	_	_	_	_	_
 75	primo	_	ADJ	_	_	_	_	_	_
@@ -8754,16 +8754,16 @@
 15	que	_	CCONJ	_	_	_	_	_	_
 16	eleganter	_	ADV	_	_	_	_	_	_
 17	est	_	AUX	_	_	_	_	_	_
-18	commentus	_	VERB	_	_	_	_	_	_
+18	commentus	_	NOUN	_	_	_	_	_	_
 19	sed	_	CCONJ	_	_	_	_	_	_
-20	neuter	_	DET	_	_	_	_	_	_
+20	neuter	_	ADV	_	_	_	_	_	_
 21	omnia	_	DET	_	_	_	_	_	_
 22	uidit	_	VERB	_	_	_	_	_	_
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-364
 # text = Iohannes Britannicus brixianus et ipse in Achillem Papinii et in Persium commentarios elegantissime conscriptos edidit
 1	Iohannes	_	PROPN	_	_	_	_	_	_
-2	Britannicus	_	PROPN	_	_	_	_	_	_
+2	Britannicus	_	ADJ	_	_	_	_	_	_
 3	brixianus	_	ADJ	_	_	_	_	_	_
 4	et	_	CCONJ	_	_	_	_	_	_
 5	ipse	_	DET	_	_	_	_	_	_
@@ -8791,7 +8791,7 @@
 9	Fastorum	_	PROPN	_	_	_	_	_	_
 10	libros	_	NOUN	_	_	_	_	_	_
 11	expectatio	_	NOUN	_	_	_	_	_	_
-12	et	_	CCONJ	_	_	_	_	_	_
+12	et	_	ADV	_	_	_	_	_	_
 13	si	_	SCONJ	_	_	_	_	_	_
 14	poeta	_	NOUN	_	_	_	_	_	_
 15	hic	_	DET	_	_	_	_	_	_
@@ -8810,7 +8810,7 @@
 1	Sunt	_	AUX	_	_	_	_	_	_
 2	adhuc	_	ADV	_	_	_	_	_	_
 3	non	_	PART	_	_	_	_	_	_
-4	pauci	_	ADJ	_	_	_	_	_	_
+4	pauci	_	NOUN	_	_	_	_	_	_
 5	quos	_	PRON	_	_	_	_	_	_
 6	de	_	ADP	_	_	_	_	_	_
 7	industria	_	NOUN	_	_	_	_	_	_
@@ -8854,7 +8854,7 @@
 44	uiri	_	NOUN	_	_	_	_	_	_
 45	clarissimi	_	ADJ	_	_	_	_	_	_
 46	quos	_	PRON	_	_	_	_	_	_
-47	tanquam	_	VERB	_	_	_	_	_	_
+47	tanquam	_	ADV	_	_	_	_	_	_
 48	hominum	_	NOUN	_	_	_	_	_	_
 49	flores	_	NOUN	_	_	_	_	_	_
 50	non	_	PART	_	_	_	_	_	_
@@ -8919,7 +8919,7 @@
 109	ex	_	ADP	_	_	_	_	_	_
 110	aliqua	_	PRON	_	_	_	_	_	_
 111	potius	_	ADV	_	_	_	_	_	_
-112	ueterum	_	ADJ	_	_	_	_	_	_
+112	ueterum	_	NOUN	_	_	_	_	_	_
 113	officina	_	NOUN	_	_	_	_	_	_
 114	depromptum	_	VERB	_	_	_	_	_	_
 
@@ -8948,7 +8948,7 @@
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-372
 # text = Talem profecto ac nescio an maiorem Florentia nunc habet quem Politianum studiosi appellant
 1	Talem	_	DET	_	_	_	_	_	_
-2	profecto	_	VERB	_	_	_	_	_	_
+2	profecto	_	ADV	_	_	_	_	_	_
 3	ac	_	CCONJ	_	_	_	_	_	_
 4	nescio	_	VERB	_	_	_	_	_	_
 5	an	_	PART	_	_	_	_	_	_
@@ -8958,7 +8958,7 @@
 9	habet	_	VERB	_	_	_	_	_	_
 10	quem	_	PRON	_	_	_	_	_	_
 11	Politianum	_	PROPN	_	_	_	_	_	_
-12	studiosi	_	ADJ	_	_	_	_	_	_
+12	studiosi	_	ADV	_	_	_	_	_	_
 13	appellant	_	VERB	_	_	_	_	_	_
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-373
@@ -9092,7 +9092,7 @@
 # text = Age nunc et Patauium reuersus quid Calphurnio brixiensi copiosius quidue eruditius
 1	Age	_	PROPN	_	_	_	_	_	_
 2	nunc	_	ADV	_	_	_	_	_	_
-3	et	_	ADV	_	_	_	_	_	_
+3	et	_	CCONJ	_	_	_	_	_	_
 4	Patauium	_	PROPN	_	_	_	_	_	_
 5	reuersus	_	VERB	_	_	_	_	_	_
 6	quid	_	PRON	_	_	_	_	_	_
@@ -9101,7 +9101,7 @@
 9	copiosius	_	ADJ	_	_	_	_	_	_
 10-11	quidue	_	_	_	_	_	_	_	_
 10	quid	_	PRON	_	_	_	_	_	_
-11	ue	_	ADV	_	_	_	_	_	_
+11	ue	_	CCONJ	_	_	_	_	_	_
 12	eruditius	_	ADJ	_	_	_	_	_	_
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-381
@@ -9164,7 +9164,7 @@
 14	facile	_	ADV	_	_	_	_	_	_
 15	perspicio	_	VERB	_	_	_	_	_	_
 16	una	_	NUM	_	_	_	_	_	_
-17	uel	_	ADV	_	_	_	_	_	_
+17	uel	_	CCONJ	_	_	_	_	_	_
 18	breui	_	ADJ	_	_	_	_	_	_
 19	meditatione	_	NOUN	_	_	_	_	_	_
 20	qua	_	PRON	_	_	_	_	_	_
@@ -9189,7 +9189,7 @@
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-386
 # text = Sequuntur pleriqui alii Ioannes ariminensis Cipicus Coriolani filius duo Cynthii anconitanus hic ille cenetensis Iosephus uicentinus Palladius Niger Io marosticanus Cantalicus Lepidus Pyerius et alii multi qui in communem usum assidue aliquid cudere dicuntur
 1	Sequuntur	_	VERB	_	_	_	_	_	_
-2	pleriqui	_	NOUN	_	_	_	_	_	_
+2	pleriqui	_	ADV	_	_	_	_	_	_
 3	alii	_	DET	_	_	_	_	_	_
 4	Ioannes	_	PROPN	_	_	_	_	_	_
 5	ariminensis	_	ADJ	_	_	_	_	_	_
@@ -9203,7 +9203,7 @@
 13	ille	_	DET	_	_	_	_	_	_
 14	cenetensis	_	ADJ	_	_	_	_	_	_
 15	Iosephus	_	PROPN	_	_	_	_	_	_
-16	uicentinus	_	NOUN	_	_	_	_	_	_
+16	uicentinus	_	ADJ	_	_	_	_	_	_
 17	Palladius	_	PROPN	_	_	_	_	_	_
 18	Niger	_	PROPN	_	_	_	_	_	_
 19	Io	_	PROPN	_	_	_	_	_	_
@@ -9236,7 +9236,7 @@
 9	nimis	_	ADV	_	_	_	_	_	_
 10	longus	_	ADJ	_	_	_	_	_	_
 11	uideatur	_	VERB	_	_	_	_	_	_
-12	consulto	_	VERB	_	_	_	_	_	_
+12	consulto	_	NOUN	_	_	_	_	_	_
 13	praetereo	_	VERB	_	_	_	_	_	_
 14	quamquam	_	SCONJ	_	_	_	_	_	_
 15	multi	_	NOUN	_	_	_	_	_	_
@@ -9278,7 +9278,7 @@
 12	uulgo	_	ADV	_	_	_	_	_	_
 13	leguntur	_	VERB	_	_	_	_	_	_
 14	quos	_	PRON	_	_	_	_	_	_
-15	consulto	_	VERB	_	_	_	_	_	_
+15	consulto	_	NOUN	_	_	_	_	_	_
 16	Prunulum	_	PROPN	_	_	_	_	_	_
 17	suppressisse	_	VERB	_	_	_	_	_	_
 18	suspicari	_	VERB	_	_	_	_	_	_
@@ -9392,7 +9392,7 @@
 41	oderunt	_	VERB	_	_	_	_	_	_
 42	illam	_	DET	_	_	_	_	_	_
 43	atque	_	CCONJ	_	_	_	_	_	_
-44	irati	_	ADJ	_	_	_	_	_	_
+44	irati	_	NOUN	_	_	_	_	_	_
 45	satagunt	_	VERB	_	_	_	_	_	_
 46	simul	_	ADV	_	_	_	_	_	_
 47	omnia	_	DET	_	_	_	_	_	_
@@ -9477,7 +9477,7 @@
 9	nostrum	_	DET	_	_	_	_	_	_
 10	non	_	PART	_	_	_	_	_	_
 11	faciunt	_	VERB	_	_	_	_	_	_
-12	institutum	_	VERB	_	_	_	_	_	_
+12	institutum	_	NOUN	_	_	_	_	_	_
 13	nihil	_	PRON	_	_	_	_	_	_
 14	attinet	_	VERB	_	_	_	_	_	_
 15	dicere	_	VERB	_	_	_	_	_	_
@@ -9532,9 +9532,9 @@
 9	aetates	_	NOUN	_	_	_	_	_	_
 10	illius	_	DET	_	_	_	_	_	_
 11	ceperunt	_	VERB	_	_	_	_	_	_
-12	incrementa	_	VERB	_	_	_	_	_	_
+12	incrementa	_	NOUN	_	_	_	_	_	_
 13	nunc	_	ADV	_	_	_	_	_	_
-14	pauci	_	ADJ	_	_	_	_	_	_
+14	pauci	_	NOUN	_	_	_	_	_	_
 15	admodum	_	ADV	_	_	_	_	_	_
 16	paucioribus	_	ADJ	_	_	_	_	_	_
 17	annis	_	NOUN	_	_	_	_	_	_
@@ -9626,10 +9626,10 @@
 28	praeter	_	ADP	_	_	_	_	_	_
 29	litterarum	_	NOUN	_	_	_	_	_	_
 30	decus	_	NOUN	_	_	_	_	_	_
-31	reliquum	_	ADJ	_	_	_	_	_	_
+31	reliquum	_	NOUN	_	_	_	_	_	_
 32	fortuna	_	NOUN	_	_	_	_	_	_
 33	fecerat	_	VERB	_	_	_	_	_	_
-34	qua	_	SCONJ	_	_	_	_	_	_
+34	qua	_	PRON	_	_	_	_	_	_
 35	maiore	_	ADJ	_	_	_	_	_	_
 36	clade	_	NOUN	_	_	_	_	_	_
 37	affici	_	VERB	_	_	_	_	_	_
@@ -9666,7 +9666,7 @@
 7	opera	_	NOUN	_	_	_	_	_	_
 8	res	_	NOUN	_	_	_	_	_	_
 9	in	_	ADP	_	_	_	_	_	_
-10	integrum	_	ADJ	_	_	_	_	_	_
+10	integrum	_	NOUN	_	_	_	_	_	_
 11	esset	_	AUX	_	_	_	_	_	_
 12	restituta	_	VERB	_	_	_	_	_	_
 
@@ -9775,11 +9775,11 @@
 37	meritos	_	ADJ	_	_	_	_	_	_
 38	qui	_	PRON	_	_	_	_	_	_
 39	ex	_	ADP	_	_	_	_	_	_
-40	humanis	_	ADJ	_	_	_	_	_	_
+40	humanis	_	NOUN	_	_	_	_	_	_
 41	decessere	_	VERB	_	_	_	_	_	_
 42	pia	_	ADJ	_	_	_	_	_	_
 43	memoria	_	NOUN	_	_	_	_	_	_
-44	uiuos	_	ADJ	_	_	_	_	_	_
+44	uiuos	_	NOUN	_	_	_	_	_	_
 45	omni	_	DET	_	_	_	_	_	_
 46	officio	_	NOUN	_	_	_	_	_	_
 47	humanitatis	_	NOUN	_	_	_	_	_	_
@@ -9839,7 +9839,7 @@
 11	auctoritate	_	NOUN	_	_	_	_	_	_
 12	et	_	CCONJ	_	_	_	_	_	_
 13	iudicio	_	NOUN	_	_	_	_	_	_
-14	praediti	_	ADJ	_	_	_	_	_	_
+14	praediti	_	VERB	_	_	_	_	_	_
 15	illi	_	DET	_	_	_	_	_	_
 16	a	_	ADP	_	_	_	_	_	_
 17	quibus	_	PRON	_	_	_	_	_	_
@@ -9848,7 +9848,7 @@
 20	et	_	CCONJ	_	_	_	_	_	_
 21	a	_	ADP	_	_	_	_	_	_
 22	pluribus	_	ADJ	_	_	_	_	_	_
-23	doctis	_	ADJ	_	_	_	_	_	_
+23	doctis	_	NOUN	_	_	_	_	_	_
 24	tum	_	ADV	_	_	_	_	_	_
 25	quoque	_	ADV	_	_	_	_	_	_
 26	laudata	_	VERB	_	_	_	_	_	_
@@ -9868,7 +9868,7 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-414
 # text = EPISTOLA AD ANTONIO MORETTO
-1	EPISTOLA	_	NOUN	_	_	_	_	_	_
+1	EPISTOLA	_	PROPN	_	_	_	_	_	_
 2	AD	_	ADP	_	_	_	_	_	_
 3	ANTONIO	_	PROPN	_	_	_	_	_	_
 4	MORETTO	_	PROPN	_	_	_	_	_	_
@@ -9892,12 +9892,12 @@
 5	reparatione	_	NOUN	_	_	_	_	_	_
 6	quem	_	PRON	_	_	_	_	_	_
 7	toties	_	DET	_	_	_	_	_	_
-8	efflagitasti	_	VERB	_	_	_	_	_	_
+8	efflagitasti	_	NOUN	_	_	_	_	_	_
 9	misi	_	VERB	_	_	_	_	_	_
 10	tandem	_	ADV	_	_	_	_	_	_
 11	Morete	_	PROPN	_	_	_	_	_	_
 12	uir	_	NOUN	_	_	_	_	_	_
-13	humanissime	_	ADJ	_	_	_	_	_	_
+13	humanissime	_	ADV	_	_	_	_	_	_
 14	nec	_	CCONJ	_	_	_	_	_	_
 15	aliud	_	DET	_	_	_	_	_	_
 16	fuit	_	AUX	_	_	_	_	_	_
@@ -9908,7 +9908,7 @@
 
 # sent_id = Sabellicus_DeLatinaeLinguaeReparatione-417
 # text = Sciebam ego in celebri emporio homini negocioso uix tantum ocii dari ut tris de situ urbis libros unumque de praetoris officio quos tibi cognoscendos tradidi tam breui perlegeres sed tu contentus credo illorum indicibus ut es in eos qui sacra colunt litterarum egregie offìciosus ad hanc anhelabas lectionem quae illustrium uirorum laudem contineret
-1	Sciebam	_	PROPN	_	_	_	_	_	_
+1	Sciebam	_	VERB	_	_	_	_	_	_
 2	ego	_	PRON	_	_	_	_	_	_
 3	in	_	ADP	_	_	_	_	_	_
 4	celebri	_	ADJ	_	_	_	_	_	_
@@ -9979,13 +9979,13 @@
 11	tua	_	DET	_	_	_	_	_	_
 12	opera	_	NOUN	_	_	_	_	_	_
 13	uelut	_	SCONJ	_	_	_	_	_	_
-14	implumes	_	ADJ	_	_	_	_	_	_
-15	pullos	_	ADJ	_	_	_	_	_	_
+14	implumes	_	VERB	_	_	_	_	_	_
+15	pullos	_	NOUN	_	_	_	_	_	_
 16	ex	_	ADP	_	_	_	_	_	_
 17	eodem	_	DET	_	_	_	_	_	_
 18	nido	_	NOUN	_	_	_	_	_	_
 19	deuolasse	_	VERB	_	_	_	_	_	_
-20	quare	_	ADV	_	_	_	_	_	_
+20	quare	_	CCONJ	_	_	_	_	_	_
 21	magnopere	_	ADV	_	_	_	_	_	_
 22	abs	_	ADP	_	_	_	_	_	_
 23	te	_	PRON	_	_	_	_	_	_
