@@ -1,6 +1,6 @@
 # Latin_POS_tagger
 ## Introduction
-This project focuses on developing a Part-of-Speech (POS) tagging system for Ancient Latin. The system is inspired by the approach used by the winning team in the EvaLatin 2022 challenge and aims to utilize the XML-RoBERTa base model for high-quality POS tagging in Latin texts.
+This project focuses on developing a Part-of-Speech (POS) tagging system for Ancient Latin. The system is inspired by the [approach](https://aclanthology.org/2022.lt4hala-1.31.pdf) used by the winning team in the EvaLatin 2022 challenge and aims to utilize the XML-RoBERTa base model for high-quality POS tagging in Latin texts.
 
 ## Getting Started
 The repository includes two versions of the main script. The first is a Jupyter notebook adapted for use with Google Colab. To run this version, ensure that you mount your Google Drive and update the path variables to reflect your personalized directory structure before executing the script. The second version is a Python script that reads data from local files. In this case, make sure to fill in the path variables with your local file paths before running the script.
